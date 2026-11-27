@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="zh-CN">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>世界城市 · 交互地球</title>
+<style>
+:root{color-scheme:dark;--bg:#0a131d;--panel:#132532;--ink:#e8f4f6;--muted:#9db4c1;--line:#2e4350;--accent:#67e0b9}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:14px/1.55 system-ui,sans-serif}main{max-width:1600px;margin:auto;padding:clamp(14px,3vw,32px)}header{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap}h1{font-size:clamp(22px,3vw,32px);margin:0}#stats,#count,#reference,footer{color:var(--muted)}#count{margin-left:10px}#rate{font-size:24px;font-weight:750;color:var(--accent)}.controls{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin:14px 0}label{display:flex;align-items:center;gap:6px}button,input,select{display:inline-block;border:1px solid var(--line);border-radius:8px;background:var(--panel);color:var(--ink);min-height:38px;padding:7px 10px;font:inherit}select{max-width:min(290px,75vw)}input{width:min(250px,52vw)}button{cursor:pointer}button:hover{border-color:var(--accent);color:var(--accent)}.stage{position:relative;isolation:isolate;background:#08131e;border:1px solid var(--line);border-radius:16px;overflow:hidden;margin:14px 0}canvas{width:100%;height:clamp(380px,67vh,760px);display:block;touch-action:none;cursor:grab}canvas.dragging{cursor:grabbing}canvas.pointing{cursor:pointer}.tools{position:absolute;right:14px;top:14px;display:grid;gap:5px;justify-items:stretch}.tools button{font-size:22px;width:39px;padding:0}.tools button:last-of-type{font-size:17px}.tools span{text-align:center;color:var(--muted);font-size:12px;background:#132532d9;border-radius:7px;padding:3px}.legend{position:absolute;left:14px;top:14px;pointer-events:none;border:1px solid #2e435099;border-radius:9px;padding:9px 12px;background:#0b1b28c2;font-size:12px;color:var(--muted)}.dot{display:inline-block;width:7px;height:7px;border-radius:50%;margin-right:5px;vertical-align:1px;background:var(--accent)}.dot.major{background:#e9bb72}.bubble{position:absolute;left:14px;bottom:14px;max-width:calc(100% - 28px);background:#132532ed;border:1px solid var(--line);border-radius:10px;padding:10px 14px;pointer-events:none;box-shadow:0 4px 20px #0005}.bubble strong{font-size:16px;color:var(--accent)}#hover{position:absolute;pointer-events:none;background:#122532ee;border:1px solid var(--line);border-radius:7px;padding:6px 9px;color:var(--ink);max-width:calc(100% - 24px);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}#marker{position:absolute;pointer-events:none;border-radius:50%;width:18px;height:18px;border:2px solid white;box-shadow:0 0 11px white;transform:translate(-50%,-50%)}#location{color:var(--ink)}table{width:100%;border-collapse:collapse}th,td{padding:8px;text-align:left;border-bottom:1px solid #223845}th{color:var(--muted)}td button{background:none;border:0;min-height:0;padding:2px;text-align:left}tr.selected{background:#183a42}tr.selected button{color:var(--accent)}footer{font-size:12px;padding-top:16px;overflow-wrap:anywhere}[hidden]{display:none!important}a{color:var(--accent)}@media(max-width:550px){canvas{height:52vh;min-height:340px}.legend{font-size:10px;padding:6px 8px;left:8px;top:8px}.tools{right:8px;top:8px}.tools button{width:34px;min-height:34px}#count{display:block;margin-left:0}.bubble{left:8px;bottom:8px;font-size:12px}}
+</style>
+<main>
+<header><h1>世界城市 · 交互地球</h1><div><span id="rate"></span><span id="count"></span></div></header>
+<div id="stats">加载中…</div>
+<div class="controls"><label>国家或地区 <select id="country"></select></label><label>行政区 <select id="region"></select></label><label>地点 <input id="search" type="search" placeholder="中文 / 英文 / 拼音"></label><button id="overview">全球视图</button></div>
+<div class="stage" id="stage">
+  <canvas id="globe" tabindex="0" aria-label="可旋转、缩放和选择城市的世界地球"></canvas>
+  <div class="legend"><span class="dot"></span>完整名录核验　<span class="dot major"></span>主要城市优先<br>拖动旋转 · 滚轮/双指缩放 · 点击地点</div>
+  <div class="tools"><button id="zoomIn" title="放大" aria-label="放大">+</button><button id="zoomOut" title="缩小" aria-label="缩小">−</button><button id="fit" title="适应范围" aria-label="适应范围">⌖</button><span id="zoomValue">1×</span></div>
+  <div id="hover" hidden></div><div id="marker" hidden></div><div id="selected" class="bubble" hidden></div>
+</div>
+<p id="reference"></p><p id="location" aria-live="polite"></p>
+<table><thead><tr><th>城市</th><th>行政区</th><th>官方代码</th></tr></thead><tbody id="rows"></tbody></table><button id="more">显示更多</button>
+<footer>离线底图：Natural Earth 陆地轮廓。城市点来自本地数据库。<br><span id="digest"></span></footer>
+</main>
+<script id="data" type="text/plain">%PAYLOAD%</script>
+<script type="module">
+const $=id=>document.getElementById(id),canvas=$('globe'),gl=canvas.getContext('webgl',{alpha:false,antialias:true,preserveDrawingBuffer:false})
+if(!gl){$('stats').textContent='此浏览器未启用 WebGL，无法显示地球。';throw new Error('WebGL unavailable')}
+const payload=Uint8Array.from(atob($('data').textContent),c=>c.charCodeAt(0))
+const {groups,land,version,sha}=await new Response(new Blob([payload]).stream().pipeThrough(new DecompressionStream('gzip'))).json()
+const lookup=new Map(groups.map(g=>[g.id,g])),all=groups.flatMap(g=>g.places),rad=Math.PI/180,deg=1/rad
+const names={'reference-checked':'已核验','major-cities':'主要城市优先','not-applicable':'不适用','partial':'部分核验','pending':'待核验'}
+const colors={'reference-checked':[.38,.88,.71],'major-cities':[.93,.72,.36],'not-applicable':[.56,.66,.71],partial:[.93,.72,.36],pending:[.57,.64,.98]}
+const complete=groups.filter(g=>g.stats.cityReference.status==='reference-checked').length,applicable=groups.filter(g=>g.stats.cityReference.status!=='not-applicable').length
+$('rate').textContent=(complete/applicable*100).toFixed(1)+'%';$('count').textContent=`${complete}/${applicable} 完整名录核验 · 5 国主要城市优先`
+$('stats').textContent=`版本 ${version} · ${all.length.toLocaleString('en-US')} 个地点 · 247 个国家和地区`;$('digest').textContent='本地包 SHA-256 '+sha
+const country=$('country'),region=$('region'),search=$('search'),rows=$('rows')
+country.add(new Option('全部国家和地区',''));for(const g of groups.toSorted((a,b)=>(a.zh||a.en).localeCompare(b.zh||b.en,'zh-CN')))country.add(new Option(`${g.zh||g.en} / ${g.id}`,g.id))
+const unit=(lon,lat)=>{const x=lon*rad,y=lat*rad,c=Math.cos(y);return [c*Math.cos(x),Math.sin(y),c*Math.sin(x)]}
+const dot=(a,b)=>a[0]*b[0]+a[1]*b[1]+a[2]*b[2],clamp=(v,a,b)=>Math.max(a,Math.min(b,v))
+let lon=30,lat=20,zoom=1,matching=[],pointData=new Float32Array(),selected=null,frame=0,cap=80,group=null
+const vectors=new Map(all.map(p=>[p.id,unit(p.lon,p.lat)]))
+function basis(){const x=lon*rad,y=lat*rad;return {right:[-Math.sin(x),0,Math.cos(x)],up:[-Math.sin(y)*Math.cos(x),Math.cos(y),-Math.sin(y)*Math.sin(x)],forward:unit(lon,lat)}}
+function size(){return [canvas.clientWidth,canvas.clientHeight]}
+function radius(){return Math.min(...size())*.46*zoom}
+function pos(p,b=basis()){const v=vectors.get(p.id),[w,h]=size(),r=radius();return [w/2+dot(v,b.right)*r,h/2-dot(v,b.up)*r,dot(v,b.forward)]}
+function compile(type,source){const s=gl.createShader(type);gl.shaderSource(s,source);gl.compileShader(s);if(!gl.getShaderParameter(s,gl.COMPILE_STATUS))throw Error(gl.getShaderInfoLog(s));return s}
+function program(v,f){const p=gl.createProgram();gl.attachShader(p,compile(gl.VERTEX_SHADER,v));gl.attachShader(p,compile(gl.FRAGMENT_SHADER,f));gl.linkProgram(p);if(!gl.getProgramParameter(p,gl.LINK_STATUS))throw Error(gl.getProgramInfoLog(p));return p}
+const earth=program(`attribute vec2 a_position;void main(){gl_Position=vec4(a_position,0.0,1.0);}` ,`
+precision highp float;
+uniform vec2 u_size;uniform float u_radius;uniform vec3 u_right,u_up,u_front;uniform sampler2D u_land;
+const float PI=3.14159265359;
+void main(){vec2 q=(gl_FragCoord.xy-u_size*.5)/u_radius;float m=dot(q,q);
+ vec3 bg=vec3(.025,.057,.093);if(m>1.0){float halo=exp(-max(0.,sqrt(m)-1.)*60.);gl_FragColor=vec4(bg+vec3(.03,.1,.14)*halo,1.);return;}
+ float z=sqrt(max(0.,1.-m));vec3 n=q.x*u_right+q.y*u_up+z*u_front;
+ float phi=asin(clamp(n.y,-1.,1.)),theta=atan(n.z,n.x);vec2 uv=vec2(theta/(2.*PI)+.5,phi/PI+.5);
+ float land=texture2D(u_land,uv).r;vec3 ocean=vec3(.052,.15,.225),ground=vec3(.18,.39,.37);vec3 color=mix(ocean,ground,land);
+ float light=.73+.27*max(0.,dot(vec3(q,z),normalize(vec3(-.4,.5,1.))));
+ float meridian=abs(fract(theta/(PI/6.)+.5)-.5),parallel=abs(fract(phi/(PI/6.)+.5)-.5);
+ float grid=1.-smoothstep(.0005,.004,min(meridian,parallel));color=mix(color,vec3(.3,.47,.48),grid*.22);
+ color=color*light*(.66+.34*z)+vec3(.05,.14,.19)*pow(1.-z,3.);gl_FragColor=vec4(color,1.);}`)
+const points=program(`attribute vec3 a_vec,a_color;uniform vec3 u_right,u_up,u_front;uniform vec2 u_size;uniform float u_radius,u_point;varying vec3 v_color;varying float v_depth;
+void main(){float z=dot(a_vec,u_front);if(z<0.){gl_Position=vec4(3.,3.,0.,1.);gl_PointSize=1.;v_depth=0.;v_color=a_color;return;}vec2 p=vec2(dot(a_vec,u_right),dot(a_vec,u_up));gl_Position=vec4(p*u_radius/(u_size*.5),0.,1.);gl_PointSize=u_point;v_color=a_color;v_depth=z;}` ,`
+precision mediump float;varying vec3 v_color;varying float v_depth;void main(){float r=length(gl_PointCoord-.5);if(r>.5)discard;gl_FragColor=vec4(v_color,(.6+.4*v_depth)*(1.-smoothstep(.32,.5,r)));}`)
+const quad=gl.createBuffer();gl.bindBuffer(gl.ARRAY_BUFFER,quad);gl.bufferData(gl.ARRAY_BUFFER,new Float32Array([-1,-1,1,-1,-1,1,1,1]),gl.STATIC_DRAW)
+const buffer=gl.createBuffer(),mask=document.createElement('canvas');mask.width=2048;mask.height=1024;const mctx=mask.getContext('2d');mctx.fillStyle='#000';mctx.fillRect(0,0,mask.width,mask.height);mctx.fillStyle='#fff'
+for(const ring of land){mctx.beginPath();ring.forEach(([x,y],i)=>mctx[i?'lineTo':'moveTo']((x+180)/360*mask.width,(90-y)/180*mask.height));mctx.closePath();mctx.fill()}
+const texture=gl.createTexture();gl.bindTexture(gl.TEXTURE_2D,texture);gl.pixelStorei(gl.UNPACK_FLIP_Y_WEBGL,true);gl.texImage2D(gl.TEXTURE_2D,0,gl.RGBA,gl.RGBA,gl.UNSIGNED_BYTE,mask);gl.texParameteri(gl.TEXTURE_2D,gl.TEXTURE_MIN_FILTER,gl.LINEAR);gl.texParameteri(gl.TEXTURE_2D,gl.TEXTURE_MAG_FILTER,gl.LINEAR);gl.texParameteri(gl.TEXTURE_2D,gl.TEXTURE_WRAP_S,gl.REPEAT);gl.texParameteri(gl.TEXTURE_2D,gl.TEXTURE_WRAP_T,gl.CLAMP_TO_EDGE)
+const attrs=new Map(),uniforms=new Map();function attr(p,n){let key=p===earth?'e'+n:'p'+n;if(!attrs.has(key))attrs.set(key,gl.getAttribLocation(p,n));return attrs.get(key)}function u(p,n){let key=p===earth?'e'+n:'p'+n;if(!uniforms.has(key))uniforms.set(key,gl.getUniformLocation(p,n));return uniforms.get(key)}
+function applyView(p,b,w,h,R){gl.uniform2f(u(p,'u_size'),w,h);gl.uniform1f(u(p,'u_radius'),R);gl.uniform3fv(u(p,'u_right'),b.right);gl.uniform3fv(u(p,'u_up'),b.up);gl.uniform3fv(u(p,'u_front'),b.forward)}
+function render(){frame=0;const [w,h]=size(),dpr=devicePixelRatio||1,W=Math.round(w*dpr),H=Math.round(h*dpr);if(canvas.width!==W||canvas.height!==H){canvas.width=W;canvas.height=H}gl.viewport(0,0,W,H);const b=basis(),R=radius()*dpr
+ gl.disable(gl.BLEND);gl.useProgram(earth);gl.bindBuffer(gl.ARRAY_BUFFER,quad);let a=attr(earth,'a_position');gl.enableVertexAttribArray(a);gl.vertexAttribPointer(a,2,gl.FLOAT,false,0,0);applyView(earth,b,W,H,R);gl.uniform1i(u(earth,'u_land'),0);gl.drawArrays(gl.TRIANGLE_STRIP,0,4);gl.disableVertexAttribArray(a)
+ gl.enable(gl.BLEND);gl.blendFunc(gl.SRC_ALPHA,gl.ONE_MINUS_SRC_ALPHA);gl.useProgram(points);gl.bindBuffer(gl.ARRAY_BUFFER,buffer);let v=attr(points,'a_vec'),c=attr(points,'a_color');gl.enableVertexAttribArray(v);gl.enableVertexAttribArray(c);gl.vertexAttribPointer(v,3,gl.FLOAT,false,24,0);gl.vertexAttribPointer(c,3,gl.FLOAT,false,24,12);applyView(points,b,W,H,R);gl.uniform1f(u(points,'u_point'),clamp(2+Math.log2(zoom)*.8,1.5,6)*dpr);gl.drawArrays(gl.POINTS,0,pointData.length/6);gl.disableVertexAttribArray(v);gl.disableVertexAttribArray(c)
+ const marker=$('marker');if(selected){const [x,y,z]=pos(selected,b);marker.hidden=z<0||x<0||x>w||y<0||y>h;marker.style.left=x+'px';marker.style.top=y+'px'}else marker.hidden=true;$('zoomValue').textContent=zoom.toFixed(1)+'×'
+}
+function schedule(){if(!frame)frame=requestAnimationFrame(render)}
+function upload(){pointData=new Float32Array(matching.length*6);matching.forEach((p,i)=>{pointData.set(vectors.get(p.id),i*6);pointData.set(colors[lookup.get(p.country).stats.cityReference.status]||colors.pending,i*6+3)});gl.bindBuffer(gl.ARRAY_BUFFER,buffer);gl.bufferData(gl.ARRAY_BUFFER,pointData,gl.STATIC_DRAW)}
+function fit(){if(!matching.length||matching.length===all.length){lon=30;lat=20;zoom=1}else{let sum=[0,0,0];for(const p of matching){const v=vectors.get(p.id);sum[0]+=v[0];sum[1]+=v[1];sum[2]+=v[2]};let length=Math.hypot(...sum);if(length<.1){zoom=1;return schedule()}lon=Math.atan2(sum[2],sum[0])*deg;lat=Math.asin(sum[1]/length)*deg;let f=unit(lon,lat),spread=0;for(const p of matching)spread=Math.max(spread,Math.acos(clamp(dot(vectors.get(p.id),f),-1,1)));zoom=spread>1.48?1:clamp(.85/Math.max(.05,Math.sin(spread)),1,9)}schedule()}
+function normalized(str){return String(str||'').normalize('NFD').replace(/\p{M}/gu,'').replace(/[\s'-]+/g,'').toLowerCase()}
+function el(tag,text){const e=document.createElement(tag);e.textContent=text;return e}
+function where(p){const g=lookup.get(p.country);return g.divisions[p.subregion]||[g.divisions[p.region],p.subregion].filter(Boolean).join(' / ')}
+function show(p,recenter){selected=p;const title=[p.zh,p.en].join(' / '),g=lookup.get(p.country),place=[g.zh,where(p)].filter(Boolean).join(' · ');$('selected').replaceChildren(el('strong',title),el('div',`${place}　${p.lat}°, ${p.lon}°`));$('selected').hidden=false;$('location').textContent=[title,place,p.pinyin,`纬度 ${p.lat}°`,`经度 ${p.lon}°`,p.officialId&&`官方代码 ${p.officialId}`].filter(Boolean).join(' · ');for(const tr of rows.rows)tr.classList.toggle('selected',tr.dataset.id===p.id);if(recenter){lon=p.lon;lat=p.lat;zoom=Math.max(zoom,2)}$('hover').hidden=true;schedule()}
+function clearSelection(){selected=null;$('selected').hidden=true;$('location').textContent='';for(const tr of rows.rows)tr.classList.remove('selected')}
+function table(){rows.replaceChildren(...matching.slice(0,cap).map(p=>{const tr=el('tr','');tr.dataset.id=p.id;tr.classList.toggle('selected',selected?.id===p.id);const td=el('td',''),b=el('button',p.zh+' / '+p.en);b.onclick=()=>show(p,true);td.append(b);tr.append(td,el('td',where(p)||lookup.get(p.country).zh),el('td',p.officialId||''));return tr}));$('more').hidden=cap>=matching.length}
+function update(){const token=normalized(search.value);matching=(group?.places||all).filter(p=>(!region.value||region.value===p.region||region.value===p.subregion)&&(!token||[p.zh,p.en,p.pinyin,p.officialId,...(p.aliases||[])].some(v=>normalized(v).includes(token))));clearSelection();cap=80;upload();fit();table();const ref=group?.stats.cityReference;$('reference').textContent=[matching.length.toLocaleString('en-US')+' 个地点',ref&&names[ref.status],ref?.scope].filter(Boolean).join(' · ')}
+function changeCountry(){group=lookup.get(country.value);region.replaceChildren(new Option('全部行政区',''));for(const [k,v] of Object.entries(group?.divisions||{}))region.add(new Option(v,k));update()}
+country.onchange=changeCountry;region.onchange=update;search.oninput=update;$('overview').onclick=()=>{country.value='';search.value='';changeCountry()};$('more').onclick=()=>{cap+=80;table()}
+function pick(x,y,limit=12){const b=basis(),[w,h]=size(),R=radius();let best=limit*limit,hit=null;for(let i=0;i<matching.length;i++){const k=i*6,v=[pointData[k],pointData[k+1],pointData[k+2]];if(dot(v,b.forward)<0)continue;let dx=w/2+dot(v,b.right)*R-x,dy=h/2-dot(v,b.up)*R-y,d=dx*dx+dy*dy;if(d<best){best=d;hit=matching[i]}}return hit}
+function local(e){const rect=canvas.getBoundingClientRect();return {x:e.clientX-rect.left,y:e.clientY-rect.top}}
+function hover(e){const {x,y}=local(e),p=pick(x,y);const label=$('hover');label.hidden=!p;canvas.classList.toggle('pointing',!!p);if(p){label.textContent=p.zh+' / '+p.en;const [w,h]=size();label.style.left=clamp(x+12,5,Math.max(5,w-label.offsetWidth-5))+'px';label.style.top=clamp(y+12,5,Math.max(5,h-label.offsetHeight-5))+'px'}}
+function zoomBy(f){zoom=clamp(zoom*f,.65,35);$('hover').hidden=true;schedule()}
+function rotate(dx,dy){lon=(lon-dx/radius()*deg+540)%360-180;lat=clamp(lat+dy/radius()*deg,-89.9,89.9);schedule()}
+const pointer=new Map();let gesture=null,moved=false
+function gestureState(){const a=[...pointer.values()];return a.length>=2?{x:(a[0].x+a[1].x)/2,y:(a[0].y+a[1].y)/2,d:Math.max(1,Math.hypot(a[0].x-a[1].x,a[0].y-a[1].y))}:a[0]?{...a[0],d:0}:null}
+canvas.addEventListener('pointerdown',e=>{if(e.pointerType==='mouse'&&e.button!==0)return;canvas.setPointerCapture(e.pointerId);pointer.set(e.pointerId,local(e));moved=pointer.size>1;gesture=gestureState();$('hover').hidden=true});canvas.addEventListener('pointermove',e=>{if(!pointer.has(e.pointerId)){if(e.pointerType==='mouse')hover(e);return}pointer.set(e.pointerId,local(e));const next=gestureState();if(!gesture)return;const dx=next.x-gesture.x,dy=next.y-gesture.y;if(pointer.size>=2||moved||Math.hypot(dx,dy)>4){moved=true;canvas.classList.add('dragging');rotate(dx,dy);if(next.d&&gesture.d)zoomBy(next.d/gesture.d);gesture=next}})
+function end(e,cancel=false){if(!pointer.has(e.pointerId))return;const {x,y}=local(e),click=!cancel&&pointer.size===1&&!moved;pointer.delete(e.pointerId);gesture=gestureState();if(!pointer.size){canvas.classList.remove('dragging');if(click){const p=pick(x,y,e.pointerType==='touch'?20:12);if(p)show(p,false);else{clearSelection();schedule()}}}}
+canvas.addEventListener('pointerup',e=>end(e));canvas.addEventListener('pointercancel',e=>end(e,true));canvas.addEventListener('lostpointercapture',e=>end(e,true));canvas.addEventListener('pointerleave',()=>$('hover').hidden=true)
+canvas.addEventListener('wheel',e=>{e.preventDefault();zoomBy(Math.exp(-clamp(e.deltaY,-300,300)*.002))},{passive:false});canvas.addEventListener('dblclick',()=>zoomBy(1.6));canvas.addEventListener('keydown',e=>{if(['+','=','-'].includes(e.key)){e.preventDefault();zoomBy(e.key==='-'?1/1.5:1.5)}else{const dirs={ArrowUp:[0,60],ArrowDown:[0,-60],ArrowLeft:[60,0],ArrowRight:[-60,0]};if(dirs[e.key]){e.preventDefault();rotate(...dirs[e.key])}}})
+$('zoomIn').onclick=()=>zoomBy(1.5);$('zoomOut').onclick=()=>zoomBy(1/1.5);$('fit').onclick=fit;window.addEventListener('resize',schedule);changeCountry()
+</script>
+</html>

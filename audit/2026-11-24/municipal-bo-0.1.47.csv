@@ -1,0 +1,344 @@
+id,official_id,region,en,zh,latitude,longitude,roster_source,coordinate_source,notes
+csc:10031,010101,BO-H,Sucre,苏克雷,-19.03332,-65.26274,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3903987/,经辖区边界复核的市镇同名居民点或驻地
+bo:010102,010102,BO-H,Yotala,约塔拉,-19.15861,-65.26417,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3901539/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:010103,010103,BO-H,Poroma,波罗马,-18.48333,-65.5,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3907656/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:010201,010201,BO-H,Azurduy,阿祖尔杜,-20.10613,-64.41398,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3923438/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:010202,010202,BO-H,Tarvita,塔尔维塔,-19.92009,-64.48236,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3901540/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:010301,010301,BO-H,Zudáñez,蘇達涅斯,-19.11831,-64.70265,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3900773/,经辖区边界复核的市镇同名居民点或驻地
+bo:010302,010302,BO-H,Presto,普雷斯托,-18.92944,-64.93917,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3907484/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:010303,010303,BO-H,Mojocoya,莫霍科亚,-18.7641,-64.61978,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3910244/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:010304,010304,BO-H,Icla,伊克拉,-19.36309,-64.79277,https://cpv2024.ine.gob.bo/,https://www.geonames.org/13452005/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+csc:9892,010401,BO-H,Padilla,帕迪亚,-19.30878,-64.30273,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3909038/,经辖区边界复核的市镇同名居民点或驻地
+bo:010402,010402,BO-H,Tomina,托米纳,-19.18333,-64.53333,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3902668/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:010403,010403,BO-H,Sopachuy,索帕克,-19.48655,-64.47368,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3903901/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:010404,010404,BO-H,Alcalá,阿勒卡拉,-19.36753,-64.39105,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3924311/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:010405,010405,BO-H,El Villar,埃尔维亚尔,-19.63345,-64.36866,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3901532/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+csc:9887,010501,BO-H,Monteagudo,蒙特阿古多,-19.79998,-63.95617,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3910094/,经辖区边界复核的市镇同名居民点或驻地
+bo:010502,010502,BO-H,Huacareta,瓦卡雷塔,-20.3,-64.01667,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3905191/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:010601,010601,BO-H,Tarabuco,塔拉布科,-19.18168,-64.91517,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3903391/,经辖区边界复核的市镇同名居民点或驻地
+bo:010602,010602,BO-H,Yamparáez,亚姆帕拉埃兹,-19.18929,-65.12329,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3901147/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:010701,010701,BO-H,Camargo,卡马戈,-20.64064,-65.20893,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3922451/,经辖区边界复核的市镇同名居民点或驻地
+bo:010702,010702,BO-H,San Lucas,圣卢卡斯,-20.10272,-65.1334,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3905401/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:010703,010703,BO-H,Incahuasi,伊恩卡瓦西,-20.77946,-64.86736,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3914227/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:010704,010704,BO-H,Villa Charcas,比亚查尔卡斯,-20.72278,-64.88478,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3901582/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:010801,010801,BO-H,Villa Serrano,比亚塞尔拉诺,-19.12489,-64.32343,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3901519/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:010901,010901,BO-H,Villa Abecia,比亚阿贝西阿,-20.97569,-65.2309,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3901598/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:010902,010902,BO-H,Culpina,库勒皮纳,-20.82358,-64.94492,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3918678/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:010903,010903,BO-H,Las Carreras,拉斯卡尔雷拉斯,-21.25,-65.28333,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3911814/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:011001,011001,BO-H,Villa Vaca Guzmán,比亚瓦卡格兹马恩,-19.89531,-63.75135,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3901512/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:011002,011002,BO-H,Huacaya (Autonomía Guaraní Chaqueño de Huacaya),瓦卡亚阿乌托诺米阿加拉尼查克诺德瓦卡亚,-20.722049,-63.624867,https://cpv2024.ine.gob.bo/,https://lab-tecnosocial.github.io/municipios-bolivia-2024/,按 SDSN 与 Lab TecnoSocial 行政区地图取辖区内代表点；缺少可确认中文名，使用音译
+bo:011003,011003,BO-H,Macharetí,马查雷蒂,-20.81485,-63.36277,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3910957/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+csc:9876,020101,BO-L,Nuestra Señora de La Paz,拉巴斯,-16.5,-68.15,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3911925/,经辖区边界复核的市镇同名居民点或驻地
+bo:020102,020102,BO-L,Palca,帕爾卡,-16.56162,-67.9528,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3908899/,经辖区边界复核的市镇同名居民点或驻地
+bo:020103,020103,BO-L,Mecapaca,麦卡帕卡,-16.66829,-68.01808,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3910539/,经辖区边界复核的市镇同名居民点或驻地
+bo:020104,020104,BO-L,Achocalla,阿乔卡亚,-16.57386,-68.15112,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3924569/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:020105,020105,BO-L,El Alto,埃尔阿尔托,-16.50434,-68.16096,https://cpv2024.ine.gob.bo/,https://www.geonames.org/12498284/,经辖区边界复核的市镇同名居民点或驻地
+csc:9826,020201,BO-L,Achacachi,阿查卡奇,-16.04707,-68.68534,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3924610/,经辖区边界复核的市镇同名居民点或驻地
+bo:020202,020202,BO-L,Villa Ancoraimes,比亚阿恩科拉伊梅斯,-15.858844,-68.879334,https://cpv2024.ine.gob.bo/,https://lab-tecnosocial.github.io/municipios-bolivia-2024/,按 SDSN 与 Lab TecnoSocial 行政区地图取辖区内代表点；缺少可确认中文名，使用音译
+bo:020203,020203,BO-L,Huarina,瓦里纳,-16.19066,-68.6009,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3914763/,经辖区边界复核的市镇同名居民点或驻地
+bo:020204,020204,BO-L,Santiago de Huata,萨恩蒂阿戈德瓦塔,-16.1,-68.88333,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3904668/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:020205,020205,BO-L,Huatajata,瓦塔贾塔,-16.20886,-68.70041,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3914715/,经辖区边界复核的市镇同名居民点或驻地
+bo:020206,020206,BO-L,Chua Cocani,克瓦科卡尼,-16.19091,-68.74494,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3920373/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:020301,020301,BO-L,Corocoro,科罗科罗,-17.17691,-68.45362,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3919087/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:020302,020302,BO-L,Caquiaviri,卡基阿维里,-17.02231,-68.60774,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3922103/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:020303,020303,BO-L,Calacoto,卡拉科托,-17.28352,-68.63518,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3922668/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:020304,020304,BO-L,Comanche,科马恩切,-17.06667,-68.41667,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3919707/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:020305,020305,BO-L,Charaña,查拉纳,-17.59268,-69.4454,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3921129/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:020306,020306,BO-L,Waldo Ballivián,瓦勒多巴伊维阿恩,-17.08617,-68.18843,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3901315/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:020307,020307,BO-L,Nazacara de Pacajes,纳扎卡拉德帕卡赫斯,-16.929047,-68.759495,https://cpv2024.ine.gob.bo/,https://lab-tecnosocial.github.io/municipios-bolivia-2024/,按 SDSN 与 Lab TecnoSocial 行政区地图取辖区内代表点；缺少可确认中文名，使用音译
+bo:020308,020308,BO-L,Santiago de Callapa,萨恩蒂阿戈德卡亚帕,-17.47946,-68.35597,https://cpv2024.ine.gob.bo/,https://www.geonames.org/12515933/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:020401,020401,BO-L,Puerto Acosta,阿科斯塔港,-15.53249,-69.25129,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3907291/,经辖区边界复核的市镇同名居民点或驻地
+bo:020402,020402,BO-L,Mocomoco,莫科莫科,-15.45648,-68.99849,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3910274/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:020403,020403,BO-L,Puerto Mayor de Carabuco,港马约尔德卡拉布科,-15.7585,-69.06439,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3922091/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:020404,020404,BO-L,Humanata,马纳塔,-15.46876,-69.13013,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3914437/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:020405,020405,BO-L,Escoma,埃斯科马,-15.66153,-69.12894,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3917901/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:020501,020501,BO-L,Chuma,克马,-15.47933,-68.89842,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3920238/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:020502,020502,BO-L,Ayata,阿亚塔,-15.3408,-68.75279,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3923499/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:020503,020503,BO-L,Aucapata,阿乌卡帕塔,-15.49357,-68.71356,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3923547/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:020601,020601,BO-L,Sorata,索拉塔,-15.77305,-68.64973,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3904043/,经辖区边界复核的市镇同名居民点或驻地
+bo:020602,020602,BO-L,Guanay,瓜奈,-15.49756,-67.88332,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3915436/,经辖区边界复核的市镇同名居民点或驻地
+bo:020603,020603,BO-L,Tacacoma,塔卡科马,-15.30218,-68.46175,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3903781/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:020604,020604,BO-L,Quiabaya,基阿巴亚,-15.63565,-68.7039,https://cpv2024.ine.gob.bo/,https://www.geonames.org/13439634/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:020605,020605,BO-L,Combaya,科姆巴亚,-15.80477,-68.75385,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3919698/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:020606,020606,BO-L,Tipuani,蒂普阿尼,-15.55,-68.0,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3902926/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+csc:9884,020607,BO-L,Mapiri,马皮里,-15.25,-68.16667,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3910758/,经辖区边界复核的市镇同名居民点或驻地
+bo:020608,020608,BO-L,Teoponte,特奥波恩特,-15.46667,-67.81667,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3903164/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:020701,020701,BO-L,Apolo,阿波洛,-14.7189,-68.41229,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3923800/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:020702,020702,BO-L,Pelechuco,佩莱克科,-14.81967,-69.07057,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3908197/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+csc:164509,020801,BO-L,Viacha,比亞查,-16.65,-68.3,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3901742/,经辖区边界复核的市镇同名居民点或驻地
+bo:020802,020802,BO-L,Puerto Mayor de Guaqui,港马约尔德加基,-16.59911,-68.85008,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3915410/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:020803,020803,BO-L,Tiahuanacu,蒂阿瓦纳库,-16.553268,-68.669224,https://cpv2024.ine.gob.bo/,https://lab-tecnosocial.github.io/municipios-bolivia-2024/,按 SDSN 与 Lab TecnoSocial 行政区地图取辖区内代表点；缺少可确认中文名，使用音译
+bo:020804,020804,BO-L,Desaguadero,德萨加德罗,-16.56834,-69.03415,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3918477/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:020805,020805,BO-L,La (Marka) San Andrés de Machaca,拉马尔卡圣阿恩德雷斯德马查卡,-16.872763,-69.04317,https://cpv2024.ine.gob.bo/,https://lab-tecnosocial.github.io/municipios-bolivia-2024/,按 SDSN 与 Lab TecnoSocial 行政区地图取辖区内代表点；缺少可确认中文名，使用音译
+bo:020806,020806,BO-L,Jesús de Machaka,赫苏斯德马查卡,-16.7769,-68.722287,https://cpv2024.ine.gob.bo/,https://lab-tecnosocial.github.io/municipios-bolivia-2024/,按 SDSN 与 Lab TecnoSocial 行政区地图取辖区内代表点；缺少可确认中文名，使用音译
+bo:020807,020807,BO-L,Taraco,塔拉科,-16.45709,-68.85842,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3903380/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:020901,020901,BO-L,Luribay,盧里瓦伊,-17.06289,-67.66056,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3911012/,经辖区边界复核的市镇同名居民点或驻地
+bo:020902,020902,BO-L,Sapahaqui,萨帕哈基,-16.88854,-67.94949,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3904608/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:020903,020903,BO-L,Yaco,亚科,-17.15858,-67.41124,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3901182/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:020904,020904,BO-L,Malla,马亚,-17.03957,-67.45053,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3912016/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:020905,020905,BO-L,Cairoma,卡伊罗马,-16.9,-67.55,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3922732/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:021001,021001,BO-L,Inquisivi,伊恩基西维,-16.90733,-67.13715,https://cpv2024.ine.gob.bo/,https://www.geonames.org/13451984/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:021002,021002,BO-L,Quime,基梅,-16.98333,-67.21667,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3906765/,经辖区边界复核的市镇同名居民点或驻地
+bo:021003,021003,BO-L,Cajuata,卡胡阿塔,-16.70275,-67.16976,https://cpv2024.ine.gob.bo/,https://www.geonames.org/12498174/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:021004,021004,BO-L,Colquiri,科尔基里,-17.39169,-67.12526,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3919715/,经辖区边界复核的市镇同名居民点或驻地
+bo:021005,021005,BO-L,Ichoca,伊乔卡,-17.2,-67.28333,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3914353/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:021006,021006,BO-L,Villa Libertad Licoma,比亚利贝尔塔德利科马,-16.810449,-67.206757,https://cpv2024.ine.gob.bo/,https://lab-tecnosocial.github.io/municipios-bolivia-2024/,按 SDSN 与 Lab TecnoSocial 行政区地图取辖区内代表点；缺少可确认中文名，使用音译
+csc:9846,021101,BO-L,Chulumani,丘卢马尼,-16.40855,-67.5294,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3920244/,经辖区边界复核的市镇同名居民点或驻地
+bo:021102,021102,BO-L,Irupana,伊魯帕納,-16.47172,-67.45358,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3914044/,经辖区边界复核的市镇同名居民点或驻地
+bo:021103,021103,BO-L,Yanacachi,亚纳卡奇,-16.39929,-67.73658,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3901139/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:021104,021104,BO-L,Palos Blancos,帕洛斯布拉恩科斯,-15.430139,-67.269177,https://cpv2024.ine.gob.bo/,https://lab-tecnosocial.github.io/municipios-bolivia-2024/,按 SDSN 与 Lab TecnoSocial 行政区地图取辖区内代表点；缺少可确认中文名，使用音译
+bo:021105,021105,BO-L,La Asunta,拉阿苏恩塔,-16.12547,-67.19637,https://cpv2024.ine.gob.bo/,https://www.geonames.org/12499337/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:021201,021201,BO-L,Pucarani,普卡拉尼,-16.39959,-68.47753,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3907361/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:021202,021202,BO-L,Laja,拉哈,-16.53333,-68.38333,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3912103/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+csc:9833,021203,BO-L,Batallas,巴塔利亚斯,-16.3,-68.53333,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3923284/,经辖区边界复核的市镇同名居民点或驻地
+bo:021204,021204,BO-L,Puerto Pérez,港佩雷兹,-16.28478,-68.60085,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3907200/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:021301,021301,BO-L,Sicasica,西卡西卡,-17.33273,-67.73921,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3901592/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:021302,021302,BO-L,Umala,乌马拉,-17.37561,-68.02177,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3902068/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:021303,021303,BO-L,Ayo Ayo,阿约阿约,-17.0937,-68.00623,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3923488/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:021304,021304,BO-L,Calamarca,卡拉马尔卡,-16.90693,-68.11736,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3922649/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+csc:9894,021305,BO-L,Patacamaya,帕塔卡马亚,-17.23611,-67.91443,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3908339/,经辖区边界复核的市镇同名居民点或驻地
+bo:021306,021306,BO-L,Colquencha,科爾肯查,-16.93333,-68.25,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3919718/,经辖区边界复核的市镇同名居民点或驻地
+bo:021307,021307,BO-L,Collana,科利亚纳,-16.9,-68.28333,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3919870/,经辖区边界复核的市镇同名居民点或驻地
+bo:021401,021401,BO-L,Coroico,科罗伊科,-16.19386,-67.72998,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3919085/,经辖区边界复核的市镇同名居民点或驻地
+bo:021402,021402,BO-L,Coripata,科里帕塔,-16.3,-67.6,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3919097/,经辖区边界复核的市镇同名居民点或驻地
+bo:021501,021501,BO-L,Ixiamas,伊西亞馬斯,-13.76766,-68.128,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3913855/,经辖区边界复核的市镇同名居民点或驻地
+bo:021502,021502,BO-L,San Buenaventura,圣布埃纳韦恩图拉,-14.43472,-67.54083,https://cpv2024.ine.gob.bo/,https://www.geonames.org/7910202/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:021601,021601,BO-L,Charazani,查拉扎尼,-15.2,-69.05,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3901564/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:021602,021602,BO-L,Curva,库尔瓦,-15.13,-69.0,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3918551/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:021701,021701,BO-L,Copacabana,科帕卡瓦納,-16.1699,-69.07919,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3919189/,经辖区边界复核的市镇同名居民点或驻地
+bo:021702,021702,BO-L,San Pedro de Tiquina,圣佩德罗德蒂基纳,-16.23717,-68.85063,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3905159/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:021703,021703,BO-L,Tito Yupanqui,蒂托尤帕恩基,-16.17729,-68.95505,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3902864/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:021801,021801,BO-L,San Pedro de Curahuara,圣佩德罗德库拉瓦拉,-17.65436,-68.0484,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3905123/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:021802,021802,BO-L,Papel Pampa,帕佩勒帕姆帕,-17.78333,-67.85,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3908567/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:021803,021803,BO-L,Chacarilla,查卡里亚,-17.58317,-68.20876,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3921549/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:021901,021901,BO-L,Santiago de Machaca,萨恩蒂阿戈德马查卡,-17.06605,-69.19212,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3904665/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:021902,021902,BO-L,Catacora,卡塔科拉,-17.16089,-69.48686,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3917578/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:022001,022001,BO-L,Caranavi,卡拉纳维,-15.83403,-67.56586,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3922037/,经辖区边界复核的市镇同名居民点或驻地
+bo:022002,022002,BO-L,Alto Beni,阿勒托贝尼,-15.577618,-67.440544,https://cpv2024.ine.gob.bo/,https://lab-tecnosocial.github.io/municipios-bolivia-2024/,按 SDSN 与 Lab TecnoSocial 行政区地图取辖区内代表点；缺少可确认中文名，使用音译
+bo:030101,030101,BO-C,Cochabamba,科恰班巴,-17.38195,-66.15995,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3919968/,经辖区边界复核的市镇同名居民点或驻地
+csc:9827,030201,BO-C,Aiquile,艾基莱,-18.20408,-65.18068,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3924341/,经辖区边界复核的市镇同名居民点或驻地
+bo:030202,030202,BO-C,Pasorapa,帕索拉帕,-18.32158,-64.67517,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3908374/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:030203,030203,BO-C,Omereque,奥梅雷克,-18.10721,-64.90785,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3909339/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:030301,030301,BO-C,Ayopaya,阿约帕亚,-17.08389,-66.81804,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3914197/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:030302,030302,BO-C,Morochata,莫罗查塔,-17.2349,-66.53185,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3909953/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:030303,030303,BO-C,Cocapata,科卡帕塔,-16.95,-66.71667,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3919984/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+csc:10034,030401,BO-C,Tarata,塔拉塔,-17.60898,-66.02135,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3903342/,经辖区边界复核的市镇同名居民点或驻地
+bo:030402,030402,BO-C,Anzaldo,阿恩扎勒多,-17.83333,-65.91667,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3923856/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:030403,030403,BO-C,Arbieto,阿尔比埃托,-17.56667,-66.01667,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3923753/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:030404,030404,BO-C,Sacabamba,薩卡班巴,-17.8,-65.75,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3906193/,经辖区边界复核的市镇同名居民点或驻地
+csc:9829,030501,BO-C,Arani,阿拉尼,-17.56854,-65.76883,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3923770/,经辖区边界复核的市镇同名居民点或驻地
+bo:030502,030502,BO-C,Vacas,瓦卡斯,-17.5752,-65.58032,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3901894/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:030601,030601,BO-C,Arque,阿尔克,-17.82214,-66.40361,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3923682/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:030602,030602,BO-C,Tacopaya,塔科帕亚,-17.83808,-66.5375,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3903733/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:030701,030701,BO-C,Capinota,卡皮诺塔,-17.71113,-66.26082,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3922125/,经辖区边界复核的市镇同名居民点或驻地
+bo:030702,030702,BO-C,Santivañez,萨恩蒂瓦内兹,-17.54598,-66.2461,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3904656/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:030703,030703,BO-C,Sicaya,西卡亚,-17.79964,-66.33421,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3904354/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+csc:9847,030801,BO-C,Cliza,克利萨,-17.58777,-65.93253,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3920016/,经辖区边界复核的市镇同名居民点或驻地
+bo:030802,030802,BO-C,Toco,托科,-17.61667,-65.9,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3902831/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:030803,030803,BO-C,Tolata,托拉塔,-17.52966,-65.96036,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3902726/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+csc:10003,030901,BO-C,Quillacollo,基亚科约,-17.39228,-66.27838,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3906791/,经辖区边界复核的市镇同名居民点或驻地
+csc:10029,030902,BO-C,Sipesipe,锡佩锡佩,-17.45419,-66.35737,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3904221/,经辖区边界复核的市镇同名居民点或驻地
+csc:10037,030903,BO-C,Tiquipaya,蒂基帕亚,-17.33801,-66.21579,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3902949/,经辖区边界复核的市镇同名居民点或驻地
+csc:164510,030904,BO-C,Vinto,賓托,-17.39141,-66.31681,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3901435/,经辖区边界复核的市镇同名居民点或驻地
+csc:164511,030905,BO-C,Colcapirhua,科爾卡皮爾瓦,-17.3857,-66.23814,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3919902/,经辖区边界复核的市镇同名居民点或驻地
+csc:10009,031001,BO-C,Sacaba,萨卡瓦,-17.39799,-66.03825,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3906194/,经辖区边界复核的市镇同名居民点或驻地
+csc:9852,031002,BO-C,Colomi,科洛美,-17.35,-65.86667,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3919813/,经辖区边界复核的市镇同名居民点或驻地
+bo:031003,031003,BO-C,Villa Tunari,圖納里鎮,-16.97418,-65.42097,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3901514/,经辖区边界复核的市镇同名居民点或驻地
+bo:031101,031101,BO-C,Tapacarí,塔帕卡里,-17.51607,-66.62064,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3903463/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:031201,031201,BO-C,Totora,托托拉,-17.72662,-65.1932,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3902523/,经辖区边界复核的市镇同名居民点或驻地
+bo:031202,031202,BO-C,Pojo,波霍,-17.7573,-64.86345,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3907744/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:031203,031203,BO-C,Pocona,波科纳,-17.65,-65.4,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3907761/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+csc:9845,031204,BO-C,Chimoré,奇莫雷,-16.99417,-65.1533,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3920736/,经辖区边界复核的市镇同名居民点或驻地
+bo:031205,031205,BO-C,Puerto Villarroel,港维亚尔罗埃勒,-16.84286,-64.79996,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3907165/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:031206,031206,BO-C,Entre Ríos,埃恩特雷里奥斯,-17.19754,-64.53896,https://cpv2024.ine.gob.bo/,https://www.geonames.org/12505065/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+csc:9886,031301,BO-C,Mizque,米斯克,-17.94101,-65.34016,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3910291/,经辖区边界复核的市镇同名居民点或驻地
+bo:031302,031302,BO-C,Vila Vila,维拉维拉,-17.98333,-65.6,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3901507/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:031303,031303,BO-C,Alalay,阿拉拉,-17.68333,-65.68333,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3924320/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:031304,031304,BO-C,Tioc-Raqaypampa,蒂奥克拉阿帕姆帕,-18.250458,-65.425283,https://cpv2024.ine.gob.bo/,https://lab-tecnosocial.github.io/municipios-bolivia-2024/,按 SDSN 与 Lab TecnoSocial 行政区地图取辖区内代表点；缺少可确认中文名，使用音译
+csc:10002,031401,BO-C,Punata,普纳塔,-17.54234,-65.83472,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3907080/,经辖区边界复核的市镇同名居民点或驻地
+bo:031402,031402,BO-C,Villa Rivero,比亚里韦罗,-17.61667,-65.8,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3901527/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:031403,031403,BO-C,San Benito,圣贝尼托,-17.51667,-65.91667,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3905800/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:031404,031404,BO-C,Tacachi,塔卡奇,-17.639975,-65.781908,https://cpv2024.ine.gob.bo/,https://lab-tecnosocial.github.io/municipios-bolivia-2024/,按 SDSN 与 Lab TecnoSocial 行政区地图取辖区内代表点；缺少可确认中文名，使用音译
+bo:031405,031405,BO-C,Villa Gualberto Villarroel,比亚加勒贝尔托维亚尔罗埃勒,-17.697661,-65.773322,https://cpv2024.ine.gob.bo/,https://lab-tecnosocial.github.io/municipios-bolivia-2024/,按 SDSN 与 Lab TecnoSocial 行政区地图取辖区内代表点；缺少可确认中文名，使用音译
+bo:031501,031501,BO-C,Bolivar,玻利瓦尔,-17.96933,-66.53793,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3923061/,经辖区边界复核的市镇同名居民点或驻地
+bo:031601,031601,BO-C,Tiraque,蒂拉克,-17.42203,-65.72259,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3902906/,经辖区边界复核的市镇同名居民点或驻地
+bo:031602,031602,BO-C,Shinahota,希纳霍塔,-17.043587,-65.325127,https://cpv2024.ine.gob.bo/,https://lab-tecnosocial.github.io/municipios-bolivia-2024/,按 SDSN 与 Lab TecnoSocial 行政区地图取辖区内代表点；缺少可确认中文名，使用音译
+csc:9891,040101,BO-O,Oruro,奥鲁罗,-17.97153,-67.0932,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3909234/,经辖区边界复核的市镇同名居民点或驻地
+bo:040102,040102,BO-O,Caracollo,卡拉科約,-17.63892,-67.21949,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3922074/,经辖区边界复核的市镇同名居民点或驻地
+bo:040103,040103,BO-O,El Choro,埃尔乔罗,-18.35747,-67.11505,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3918282/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:040104,040104,BO-O,Paria,帕里阿,-17.85366,-67.0604,https://cpv2024.ine.gob.bo/,https://www.geonames.org/12544294/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+csc:9843,040201,BO-O,Challapata,查亚帕塔,-18.90208,-66.77048,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3921355/,经辖区边界复核的市镇同名居民点或驻地
+bo:040202,040202,BO-O,Santuario de Quillacas,萨恩图阿里奥德基亚卡斯,-19.297852,-66.861339,https://cpv2024.ine.gob.bo/,https://lab-tecnosocial.github.io/municipios-bolivia-2024/,按 SDSN 与 Lab TecnoSocial 行政区地图取辖区内代表点；缺少可确认中文名，使用音译
+bo:040301,040301,BO-O,Corque,科爾克,-18.34984,-67.68185,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3919061/,经辖区边界复核的市镇同名居民点或驻地
+bo:040302,040302,BO-O,Choquecota,乔克科塔,-18.09748,-67.89572,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3920444/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:040401,040401,BO-O,Curahuara de Carangas,库拉瓦拉德卡兰加斯,-17.84265,-68.40877,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3918611/,经辖区边界复核的市镇同名居民点或驻地
+bo:040402,040402,BO-O,Turco,图尔科,-18.18216,-68.19211,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3902200/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:040501,040501,BO-O,Huachacalla,瓦查卡亞,-18.79298,-68.26157,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3915061/,经辖区边界复核的市镇同名居民点或驻地
+bo:040502,040502,BO-O,Escara,埃斯卡拉,-18.85963,-68.16997,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3917911/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:040503,040503,BO-O,Cruz de Machacamarca,克鲁兹德马查卡马尔卡,-18.76982,-68.31296,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3910969/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:040504,040504,BO-O,Yunguyo del Litoral,尤昂约德尔利托拉勒,-18.8544,-68.31872,https://cpv2024.ine.gob.bo/,https://www.geonames.org/12528682/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:040505,040505,BO-O,Esmeralda,埃斯梅拉勒达,-18.84586,-68.28387,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3917877/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:040601,040601,BO-O,Poopó,波波,-18.37978,-66.96896,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3907685/,经辖区边界复核的市镇同名居民点或驻地
+bo:040602,040602,BO-O,Pazña,帕兹纳,-18.59826,-66.91983,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3908237/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:040603,040603,BO-O,Antequera,阿恩特克拉,-18.47759,-66.8427,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3923877/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+csc:9868,040701,BO-O,Huanuni,瓦努尼,-18.289,-66.83583,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3914839/,经辖区边界复核的市镇同名居民点或驻地
+bo:040702,040702,BO-O,Machacamarca,马查卡马卡,-18.17251,-67.02099,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3910971/,经辖区边界复核的市镇同名居民点或驻地
+bo:040801,040801,BO-O,Salinas de Garci Mendoza (Autonomía Indígena Originario Campesina de Salinas),薩利納斯德加西門多薩,-19.63721,-67.67518,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3906038/,经辖区边界复核的市镇同名居民点或驻地
+bo:040802,040802,BO-O,Pampa Aullagas,帕姆帕阿乌亚加斯,-19.19634,-67.06132,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3908687/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:040901,040901,BO-O,Sabaya,薩瓦亞,-19.01577,-68.37204,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3906201/,经辖区边界复核的市镇同名居民点或驻地
+bo:040902,040902,BO-O,Coipasa,科伊帕萨,-19.27706,-68.27787,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3919927/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:040903,040903,BO-O,Uru Chipaya (Nación Originaria Uru Chipaya),乌鲁奇帕亚纳西奥恩奥里希纳里阿乌鲁奇帕亚,-19.04188,-68.08981,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3920659/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:041001,041001,BO-O,Toledo,托莱多,-18.18059,-67.40691,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3902718/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:041101,041101,BO-O,Eucaliptus,欧卡利普图斯,-17.58333,-67.51667,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3902685/,经辖区边界复核的市镇同名居民点或驻地
+bo:041201,041201,BO-O,Andamarca,阿恩达马尔卡,-18.77934,-67.50753,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3923984/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:041202,041202,BO-O,Belén de Andamarca,贝莱恩德阿恩达马尔卡,-18.81936,-67.64104,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3923233/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:041301,041301,BO-O,Totora,托托拉,-17.81667,-68.11667,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3902522/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:041401,041401,BO-O,Santiago de Huari,萨恩蒂阿戈德瓦里,-19.160935,-66.612131,https://cpv2024.ine.gob.bo/,https://lab-tecnosocial.github.io/municipios-bolivia-2024/,按 SDSN 与 Lab TecnoSocial 行政区地图取辖区内代表点；缺少可确认中文名，使用音译
+bo:041501,041501,BO-O,La Rivera,拉里韋拉,-19.00455,-68.63983,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3911837/,经辖区边界复核的市镇同名居民点或驻地
+bo:041502,041502,BO-O,Todos Santos,托多斯萨恩托斯,-19.0142,-68.71926,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3902794/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:041503,041503,BO-O,Carangas,卡拉恩加斯,-18.93956,-68.62483,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3922029/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:041601,041601,BO-O,Santiago de Huayllamarca,萨恩蒂阿戈德瓦亚马尔卡,-17.83789,-67.94284,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3914662/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+csc:9898,050101,BO-P,Potosí,波托西,-19.58361,-65.75306,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3907584/,经辖区边界复核的市镇同名居民点或驻地
+bo:050102,050102,BO-P,Tinguipaya,蒂恩希帕亚,-19.22001,-65.8229,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3915655/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:050103,050103,BO-P,Yocalla,约卡亚,-19.38916,-65.90986,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3900969/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:050104,050104,BO-P,Urmiri,乌尔米里,-19.465958,-66.190527,https://cpv2024.ine.gob.bo/,https://lab-tecnosocial.github.io/municipios-bolivia-2024/,按 SDSN 与 Lab TecnoSocial 行政区地图取辖区内代表点；缺少可确认中文名，使用音译
+bo:050201,050201,BO-P,Uncía,乌恩西阿,-18.46713,-66.5671,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3902024/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:050202,050202,BO-P,Chayanta,查亚恩塔,-18.44857,-66.4612,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3921028/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:050203,050203,BO-P,Llallagua,利亚拉瓜,-18.42494,-66.57778,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3911409/,经辖区边界复核的市镇同名居民点或驻地
+bo:050204,050204,BO-P,Chuquihuta Ayllu Jucumani,克基塔阿尤胡库马尼,-18.62723,-66.352755,https://cpv2024.ine.gob.bo/,https://lab-tecnosocial.github.io/municipios-bolivia-2024/,按 SDSN 与 Lab TecnoSocial 行政区地图取辖区内代表点；缺少可确认中文名，使用音译
+bo:050301,050301,BO-P,Betanzos,贝坦索斯,-19.55293,-65.45395,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3923145/,经辖区边界复核的市镇同名居民点或驻地
+bo:050302,050302,BO-P,Chaquí,查基,-19.58794,-65.5618,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3921180/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:050303,050303,BO-P,Tacobamba,塔科巴姆巴,-19.20076,-65.55153,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3903745/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:050401,050401,BO-P,Colquechaca,科尔克查卡,-18.70031,-66.00397,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3919720/,经辖区边界复核的市镇同名居民点或驻地
+bo:050402,050402,BO-P,Ravelo,拉韦洛,-18.8069,-65.51178,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3906558/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:050403,050403,BO-P,Pocoata,波科阿塔,-18.69952,-66.1633,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3907767/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:050404,050404,BO-P,Ocurí,奥库里,-18.84183,-65.79644,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3909393/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:050405,050405,BO-P,San Pedro de Macha,圣佩德罗德马查,-18.915651,-66.086567,https://cpv2024.ine.gob.bo/,https://lab-tecnosocial.github.io/municipios-bolivia-2024/,按 SDSN 与 Lab TecnoSocial 行政区地图取辖区内代表点
+bo:050501,050501,BO-P,San Pedro,圣佩德罗,-18.26863,-65.9825,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3905124/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:050502,050502,BO-P,Toro Toro,托罗托罗,-18.13504,-65.76242,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3902587/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:050601,050601,BO-P,Cotagaita,聖地牙哥德科塔蓋塔,-20.81724,-65.66087,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3918972/,经辖区边界复核的市镇同名居民点或驻地
+bo:050602,050602,BO-P,Vitichi,维蒂奇,-20.20726,-65.49521,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3901352/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:050701,050701,BO-P,Sacaca,薩卡卡,-18.0701,-66.38502,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3906187/,经辖区边界复核的市镇同名居民点或驻地
+bo:050702,050702,BO-P,Caripuyo,卡里普约,-18.23318,-66.47377,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3921950/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+csc:10042,050801,BO-P,Tupiza,图皮萨,-21.44345,-65.71875,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3902202/,经辖区边界复核的市镇同名居民点或驻地
+bo:050802,050802,BO-P,Atocha,阿托查,-20.93515,-66.22139,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3923570/,经辖区边界复核的市镇同名居民点或驻地
+bo:050901,050901,BO-P,Colcha 'K',科勒查克,-20.74054,-67.66077,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3901551/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:050902,050902,BO-P,San Pedro de Quemes,圣佩德罗德克梅斯,-20.74744,-68.04986,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3905119/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:051001,051001,BO-P,San Pablo,圣帕布洛,-21.68782,-66.62047,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3905190/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:051002,051002,BO-P,Mojinete,莫希内特,-21.81377,-66.38768,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3910251/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:051003,051003,BO-P,San Antonio de Esmoruco,圣阿恩托尼奥德埃斯莫鲁科,-21.94879,-66.51737,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3905821/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:051101,051101,BO-P,Puna,普纳,-19.79498,-65.50577,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3901515/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:051102,051102,BO-P,Caiza 'D',卡伊扎德,-20.00808,-65.65413,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3922722/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:051103,051103,BO-P,Ckochas,克科查斯,-19.90708,-64.86483,https://cpv2024.ine.gob.bo/,https://www.geonames.org/12520246/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+csc:10044,051201,BO-P,Uyuni,乌尤尼,-20.45967,-66.82503,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3901903/,经辖区边界复核的市镇同名居民点或驻地
+bo:051202,051202,BO-P,Tomave,托马韦,-20.1,-66.58333,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3902676/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:051203,051203,BO-P,Porco,波尔科,-19.79935,-65.98872,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3907670/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:051204,051204,BO-P,Tioc-Jatun Ayllu Yura,蒂奥克哈图恩阿尤尤拉,-20.07282,-66.12466,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3900882/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:051301,051301,BO-P,Arampampa,阿拉姆帕姆帕,-17.95861,-66.09411,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3923772/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:051302,051302,BO-P,Acasio,阿卡西奥,-18.02443,-66.05823,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3924627/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:051401,051401,BO-P,Llica,伊卡,-19.85066,-68.24847,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3911334/,经辖区边界复核的市镇同名居民点或驻地
+bo:051402,051402,BO-P,Tahua,塔瓦,-19.89,-67.69542,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3903687/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:051501,051501,BO-P,Villazón,比亚松,-22.08659,-65.59422,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3901501/,经辖区边界复核的市镇同名居民点或驻地
+bo:051601,051601,BO-P,San Agustín,圣阿格斯蒂恩,-21.15639,-67.6805,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3905922/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+csc:10035,060101,BO-T,Tarija,塔里哈,-21.53549,-64.72956,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3903320/,经辖区边界复核的市镇同名居民点或驻地
+bo:060201,060201,BO-T,Padcaya,帕德卡亞,-21.88682,-64.71321,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3909042/,经辖区边界复核的市镇同名居民点或驻地
+bo:060202,060202,BO-T,Bermejo,贝尔梅霍,-22.73206,-64.33724,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3923154/,经辖区边界复核的市镇同名居民点或驻地
+bo:060301,060301,BO-T,Yacuiba,亚奎瓦,-22.01643,-63.67753,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3901178/,经辖区边界复核的市镇同名居民点或驻地
+bo:060302,060302,BO-T,Caraparí,卡拉帕里,-21.82849,-63.74281,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3922011/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+csc:10047,060303,BO-T,Villa Montes,比亚蒙特斯,-21.26235,-63.46903,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3901547/,经辖区边界复核的市镇同名居民点或驻地
+bo:060401,060401,BO-T,Uriondo,烏里翁多,-21.69697,-64.65576,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3901986/,经辖区边界复核的市镇同名居民点或驻地
+bo:060402,060402,BO-T,Yunchara,尤恩查拉,-21.82417,-65.22794,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3900918/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:060501,060501,BO-T,San Lorenzo,聖洛倫佐,-21.41792,-64.74981,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3905414/,经辖区边界复核的市镇同名居民点或驻地
+bo:060502,060502,BO-T,El Puente,埃尔普埃恩特,-21.23661,-65.20627,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3918098/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:060601,060601,BO-T,Entre Ríos,恩特雷里奥斯,-21.52661,-64.17299,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3917939/,经辖区边界复核的市镇同名居民点或驻地
+csc:10023,070101,BO-S,Santa Cruz de La Sierra,圣克鲁斯-德拉谢拉,-17.78629,-63.18117,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3904906/,经辖区边界复核的市镇同名居民点或驻地
+csc:9859,070102,BO-S,Cotoca,科托卡,-17.74959,-62.83442,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3918938/,经辖区边界复核的市镇同名居民点或驻地
+bo:070103,070103,BO-S,Porongo,波罗恩戈,-17.85451,-63.30885,https://cpv2024.ine.gob.bo/,https://www.geonames.org/12522141/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:070104,070104,BO-S,La Guardia,拉瓜迪亞,-17.89274,-63.29248,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3912196/,经辖区边界复核的市镇同名居民点或驻地
+bo:070105,070105,BO-S,El Torno,埃尔托诺,-18.00014,-63.38712,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3904666/,经辖区边界复核的市镇同名居民点或驻地
+csc:10050,070201,BO-S,Warnes,瓦尔内斯,-17.5163,-63.16778,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3901301/,经辖区边界复核的市镇同名居民点或驻地
+bo:070202,070202,BO-S,Okinawa Uno,奥基纳瓦乌诺,-17.21889,-62.89528,https://cpv2024.ine.gob.bo/,https://www.geonames.org/12522475/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+csc:10013,070301,BO-S,San Ignacio,圣伊格纳西奥,-16.37767,-60.96472,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3905658/,经辖区边界复核的市镇同名居民点或驻地
+bo:070302,070302,BO-S,San Miguel,圣米赫勒,-16.69971,-60.9694,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3905288/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:070303,070303,BO-S,San Rafael,圣拉法埃勒,-16.78667,-60.67438,https://cpv2024.ine.gob.bo/,https://www.geonames.org/12516134/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+csc:9838,070401,BO-S,Buena Vista,布埃纳维斯塔,-17.4583,-63.67126,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3922965/,经辖区边界复核的市镇同名居民点或驻地
+bo:070402,070402,BO-S,San Carlos,圣卡洛斯,-17.40447,-63.732,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3905775/,经辖区边界复核的市镇同名居民点或驻地
+csc:10046,070403,BO-S,Yapacaní,亚帕卡尼别墅,-17.40168,-63.90983,https://cpv2024.ine.gob.bo/,https://www.geonames.org/13451855/,经辖区边界复核的市镇同名居民点或驻地
+bo:070404,070404,BO-S,San Juan,圣胡阿恩,-16.829451,-64.026197,https://cpv2024.ine.gob.bo/,https://lab-tecnosocial.github.io/municipios-bolivia-2024/,按 SDSN 与 Lab TecnoSocial 行政区地图取辖区内代表点；缺少可确认中文名，使用音译
+bo:070501,070501,BO-S,San José,圣霍塞,-17.90536,-60.02608,https://cpv2024.ine.gob.bo/,https://www.geonames.org/12518481/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+csc:9893,070502,BO-S,Pailón,派隆,-17.66395,-62.71804,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3909010/,经辖区边界复核的市镇同名居民点或驻地
+bo:070503,070503,BO-S,Roboré,罗沃雷,-18.33473,-59.76142,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3444176/,经辖区边界复核的市镇同名居民点或驻地
+csc:9897,070601,BO-S,Portachuelo,波尔丘埃洛,-17.35374,-63.39571,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3907646/,经辖区边界复核的市镇同名居民点或驻地
+bo:070602,070602,BO-S,Santa Rosa,圣罗萨,-17.10805,-63.59967,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3904729/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+csc:9875,070603,BO-S,Colpa Bélgica,拉贝尔吉卡,-17.55,-63.21667,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3912418/,经辖区边界复核的市镇同名居民点或驻地
+bo:070701,070701,BO-S,Lagunillas,拉格尼亚斯,-19.65164,-63.67549,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3912150/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:070702,070702,BO-S,Charagua (Autonomía Guaraní Charagua Iyambae),查拉瓜市镇,-19.79028,-63.19775,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3921141/,经辖区边界复核的市镇同名居民点或驻地
+bo:070703,070703,BO-S,Cabezas,卡贝扎斯,-18.78841,-63.31526,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3922878/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:070704,070704,BO-S,Cuevo,奎沃,-20.4522,-63.51994,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3918707/,经辖区边界复核的市镇同名居民点或驻地
+bo:070705,070705,BO-S,Gutiérrez (Autonomía Indígena Kereimba Iyaambae),格蒂埃尔雷兹阿乌托诺米阿伊恩迪赫纳克雷伊姆巴伊亚阿姆巴埃,-19.42336,-63.52926,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3915318/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+csc:9840,070706,BO-S,Camiri,卡米里,-20.04063,-63.52396,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3922414/,经辖区边界复核的市镇同名居民点或驻地
+bo:070707,070707,BO-S,Boyuibe,博尤伊韦,-20.43274,-63.2823,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3923015/,经辖区边界复核的市镇同名居民点或驻地
+csc:10045,070801,BO-S,Vallegrande,巴耶格兰德,-18.48887,-64.10827,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3901874/,经辖区边界复核的市镇同名居民点或驻地
+bo:070802,070802,BO-S,Trigal,特里加勒,-18.30639,-64.14993,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3918025/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:070803,070803,BO-S,Moromoro,莫罗莫罗,-18.37478,-64.28927,https://cpv2024.ine.gob.bo/,https://www.geonames.org/8542035/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:070804,070804,BO-S,Postrervalle,波斯特雷尔瓦耶,-18.49078,-63.83443,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3907599/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:070805,070805,BO-S,Pucara,普卡拉,-18.7159,-64.18389,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3907398/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+csc:10010,070901,BO-S,Samaipata,萨迈帕塔,-18.17754,-63.87563,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3905951/,经辖区边界复核的市镇同名居民点或驻地
+bo:070902,070902,BO-S,Pampagrande,帕姆帕格拉恩德,-18.09026,-64.11184,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3908672/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+csc:9883,070903,BO-S,Mairana,迈拉纳,-18.1199,-63.96058,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3910901/,经辖区边界复核的市镇同名居民点或驻地
+bo:070904,070904,BO-S,Quirusillas,基鲁西亚斯,-18.3358,-63.9472,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3906676/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+csc:9888,071001,BO-S,Montero,蒙特罗,-17.33874,-63.25093,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3910027/,经辖区边界复核的市镇同名居民点或驻地
+bo:071002,071002,BO-S,General Saavedra,萨韦德拉,-17.22751,-63.21284,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3915590/,经辖区边界复核的市镇同名居民点或驻地
+bo:071003,071003,BO-S,Mineros,米内罗斯,-17.11918,-63.23226,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3910343/,经辖区边界复核的市镇同名居民点或驻地
+bo:071004,071004,BO-S,Fernández Alonso,费尔纳恩德兹阿洛恩索,-17.01007,-63.2279,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3907158/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:071005,071005,BO-S,San Pedro,圣佩德罗,-16.8265,-63.48214,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3905156/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:071101,071101,BO-S,Concepción,康塞普西翁,-16.13155,-62.02821,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3919353/,经辖区边界复核的市镇同名居民点或驻地
+bo:071102,071102,BO-S,San Javier,聖哈維爾,-16.27491,-62.50354,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3905621/,经辖区边界复核的市镇同名居民点或驻地
+bo:071103,071103,BO-S,San Julián,圣胡利阿恩,-16.91156,-62.61889,https://cpv2024.ine.gob.bo/,https://www.geonames.org/12521636/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:071104,071104,BO-S,San Antonio de Lomerio,圣阿恩托尼奥德洛梅里奥,-16.76853,-61.81038,https://cpv2024.ine.gob.bo/,https://www.geonames.org/8378715/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:071105,071105,BO-S,San Ramón,圣拉莫恩,-16.61423,-62.50082,https://cpv2024.ine.gob.bo/,https://www.geonames.org/8521789/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:071106,071106,BO-S,Cuatro Cañadas,夸特罗卡尼亚达斯,-17.2672,-62.5589,https://cpv2024.ine.gob.bo/,https://www.geonames.org/8335389/,经辖区边界复核的市镇同名居民点或驻地
+csc:10016,071201,BO-S,San Matías,圣马蒂亚斯,-16.3597,-58.40039,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3444105/,经辖区边界复核的市镇同名居民点或驻地
+csc:9855,071301,BO-S,Comarapa,科马拉帕,-17.91537,-64.53163,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3919703/,经辖区边界复核的市镇同名居民点或驻地
+bo:071302,071302,BO-S,Saipina,賽皮納,-18.09443,-64.58287,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3906127/,经辖区边界复核的市镇同名居民点或驻地
+bo:071401,071401,BO-S,Puerto Suárez,蘇亞雷斯港,-18.96722,-57.80127,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3444199/,经辖区边界复核的市镇同名居民点或驻地
+bo:071402,071402,BO-S,Puerto Quijarro,港基哈尔罗,-19.00279,-57.71784,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3444510/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:071403,071403,BO-S,El Carmen Rivero Tórrez,埃尔卡尔梅恩里韦罗托尔雷兹,-18.82746,-58.62448,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3444620/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:071501,071501,BO-S,Ascención de Guarayos,瓜拉约斯升天,-15.89299,-63.18855,https://cpv2024.ine.gob.bo/,https://www.geonames.org/9129422/,经辖区边界复核的市镇同名居民点或驻地
+bo:071502,071502,BO-S,Urubichá,乌鲁比查,-15.39286,-62.94661,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3901969/,经辖区边界复核的市镇同名居民点或驻地
+bo:071503,071503,BO-S,El Puente,埃尔普埃恩特,-16.41283,-62.86345,https://cpv2024.ine.gob.bo/,https://www.geonames.org/12521279/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+csc:10041,080101,BO-B,Trinidad,特立尼达,-14.83223,-64.90335,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3902377/,经辖区边界复核的市镇同名居民点或驻地
+bo:080102,080102,BO-B,San Javier,圣哈维埃尔,-14.56667,-64.83333,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3905622/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+csc:10006,080201,BO-B,Riberalta,里韦拉尔塔,-11.01026,-66.05257,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3906466/,经辖区边界复核的市镇同名居民点或驻地
+csc:9867,080202,BO-B,Guayaramerín,瓜亚拉梅林,-10.8258,-65.3581,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3915350/,经辖区边界复核的市镇同名居民点或驻地
+csc:10005,080301,BO-B,Reyes,雷耶斯,-14.2952,-67.33624,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3906478/,经辖区边界复核的市镇同名居民点或驻地
+csc:10011,080302,BO-B,San Borja,圣博尔哈,-14.85195,-66.74954,https://cpv2024.ine.gob.bo/,https://www.geonames.org/11467676/,经辖区边界复核的市镇同名居民点或驻地
+bo:080303,080303,BO-B,Santa Rosa,圣罗莎德亚库马,-14.07719,-66.79349,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3904793/,经辖区边界复核的市镇同名居民点或驻地
+csc:10008,080304,BO-B,Puerto Menor de Rurrenabaque,鲁雷纳瓦克,-14.44125,-67.52781,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3906209/,经辖区边界复核的市镇同名居民点或驻地
+bo:080401,080401,BO-B,Santa Ana,圣安娜德亚库马,-13.74406,-65.42688,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3905007/,经辖区边界复核的市镇同名居民点或驻地
+bo:080402,080402,BO-B,Exaltación,埃阿勒塔西奥恩,-13.27856,-65.23995,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3915822/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:080501,080501,BO-B,San Ignacio,圣伊格纳西奥,-14.9947,-65.64074,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3905660/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:080601,080601,BO-B,Loreto,洛雷托,-15.19275,-64.75887,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3911202/,经辖区边界复核的市镇同名居民点或驻地
+bo:080602,080602,BO-B,San Andrés,圣阿恩德雷斯,-15.6,-64.26667,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3905910/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:080701,080701,BO-B,San Joaquín,圣霍阿基恩,-13.041,-64.668,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3905610/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:080702,080702,BO-B,San Ramón,圣拉蒙,-13.26647,-64.61515,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3905088/,经辖区边界复核的市镇同名居民点或驻地
+bo:080703,080703,BO-B,Puerto Síles,港西莱斯,-12.379192,-65.016695,https://cpv2024.ine.gob.bo/,https://lab-tecnosocial.github.io/municipios-bolivia-2024/,按 SDSN 与 Lab TecnoSocial 行政区地图取辖区内代表点；缺少可确认中文名，使用音译
+bo:080801,080801,BO-B,Magdalena,马格达莱纳,-13.25913,-64.0532,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3910919/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:080802,080802,BO-B,Baures,巴乌雷斯,-13.65766,-63.6952,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3923273/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:080803,080803,BO-B,Huacaraje,瓦卡拉赫,-13.59449,-63.87863,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3915079/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:080901,080901,BO-B,Tioc-Territorio Indígena Multiétnico,蒂奥克特尔里托里奥伊恩迪赫纳穆勒蒂埃特尼科,-15.341854,-66.085366,https://cpv2024.ine.gob.bo/,https://lab-tecnosocial.github.io/municipios-bolivia-2024/,按 SDSN 与 Lab TecnoSocial 行政区地图取辖区内代表点；缺少可确认中文名，使用音译
+csc:9848,090101,BO-N,Cobija,科维哈,-11.02671,-68.76918,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3919998/,经辖区边界复核的市镇同名居民点或驻地
+bo:090102,090102,BO-N,Porvenir,波尔韦尼尔,-11.23459,-68.68802,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3907625/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:090103,090103,BO-N,Bolpebra,博勒佩布拉,-10.94894,-69.56369,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3923056/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:090104,090104,BO-N,Bella Flor,贝亚夫洛尔,-11.14209,-67.8205,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3923222/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:090201,090201,BO-N,Puerto Rico,里科港,-11.10587,-67.55228,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3907193/,经辖区边界复核的市镇同名居民点或驻地
+bo:090202,090202,BO-N,San Pedro,圣佩德罗,-11.069114,-66.724324,https://cpv2024.ine.gob.bo/,https://lab-tecnosocial.github.io/municipios-bolivia-2024/,按 SDSN 与 Lab TecnoSocial 行政区地图取辖区内代表点；缺少可确认中文名，使用音译
+bo:090203,090203,BO-N,Filadelfia,菲拉德勒菲阿,-11.34652,-68.75787,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3915764/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:090301,090301,BO-N,Puerto Gonzalo Moreno,貢薩洛莫雷諾港,-11.08255,-66.17367,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3907237/,经辖区边界复核的市镇同名居民点或驻地
+bo:090302,090302,BO-N,San Lorenzo,圣洛雷恩佐,-11.78685,-66.937451,https://cpv2024.ine.gob.bo/,https://lab-tecnosocial.github.io/municipios-bolivia-2024/,按 SDSN 与 Lab TecnoSocial 行政区地图取辖区内代表点；缺少可确认中文名，使用音译
+bo:090303,090303,BO-N,Sena,塞纳,-11.48668,-67.24735,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3904422/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:090401,090401,BO-N,Santa Rosa,聖羅薩德爾阿布納,-10.60743,-67.45247,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3904736/,经辖区边界复核的市镇同名居民点或驻地
+bo:090402,090402,BO-N,Ingavi,伊恩加维,-10.95368,-66.82909,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3914184/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:090501,090501,BO-N,Nueva Esperanza,新埃斯佩拉恩扎,-10.05823,-65.34021,https://cpv2024.ine.gob.bo/,https://www.geonames.org/12482294/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:090502,090502,BO-N,Villa Nueva,比亚新,-10.7918,-65.96891,https://cpv2024.ine.gob.bo/,https://www.geonames.org/3911244/,经辖区边界复核的市镇同名居民点或驻地；缺少可确认中文名，使用音译
+bo:090503,090503,BO-N,Santos Mercado,萨恩托斯梅尔卡多,-10.098071,-66.15594,https://cpv2024.ine.gob.bo/,https://lab-tecnosocial.github.io/municipios-bolivia-2024/,按 SDSN 与 Lab TecnoSocial 行政区地图取辖区内代表点；缺少可确认中文名，使用音译

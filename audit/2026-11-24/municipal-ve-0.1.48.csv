@@ -1,0 +1,336 @@
+id,official_id,region,en,zh,latitude,longitude,roster_source,coordinate_source,notes
+csc:149261,0101,VE-A,Caracas,加拉加斯,10.5,-66.933333,https://data.humdata.org/dataset/cod-ab-ven,https://github.com/dr5hn/countries-states-cities-database,已通过 INE 市镇边界核对的既有地点
+ve:0201,0201,VE-Z,Alto Orinoco,阿勒托奥里诺科,3.17453,-65.54517,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3638075/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:0202,0202,VE-Z,Atabapo,阿塔瓦波河畔圣费尔南多,4.04564,-67.69934,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3628394/,已在 INE 市镇边界内核对的驻地或同名城镇
+csc:130131,0203,VE-Z,Atures,阿亚库乔港,5.66049,-67.58343,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3629710/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:0204,0204,VE-Z,Autana,阿乌塔纳,5.06862,-67.81295,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3755947/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:0205,0205,VE-Z,Maroa,马罗阿,2.7188,-67.56046,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3632867/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:0206,0206,VE-Z,Manapiare,圣胡安德马纳皮亚雷,5.32665,-66.05402,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3628052/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:0207,0207,VE-Z,Río Negro,内格罗河畔圣卡洛斯,1.92027,-67.06089,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3628488/,已在 INE 市镇边界内核对的驻地或同名城镇
+csc:130041,0301,VE-B,Anaco,阿纳科,9.42958,-64.46428,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3486270/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:0302,0302,VE-B,Aragua,阿拉瓜德巴塞隆纳,9.45588,-64.82928,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3649100/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:0303,0303,VE-B,Fernando de Peñalver,皮里图港,10.05896,-65.03698,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3629653/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:0304,0304,VE-B,Francisco del Carmen Carvajal,夫拉恩西斯科德尔卡尔梅恩卡尔瓦哈勒,9.90999,-65.67405,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3625519/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:0305,0305,VE-B,Francisco de Miranda,夫拉恩西斯科德米拉恩达,8.84357,-64.71053,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3630687/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:0306,0306,VE-B,Guanta,加恩塔,10.23453,-64.59708,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3640179/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:0307,0307,VE-B,Independencia,伊恩德佩恩德恩西阿,8.16206,-63.5654,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3626741/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+csc:130133,0308,VE-B,Juan Antonio Sotillo,拉克鲁斯港,10.21382,-64.6328,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3629672/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:0309,0309,VE-B,Juan Manuel Cajigal,奥诺托,9.59714,-65.1935,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3631333/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:0310,0310,VE-B,José Gregorio Monagas,霍塞格雷戈里奥莫纳加斯,7.74085,-64.71047,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3633075/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:0311,0311,VE-B,Libertad,利贝尔塔德,9.74004,-64.54937,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3627969/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:0312,0312,VE-B,Manuel Ezequiel Bruzual,马努埃勒埃泽基埃勒布鲁祖阿勒,9.93991,-65.16517,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3645522/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:0313,0313,VE-B,Pedro María Freites,坎陶拉,9.30571,-64.35841,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3646869/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:0314,0314,VE-B,Piritu,皮里图,10.0395,-65.03037,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3630087/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:0315,0315,VE-B,San José de Guanipa,圣何塞德瓜尼帕,8.88724,-64.16512,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3628142/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:0316,0316,VE-B,San Juan de Capistrano,圣胡阿恩德卡皮斯特拉诺,10.13191,-65.42236,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3648163/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:0317,0317,VE-B,Santa Ana,圣阿纳,9.3056,-64.65478,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3627609/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+csc:130044,0318,VE-B,Simón Bolívar,巴塞罗那,10.1384,-64.68769,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3648559/,已在 INE 市镇边界内核对的驻地或同名城镇
+csc:130078,0319,VE-B,Simón Rodríguez,埃尔蒂格雷,8.88902,-64.2527,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3641351/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:0320,0320,VE-B,Sir Arthur McGregor,西尔阿尔特尔姆克格雷戈尔,9.15204,-65.01732,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3485791/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:0321,0321,VE-B,Diego Bautista Urbaneja,迪埃戈巴乌蒂斯塔乌尔巴内哈,10.19167,-64.69207,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3642497/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:0401,0401,VE-C,Achaguas,阿查加斯,7.77917,-68.22373,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3649810/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:0402,0402,VE-C,Biruaca,比鲁阿卡,7.84483,-67.51679,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3648279/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:0403,0403,VE-C,Muñoz,穆诺兹,8.05052,-69.33257,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3647931/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+csc:165735,0404,VE-C,Páez,瓜斯杜阿利托,7.24241,-70.73235,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3804949/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:0405,0405,VE-C,Pedro Camejo,佩德罗卡梅霍,7.64636,-67.6072,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3805700/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:0406,0406,VE-C,Rómulo Gallegos,罗穆洛加耶戈斯,7.06088,-69.49765,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3642390/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+csc:153351,0407,VE-C,San Fernando,阿普雷河畔圣费尔南多,7.88963,-67.47181,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3805673/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:0501,0501,VE-D,Bolívar,圣马特奥,10.21302,-67.42365,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3627968/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:0502,0502,VE-D,Camatagua,卡马塔加,9.78762,-66.90619,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3647382/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+csc:130104,0503,VE-D,Girardot,马拉凯,10.24972,-67.59475,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3632998/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:0504,0504,VE-D,José Ángel Lamas,霍塞阿恩赫勒拉马斯,10.18,-67.51184,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3627457/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:0505,0505,VE-D,José Félix Ribas,拉维多利亚,10.22677,-67.33122,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3634922/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:0506,0506,VE-D,José Rafael Revenga,霍塞拉法埃勒雷韦恩加,10.23777,-67.27008,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3643568/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:0507,0507,VE-D,Libertador,帕洛内格罗,10.17389,-67.54194,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3630932/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:0508,0508,VE-D,Mario Briceño Iragorry,埃尔利蒙,10.30589,-67.63212,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3642833/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:0509,0509,VE-D,San Casimiro,圣卡西米罗,10.00169,-67.01464,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3628487/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:0510,0510,VE-D,San Sebastián,圣塞巴斯蒂阿恩,9.94108,-67.17183,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3806799/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+csc:130162,0511,VE-D,Santiago Mariño,圖爾梅羅,10.22856,-67.47421,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3625829/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:0512,0512,VE-D,Santos Michelena,拉斯特赫里亚斯,10.25416,-67.17333,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3635325/,已在 INE 市镇边界内核对的驻地或同名城镇
+csc:130052,0513,VE-D,Sucre,卡瓜,10.18634,-67.45935,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3647549/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:0514,0514,VE-D,Tovar,托瓦尔,10.40602,-67.29199,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3626045/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:0515,0515,VE-D,Urdaneta,乌尔达内塔,9.47855,-66.97458,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3648580/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:0516,0516,VE-D,Ezequiel Zamora,库拉镇,10.03863,-67.48938,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3625341/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:0517,0517,VE-D,Francisco Linares Alcántara,圣里塔,10.2054,-67.55948,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3753107/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:0518,0518,VE-D,Costa de Oro,黄金海岸,10.46127,-67.76872,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3631413/,已在 INE 市镇边界内核对的驻地或同名城镇；原地图重复了 0508，采用 INE 的 0518
+ve:0601,0601,VE-E,Alberto Arvelo Torrealba,阿勒贝尔托阿尔韦洛托尔雷阿勒巴,8.75234,-69.93351,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3628853/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:0602,0602,VE-E,Antonio José de Sucre,阿恩托尼奥霍塞德苏克雷,8.23062,-70.82198,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3626764/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:0603,0603,VE-E,Arismendi,阿里斯梅恩迪,8.47974,-68.36996,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3648885/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+csc:130045,0604,VE-E,Barinas,巴里纳斯,8.62064,-70.23105,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3648546/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:0605,0605,VE-E,Bolívar,巴里尼塔斯,8.76171,-70.41199,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3648540/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:0606,0606,VE-E,Cruz Paredes,克鲁兹帕雷德斯,8.76962,-70.11086,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3648506/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:0607,0607,VE-E,Ezequiel Zamora,埃泽基埃勒扎莫拉,7.81348,-71.17788,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3627561/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:0608,0608,VE-E,Obispos,奥比斯波斯,8.60701,-70.10489,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3631431/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:0609,0609,VE-E,Pedraza,佩德拉扎,8.35304,-70.57121,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3645531/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:0610,0610,VE-E,Rojas,罗哈斯,8.32709,-69.63093,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3634761/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:0611,0611,VE-E,Sosa,索萨,8.09535,-69.30798,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3645529/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:0612,0612,VE-E,Andrés Eloy Blanco,阿恩德雷斯埃洛布拉恩科,7.47801,-71.29693,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3643962/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+csc:130068,0701,VE-F,Caroní,圭亚那城,8.35122,-62.64102,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3645528/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:0702,0702,VE-F,Cedeño,塞德诺,7.63501,-66.16815,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3647537/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:0703,0703,VE-F,El Callao,卡罗尼,7.34706,-61.82684,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3644022/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:0704,0704,VE-F,Gran Sabana,格拉恩萨巴纳,5.203238,-61.598519,https://data.humdata.org/dataset/cod-ab-ven,https://data.humdata.org/dataset/cod-ab-ven,按 INE 市镇边界校核的内部代表点；缺少可确认中文名，使用音译
+csc:130067,0705,VE-F,Angostura del Orinoco,安戈斯图拉-德尔奥里诺科,8.12366,-63.54694,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3645532/,已在 INE 市镇边界内核对的驻地或同名城镇
+csc:130164,0706,VE-F,Piar,乌帕塔,8.0162,-62.40561,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3625710/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:0707,0707,VE-F,Bolivariano Angostura,博利瓦里阿诺阿恩戈斯图拉,7.45209,-63.31992,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3645525/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:0708,0708,VE-F,Roscio,罗斯西奥,7.47702,-61.89666,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3639922/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:0709,0709,VE-F,Sifontes,西福恩特斯,7.29861,-61.50497,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3625892/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:0710,0710,VE-F,Sucre,苏克雷,7.41584,-65.19034,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3632890/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:0711,0711,VE-F,Padre Pedro Chien,帕德雷佩德罗奇埃恩,8.01082,-61.90713,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3642332/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:0801,0801,VE-G,Bejuma,贝胡马,10.17383,-68.25892,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3648386/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:0802,0802,VE-G,Carlos Arvelo,圭圭,10.08344,-67.77799,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3639747/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:0803,0803,VE-G,Diego Ibarra,马里亚拉,10.29532,-67.7177,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3632929/,已在 INE 市镇边界内核对的驻地或同名城镇
+csc:130081,0804,VE-G,Guacara,瓜卡拉,10.22609,-67.877,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3640465/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:0805,0805,VE-G,Juan José Mora,莫龙,10.48715,-68.20078,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3631878/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:0806,0806,VE-G,Libertador,托库伊托,10.11347,-68.06783,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3481456/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:0807,0807,VE-G,Los Guayos,洛斯瓜约斯,10.18932,-67.93828,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3634116/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:0808,0808,VE-G,Miranda,米拉恩达,10.15077,-68.39325,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3632198/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:0809,0809,VE-G,Montalbán,莫恩塔勒巴恩,10.21313,-68.32669,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3632072/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:0810,0810,VE-G,Naguanagua,纳加纳加,10.25604,-68.01649,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3631614/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+csc:130132,0811,VE-G,Puerto Cabello,卡贝略港,10.47306,-68.0125,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3629706/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:0812,0812,VE-G,San Diego,圣迪埃戈,10.26057,-67.95363,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3628462/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:0813,0813,VE-G,San Joaquín,圣华金,10.26061,-67.79348,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3628267/,已在 INE 市镇边界内核对的驻地或同名城镇
+csc:130165,0814,VE-G,Valencia,巴伦西亚,10.16153,-68.00044,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3625549/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:0901,0901,VE-H,Anzoátegui,阿恩佐阿特希,9.62232,-68.91805,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3645387/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:0902,0902,VE-H,Tinaquillo,蒂纳基约,9.91861,-68.30472,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3626219/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:0903,0903,VE-H,Girardot,希拉尔多特,8.96225,-68.29511,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3644163/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:0904,0904,VE-H,Lima Blanco,利马布拉恩科,9.82533,-68.43866,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3799319/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:0905,0905,VE-H,Pao de San Juan Bautista,帕奥德圣胡阿恩巴乌蒂斯塔,9.63926,-68.12917,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3642260/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:0906,0906,VE-H,Ricaurte,里卡乌尔特,9.35654,-68.69221,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3634760/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:0907,0907,VE-H,Rómulo Gallegos,罗穆洛加耶戈斯,9.53724,-68.63022,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3635260/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+csc:130141,0908,VE-H,Ezequiel Zamora,圣卡洛斯,9.66415,-68.58659,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3628503/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:0909,0909,VE-H,Tinaco,蒂纳科,9.69894,-68.43273,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3626235/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1001,1001,VE-Y,Antonio Díaz,阿恩托尼奥迪阿兹,8.58057,-60.99778,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3644646/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1002,1002,VE-Y,Casacoima,卡萨科伊马,8.39352,-62.45439,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3762895/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1003,1003,VE-Y,Pedernales,佩德尔纳莱斯,9.971,-62.252,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3630490/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+csc:130161,1004,VE-Y,Tucupita,图库皮塔,9.06263,-62.05208,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3625929/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:1101,1101,VE-I,Acosta,阿科斯塔,11.17203,-68.4128,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3628055/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1102,1102,VE-I,Bolívar,博利瓦尔,11.12034,-69.68397,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3627997/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1103,1103,VE-I,Buchivacoa,布奇瓦科阿,11.05659,-70.63038,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3647887/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1104,1104,VE-I,Cacique Manaure,卡西克马纳乌雷,10.96985,-68.54648,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3625214/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+csc:130136,1105,VE-I,Carirubana,蓬托菲霍,11.69152,-70.19918,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3629576/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:1106,1106,VE-I,Colina,科利纳,11.46077,-69.5657,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3634965/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1107,1107,VE-I,Dabajuro,达巴胡罗,11.02273,-70.67769,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3644571/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1108,1108,VE-I,Democracia,德莫克拉西阿,10.879928,-70.249232,https://data.humdata.org/dataset/cod-ab-ven,https://data.humdata.org/dataset/cod-ab-ven,按 INE 市镇边界校核的内部代表点；缺少可确认中文名，使用音译
+ve:1109,1109,VE-I,Falcón,法勒科恩,11.94788,-69.92306,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3629768/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1110,1110,VE-I,Federación,费德拉西奥恩,10.81231,-69.53734,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3645586/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1111,1111,VE-I,Jacura,哈库拉,11.07446,-68.85583,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3639282/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1112,1112,VE-I,Los Taques,洛斯塔克斯,11.8235,-70.25637,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/7909705/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1113,1113,VE-I,Mauroa,马乌罗阿,10.68091,-71.03609,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3632401/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1114,1114,VE-I,Miranda,聖安娜德科羅,11.40769,-69.67822,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3645213/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:1115,1115,VE-I,Monseñor Iturriza,奇奇里维切,10.92872,-68.27283,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3645806/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:1116,1116,VE-I,Palmasola,帕勒马索拉,10.670905,-68.56014,https://data.humdata.org/dataset/cod-ab-ven,https://data.humdata.org/dataset/cod-ab-ven,按 INE 市镇边界校核的内部代表点；缺少可确认中文名，使用音译
+ve:1117,1117,VE-I,Petit,佩蒂特,11.1453,-69.61191,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3647636/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1118,1118,VE-I,Piritu,皮里图,11.36648,-69.13807,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3630086/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1119,1119,VE-I,San Francisco,圣夫拉恩西斯科,11.1602,-68.72604,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3632186/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1120,1120,VE-I,Silva,图卡卡斯,10.79006,-68.32564,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3625965/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:1121,1121,VE-I,Sucre,苏克雷,11.06302,-69.71287,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3638264/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1122,1122,VE-I,Tocopero,托科佩罗,11.49946,-69.259,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3626168/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1123,1123,VE-I,Unión,乌尼奥恩,10.81919,-69.27679,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3627423/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1124,1124,VE-I,Urumaco,乌鲁马科,11.19996,-70.25543,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3625613/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1125,1125,VE-I,Zamora,扎莫拉,11.48614,-69.35319,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3629696/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1201,1201,VE-J,Camaguan,卡马加恩,8.10732,-67.60738,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3647400/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1202,1202,VE-J,Chaguaramas,查加拉马斯,9.33754,-66.25282,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3645944/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1203,1203,VE-J,El Socorro,埃尔索科尔罗,8.99352,-65.74247,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3641460/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1204,1204,VE-J,San Gerónimo de Guayabal,圣赫罗尼莫德加亚巴勒,8.00077,-67.39732,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3639880/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+csc:130167,1205,VE-J,Leonardo Infante,帕斯夸谷镇,9.21554,-66.00734,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3625515/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:1206,1206,VE-J,Las Mercedes,拉斯梅尔塞德斯,9.11037,-66.39607,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3635714/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1207,1207,VE-J,Julián Mellado,胡利阿恩梅亚多,9.3863,-67.05818,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3641440/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+csc:130053,1208,VE-J,Francisco de Miranda,卡拉沃索,8.92416,-67.42929,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3647444/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:1209,1209,VE-J,José Tadeo Monagas,奥里图科河畔阿尔塔格拉西亚,9.86005,-66.38139,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3649408/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:1210,1210,VE-J,Ortiz,奥尔蒂兹,9.62168,-67.29047,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3631247/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1211,1211,VE-J,José Félix Ribas,霍塞费利里巴斯,9.27304,-65.77153,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3625944/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1212,1212,VE-J,Juan Germán Roscio,圣胡安德洛斯莫罗斯,9.91246,-67.35398,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3628053/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:1213,1213,VE-J,San José de Guaribe,圣霍塞德加里贝,9.86025,-65.81306,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3774127/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1214,1214,VE-J,Santa María de Ipire,圣马里阿德伊皮雷,8.81556,-65.3225,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3627237/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+csc:130171,1215,VE-J,Pedro Zaraza,萨拉萨,9.35029,-65.32452,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3625066/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:1301,1301,VE-K,Andrés Eloy Blanco,阿恩德雷斯埃洛布拉恩科,9.75209,-69.6524,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3628545/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1302,1302,VE-K,Crespo,克雷斯波,10.28554,-69.16244,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3644440/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+csc:130047,1303,VE-K,Iribarren,巴基西梅托,10.0647,-69.35703,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3648522/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:1304,1304,VE-K,Jiménez,基沃尔,9.92866,-69.6201,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3629419/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:1305,1305,VE-K,Moran,埃尔托库约,9.78709,-69.79294,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3641275/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:1306,1306,VE-K,Palavecino,卡武达雷,10.02658,-69.26203,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3647637/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:1307,1307,VE-K,Simón Planas,西莫恩普拉纳斯,9.78129,-69.1633,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3626960/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+csc:130057,1308,VE-K,Torres,卡罗拉,10.17283,-70.081,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3646487/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:1309,1309,VE-K,Urdaneta,乌尔达内塔,10.562479,-69.552535,https://data.humdata.org/dataset/cod-ab-ven,https://data.humdata.org/dataset/cod-ab-ven,按 INE 市镇边界校核的内部代表点；缺少可确认中文名，使用音译
+ve:1401,1401,VE-L,Alberto Adriani,埃尔维吉亚,8.6135,-71.65702,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3641099/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:1402,1402,VE-L,Andrés Bello,阿恩德雷斯贝约,8.71364,-71.44421,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3638904/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1403,1403,VE-L,Antonio Pinto Salinas,阿恩托尼奥皮恩托萨利纳斯,8.39925,-71.64082,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3627418/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1404,1404,VE-L,Aricagua,阿里卡加,8.22432,-71.13721,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3648916/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1405,1405,VE-L,Arzobispo Chacón,阿尔佐比斯波查科恩,8.12489,-71.46041,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3634762/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1406,1406,VE-L,Campo Elías,埃希多,8.54665,-71.24087,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3644417/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:1407,1407,VE-L,Caracciolo Parra Olmedo,卡拉克西奥洛帕尔拉奥勒梅多,8.829874,-71.181624,https://data.humdata.org/dataset/cod-ab-ven,https://data.humdata.org/dataset/cod-ab-ven,按 INE 市镇边界校核的内部代表点；缺少可确认中文名，使用音译
+ve:1408,1408,VE-L,Cardenal Quintero,卡尔德纳勒基恩特罗,8.86052,-70.6948,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3627021/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1409,1409,VE-L,Guaraque,加拉克,8.15405,-71.73562,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3640100/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1410,1410,VE-L,Julio César Salas,胡利奥塞萨尔萨拉斯,9.122864,-70.876967,https://data.humdata.org/dataset/cod-ab-ven,https://data.humdata.org/dataset/cod-ab-ven,按 INE 市镇边界校核的内部代表点；缺少可确认中文名，使用音译
+ve:1411,1411,VE-L,Justo Briceño,胡斯托布里塞诺,9.03457,-71.01412,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3626094/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+csc:130124,1412,VE-L,Libertador,梅里达,8.57899,-71.16922,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3632308/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:1413,1413,VE-L,Miranda,米拉恩达,8.98224,-70.73926,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3626237/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1414,1414,VE-L,Obispo Ramos de Lora,奥比斯波拉莫斯德洛拉,8.82062,-71.46572,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3627384/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1415,1415,VE-L,Padre Noguera,帕德雷诺赫拉,7.784888,-71.486681,https://data.humdata.org/dataset/cod-ab-ven,https://data.humdata.org/dataset/cod-ab-ven,按 INE 市镇边界校核的内部代表点；缺少可确认中文名，使用音译
+ve:1416,1416,VE-L,Pueblo Llano,普埃布洛亚诺,8.9152,-70.65919,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3629800/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1417,1417,VE-L,Rangel,拉恩赫勒,8.74921,-70.91978,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3631752/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1418,1418,VE-L,Rivas Dávila,拜拉多雷斯,8.25347,-71.82818,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3648685/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:1419,1419,VE-L,Santos Marquina,萨恩托斯马尔基纳,8.6317,-71.07833,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3626595/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1420,1420,VE-L,Sucre,苏克雷,8.50457,-71.3894,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3637624/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1421,1421,VE-L,Tovar,托瓦爾市,8.33015,-71.75277,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3626047/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:1422,1422,VE-L,Tulio Febres Cordero,图利奥费布雷斯科尔德罗,9.14007,-71.09143,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3631465/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1423,1423,VE-L,Zea,泽阿,8.37706,-71.78398,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3625051/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1501,1501,VE-M,Acevedo,阿塞韦多,10.2831,-66.37591,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3646175/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1502,1502,VE-M,Andrés Bello,阿恩德雷斯贝约,10.30125,-65.99053,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3628129/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1503,1503,VE-M,Baruta,巴鲁塔,10.43424,-66.87558,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3648439/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:1504,1504,VE-M,Brión,布里奥恩,10.48287,-66.10096,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3639526/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1505,1505,VE-M,Buroz,布罗兹,10.36556,-66.13391,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3633248/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1506,1506,VE-M,Carrizal,卡里萨尔,10.34985,-66.98632,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3646451/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:1507,1507,VE-M,Chacao,查考,10.49581,-66.85367,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3645981/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:1508,1508,VE-M,Cristóbal Rojas,查拉亚韦,10.24247,-66.85723,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3645854/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:1509,1509,VE-M,El Hatillo,埃尔阿蒂略,10.42411,-66.82581,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3643031/,已在 INE 市镇边界内核对的驻地或同名城镇
+csc:130100,1510,VE-M,Bolivariano Guaicaipuro,洛斯特克斯,10.34954,-67.04266,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3633622/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:1511,1511,VE-M,Independencia,圣特蕾莎德尔图尔,10.23291,-66.66474,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3627047/,已在 INE 市镇边界内核对的驻地或同名城镇
+csc:130126,1512,VE-M,Lander,奥库马雷·德尔图伊,10.1182,-66.77513,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3631412/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:1513,1513,VE-M,Los Salías,圣安东尼奥德洛斯阿尔托斯,10.38853,-66.95179,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3628550/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:1514,1514,VE-M,Páez,帕埃兹,10.31899,-65.97751,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3629102/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1515,1515,VE-M,Paz Castillo,帕兹卡斯蒂约,10.30494,-66.65998,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3627296/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1516,1516,VE-M,Pedro Gual,佩德罗加勒,10.16128,-65.70013,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3644701/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+csc:130083,1517,VE-M,Plaza,瓜雷納斯,10.47027,-66.61934,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3640049/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:1518,1518,VE-M,Simón Bolívar,西莫恩博利瓦尔,10.17793,-66.74649,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3628350/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1519,1519,VE-M,Sucre,佩塔雷,10.47679,-66.80786,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3630297/,已在 INE 市镇边界内核对的驻地或同名城镇
+csc:130073,1520,VE-M,Urdaneta,庫阿,10.16245,-66.88248,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3644918/,已在 INE 市镇边界内核对的驻地或同名城镇
+csc:130084,1521,VE-M,Zamora,瓜蒂雷,10.474,-66.54241,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3639898/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:1601,1601,VE-N,Acosta,阿科斯塔,10.11914,-63.72535,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3628619/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1602,1602,VE-N,Aguasay,阿加萨,9.42489,-63.73077,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3649576/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1603,1603,VE-N,Bolívar,卡里皮托,10.11135,-63.09985,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3646534/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:1604,1604,VE-N,Caripe,卡里佩,10.17335,-63.50048,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3646537/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1605,1605,VE-N,Cedeño,塞德诺,9.81755,-63.61331,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3647535/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1606,1606,VE-N,Ezequiel Zamora,埃泽基埃勒扎莫拉,9.69131,-63.60921,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3629606/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1607,1607,VE-N,Libertador,利贝尔塔多尔,9.00525,-62.64493,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3626352/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+csc:130107,1608,VE-N,Maturín,马图林,9.74569,-63.18323,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3778045/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:1609,1609,VE-N,Piar,皮阿尔,9.97026,-63.48727,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3649099/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1610,1610,VE-N,Punceres,普恩塞雷斯,9.9795,-63.21991,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3629385/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1611,1611,VE-N,Santa Bárbara,圣巴尔巴拉,9.60745,-63.60938,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3627549/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1612,1612,VE-N,Sotillo,索蒂约,8.6989,-62.19656,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3648507/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1613,1613,VE-N,Uracoa,乌拉科阿,8.99432,-62.35202,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3625693/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1701,1701,VE-O,Antolín del Campo,阿恩托利恩德尔卡姆波,11.10783,-63.85537,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3630778/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1702,1702,VE-O,Arismendi,拉亚松森,11.03333,-63.86278,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3480908/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:1703,1703,VE-O,Díaz,迪阿兹,11.01243,-63.94412,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3628066/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1704,1704,VE-O,García,加尔西阿,10.98325,-63.88346,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3641154/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1705,1705,VE-O,Gómez,戈梅兹,11.06831,-63.92256,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3627593/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1706,1706,VE-O,Maneiro,马内伊罗,11.00085,-63.79298,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3630893/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1707,1707,VE-O,Marcano,胡安格列戈,11.08172,-63.96549,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3639107/,已在 INE 市镇边界内核对的驻地或同名城镇
+csc:130130,1708,VE-O,Mariño,波拉马尔,10.95771,-63.86971,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3629965/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:1709,1709,VE-O,Península de Macanao,佩尼恩苏拉德马卡纳奥,10.96712,-64.17951,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3648187/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1710,1710,VE-O,Tubores,图博雷斯,10.90123,-64.0969,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3629601/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1711,1711,VE-O,Villalba,维亚勒巴,10.78153,-63.99636,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3627798/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1801,1801,VE-P,Agua Blanca,阿加布拉恩卡,9.66205,-69.10677,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3797773/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1802,1802,VE-P,Araure,阿劳雷,9.58144,-69.23851,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3649017/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:1803,1803,VE-P,Esteller,埃斯特耶尔,9.37083,-69.21028,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3630089/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+csc:130082,1804,VE-P,Guanare,瓜纳雷,9.03934,-69.73364,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3640226/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:1805,1805,VE-P,Guanarito,加纳里托,8.69625,-69.20832,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3640215/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1806,1806,VE-P,Monseñor José Vicente de Unda,莫恩塞诺尔霍塞维塞恩特德乌恩达,9.43326,-69.94728,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3630761/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1807,1807,VE-P,Ospino,奥斯皮诺,9.29572,-69.45434,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3631208/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+csc:130038,1808,VE-P,Páez,阿卡里瓜,9.55451,-69.19564,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3649833/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:1809,1809,VE-P,Papelón,帕佩洛恩,8.94109,-69.46021,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3630826/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1810,1810,VE-P,San Genaro de Boconoito,圣赫纳罗德博科诺伊托,8.84659,-69.98032,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3648127/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1811,1811,VE-P,San Rafael de Onoto,圣拉法埃勒德奥诺托,9.67813,-68.97278,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3627680/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1812,1812,VE-P,Santa Rosalía,圣罗萨利阿,9.10049,-69.04564,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3798450/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1813,1813,VE-P,Sucre,苏克雷,9.36,-69.98302,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3648274/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1814,1814,VE-P,Turen,比利亚布鲁苏阿尔,9.33186,-69.11968,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3625346/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:1901,1901,VE-R,Andrés Eloy Blanco,阿恩德雷斯埃洛布拉恩科,10.5042,-63.41729,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3646316/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1902,1902,VE-R,Andrés Mata,阿恩德雷斯马塔,10.59973,-63.32852,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3628148/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1903,1903,VE-R,Arismendi,阿里斯梅恩迪,10.6977,-63.10871,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3629107/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1904,1904,VE-R,Benítez,贝尼特兹,10.54782,-63.15424,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3642042/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+csc:130059,1905,VE-R,Bermúdez,卡鲁帕诺,10.66516,-63.25387,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3646382/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:1906,1906,VE-R,Bolívar,博利瓦尔,10.44789,-63.90161,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3632910/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1907,1907,VE-R,Cajigal,卡希加勒,10.56839,-62.82628,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3625239/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1908,1908,VE-R,Cruz Salmerón Acosta,克鲁兹萨勒梅罗恩阿科斯塔,10.57998,-64.25548,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3649005/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1909,1909,VE-R,Libertador,利贝尔塔多尔,10.5748,-63.10751,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3625878/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1910,1910,VE-R,Mariño,马里诺,10.57006,-62.58204,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3639350/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1911,1911,VE-R,Mejía,梅希阿,10.44198,-63.78874,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3628552/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1912,1912,VE-R,Montes,莫恩特斯,10.25056,-63.91938,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3644767/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1913,1913,VE-R,Ribero,里贝罗,10.49682,-63.55286,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3646581/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:1914,1914,VE-R,Sucre,库马纳,10.4639,-64.17859,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3644768/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:1915,1915,VE-R,Valdez,古里亚,10.57721,-62.29841,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3639725/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:2001,2001,VE-S,Andrés Bello,阿恩德雷斯贝约,7.85665,-72.18146,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3759212/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:2002,2002,VE-S,Antonio Rómulo Costa,阿恩托尼奥罗穆洛科斯塔,8.17123,-72.15948,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3738787/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:2003,2003,VE-S,Ayacucho,科隆,8.03125,-72.26053,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3628060/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:2004,2004,VE-S,Bolívar,圣安东尼奥德尔塔奇拉,7.8112,-72.44437,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3628549/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:2005,2005,VE-S,Cárdenas,塔里瓦,7.82117,-72.22329,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3626402/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:2006,2006,VE-S,Córdoba,科尔多巴,7.6429,-72.27636,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3627614/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:2007,2007,VE-S,Fernández Feo,费尔纳恩德兹费奥,7.52987,-71.95922,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3642031/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:2008,2008,VE-S,Francisco de Miranda,夫拉恩西斯科德米拉恩达,7.91242,-71.97251,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3739076/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:2009,2009,VE-S,García de Hevia,拉弗里亚,8.21523,-72.24888,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3795152/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:2010,2010,VE-S,Guasimos,加西莫斯,7.8375,-72.22794,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3630982/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:2011,2011,VE-S,Independencia,伊恩德佩恩德恩西阿,7.82472,-72.3084,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3795218/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:2012,2012,VE-S,Jáuregui,拉格里塔,8.13316,-71.9839,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3795170/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:2013,2013,VE-S,José María Vargas,霍塞马里阿瓦尔加斯,8.03431,-72.05777,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3643620/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:2014,2014,VE-S,Junín,鲁比奥,7.70156,-72.35551,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3628952/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:2015,2015,VE-S,Libertad,利贝尔塔德,7.82893,-72.31942,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3634763/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:2016,2016,VE-S,Libertador,利贝尔塔多尔,7.6233,-71.51031,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3649859/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:2017,2017,VE-S,Lobatera,洛巴特拉,7.93005,-72.24679,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3634696/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:2018,2018,VE-S,Michelena,米切莱纳,7.95642,-72.24235,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3632260/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:2019,2019,VE-S,Panamericano,帕纳梅里卡诺,8.32611,-72.08742,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3645360/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:2020,2020,VE-S,Pedro María Ureña,佩德罗马里阿乌雷纳,7.92162,-72.44396,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3625655/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:2021,2021,VE-S,Rafael Urdaneta,拉法埃勒乌尔达内塔,7.56552,-72.4479,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3795119/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:2022,2022,VE-S,Samuel Darío Maldonado,萨穆埃勒达里奥马勒多纳多,8.50734,-71.83201,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3795620/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+csc:130144,2023,VE-S,San Cristóbal,圣克里斯托瓦尔,7.76593,-72.23576,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3628473/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:2024,2024,VE-S,Seboruco,塞博鲁科,8.14514,-72.07332,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3626921/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:2025,2025,VE-S,Simón Rodríguez,西莫恩罗德里赫兹,8.35018,-71.85114,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3627633/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:2026,2026,VE-S,Sucre,克尼克阿,7.91849,-72.01612,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3629459/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:2027,2027,VE-S,Torbes,托尔贝斯,7.66106,-72.22009,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3758764/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:2028,2028,VE-S,Uribante,乌里巴恩特,8.01909,-71.76595,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3629844/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:2029,2029,VE-S,San Judas Tadeo,圣胡达斯塔德奥,8.26648,-72.06432,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3625732/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:2101,2101,VE-T,Andrés Bello,阿恩德雷斯贝约,9.63163,-70.80837,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3627334/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:2102,2102,VE-T,Bocono,博科诺,9.25385,-70.25105,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3648132/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:2103,2103,VE-T,Bolívar,博利瓦尔,9.4018,-70.79812,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3628904/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:2104,2104,VE-T,Candelaria,卡恩德拉里阿,9.6186,-70.35682,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3645827/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:2105,2105,VE-T,Carache,卡拉切,9.62857,-70.22864,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3646731/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:2106,2106,VE-T,Escuque,埃斯库克,9.29687,-70.67189,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3640956/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:2107,2107,VE-T,José Felipe Márquez Cañizal,霍塞费利佩马尔克兹卡尼扎勒,9.77278,-70.61541,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3642243/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:2108,2108,VE-T,Juan Vicente Campo Elías,胡阿恩维塞恩特卡姆波埃利阿斯,9.39458,-70.05872,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3647197/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:2109,2109,VE-T,La Ceiba,拉塞伊巴,9.47135,-71.01213,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3627576/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:2110,2110,VE-T,Miranda,米拉恩达,9.4751,-70.73493,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3643361/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:2111,2111,VE-T,Monte Carmelo,莫恩特卡尔梅洛,9.18821,-70.81229,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3632051/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:2112,2112,VE-T,Motatan,莫塔塔恩,9.39182,-70.59061,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3631791/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:2113,2113,VE-T,Pampan,帕姆帕恩,9.44519,-70.47556,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3630896/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:2114,2114,VE-T,Pampanito,帕姆帕尼托,9.41037,-70.50116,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3630894/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:2115,2115,VE-T,Rafael Rangel,拉法埃勒拉恩赫勒,9.38121,-70.73283,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3648290/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:2116,2116,VE-T,San Rafael de Carvajal,圣拉法埃勒德卡尔瓦哈勒,9.3067,-70.59042,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3627683/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:2117,2117,VE-T,Sucre,苏克雷,9.43494,-70.77495,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3628921/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+csc:130159,2118,VE-T,Trujillo,特鲁希略,9.36587,-70.43659,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3625979/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:2119,2119,VE-T,Urdaneta,乌尔达内塔,9.15522,-70.57702,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3636565/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+csc:130166,2120,VE-T,Valera,巴莱拉,9.31778,-70.60361,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3625542/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:2201,2201,VE-U,Arístides Bastidas,阿里斯蒂德斯巴斯蒂达斯,10.24929,-68.84427,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3627874/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:2202,2202,VE-U,Bolívar,博利瓦尔,10.43949,-68.89496,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3648873/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:2203,2203,VE-U,Bruzual,奇瓦科阿,10.15951,-68.89453,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3645671/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:2204,2204,VE-U,Cocorote,科科罗特,10.31954,-68.78298,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3645469/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:2205,2205,VE-U,Independencia,伊恩德佩恩德恩西阿,10.33432,-68.75512,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/8131509/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:2206,2206,VE-U,José Antonio Páez,霍塞阿恩托尼奥帕埃兹,10.12111,-69.03639,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3628918/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:2207,2207,VE-U,La Trinidad,拉特里尼达德,10.24752,-68.76966,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3648042/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:2208,2208,VE-U,Manuel Monge,马努埃勒莫恩赫,10.59703,-68.67328,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3625155/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:2209,2209,VE-U,Nirgua,尼尔瓜,10.15039,-68.56478,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3631507/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:2210,2210,VE-U,Peña,亚里塔瓜,10.08081,-69.1242,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3625207/,已在 INE 市镇边界内核对的驻地或同名城镇
+csc:130145,2211,VE-U,San Felipe,圣费利佩,10.3401,-68.74297,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3628423/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:2212,2212,VE-U,Sucre,苏克雷,10.26638,-68.81986,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3640324/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:2213,2213,VE-U,Urachiche,乌拉奇切,10.15847,-69.00782,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3625696/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:2214,2214,VE-U,Veroes,韦罗埃斯,10.47016,-68.55885,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3640853/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:2301,2301,VE-V,Almirante Padilla,阿勒米拉恩特帕迪亚,10.95423,-71.64843,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3641251/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:2302,2302,VE-V,Baralt,巴拉勒特,9.7901,-71.07084,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3627034/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+csc:130050,2303,VE-V,Cabimas,卡维马斯,10.39907,-71.45206,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3647651/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:2304,2304,VE-V,Catatumbo,卡塔图姆博,9.05983,-72.2346,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3641008/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:2305,2305,VE-V,Colon,苏利亚州圣卡洛斯,9.00098,-71.92683,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3628489/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:2306,2306,VE-V,Francisco Javier Pulgar,夫拉恩西斯科哈维埃尔普勒加尔,8.96249,-71.60754,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3629790/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:2307,2307,VE-V,Jesús Enrique Lossada,赫苏斯埃恩里克洛斯萨达,10.61919,-71.83814,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3638371/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:2308,2308,VE-V,Jesús María Semprum,卡西瓜-埃爾庫沃,8.74602,-72.51889,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3646296/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:2309,2309,VE-V,La Cañada de Urdaneta,拉卡纳达德乌尔达内塔,10.4119,-71.68919,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3638374/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+csc:130069,2310,VE-V,Lagunillas,奧赫達城,10.20161,-71.3148,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3645527/,已在 INE 市镇边界内核对的驻地或同名城镇
+csc:130101,2311,VE-V,Machiques de Perija,马奇克斯,10.06077,-72.55212,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3633444/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:2312,2312,VE-V,Mara,马拉,10.96205,-71.73034,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3627713/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+csc:130103,2313,VE-V,Maracaibo,马拉开波,10.64232,-71.61089,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3633009/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:2314,2314,VE-V,Miranda,米拉恩达,10.71492,-71.52168,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3649417/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:2315,2315,VE-V,Indígena Bolivariano Guajira,伊恩迪赫纳博利瓦里阿诺加希拉,11.08656,-71.85595,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3626809/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:2316,2316,VE-V,Rosario de Perija,罗萨里奥别墅,10.3258,-72.31343,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3628966/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:2317,2317,VE-V,San Francisco,圣夫拉恩西斯科,10.55363,-71.70364,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3628374/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:2318,2318,VE-V,Santa Rita,圣丽塔,10.53642,-71.51104,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3627186/,已在 INE 市镇边界内核对的驻地或同名城镇
+ve:2319,2319,VE-V,Simón Bolívar,西莫恩博利瓦尔,10.25927,-71.36343,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3626302/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:2320,2320,VE-V,Sucre,苏克雷,9.24173,-71.17506,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3648231/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:2321,2321,VE-V,Valmore Rodríguez,瓦勒莫雷罗德里赫兹,9.96209,-71.12377,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3648698/,已在 INE 市镇边界内核对的驻地或同名城镇；缺少可确认中文名，使用音译
+ve:2401,2401,VE-X,Vargas,瓦尔加斯,10.60156,-66.93293,https://data.humdata.org/dataset/cod-ab-ven,https://www.geonames.org/3637721/,已在 INE 市镇边界内核对的驻地或同名城镇

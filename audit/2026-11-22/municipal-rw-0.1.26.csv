@@ -1,0 +1,30 @@
+unit,unit_kind,district_code,legally_designated_sector,sector_code,region,en,zh,id,latitude,longitude,point_source
+Nyanza,autonomous district,21,Busasamana,2101,RW-05,Nyanza,尼扬扎,csc:165518,-2.35187,29.75089,Previous point verified inside legally designated sector
+Gisagara,autonomous district,22,Ndora,2211,RW-05,Gisagara,吉萨加拉,rw:district:22,-2.6004,29.833,GeoNames 201719
+Nyaruguru,autonomous district,23,Kibeho,2303,RW-05,Nyaruguru,尼亚鲁古鲁,rw:district:23,-2.6465,29.5591,GeoNames 202080
+Huye,autonomous district,24,Ngoma,2409,RW-05,Huye,胡耶,rw:district:24,-2.59667,29.73944,GeoNames 203112
+Nyamagabe,autonomous district,25,Gasaka,2503,RW-05,Nyamagabe,尼亚马加贝,csc:165524,-2.46397,29.57389,Previous point verified inside legally designated sector
+Ruhango,autonomous district,26,Ruhango,2609,RW-05,Ruhango,鲁汉戈,csc:165523,-2.2246,29.79088,Previous point verified inside legally designated sector
+Muhanga,autonomous district,27,Nyamabuye,2708,RW-05,Muhanga,穆汉加,csc:102797,-2.07444,29.75667,Previous point verified inside legally designated sector
+Kamonyi,autonomous district,28,Gacurabwenge,2801,RW-05,Kamonyi,卡莫尼,rw:district:28,-1.9717,29.8848,GeoNames 202307
+Karongi,autonomous district,31,Rubengera,3109,RW-04,Karongi,卡龙吉,rw:district:31,-2.0386,29.3998,GeoNames 201974
+Rutsiro,autonomous district,32,Gihango,3202,RW-04,Rutsiro,鲁齐罗,rw:district:32,-1.9577,29.3843,GeoNames 384192
+Rubavu,autonomous district,33,Gisenyi,3304,RW-04,Rubavu,鲁巴武,csc:102796,-1.7077,29.2653,GeoNames 202568
+Nyabihu,autonomous district,34,Mukamira,3407,RW-04,Nyabihu,尼亚比胡,rw:district:34,-1.61112,29.49687,GeoNames 384311
+Ngororero,autonomous district,35,Ngororero,3511,RW-04,Ngororero,恩戈罗雷罗,rw:district:35,-1.8628,29.62541,GeoNames 202557
+Rusizi,autonomous district,36,Kamembe,3609,RW-04,Rusizi,鲁西济,csc:102794,-2.4846,28.9075,Previous point verified inside legally designated sector
+Nyamasheke,autonomous district,37,Kagano,3705,RW-04,Nyamasheke,尼亚马谢凯,rw:district:37,-2.3346,29.0908,GeoNames 7021380
+Rulindo,autonomous district,41,Ngoma,4112,RW-03,Rulindo,鲁林多,rw:district:41,-1.81387,29.985505,Rwanda Space Agency sector polygon interior point
+Gakenke,autonomous district,42,Gakenke,4204,RW-03,Gakenke,加肯凯,rw:district:42,-1.6483,29.7999,GeoNames 8533956
+Musanze,autonomous district,43,Muhoza,4308,RW-03,Musanze,穆桑泽,csc:102801,-1.4986,29.6474,GeoNames 8305406
+Burera,autonomous district,44,Rusarabuye,4416,RW-03,Burera,布雷拉,rw:district:44,-1.4888,29.8305,GeoNames 384338
+Gicumbi,autonomous district,45,Byumba,4503,RW-03,Gicumbi,吉昆比,csc:102793,-1.5763,30.0675,Previous point verified inside legally designated sector
+Rwamagana,autonomous district,51,Kigabiro,5105,RW-02,Rwamagana,鲁瓦马加纳,rw:district:51,-1.9601,30.4383,GeoNames 7106915
+Nyagatare,autonomous district,52,Nyagatare,5210,RW-02,Nyagatare,尼亚加塔雷,rw:district:52,-1.2952,30.3226,GeoNames 201650
+Gatsibo,autonomous district,53,Kabarore,5304,RW-02,Gatsibo,加齐博,rw:district:53,-1.55993,30.38327,Rwanda Space Agency sector polygon interior point
+Kayonza,autonomous district,54,Mukarange,5404,RW-02,Kayonza,卡永扎,rw:district:54,-1.8847,30.5168,GeoNames 202090
+Kirehe,autonomous district,55,Kirehe,5505,RW-02,Kirehe,基雷赫,rw:district:55,-2.2692,30.6713,GeoNames 201642
+Ngoma,autonomous district,56,Kibungo,5605,RW-02,Ngoma,恩戈马,rw:district:56,-2.1597,30.5427,GeoNames 202068
+Bugesera,autonomous district,57,Nyamata,5710,RW-02,Bugesera,布盖塞拉,rw:district:57,-2.1625,30.10028,GeoNames 202513
+Kigali,capital,11,,1109,RW-01,Kigali,基加利,csc:102800,-1.94995,30.05885,Previous urban point checked against Rwanda Space Agency sector
+Kibuye,separate urban centre of Karongi,31,,3101,RW-04,Kibuye,基布耶,csc:102799,-2.06028,29.34778,Previous urban point checked against Rwanda Space Agency sector

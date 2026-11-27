@@ -1,0 +1,67 @@
+{
+  "project": "Countries States Cities Database",
+  "version": "v5.2.0-export.1",
+  "files": [
+    {
+      "file": "countries.json",
+      "url": "https://raw.githubusercontent.com/dr5hn/countries-states-cities-database/9b255c45fc53e02a8dff547d88558d4fe91784d5/json/countries.json",
+      "sha256": "43df689ce9303665de103f0643b2b633adb1dca8320bf49db5d1df4b30c3a182"
+    },
+    {
+      "file": "regions.json",
+      "url": "https://raw.githubusercontent.com/dr5hn/countries-states-cities-database/9b255c45fc53e02a8dff547d88558d4fe91784d5/json/states.json",
+      "sha256": "9ff8201f31e374ba2a1173cd3203d45fc72a365d87e446d3c66ea9d90bda34c7"
+    },
+    {
+      "file": "cities.json.gz",
+      "url": "https://github.com/dr5hn/countries-states-cities-database/releases/download/v5.2.0-export.1/json-cities.json.gz",
+      "sha256": "3d7e1a11440ae6eeaaa8ce2bbb8345ad5357085f93cbee2ad2d0f24680e7e87d"
+    },
+    {
+      "file": "china-divisions.json",
+      "url": "https://raw.githubusercontent.com/mumuy/data_location/34c02b29b2624e8ba06401aa76a5f942f79ae01f/list.json",
+      "sha256": "848d00f6e09ea3d292c666648f763920ab8c94b8c83874971c680bf168cf307a"
+    },
+    {
+      "file": "world-places.geojson",
+      "url": "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/v5.1.2/geojson/ne_10m_populated_places.geojson",
+      "sha256": "9b8e3de09048ef00dfc70357dbb9fa324493f214b5e0ae4daf1aa79a8d10116b"
+    }
+  ],
+  "wikidata": {
+    "file": "sources/wikidata-city-status.json.gz",
+    "sha256": "80d312a4e00714b7f48d4fba9d1a86861ab88c9c4952667db99d333a16a6d58e",
+    "query": "sources/city-status.rq",
+    "endpoint": "https://qlever.dev/api/wikidata"
+  },
+  "nationalRosters": {
+    "file": "sources/official-cities.json.gz",
+    "sha256": "d3d2ab34affb89cc79a6a40677803d9809bd8662fcd56f32ddbfef9c11538a7d",
+    "provenance": "licenses/official-data.md"
+  },
+  "idPlRosters": {
+    "file": "sources/id-pl-cities.json.gz",
+    "sha256": "78f0d237274d5d519fd21aaa6cf75bd39db21e4714111050b540f857a1522625",
+    "provenance": "licenses/official-data.md"
+  },
+  "nationalReview": {
+    "file": "sources/national-review-2026.json.gz",
+    "sha256": "cffaeb372864fb6e7b72c2e05dbdd53b276a205e07bfb3d3f13885c131ec141f",
+    "provenance": "licenses/national-review.md"
+  },
+  "singleCityReview": {
+    "file": "sources/single-city-review-2026.json.gz",
+    "sha256": "53bec5a3421c1944f58a8ae1ca2d9345cc15f6c04b98cc3f5ad00958ec2ebb6f",
+    "provenance": "licenses/single-city-review.md"
+  },
+  "municipalRosters": {
+    "file": "sources/municipal-rosters-2026.json.gz",
+    "sha256": "7c0cfb43fa8642f639f2912fb911b4519ea839c096f926c4d7553192d343958f",
+    "provenance": "licenses/municipal-rosters.md"
+  },
+  "chinesePlaceNames": {
+    "file": "sources/chinese-place-names-2026.json.gz",
+    "sha256": "dc82a2637ae2f9735699c99b8cfdece94475bbd7e268b9955e09270a7fbb4821",
+    "provenance": "licenses/chinese-place-names.md"
+  }
+}

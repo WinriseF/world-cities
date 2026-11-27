@@ -1,0 +1,23 @@
+official_district,province,en,zh,id,latitude,longitude,point_source
+Annobón,GQ-AN,San Antonio de Palé,圣安东尼奥-德帕莱,gn:2306774,-1.4068,5.63198,Existing point for the district seat
+Malabo,GQ-BN,Malabo,马拉博,csc:52387,3.75578,8.78166,Existing point for the district seat
+Baney,GQ-BN,Baney,巴内伊,gn:2306722,3.6992,8.9084,GeoNames 2306722
+Luba,GQ-BS,Luba,卢巴,csc:52385,3.45683,8.55465,Existing point for the district seat
+Riaba,GQ-BS,Riaba,里亚巴,gn:2309526,3.38288,8.76209,GeoNames 2309526
+Acurenam,GQ-CS,Acurenam,阿库雷南,gn:2310533,1.03225,10.64882,GeoNames 2310533
+Evinayong,GQ-CS,Evinayong,埃维纳永,csc:52384,1.43677,10.55124,Existing point for the district seat
+Niefang,GQ-CS,Niefang,涅方,gn:2307264,1.85087,10.25187,GeoNames 2307264
+Djibloho,GQ-DJ,Ciudad de la Paz,拉帕斯,gn:12226438,1.5925,10.82361,Existing point for the district seat
+Ebibeyin,GQ-KN,Ebebiyín,埃贝比因,gn:2309332,2.15218,11.33013,Existing point for the district seat
+Micomiseng,GQ-KN,Mikomeseng,米科梅森,csc:52390,2.13609,10.61322,Existing point for the district seat
+Nsok-Nsomo,GQ-KN,Nsok-Nsomo,恩索克-恩索莫,osm:node:6539541987,1.8736568,11.0896294,OSM node 6539541987 (town bus station)
+Bata,GQ-LI,Bata,巴塔,csc:52379,1.86391,9.76582,Existing point for the district seat
+Mbini,GQ-LI,Mbini,姆比尼,csc:52388,1.58267,9.61478,Existing point for the district seat
+Cogo,GQ-LI,Cogo,科戈,csc:52382,1.08425,9.693,Existing point for the district seat
+Añisok,GQ-WN,Añisoc,阿尼索克,csc:52378,1.8658,10.76892,Existing point for the district seat
+Akonibe,GQ-WN,Aconibe,阿科尼贝,csc:52375,1.29683,10.93691,Existing point for the district seat
+Mongomo,GQ-WN,Mongomo,蒙戈莫,csc:52391,1.62742,11.31346,Existing point for the district seat
+Nsork,GQ-WN,Nsork,恩索克,gn:2307145,1.12985,11.26603,GeoNames 2307145
+,GQ-KN,Ncue,恩库埃,csc:52392,2.01643,10.47066,Previously included locality outside the district-seat subset
+,GQ-KN,Nsang,恩桑,csc:52393,2.02475,10.94599,Previously included locality outside the district-seat subset
+,GQ-LI,Machinda,马钦达,csc:52386,1.88262,9.95133,Previously included locality outside the district-seat subset

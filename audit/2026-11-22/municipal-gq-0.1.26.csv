@@ -1,0 +1,17 @@
+province,province_name,en,zh,id,role,latitude,longitude,point_source
+GQ-AN,Annobón,San Antonio de Palé,圣安东尼奥-德帕莱,gn:2306774,provincial seat,-1.4068,5.63198,GeoNames 2306774
+GQ-BN,Bioko Norte,Malabo,马拉博,csc:52387,provincial seat,3.75578,8.78166,Existing place point
+GQ-BS,Bioko Sur,Luba,卢巴,csc:52385,provincial seat,3.45683,8.55465,Existing place point
+GQ-CS,Centro Sur,Evinayong,埃维纳永,csc:52384,provincial seat,1.43677,10.55124,Existing place point
+GQ-DJ,Djibloho,Ciudad de la Paz,拉帕斯,gn:12226438,provincial seat,1.5925,10.82361,GeoNames 12226438
+GQ-KN,Kié-Ntem,Ebebiyín,埃贝比因,gn:2309332,provincial seat,2.15218,11.33013,GeoNames 2309332
+GQ-KN,Kié-Ntem,Mikomeseng,米科梅森,csc:52390,retained place,2.13609,10.61322,Existing place point
+GQ-KN,Kié-Ntem,Ncue,恩库埃,csc:52392,retained place,2.01643,10.47066,Existing place point
+GQ-KN,Kié-Ntem,Nsang,恩桑,csc:52393,retained place,2.02475,10.94599,Existing place point
+GQ-LI,Litoral,Bata,巴塔,csc:52379,provincial seat,1.86391,9.76582,Existing place point
+GQ-LI,Litoral,Cogo,科戈,csc:52382,retained place,1.08425,9.693,Existing place point
+GQ-LI,Litoral,Machinda,马钦达,csc:52386,retained place,1.88262,9.95133,Existing place point
+GQ-LI,Litoral,Mbini,姆比尼,csc:52388,retained place,1.58267,9.61478,Existing place point
+GQ-WN,Wele-Nzas,Aconibe,阿科尼贝,csc:52375,retained place,1.29683,10.93691,Existing place point
+GQ-WN,Wele-Nzas,Añisoc,阿尼索克,csc:52378,retained place,1.8658,10.76892,Existing place point
+GQ-WN,Wele-Nzas,Mongomo,蒙戈莫,csc:52391,provincial seat,1.62742,11.31346,Existing place point

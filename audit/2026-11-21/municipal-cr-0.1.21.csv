@@ -1,0 +1,85 @@
+official_code,official_name,seat,source_district_code,parent,chinese,latitude,longitude,point_source,source_polygon,id
+101,San José,San José,10101,CR-SJ,圣何塞,9.934977,-84.075607,National Geographic Institute DTA geographic names layer,101,csc:21756
+102,Escazú,Escazú,10201,CR-SJ,埃斯卡苏,9.919953,-84.139443,National Geographic Institute DTA geographic names layer,102,cr:canton:102
+103,Desamparados,Desamparados,10301,CR-SJ,德桑帕拉多斯,9.897639,-84.064738,National Geographic Institute DTA geographic names layer,103,cr:canton:103
+104,Puriscal,Santiago,10401,CR-SJ,普里斯卡尔,9.846468,-84.314881,National Geographic Institute DTA geographic names layer,104,csc:21778
+105,Tarrazú,San Marcos,10501,CR-SJ,塔拉苏,9.659526,-84.021097,National Geographic Institute DTA geographic names layer,105,cr:canton:105
+106,Aserrí,Aserrí,10601,CR-SJ,阿塞里,9.862262,-84.092507,National Geographic Institute DTA geographic names layer,106,cr:canton:106
+107,Mora,Colón,10701,CR-SJ,莫拉,9.914373,-84.241153,National Geographic Institute DTA geographic names layer,107,cr:canton:107
+108,Goicoechea,Guadalupe,10801,CR-SJ,戈伊科切亚,9.947222,-84.051404,National Geographic Institute DTA geographic names layer,108,cr:canton:108
+109,Santa Ana,Santa Ana,10901,CR-SJ,圣安娜,9.93266,-84.180293,National Geographic Institute DTA geographic names layer,109,csc:21774
+110,Alajuelita,Alajuelita,11001,CR-SJ,阿拉胡埃利塔,9.902671,-84.099202,National Geographic Institute DTA geographic names layer,110,cr:canton:110
+111,Vázquez de Coronado,San Isidro,11101,CR-SJ,巴斯克斯德科罗纳多,9.976134,-84.006619,National Geographic Institute DTA geographic names layer,111,cr:canton:111
+112,Acosta,San Ignacio,11201,CR-SJ,阿科斯塔,9.798646,-84.161616,National Geographic Institute DTA geographic names layer,112,cr:canton:112
+113,Tibás,San Juan,11301,CR-SJ,蒂瓦斯,9.961896,-84.077776,National Geographic Institute DTA geographic names layer,113,cr:canton:113
+114,Moravia,San Vicente,11401,CR-SJ,莫拉维亚,9.961609,-84.048305,National Geographic Institute DTA geographic names layer,114,cr:canton:114
+115,Montes de Oca,San Pedro,11501,CR-SJ,蒙特斯德奥卡,9.932712,-84.052016,National Geographic Institute DTA geographic names layer,115,cr:canton:115
+116,Turrubares,San Pablo,11601,CR-SJ,图鲁瓦雷斯,9.908274,-84.440431,National Geographic Institute DTA geographic names layer,116,cr:canton:116
+117,Dota,Santa María,11701,CR-SJ,多塔,9.652509,-83.968842,National Geographic Institute DTA geographic names layer,117,cr:canton:117
+118,Curridabat,Curridabat,11801,CR-SJ,库里达瓦特,9.914284,-84.037029,National Geographic Institute DTA geographic names layer,118,cr:canton:118
+119,Pérez Zeledón,San Isidro de El General,11901,CR-SJ,佩雷斯塞莱东,9.373497,-83.70229,National Geographic Institute DTA geographic names layer,119,cr:canton:119
+120,León Cortés Castro,San Pablo,12001,CR-SJ,莱昂科尔特斯卡斯特罗,9.684062,-84.040099,National Geographic Institute DTA geographic names layer,120,cr:canton:120
+201,Alajuela,Alajuela,20101,CR-A,阿拉胡埃拉,10.01698,-84.213161,National Geographic Institute DTA geographic names layer,201,csc:21643
+202,San Ramón,San Ramón,20201,CR-A,圣拉蒙,10.087123,-84.469343,National Geographic Institute DTA geographic names layer,202,cr:canton:202
+203,Grecia,Grecia,20301,CR-A,格雷西亚,10.072993,-84.310892,National Geographic Institute DTA geographic names layer,203,cr:canton:203
+204,San Mateo,San Mateo,20401,CR-A,圣马特奥,9.937597,-84.523418,National Geographic Institute DTA geographic names layer,204,cr:canton:204
+205,Atenas,Atenas,20501,CR-A,阿特纳斯,9.978272,-84.379807,National Geographic Institute DTA geographic names layer,205,cr:canton:205
+206,Naranjo,Naranjo,20601,CR-A,纳兰霍,10.096695,-84.378577,National Geographic Institute DTA geographic names layer,206,cr:canton:206
+207,Palmares,Palmares,20701,CR-A,帕尔马雷斯,10.056194,-84.432594,National Geographic Institute DTA geographic names layer,207,cr:canton:207
+208,Poás,San Pedro,20801,CR-A,波阿斯,10.076414,-84.244402,National Geographic Institute DTA geographic names layer,208,cr:canton:208
+209,Orotina,Orotina,20901,CR-A,奥罗蒂纳,9.913143,-84.524849,National Geographic Institute DTA geographic names layer,209,cr:canton:209
+210,San Carlos,Quesada,21001,CR-A,圣卡洛斯,10.326389,-84.431209,National Geographic Institute DTA geographic names layer,210,cr:canton:210
+211,Zarcero,Zarcero,21101,CR-A,萨尔塞罗,10.184571,-84.391063,National Geographic Institute DTA geographic names layer,211,cr:canton:211
+212,Sarchí,Sarchí Norte,21201,CR-A,萨尔奇,10.089826,-84.348532,National Geographic Institute DTA geographic names layer,212,cr:canton:212
+213,Upala,Upala,21301,CR-A,乌帕拉,10.897203,-85.015838,National Geographic Institute DTA geographic names layer,213,cr:canton:213
+214,Los Chiles,Los Chiles,21401,CR-A,洛斯奇莱斯,11.031791,-84.715932,National Geographic Institute DTA geographic names layer,214,cr:canton:214
+215,Guatuso,San Rafael,21501,CR-A,瓜图索,10.673766,-84.821016,National Geographic Institute DTA geographic names layer,215,cr:canton:215
+216,Río Cuarto,Río Cuarto,21601,CR-A,里奥夸尔托,10.343412,-84.215528,National Geographic Institute DTA geographic names layer,216,cr:canton:216
+301,Cartago,Cartago,30101,CR-C,卡塔戈,9.86276,-83.921769,National Geographic Institute DTA geographic names layer,301,csc:21659
+302,Paraíso,Paraiso,30201,CR-C,帕拉伊索,9.838544,-83.86538,National Geographic Institute DTA geographic names layer,302,cr:canton:302
+303,La Unión,Tres Ríos,30301,CR-C,拉乌尼翁,9.907617,-83.984537,National Geographic Institute DTA geographic names layer,303,cr:canton:303
+304,Jiménez,Juan Viñas,30401,CR-C,希门尼斯,9.894163,-83.746405,National Geographic Institute DTA geographic names layer,304,cr:canton:304
+305,Turrialba,Turrialba,30501,CR-C,图里亚尔瓦,9.905515,-83.683566,National Geographic Institute DTA geographic names layer,305,cr:canton:305
+306,Alvarado,Pacayas,30601,CR-C,阿尔瓦拉多,9.91756,-83.809104,National Geographic Institute DTA geographic names layer,306,cr:canton:306
+307,Oreamuno,San Rafael,30701,CR-C,奥雷亚穆诺,9.869285,-83.903663,National Geographic Institute DTA geographic names layer,307,cr:canton:307
+308,El Guarco,El Tejar,30801,CR-C,埃尔瓜尔科,9.844308,-83.937949,National Geographic Institute DTA geographic names layer,308,cr:canton:308
+401,Heredia,Heredia,40101,CR-H,埃雷迪亚,9.998292,-84.116317,National Geographic Institute DTA geographic names layer,401,csc:21690
+402,Barva,Barva,40201,CR-H,巴尔瓦,10.020897,-84.12343,National Geographic Institute DTA geographic names layer,402,cr:canton:402
+403,Santo Domingo,Santo Domingo,40301,CR-H,圣多明各,9.979872,-84.090117,National Geographic Institute DTA geographic names layer,403,cr:canton:403
+404,Santa Bárbara,Santa Bárbara,40401,CR-H,圣巴巴拉,10.037494,-84.158499,National Geographic Institute DTA geographic names layer,404,cr:canton:404
+405,San Rafael,San Rafael,40501,CR-H,圣拉斐尔,10.01483,-84.099008,National Geographic Institute DTA geographic names layer,405,cr:canton:405
+406,San Isidro,San Isidro,40601,CR-H,圣伊西德罗,10.017451,-84.055285,National Geographic Institute DTA geographic names layer,406,cr:canton:406
+407,Belén,San Antonio,40701,CR-H,贝伦,9.979,-84.185874,National Geographic Institute DTA geographic names layer,407,cr:canton:407
+408,Flores,San Joaquín,40801,CR-H,弗洛雷斯,10.003716,-84.15146,National Geographic Institute DTA geographic names layer,408,cr:canton:408
+409,San Pablo,San Pablo,40901,CR-H,圣巴勃罗,9.996555,-84.095912,National Geographic Institute DTA geographic names layer,409,cr:canton:409
+410,Sarapiquí,Puerto Viejo,41001,CR-H,萨拉皮基,10.45472,-84.007468,National Geographic Institute DTA geographic names layer,410,cr:canton:410
+501,Liberia,Liberia,50101,CR-G,利比里亚,10.630045,-85.437421,National Geographic Institute DTA geographic names layer,501,cr:canton:501
+502,Nicoya,Nicoya,50201,CR-G,尼科亚,10.144351,-85.453568,National Geographic Institute DTA geographic names layer,502,cr:canton:502
+503,Santa Cruz,Santa Cruz,50301,CR-G,圣克鲁斯,10.259179,-85.585475,National Geographic Institute DTA geographic names layer,503,cr:canton:503
+504,Bagaces,Bagaces,50401,CR-G,瓦加塞斯,10.525279,-85.255099,National Geographic Institute DTA geographic names layer,504,cr:canton:504
+505,Carrillo,Filadelfia,50501,CR-G,卡里略,10.445229,-85.549523,National Geographic Institute DTA geographic names layer,505,cr:canton:505
+506,Cañas,Cañas,50601,CR-G,卡尼亚斯,10.429178,-85.091491,National Geographic Institute DTA geographic names layer,506,cr:canton:506
+507,Abangares,Las Juntas,50701,CR-G,阿万加雷斯,10.280311,-84.958802,National Geographic Institute DTA geographic names layer,507,cr:canton:507
+508,Tilarán,Tilarán,50801,CR-G,蒂拉兰,10.470344,-84.967091,National Geographic Institute DTA geographic names layer,508,cr:canton:508
+509,Nandayure,Carmona,50901,CR-G,南达尤雷,9.994597,-85.251893,National Geographic Institute DTA geographic names layer,509,cr:canton:509
+510,La Cruz,La Cruz,51001,CR-G,拉克鲁斯,11.07189,-85.633535,National Geographic Institute DTA geographic names layer,510,cr:canton:510
+511,Hojancha,Hojancha,51101,CR-G,奥汉查,10.057765,-85.417216,National Geographic Institute DTA geographic names layer,511,cr:canton:511
+601,Puntarenas,Puntarenas,60101,CR-P,蓬塔雷纳斯,9.977911,-84.83474,National Geographic Institute DTA geographic names layer,601,csc:21734
+602,Esparza,Esparza,60201,CR-P,埃斯帕尔萨,9.989802,-84.666004,National Geographic Institute DTA geographic names layer,602,cr:canton:602
+603,Buenos Aires,Buenos Aires,60301,CR-P,布宜诺斯艾利斯,9.171932,-83.335166,National Geographic Institute DTA geographic names layer,603,cr:canton:603
+604,Montes de Oro,Miramar,60401,CR-P,蒙特斯德奥罗,10.092426,-84.729038,National Geographic Institute DTA geographic names layer,604,cr:canton:604
+605,Osa,Puerto Cortés,60501,CR-P,奥萨,8.956999,-83.523211,National Geographic Institute DTA geographic names layer,605,cr:canton:605
+606,Quepos,Quepos,60601,CR-P,克波斯,9.431867,-84.160625,National Geographic Institute DTA geographic names layer,606,cr:canton:606
+607,Golfito,Golfito,60701,CR-P,戈尔菲托,8.637545,-83.165943,National Geographic Institute DTA geographic names layer,607,cr:canton:607
+608,Coto Brus,San Vito,60801,CR-P,科托布鲁斯,8.823799,-82.972862,National Geographic Institute DTA geographic names layer,608,cr:canton:608
+609,Parrita,Parrita,60901,CR-P,帕里塔,9.519757,-84.322006,National Geographic Institute DTA geographic names layer,609,cr:canton:609
+610,Corredores,Neily,61001,CR-P,科雷多雷斯,8.646146,-82.945773,National Geographic Institute DTA geographic names layer,610,cr:canton:610
+611,Garabito,Jacó,61101,CR-P,加拉维托,9.609577,-84.625868,National Geographic Institute DTA geographic names layer,611,cr:canton:611
+612,Monteverde,Santa Elena,60109,CR-P,蒙特韦尔德,10.321483,-84.824768,National Geographic Institute DTA geographic names layer,612,cr:canton:612
+613,Puerto Jiménez,Puerto Jiménez,60702,CR-P,希门尼斯港,8.53671,-83.305469,National Geographic Institute DTA geographic names layer,607,cr:canton:613
+701,Limón,Limón,70101,CR-L,利蒙,9.993084,-83.030876,National Geographic Institute DTA geographic names layer,701,csc:21703
+702,Pococí,Guápiles,70201,CR-L,波科西,10.21421,-83.789402,National Geographic Institute DTA geographic names layer,702,cr:canton:702
+703,Siquirres,Siquirres,70301,CR-L,锡基雷斯,10.097747,-83.506737,National Geographic Institute DTA geographic names layer,703,cr:canton:703
+704,Talamanca,Bribrí,70401,CR-L,塔拉曼卡,9.621916,-82.8313,National Geographic Institute DTA geographic names layer,704,cr:canton:704
+705,Matina,Matina,70501,CR-L,马蒂纳,10.077492,-83.291488,National Geographic Institute DTA geographic names layer,705,cr:canton:705
+706,Guácimo,Guácimo,70601,CR-L,瓜西莫,10.210281,-83.680813,National Geographic Institute DTA geographic names layer,706,cr:canton:706

@@ -1,0 +1,262 @@
+id,official_id,region,en,zh,latitude,longitude,roster_source,coordinate_source,notes
+gh:GH0102,,GH-AF,Kukuom,库库奥姆,6.69403,-2.44267,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2298964/,Kukuom
+gh:GH0101,,GH-AF,Goaso,戈阿索,6.80355,-2.5172,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2300749/,Goaso
+gh:GH0104,,GH-AF,Hwidiem,维迪埃姆,6.93352,-2.35566,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2300314/,Hwidiem
+gh:GH0103,,GH-AF,Kenyasi,凯尼亚西,6.98213,-2.38823,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2299654/,Kenyase Number Two
+gh:GH0106,,GH-AF,Bechem,贝凯姆,7.09034,-2.02498,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2303258/,Bechem
+gh:GH0105,,GH-AF,Duayaw Nkwanta,杜阿亚乌恩夸恩塔,7.17487,-2.09961,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2301464/,Duayaw-Nkwanta
+gh:GH0204,,GH-AH,New Edubiase,内乌埃杜比阿塞,6.06262,-1.39343,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2297438/,New Edubiase
+gh:GH0203,,GH-AH,Fomena,福梅纳,6.28352,-1.51417,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2300890/,Fomena
+gh:GH0202,,GH-AH,Adansi Asokwa,阿达恩西阿索夸,6.168488,-1.436563,https://imccod.gov.gh/mmdas/,https://data.humdata.org/dataset/cod-ab-gha,辖区内代表点
+gh:GH0222,,GH-AH,Bekwai,贝夸伊,6.45195,-1.57866,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2303224/,Bekwai
+gh:GH0201,,GH-AH,Akrofuom,阿克罗富奥姆,6.1211,-1.65382,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2305046/,Akrofuom
+gh:GH0233,,GH-AH,Obuasi,奥布阿西,6.20228,-1.66796,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2296606/,Obuase
+gh:GH0232,,GH-AH,Tutuka,图图卡,6.179596,-1.604821,https://imccod.gov.gh/mmdas/,https://data.humdata.org/dataset/cod-ab-gha,辖区内代表点
+gh:GH0210,,GH-AH,Jacobu,哈科布,6.206604,-1.828939,https://imccod.gov.gh/mmdas/,https://data.humdata.org/dataset/cod-ab-gha,辖区内代表点
+gh:GH0212,,GH-AH,Manso,曼索,6.437103,-1.855604,https://imccod.gov.gh/mmdas/,https://data.humdata.org/dataset/cod-ab-gha,辖区内代表点
+gh:GH0211,,GH-AH,Edubia,埃杜比阿,6.307312,-2.010546,https://imccod.gov.gh/mmdas/,https://data.humdata.org/dataset/cod-ab-gha,辖区内代表点
+gh:GH0209,,GH-AH,Mankraso,马恩克拉索,6.895782,-2.058394,https://imccod.gov.gh/mmdas/,https://data.humdata.org/dataset/cod-ab-gha,辖区内代表点
+gh:GH0208,,GH-AH,Adugyma,阿杜格伊马,6.903503,-1.887624,https://imccod.gov.gh/mmdas/,https://data.humdata.org/dataset/cod-ab-gha,辖区内代表点
+gh:GH0207,,GH-AH,Tepa,特帕,7.00595,-2.16586,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2294676/,Tepa
+gh:GH0219,,GH-AH,Nyinahin,尼纳伊恩,6.59996,-2.12129,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2296733/,Nyinahin
+gh:GH0221,,GH-AH,Nkawie,恩卡维埃,6.66736,-1.8087,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2297316/,Nkawiekuma
+gh:GH0218,,GH-AH,Twedie,特韦迪埃,6.66025,-1.72384,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2294318/,Twedee
+gh:GH0220,,GH-AH,Barekese,巴雷凯塞,6.85332,-1.73391,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2303339/,Barekese
+csc:52188,,GH-AH,Kumasi,库马西,6.68848,-1.62443,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2298890/,Kumasi
+gh:GH0230,,GH-AH,Kwadaso,夸达索,6.69618,-1.64593,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2298724/,Kwadaso
+gh:GH0237,,GH-AH,Old Tafo,奥尔德塔福,6.73156,-1.6137,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2294938/,Tafo
+gh:GH0243,,GH-AH,Suame,苏阿梅,6.71942,-1.63439,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2295179/,Suame
+gh:GH0224,,GH-AH,Kuntenase,库恩特纳塞,6.558197,-1.457245,https://imccod.gov.gh/mmdas/,https://data.humdata.org/dataset/cod-ab-gha,辖区内代表点
+gh:GH0217,,GH-AH,Asokwa,阿索夸,6.644989,-1.581603,https://imccod.gov.gh/mmdas/,https://data.humdata.org/dataset/cod-ab-gha,辖区内代表点
+gh:GH0236,,GH-AH,Oforikrom,奥福里克罗姆,6.68761,-1.59348,https://imccod.gov.gh/mmdas/,https://www.geonames.org/11780381/,Oforikrom
+gh:GH0216,,GH-AH,Asokore,阿索科雷,6.712097,-1.567552,https://imccod.gov.gh/mmdas/,https://data.humdata.org/dataset/cod-ab-gha,辖区内代表点
+gh:GH0229,,GH-AH,Mamponteng,马姆波恩特恩格,6.73333,-1.55,https://imccod.gov.gh/mmdas/,https://www.geonames.org/8532058/,Mamponteng
+gh:GH0227,,GH-AH,Juaben,胡阿贝恩,6.8169,-1.42232,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2300030/,Juaben
+gh:GH0225,,GH-AH,Ejisu,埃希苏,6.72065,-1.47596,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2301221/,Ejisu
+gh:GH0240,,GH-AH,Efiduase,埃菲杜阿塞,6.779388,-1.299467,https://imccod.gov.gh/mmdas/,https://data.humdata.org/dataset/cod-ab-gha,辖区内代表点
+gh:GH0241,,GH-AH,Kumawu,库马乌,6.90893,-1.27725,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2298887/,Kumawu
+gh:GH0238,,GH-AH,Drobonso,德罗博恩索,7.21109,-0.59535,https://imccod.gov.gh/mmdas/,https://data.humdata.org/dataset/cod-ab-gha,辖区内代表点
+gh:GH0239,,GH-AH,Nsuta,恩苏塔,7.01051,-1.38055,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2297078/,Nsuta
+gh:GH0242,,GH-AH,Agona,阿戈纳,6.93375,-1.48907,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2305511/,Agona
+gh:GH0215,,GH-AH,Juaso,胡阿索,6.6,-1.13333,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2300018/,Juaso
+gh:GH0213,,GH-AH,Konongo,科农戈,6.61667,-1.21667,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2299349/,Konongo
+csc:52151,,GH-AH,Agogo,阿戈戈,6.80004,-1.08193,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2305537/,Agogo
+gh:GH0223,,GH-AH,Asiwa,阿西瓦,6.41667,-1.33333,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2304066/,Asiwa
+csc:52189,,GH-AH,Mampong,真峰,7.06273,-1.4001,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2298264/,Mampong
+gh:GH0226,,GH-AH,Ejura,埃朱拉,7.38558,-1.35617,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2301217/,Ejura
+gh:GH0206,,GH-AH,Kodie,科迪埃,6.81646,-1.64824,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2298723/,Kodee
+gh:GH0205,,GH-AH,Boamang,博阿马恩格,6.94464,-1.61587,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2302920/,Boaman
+gh:GH0234,,GH-AH,Offinso,奥夫菲恩索,6.90483,-1.65575,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2296441/,Offinso
+gh:GH0235,,GH-AH,Akomadan,阿科马达恩,7.279907,-1.799365,https://imccod.gov.gh/mmdas/,https://data.humdata.org/dataset/cod-ab-gha,辖区内代表点
+gh:GH0309,,GH-BO,Sunyani,苏尼亚尼,7.33991,-2.32676,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2295021/,Sunyani
+gh:GH0310,,GH-BO,Odumasi,奥杜马西,7.37127,-2.319,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2296524/,Odumase
+gh:GH0302,,GH-BO,Berekum,贝雷库姆,7.4534,-2.58404,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2303125/,Berekum
+gh:GH0303,,GH-BO,Jinijini,希尼希尼,7.471588,-2.710328,https://imccod.gov.gh/mmdas/,https://data.humdata.org/dataset/cod-ab-gha,辖区内代表点
+gh:GH0306,,GH-BO,Nkran Nkwanta,恩克拉恩恩夸恩塔,6.975189,-2.945951,https://imccod.gov.gh/mmdas/,https://data.humdata.org/dataset/cod-ab-gha,辖区内代表点
+gh:GH0305,,GH-BO,Dormaa Ahenkro,多尔马阿阿埃恩克罗,7.27386,-2.87348,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2301529/,Domaa-Ahenkro
+gh:GH0304,,GH-BO,Wamfie,瓦姆菲埃,7.30017,-2.70516,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2294163/,Wamfie
+gh:GH0308,,GH-BO,Drobo,德罗博,7.622589,-2.796375,https://imccod.gov.gh/mmdas/,https://data.humdata.org/dataset/cod-ab-gha,辖区内代表点
+gh:GH0307,,GH-BO,Sampa,萨姆帕,7.95039,-2.6946,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2295640/,Sampa
+gh:GH0301,,GH-BO,Banda Ahenkro,巴恩达阿埃恩克罗,8.16495,-2.35582,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2303417/,Samina Kuu
+gh:GH0311,,GH-BO,Nsawkaw,恩萨乌卡乌,7.87348,-2.31411,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2297140/,Nsoko
+gh:GH0312,,GH-BO,Wenchi,文池,7.73855,-2.1036,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2294086/,Wankyi
+gh:GH0410,,GH-BE,Techiman,泰奇曼,7.59054,-1.93947,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2294727/,Techiman
+gh:GH0411,,GH-BE,Tuobodom,图奥博多姆,7.63914,-1.90511,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2294332/,Tuobodum
+gh:GH0402,,GH-BE,Kintampo,基恩塔姆波,8.05627,-1.73058,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2299625/,Kintampo
+gh:GH0403,,GH-BE,Jema,赫马,7.89931,-1.76964,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2300147/,Jema
+gh:GH0404,,GH-BE,Busunya,布苏尼亚,7.68786,-1.65976,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2302380/,Busunya
+gh:GH0405,,GH-BE,Nkoranza,恩科拉恩萨,7.57127,-1.7087,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2297289/,Nkoranza
+gh:GH0401,,GH-BE,Atebubu,阿特布布,7.75537,-0.98085,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2303878/,Atebubu
+gh:GH0407,,GH-BE,Prang,普拉恩格,8.038391,-1.31018,https://imccod.gov.gh/mmdas/,https://data.humdata.org/dataset/cod-ab-gha,辖区内代表点
+gh:GH0406,,GH-BE,Yeji,耶希,8.22542,-0.64889,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2293805/,Yegyi
+gh:GH0409,,GH-BE,Kwame Dansu,夸梅达恩苏,7.749084,-0.618233,https://imccod.gov.gh/mmdas/,https://data.humdata.org/dataset/cod-ab-gha,辖区内代表点
+gh:GH0408,,GH-BE,Kajaji,卡哈希,7.78482,-0.22956,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2299911/,Kajaji
+gh:GH0517,,GH-CP,Elmina,埃尔米纳,5.0847,-1.35093,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2301190/,Elmina
+csc:52168,,GH-CP,Cape Coast,海岸角,5.10535,-1.2466,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2302357/,Cape Coast
+gh:GH0518,,GH-CP,Saltpond,盐池,5.20913,-1.06058,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2295672/,Saltpond
+gh:GH0513,,GH-CP,Essarkyir,埃斯萨尔克伊尔,5.287903,-0.910039,https://imccod.gov.gh/mmdas/,https://data.humdata.org/dataset/cod-ab-gha,辖区内代表点
+gh:GH0504,,GH-CP,Ajumako,阿胡马科,5.42575,-0.95865,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2305256/,Ajumako
+gh:GH0516,,GH-CP,Apam,阿帕姆,5.285,-0.746,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2304389/,Apam
+gh:GH0514,,GH-CP,Afransi,阿夫拉恩西,5.352905,-0.72536,https://imccod.gov.gh/mmdas/,https://data.humdata.org/dataset/cod-ab-gha,辖区内代表点
+gh:GH0515,,GH-CP,Potsin,波特西恩,5.44958,-0.58232,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2295871/,Potsin
+csc:52215,,GH-CP,Winneba,温尼巴,5.35113,-0.62313,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2294034/,Winneba
+gh:GH0509,,GH-CP,Awutu Breku,阿乌图布雷库,5.7,-0.6,https://imccod.gov.gh/mmdas/,https://www.geonames.org/9165836/,Awutu Breku
+gh:GH0510,,GH-CP,Kasoa,卡索阿,5.53449,-0.41679,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2296458/,Kasoa
+gh:GH0503,,GH-CP,Swedru,斯韦德鲁,5.53711,-0.69984,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2294962/,Swedru
+gh:GH0502,,GH-CP,Nsaba,恩萨巴,5.64243,-0.75089,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2297158/,Nsaba
+gh:GH0505,,GH-CP,Breman Asikuma,布雷马恩阿西库马,5.59233,-0.99582,https://imccod.gov.gh/mmdas/,https://www.geonames.org/10400448/,Breman Asikuma
+gh:GH0501,,GH-CP,Abura Dunkwa,阿布拉杜恩夸,5.34054,-1.17025,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2301403/,Dunkwa
+gh:GH0506,,GH-CP,Assin Fosu,阿斯西恩福苏,5.723816,-1.310717,https://imccod.gov.gh/mmdas/,https://data.humdata.org/dataset/cod-ab-gha,辖区内代表点
+gh:GH0507,,GH-CP,Assin Bereku,阿斯西恩贝雷库,5.82489,-1.373349,https://imccod.gov.gh/mmdas/,https://data.humdata.org/dataset/cod-ab-gha,辖区内代表点
+gh:GH0508,,GH-CP,Kyekyewere,克耶克耶韦雷,5.46667,-1.16667,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2302240/,Chichiwere
+gh:GH0519,,GH-CP,Twifo Praso,特维福普拉索,5.680084,-1.618495,https://imccod.gov.gh/mmdas/,https://data.humdata.org/dataset/cod-ab-gha,辖区内代表点
+gh:GH0520,,GH-CP,Hemang,埃马恩格,5.48447,-1.53109,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2300421/,Heman
+gh:GH0521,,GH-CP,Dunkwa-on-Offin,杜恩夸奥恩奥夫菲恩,5.95996,-1.77792,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2301400/,Dunkwa
+gh:GH0522,,GH-CP,Diaso,迪阿索,6.15327,-2.15459,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2301770/,Diaso
+gh:GH0608,,GH-EP,Atimpoku,阿蒂姆波库,6.20308,0.08167,https://imccod.gov.gh/mmdas/,https://www.geonames.org/7648614/,Atimpoku
+gh:GH0624,,GH-EP,Odumase,奥杜马塞,6.13333,-0.01667,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2296493/,Odumasi
+gh:GH0630,,GH-EP,Asesewa,阿塞塞瓦,6.39292,-0.14458,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2304125/,Asesewa
+gh:GH0633,,GH-EP,Somanya,索马尼亚,6.10546,-0.01502,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2295236/,Somanya
+csc:52184,,GH-EP,Koforidua,科福里杜亚,6.09408,-0.25913,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2299522/,Koforidua
+gh:GH0625,,GH-EP,Efiduase,埃菲杜阿塞,6.144501,-0.316511,https://imccod.gov.gh/mmdas/,https://data.humdata.org/dataset/cod-ab-gha,辖区内代表点
+gh:GH0604,,GH-EP,Akropong,阿克罗蓬,5.97462,-0.08542,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2305027/,Akropong
+gh:GH0628,,GH-EP,Adukrom,阿杜克罗姆,6.01732,-0.07887,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2305771/,Adukrom
+gh:GH0605,,GH-EP,Aburi,阿布里,5.84802,-0.17449,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2306119/,Aburi
+gh:GH0627,,GH-EP,Nsawam,恩萨瓦姆,5.80893,-0.35026,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2297141/,Nsawam
+gh:GH0629,,GH-EP,Suhum,苏胡姆,6.04089,-0.45004,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2295065/,Suhum
+gh:GH0611,,GH-EP,Coaltar,科阿尔塔尔,5.945496,-0.448619,https://imccod.gov.gh/mmdas/,https://data.humdata.org/dataset/cod-ab-gha,辖区内代表点
+csc:52158,,GH-EP,Asamankese,阿萨曼克塞,5.86006,-0.6635,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2304220/,Asamankese
+gh:GH0631,,GH-EP,Adeiso,阿德伊索,5.806488,-0.540378,https://imccod.gov.gh/mmdas/,https://data.humdata.org/dataset/cod-ab-gha,辖区内代表点
+csc:52152,,GH-EP,Akim Oda,阿基姆·奥达,5.92665,-0.98577,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2296564/,Akim Oda
+gh:GH0607,,GH-EP,Manso,曼索,5.90177,-0.88733,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2298174/,Manso
+gh:GH0614,,GH-EP,Akim Swedru,阿基姆·斯韦德鲁,5.8938,-1.01636,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2305164/,Akim Swedru
+gh:GH0603,,GH-EP,Achiase,阿基阿塞,5.795197,-1.018437,https://imccod.gov.gh/mmdas/,https://data.humdata.org/dataset/cod-ab-gha,辖区内代表点
+gh:GH0606,,GH-EP,Ofoase,奥福阿塞,6.16446,-1.14138,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2296440/,Ofoase
+gh:GH0618,,GH-EP,Kade,卡德,6.09392,-0.83599,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2299945/,Kade
+gh:GH0615,,GH-EP,Akwatia,阿夸蒂亚,6.04024,-0.80876,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2304931/,Akwatia
+gh:GH0613,,GH-EP,New Abirim,内乌阿比里姆,6.368225,-1.022943,https://imccod.gov.gh/mmdas/,https://data.humdata.org/dataset/cod-ab-gha,辖区内代表点
+gh:GH0602,,GH-EP,Kibi,吉备,6.16494,-0.55376,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2299636/,Kibi
+gh:GH0601,,GH-EP,Kukurantumi,库库拉恩图米,6.18827,-0.36553,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2298963/,Kukurantumi
+gh:GH0610,,GH-EP,Kwabeng,夸贝恩格,6.31887,-0.59099,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2298743/,Kwabeng
+gh:GH0609,,GH-EP,Anyiman,阿尼马恩,6.395721,-0.59662,https://imccod.gov.gh/mmdas/,https://data.humdata.org/dataset/cod-ab-gha,辖区内代表点
+gh:GH0616,,GH-EP,Begoro,贝戈罗,6.38706,-0.37738,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2303236/,Begoro
+gh:GH0617,,GH-EP,Osino,奥西诺,6.35048,-0.48407,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2296263/,Osino
+gh:GH0623,,GH-EP,Nkawkaw,恩卡乌卡乌,6.54584,-0.76264,https://imccod.gov.gh/mmdas/,https://www.geonames.org/12640506/,Nkawkaw
+gh:GH0622,,GH-EP,Mpraeso,姆普雷索,6.59321,-0.73462,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2297834/,Mpraeso
+gh:GH0621,,GH-EP,Abetifi,阿贝蒂菲,6.66954,-0.74764,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2306390/,Abetifi
+gh:GH0619,,GH-EP,Donkokrom,多恩科克罗姆,6.868286,-0.022644,https://imccod.gov.gh/mmdas/,https://data.humdata.org/dataset/cod-ab-gha,辖区内代表点
+gh:GH0620,,GH-EP,Tease,特阿塞,6.93034,-0.25704,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2300935/,Fiasi
+gh:GH0716,,GH-AA,Ngleshie Amanfrom,恩格莱西埃阿马恩夫罗姆,5.677612,-0.437279,https://imccod.gov.gh/mmdas/,https://data.humdata.org/dataset/cod-ab-gha,辖区内代表点
+gh:GH0729,,GH-AA,Weija,韦伊哈,5.57184,-0.33463,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2294093/,Weija
+gh:GH0713,,GH-AA,Sowutuom,索乌图奥姆,5.6171,-0.27381,https://imccod.gov.gh/mmdas/,https://www.geonames.org/11675663/,Sowutuom
+gh:GH0715,,GH-AA,Ofankor,奥法恩科尔,5.65596,-0.26921,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2296454/,Ofankor
+gh:GH0717,,GH-AA,Amasaman,阿马萨马恩,5.703796,-0.357415,https://imccod.gov.gh/mmdas/,https://data.humdata.org/dataset/cod-ab-gha,辖区内代表点
+gh:GH0714,,GH-AA,Abokobi,阿博科比,5.7341,-0.20625,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2306267/,Abokobi
+gh:GH0722,,GH-AA,Madina,马迪纳,5.6658,-0.16307,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2298330/,Medina Estates
+gh:GH0710,,GH-AA,Nima,尼马,5.588898,-0.192705,https://imccod.gov.gh/mmdas/,https://data.humdata.org/dataset/cod-ab-gha,辖区内代表点
+gh:GH0711,,GH-AA,Accra Newtown,阿克克拉内乌托乌恩,5.594788,-0.20833,https://imccod.gov.gh/mmdas/,https://data.humdata.org/dataset/cod-ab-gha,辖区内代表点
+gh:GH0709,,GH-AA,Kokomlemle,科科姆莱姆莱,5.5756,-0.2056,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2299465/,Kokomlemle
+gh:GH0712,,GH-AA,Dzorwulu,德索尔乌卢,5.61146,-0.20498,https://imccod.gov.gh/mmdas/,https://www.geonames.org/8456983/,Dzorwulu Residential Area
+csc:52149,,GH-AA,Accra,阿克拉,5.543915,-0.210968,https://imccod.gov.gh/mmdas/,https://data.humdata.org/dataset/cod-ab-gha,辖区内代表点
+gh:GH0725,,GH-AA,Abeka,阿贝卡,5.59655,-0.2448,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2306415/,Abeka
+gh:GH0702,,GH-AA,Darkuman,达尔库马恩,5.59172,-0.25237,https://imccod.gov.gh/mmdas/,https://www.geonames.org/8457011/,Darkuman
+gh:GH0701,,GH-AA,Lartebiokoshie,拉尔特比奥科西埃,5.555023,-0.240938,https://imccod.gov.gh/mmdas/,https://data.humdata.org/dataset/cod-ab-gha,辖区内代表点
+gh:GH0703,,GH-AA,Dansoman,达恩索马恩,5.538208,-0.2628,https://imccod.gov.gh/mmdas/,https://data.humdata.org/dataset/cod-ab-gha,辖区内代表点
+gh:GH0718,,GH-AA,Osu,奥苏,5.55728,-0.1864,https://imccod.gov.gh/mmdas/,https://www.geonames.org/8456972/,Osu
+gh:GH0721,,GH-AA,La,拉,5.57015,-0.15592,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2298512/,La
+gh:GH0723,,GH-AA,Teshie,特西埃,5.58365,-0.10722,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2294665/,Teshi Old Town
+gh:GH0720,,GH-AA,Nungua,农瓜,5.60105,-0.07713,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2296969/,Nungua
+csc:52211,,GH-AA,Tema,特马,5.6698,-0.01657,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2294700/,Tema
+gh:GH0728,,GH-AA,Tema Comm. 2,特马科姆姆,5.651306,-0.068473,https://imccod.gov.gh/mmdas/,https://data.humdata.org/dataset/cod-ab-gha,辖区内代表点
+gh:GH0719,,GH-AA,Kpone,克波内,5.68821,0.05622,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2299145/,Kpone
+gh:GH0708,,GH-AA,Ashiaman,阿西阿马恩,5.69951,-0.03484,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2304121/,Ashaiman
+gh:GH0707,,GH-AA,Adentan,阿德恩塔恩,5.69946,-0.16647,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2305907/,Adentan
+gh:GH0726,,GH-AA,Dodowa,多多瓦,5.88114,-0.09873,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2301665/,Dodowa
+gh:GH0724,,GH-AA,Prampram,普拉姆普拉姆,5.71515,0.10494,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2295858/,Prampram
+gh:GH0706,,GH-AA,Sege,塞赫,5.87703,0.35946,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2295471/,Sege
+gh:GH0705,,GH-AA,Ada Foah,阿达福阿,5.77416,0.63377,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2306019/,Ada
+gh:GH0905,,GH-NE,Walewale,瓦莱瓦莱,10.35105,-0.801,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2294174/,Walewale
+gh:GH0904,,GH-NE,Yagaba,亚加巴,10.2353,-1.28419,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2293918/,Yagaba
+gh:GH0903,,GH-NE,Gambaga,加姆巴加,10.5322,-0.43783,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2300776/,Gambaga
+gh:GH0901,,GH-NE,Bunkpurugu,布恩克普鲁古,10.51917,0.09639,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2302433/,Bunkpurugu
+gh:GH0906,,GH-NE,Yunyoo,尤尼奥奥,10.48889,-0.00875,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2293719/,Yunyoo
+gh:GH0902,,GH-NE,Chereponi,切雷波尼,10.1383,0.29107,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2302263/,Chereponi
+gh:GH0803,,GH-NP,Kpandai,克帕恩达伊,8.46885,-0.01127,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2299236/,Kpandae
+gh:GH0807,,GH-NP,Bimbilla,比姆比亚,8.85488,0.05922,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2303026/,Bimbila
+gh:GH0808,,GH-NP,Wulensi,乌莱恩西,8.65513,-0.00135,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2293976/,Wulasi
+gh:GH0816,,GH-NP,Zabzugu,萨布苏古,9.29322,0.36784,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2293713/,Zabzugu
+gh:GH0813,,GH-NP,Tatale,塔塔莱,9.14212,0.455667,https://imccod.gov.gh/mmdas/,https://data.humdata.org/dataset/cod-ab-gha,辖区内代表点
+gh:GH0815,,GH-NP,Yendi,延迪,9.44272,-0.00991,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2293801/,Yendi
+gh:GH0805,,GH-NP,Sang,萨恩格,9.41555,-0.27766,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2295611/,Sang
+gh:GH0809,,GH-NP,Saboba,萨博巴,9.70738,0.31843,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2295758/,Saboba
+gh:GH0801,,GH-NP,Gushiegu,古西埃古,9.922913,-0.144801,https://imccod.gov.gh/mmdas/,https://data.humdata.org/dataset/cod-ab-gha,辖区内代表点
+gh:GH0802,,GH-NP,Karaga,卡拉加,9.92668,-0.43299,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2299781/,Karaga
+gh:GH0811,,GH-NP,Savelugu,萨维卢古,9.62376,-0.82705,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2295517/,Savelugu
+gh:GH0806,,GH-NP,Nanton,纳恩托恩,9.5518,-0.72971,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2297551/,Nanton
+gh:GH0812,,GH-NP,Tamale,塔马利,9.40079,-0.8393,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2294877/,Tamale
+gh:GH0810,,GH-NP,Sagnarigu,萨格纳里古,9.487091,-0.855335,https://imccod.gov.gh/mmdas/,https://data.humdata.org/dataset/cod-ab-gha,辖区内代表点
+gh:GH0814,,GH-NP,Tolon,托洛恩,9.43208,-1.06591,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2294484/,Tolon
+gh:GH0804,,GH-NP,Kumbungu,库姆布恩古,9.56061,-0.94849,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2298879/,Kumbungu
+gh:GH1002,,GH-OT,Jasikan,贾西坎,7.40941,0.46771,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2300178/,Jasikan
+gh:GH1003,,GH-OT,Kedjebi,凯德赫比,7.53735,0.46202,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2299937/,Kadjebi
+gh:GH1008,,GH-OT,Nkwanta,恩夸恩塔,8.26138,0.52436,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2297218/,Nkwanta
+gh:GH1007,,GH-OT,Kpasa,克帕萨,8.49221,0.29112,https://imccod.gov.gh/mmdas/,https://www.geonames.org/11239744/,Kpasa
+gh:GH1001,,GH-OT,Nkonya-Ahenkro,恩科尼亚阿埃恩克罗,7.11461,0.3211,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2305453/,Ahenkro
+gh:GH1004,,GH-OT,Dambai,达姆巴伊,8.06616,0.17947,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2301424/,Dambai
+gh:GH1006,,GH-OT,Kete Krachi,凯特克拉奇,7.79391,-0.0498,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2299642/,Kete Krachi
+gh:GH1005,,GH-OT,Chinderi,基恩德里,8.188629,-0.088351,https://imccod.gov.gh/mmdas/,https://data.humdata.org/dataset/cod-ab-gha,辖区内代表点
+gh:guan,,GH-OT,Likpe Mate,利克佩马特,7.17938,0.60379,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2298143/,Mate
+gh:GH1101,,GH-SV,Bole,树干,9.03454,-2.48343,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2302822/,Bole
+gh:GH1106,,GH-SV,Sawla,萨乌拉,9.27289,-2.41428,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2295506/,Sawla
+gh:GH1107,,GH-SV,Damongo,达莫恩戈,9.08296,-1.81884,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2302002/,Damongo
+gh:GH1105,,GH-SV,Daboya,达博亚,9.5311,-1.37895,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2302095/,Daboya
+gh:GH1102,,GH-SV,Buipe,布伊佩,8.80524,-1.56211,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2302494/,Old Buipe
+gh:GH1103,,GH-SV,Salaga,萨拉加,8.348694,-1.025512,https://imccod.gov.gh/mmdas/,https://data.humdata.org/dataset/cod-ab-gha,辖区内代表点
+gh:GH1104,,GH-SV,Kpalbe,克帕尔贝,9.11704,-0.55077,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2296159/,Palbe
+gh:GH1208,,GH-UE,Fumbisi,富姆比西,10.43333,-1.33333,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2300844/,Fumbisi
+gh:GH1207,,GH-UE,Sandema,萨恩德马,10.73474,-1.2836,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2295619/,Sandema
+gh:GH1210,,GH-UE,Navrongo,纳夫隆哥,10.89469,-1.09083,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2297505/,Navrongo
+gh:GH1211,,GH-UE,Paga,帕加,10.99327,-1.1134,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2296181/,Paga
+gh:GH1205,,GH-UE,Bolgatanga,博尔加坦加,10.78556,-0.85139,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2302821/,Bolgatanga
+gh:GH1204,,GH-UE,Zuarungu,苏阿鲁恩古,10.78556,-0.80093,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2293593/,Zuarungu
+gh:GH1206,,GH-UE,Bongo,博恩戈,10.91156,-0.80563,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2302768/,Bongo
+gh:GH1214,,GH-UE,Tongo,托恩戈,10.70894,-0.80228,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2294466/,Tongo
+gh:GH1212,,GH-UE,Nangodi,纳恩戈迪,10.85901,-0.66406,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2297581/,Nangodi Kalini
+gh:GH1202,,GH-UE,Zebila,塞比拉,10.9391,-0.48393,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2293664/,Zebilla Natinga
+csc:52161,,GH-UE,Bawku,巴乌库,11.05926,-0.24249,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2303287/,Bawku
+gh:GH1213,,GH-UE,Pusiga,普西加,11.08478,-0.12737,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2295795/,Pusiga
+gh:GH1209,,GH-UE,Garu,加鲁,10.8538,-0.17951,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2300756/,Garu Natinga
+gh:GH1215,,GH-UE,Tempane,特姆帕内,10.85453,-0.13152,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2294693/,Tempane Natinga
+gh:GH1203,,GH-UE,Binduri,比恩杜里,10.9692,-0.30784,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2303009/,Binduri Natinga
+csc:52213,,GH-UW,Wa,瓦,10.06069,-2.50192,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2294206/,Wa
+gh:GH1311,,GH-UW,Wachiaw,瓦基阿乌,9.917694,-2.608438,https://imccod.gov.gh/mmdas/,https://data.humdata.org/dataset/cod-ab-gha,辖区内代表点
+gh:GH1305,,GH-UW,Nadowli,纳多乌利,10.285614,-2.638016,https://imccod.gov.gh/mmdas/,https://data.humdata.org/dataset/cod-ab-gha,辖区内代表点
+gh:GH1301,,GH-UW,Issa,伊斯萨,10.39267,-2.33293,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2300282/,Issa
+gh:GH1302,,GH-UW,Jirapa,希拉帕,10.53689,-2.70155,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2300068/,Jirapa
+gh:GH1303,,GH-UW,Lambussie,拉姆布斯西埃,10.84689,-2.71053,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2298479/,Lambusie
+gh:GH1304,,GH-UW,Lawra,拉乌拉,10.64239,-2.89307,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2298428/,Lawra
+gh:GH1306,,GH-UW,Nandom,纳恩多姆,10.85204,-2.76129,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2297598/,Nandom
+gh:GH1309,,GH-UW,Funsi,富恩西,10.29818,-1.96824,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2300833/,Funsi
+gh:GH1308,,GH-UW,Gwollu,格沃尤,10.759186,-2.304918,https://imccod.gov.gh/mmdas/,https://data.humdata.org/dataset/cod-ab-gha,辖区内代表点
+gh:GH1307,,GH-UW,Tumu,图穆,10.87645,-1.97911,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2294342/,Tumu
+csc:52180,,GH-TV,Keta,凯塔,5.91793,0.98789,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2299645/,Keta
+gh:GH1406,,GH-TV,Anglo,阿恩格洛,5.79473,0.89728,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2304548/,Anloga
+gh:GH1413,,GH-TV,Denu,德努,6.09327,1.14824,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2301806/,Denu
+gh:GH1412,,GH-TV,Dzodze,德索德塞,6.23669,0.99578,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2301367/,Dzodze
+gh:GH1405,,GH-TV,Akatsi,阿卡特西,6.1316,0.79853,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2305191/,Akatsi
+gh:GH1404,,GH-TV,Ave Dakpa,阿贝达克帕,6.311096,0.876607,https://imccod.gov.gh/mmdas/,https://data.humdata.org/dataset/cod-ab-gha,辖区内代表点
+gh:GH1418,,GH-TV,Sogakope,索加科佩,6.0,0.6,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2295260/,Sogakofe
+gh:GH1407,,GH-TV,Adidome,阿迪多梅,6.06568,0.50712,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2305884/,Adidome
+gh:GH1416,,GH-TV,Battor,巴特托尔,6.07297,0.40693,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2303312/,Bator
+gh:GH1401,,GH-TV,Adaklu Waya,阿达克卢瓦亚,6.44468,0.62871,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2294101/,Waya
+gh:GH1403,,GH-TV,Agotime Kpetoe,阿戈蒂梅克佩托埃,6.476379,0.692017,https://imccod.gov.gh/mmdas/,https://data.humdata.org/dataset/cod-ab-gha,辖区内代表点
+csc:52176,,GH-TV,Ho,霍,6.60084,0.4713,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2300379/,Ho
+gh:GH1409,,GH-TV,Dzolokpuita,德索洛克普伊塔,6.78472,0.44162,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2301363/,Dzolokpuita
+gh:GH1417,,GH-TV,Kpeve,克佩贝,6.544495,0.240677,https://imccod.gov.gh/mmdas/,https://data.humdata.org/dataset/cod-ab-gha,辖区内代表点
+gh:GH1414,,GH-TV,Kpando,克帕恩多,6.99536,0.29306,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2299233/,Kpandu
+gh:GH1415,,GH-TV,Anfoega,阿恩福埃加,6.817291,0.230514,https://imccod.gov.gh/mmdas/,https://data.humdata.org/dataset/cod-ab-gha,辖区内代表点
+gh:GH1410,,GH-TV,Hohoe,霍霍埃,7.15181,0.47362,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2300372/,Hohoe
+gh:GH1402,,GH-TV,Ve-Golokwati,贝戈洛夸蒂,6.875305,0.365194,https://imccod.gov.gh/mmdas/,https://data.humdata.org/dataset/cod-ab-gha,辖区内代表点
+gh:GH1504,,GH-WP,Half Assini,阿尔夫阿斯西尼,5.05233,-2.88302,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2300469/,Awiane
+gh:GH1503,,GH-WP,Nkroful,恩克罗富尔,4.96629,-2.32323,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2297265/,Nkroful
+gh:GH1506,,GH-WP,Axim,阿克西姆,4.86641,-2.24181,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2303611/,Esim
+gh:GH1501,,GH-WP,Agona Nkwanta,阿戈纳恩夸恩塔,4.852295,-1.986699,https://imccod.gov.gh/mmdas/,https://data.humdata.org/dataset/cod-ab-gha,辖区内代表点
+gh:GH1508,,GH-WP,Sekondi,塞康第,4.93422,-1.71454,https://imccod.gov.gh/mmdas/,https://www.geonames.org/11808941/,Sekondi
+gh:GH1502,,GH-WP,Kwesimintin,奎西米恩蒂恩,4.964416,-1.807574,https://imccod.gov.gh/mmdas/,https://data.humdata.org/dataset/cod-ab-gha,辖区内代表点
+gh:GH1509,,GH-WP,Shama,萨马,5.01973,-1.62709,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2295387/,Shama
+gh:GH1514,,GH-WP,Daboase,达博阿塞,5.13823,-1.6601,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2302099/,Daboasi
+gh:GH1505,,GH-WP,Mpohor,姆波奥尔,4.97254,-1.8933,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2297840/,Mpohor
+csc:52209,,GH-WP,Tarkwa,塔克瓦,5.30383,-1.98956,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2294768/,Tarkwa
+gh:GH1507,,GH-WP,Bogoso,博戈索,5.56752,-2.01369,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2302877/,Bogoso
+gh:GH1512,,GH-WP,Wassa Akropong,瓦斯萨阿克罗波恩格,5.78722,-2.08361,https://imccod.gov.gh/mmdas/,https://www.geonames.org/9159672/,Wassa-Akropong
+gh:GH1511,,GH-WP,Manso Amenfi,马恩索阿梅恩菲,5.63403,-2.25093,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2298173/,Manso-Amenfi
+gh:GH1513,,GH-WP,Asankragua,阿萨恩克拉古阿,5.746674,-2.489564,https://imccod.gov.gh/mmdas/,https://data.humdata.org/dataset/cod-ab-gha,辖区内代表点
+gh:GH1601,,GH-WN,Enchi,埃恩基,5.82238,-2.82227,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2301174/,Enkye
+gh:GH1609,,GH-WN,Dadieso,达迪埃索,6.11747,-3.03536,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2302081/,Dadeeso
+gh:GH1604,,GH-WN,Bibiani,比比亚尼,6.45196,-2.31635,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2303060/,Bibiani
+gh:GH1608,,GH-WN,Sefwi Wiaso,塞夫维维阿索,6.20583,-2.48944,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2294056/,Sefwi Wiawso
+gh:GH1607,,GH-WN,Sefwi Akontombra,塞夫维-阿孔托布拉,6.04183,-2.87517,https://imccod.gov.gh/mmdas/,https://www.geonames.org/7648743/,Sefwi Akontombra
+gh:GH1606,,GH-WN,Juaboso,胡阿博索,6.431702,-2.91256,https://imccod.gov.gh/mmdas/,https://data.humdata.org/dataset/cod-ab-gha,辖区内代表点
+gh:GH1605,,GH-WN,Bodie,博迪埃,6.2235,-2.75728,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2302896/,Boadi
+gh:GH1603,,GH-WN,Essam-Dabiso,埃斯萨姆达比索,6.569122,-3.066007,https://imccod.gov.gh/mmdas/,https://data.humdata.org/dataset/cod-ab-gha,辖区内代表点
+gh:GH1602,,GH-WN,Adabokrom,阿达博克罗姆,6.82132,-3.01955,https://imccod.gov.gh/mmdas/,https://www.geonames.org/2305796/,Adabokrom

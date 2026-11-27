@@ -1,0 +1,15 @@
+region,official_thromde,en,zh,id,latitude,longitude,point_source
+BT-33,Bumthang,Jakar,贾卡尔,gn:1337301,27.54918,90.7525,GeoNames 1337301
+BT-13,Haa,Haa,哈阿,gn:1252563,27.38747,89.28074,GeoNames 1252563
+BT-41,Trashigang,Trashigang,扎西冈,gn:1252423,27.3331,91.55424,GeoNames 1252423
+BT-21,Tsirang,Damphu,丹普,gn:1337372,27.01667,90.1,GeoNames 1337372
+BT-22,Dagana,Daga,达加,gn:1252433,27.07529,89.87688,GeoNames 1252433
+BT-11,Paro,Paro,帕罗,csc:15714,27.4305,89.41334,Existing CSC WGS84
+BT-TY,Trashi Yangtse,Trashi Yangtse,扎西央孜,gn:1252422,27.6116,91.498,GeoNames 1252422
+BT-32,Trongsa,Trongsa,通萨,gn:1252408,27.5026,90.50716,GeoNames 1252408
+BT-34,Zhemgang,Zhemgang,谢姆冈,gn:1252451,27.21689,90.65793,GeoNames 1252451
+BT-12,,Phuentsholing,彭措林,csc:15716,26.85164,89.38837,Existing record from 0.1.29
+BT-23,,Punākha,普那卡,csc:15717,27.59137,89.87743,Existing record from 0.1.29
+BT-15,,Thimphu,廷布,csc:15722,27.46609,89.64191,Existing record from 0.1.29
+BT-45,,Samdrup Jongkhar,桑珠琼卡尔,csc:15718,26.80069,91.50519,Existing record from 0.1.29
+BT-31,,Gelephu,盖莱普,csc:153839,26.86833,90.48778,Existing record from 0.1.29

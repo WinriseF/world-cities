@@ -1,0 +1,68 @@
+country,officialId,placeId,officialName,region,representative,pointSource,statsNzRegionCode
+NZ,001,nz:municipality:001,Far North District,NZ-NTL,Kaikohe,GeoNames:6229575,01
+NZ,002,csc:79921,Whangarei District,NZ-NTL,Whangarei,csc:79921,01
+NZ,003,nz:municipality:003,Kaipara District,NZ-NTL,Dargaville,GeoNames:2191911,01
+NZ,011,nz:municipality:011,Thames-Coromandel District,NZ-WKO,Thames,GeoNames:2208333,03
+NZ,012,nz:municipality:012,Hauraki District,NZ-WKO,Paeroa,GeoNames:2208327,03
+NZ,013,nz:municipality:013,Waikato District,NZ-WKO,Ngaruawahia,GeoNames:6247826,03
+NZ,015,nz:municipality:015,Matamata-Piako District,NZ-WKO,Te Aroha,GeoNames:6235636,03
+NZ,016,csc:79799,Hamilton City,NZ-WKO,Hamilton,csc:79799,03
+NZ,017,nz:municipality:017,Waipa District,NZ-WKO,Te Awamutu,GeoNames:6240801,03
+NZ,018,nz:municipality:018,Ōtorohanga District,NZ-WKO,Ōtorohanga,GeoNames:2185245,03
+NZ,019,nz:municipality:019,South Waikato District,NZ-WKO,Tokoroa,GeoNames:2180995,03
+NZ,020,nz:municipality:020,Waitomo District,NZ-WKO,Te Kuiti,GeoNames:6234244,03
+NZ,021,nz:municipality:021,Taupo District,NZ-WKO,Taupō,GeoNames:2181742,03
+NZ,022,nz:municipality:022,Western Bay of Plenty District,NZ-BOP,Te Puke,GeoNames:6245055,04
+NZ,023,csc:79889,Tauranga City,NZ-BOP,Tauranga,csc:79889,04
+NZ,024,csc:79875,Rotorua District,NZ-BOP,Rotorua,csc:79875,04
+NZ,025,nz:municipality:025,Whakatane District,NZ-BOP,Whakatāne,GeoNames:2208330,04
+NZ,026,nz:municipality:026,Kawerau District,NZ-BOP,Kawerau,GeoNames:2188942,04
+NZ,027,nz:municipality:027,Ōpōtiki District,NZ-BOP,Ōpōtiki,GeoNames:2208332,04
+NZ,028,csc:79796,Gisborne District,NZ-GIS,Gisborne,csc:79796,05
+NZ,029,nz:municipality:029,Wairoa District,NZ-HKB,Wairoa,GeoNames:6247603,06
+NZ,030,csc:79800,Hastings District,NZ-HKB,Hastings,csc:79800,06
+NZ,031,csc:79836,Napier City,NZ-HKB,Napier,csc:79836,06
+NZ,032,nz:municipality:032,Central Hawke's Bay District,NZ-HKB,Waipawa,GeoNames:6251378,06
+NZ,033,csc:79838,New Plymouth District,NZ-TKI,New Plymouth,csc:79838,07
+NZ,034,nz:municipality:034,Stratford District,NZ-TKI,Stratford,GeoNames:6223846,07
+NZ,035,nz:municipality:035,South Taranaki District,NZ-TKI,Hāwera,GeoNames:2206359,07
+NZ,036,nz:municipality:036,Ruapehu District,NZ-MWT,Taumarunui,GeoNames:6234582,08
+NZ,037,csc:79913,Whanganui District,NZ-MWT,Whanganui,csc:79913,08
+NZ,038,nz:municipality:038,Rangitikei District,NZ-MWT,Marton,GeoNames:6224624,08
+NZ,039,nz:municipality:039,Manawatu District,NZ-MWT,Feilding,GeoNames:6224615,08
+NZ,040,csc:79853,Palmerston North City,NZ-MWT,Palmerston North,csc:79853,08
+NZ,041,nz:municipality:041,Tararua District,NZ-MWT,Dannevirke,GeoNames:6246205,08
+NZ,042,nz:municipality:042,Horowhenua District,NZ-MWT,Levin,GeoNames:2206371,08
+NZ,043,nz:municipality:043,Kapiti Coast District,NZ-WGN,Paraparaumu,GeoNames:2184904,09
+NZ,044,csc:79862,Porirua City,NZ-WGN,Porirua,csc:79862,09
+NZ,045,csc:79899,Upper Hutt City,NZ-WGN,Upper Hutt,csc:79899,09
+NZ,046,csc:79819,Lower Hutt City,NZ-WGN,Lower Hutt,csc:79819,09
+NZ,047,csc:79915,Wellington City,NZ-WGN,Wellington,csc:79915,09
+NZ,048,nz:municipality:048,Masterton District,NZ-WGN,Masterton,GeoNames:2206890,09
+NZ,049,nz:municipality:049,Carterton District,NZ-WGN,Carterton,GeoNames:6226000,09
+NZ,050,nz:municipality:050,South Wairarapa District,NZ-WGN,Martinborough,GeoNames:6226278,09
+NZ,051,nz:municipality:051,Tasman District,NZ-TAS,Richmond,GeoNames:2183472,16
+NZ,052,csc:79837,Nelson City,NZ-NSN,Nelson,csc:79837,17
+NZ,053,nz:municipality:053,Marlborough District,NZ-MBH,Blenheim,GeoNames:6243926,18
+NZ,054,nz:municipality:054,Kaikoura District,NZ-CAN,Kaikōura,GeoNames:2189272,13
+NZ,055,nz:municipality:055,Buller District,NZ-WTC,Westport,GeoNames:2206900,12
+NZ,056,nz:municipality:056,Grey District,NZ-WTC,Greymouth,GeoNames:2206895,12
+NZ,057,nz:municipality:057,Westland District,NZ-WTC,Hokitika,GeoNames:2206894,12
+NZ,058,nz:municipality:058,Hurunui District,NZ-CAN,Amberley,GeoNames:2193968,13
+NZ,059,nz:municipality:059,Waimakariri District,NZ-CAN,Rangiora,GeoNames:6220565,13
+NZ,060,csc:79783,Christchurch City,NZ-CAN,Christchurch,csc:79783,13
+NZ,062,nz:municipality:062,Selwyn District,NZ-CAN,Rolleston,GeoNames:2183310,13
+NZ,063,nz:municipality:063,Ashburton District,NZ-CAN,Ashburton,GeoNames:6217081,13
+NZ,064,nz:municipality:064,Timaru District,NZ-CAN,Timaru,GeoNames:2181133,13
+NZ,065,nz:municipality:065,Mackenzie District,NZ-CAN,Fairlie,GeoNames:2191220,13
+NZ,066,nz:municipality:066,Waimate District,NZ-CAN,Waimate,GeoNames:6214808,13
+NZ,067,nz:municipality:067,Chatham Islands Territory,NZ-CIT,Waitangi,GeoNames:4032804,99
+NZ,068,nz:municipality:068,Waitaki District,NZ-OTA,Oamaru,GeoNames:6215045,14
+NZ,069,nz:municipality:069,Central Otago District,NZ-OTA,Alexandra,GeoNames:6207905,14
+NZ,070,nz:municipality:070,Queenstown-Lakes District,NZ-OTA,Queenstown,GeoNames:6204696,14
+NZ,071,csc:79790,Dunedin City,NZ-OTA,Dunedin,csc:79790,14
+NZ,072,nz:municipality:072,Clutha District,NZ-OTA,Balclutha,GeoNames:2208248,14
+NZ,073,nz:municipality:073,Southland District,NZ-STL,Winton,GeoNames:2206968,15
+NZ,074,nz:municipality:074,Gore District,NZ-STL,Gore,GeoNames:6201424,15
+NZ,075,csc:79804,Invercargill City,NZ-STL,Invercargill,csc:79804,15
+NZ,076,csc:79773,Auckland,NZ-AUK,Auckland,csc:79773,02

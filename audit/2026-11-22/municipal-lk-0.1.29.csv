@@ -1,0 +1,66 @@
+district_code,district,source_item,region,legal_council,council_type,representative_place,en,zh,id,latitude,longitude,point_source
+11,Colombo,1,LK-1,Colombo Municipal Council,Municipal,Colombo,Colombo,科伦坡,csc:66461,6.93548,79.84868,GeoNames 1248991
+11,Colombo,2,LK-1,Dehiwala - Mt. Lavinia Municipal Council,Municipal,Dehiwala-Mount Lavinia,Dehiwala-Mount Lavinia,代希瓦勒-芒特拉维尼,csc:66464,6.84019,79.87116,GeoNames 1234569
+11,Colombo,3,LK-1,Sri Jayawardenepura Kotte Municipal Council,Municipal,Sri Jayewardenepura Kotte,Sri Jayewardenepura Kotte,斯里贾亚瓦德纳普拉科特,csc:66530,6.88297,79.90708,GeoNames 1238992
+11,Colombo,4,LK-1,Kaduwela Municipal Council,Municipal,Kaduwela,Kaduwela,卡杜韦拉,csc:146181,6.9339,79.982,GeoNames 1242511
+11,Colombo,5,LK-1,Moratuwa Municipal Council,Municipal,Moratuwa,Moratuwa,莫拉图瓦,csc:66514,6.773,79.8816,GeoNames 1234633
+11,Colombo,6,LK-1,Kollonnawa Urban Council,Urban,Kolonnawa,Kollonnawa,科伦纳沃,gn:1239593,6.9329,79.8848,GeoNames 1239593
+11,Colombo,7,LK-1,Seethawakapura Urban Council,Urban,Avissawella,Seethawakapura,锡塔瓦卡普拉,gn:1250720,6.953,80.2075,GeoNames 1250720
+11,Colombo,8,LK-1,Maharagama Urban Council,Urban,Maharagama,Maharagama,马哈拉加马,gn:1236854,6.848,79.9265,GeoNames 1236854
+11,Colombo,9,LK-1,Kesbewa Urban Council,Urban,Kesbewa,Kesbewa,凯斯贝沃,gn:1240465,6.7914,79.9378,GeoNames 1240465
+11,Colombo,10,LK-1,Boralesgamuwa Urban Council,Urban,Boralesgamuwa South,Boralesgamuwa,博拉莱斯加穆沃,gn:1249605,6.8382,79.9104,GeoNames 1249605
+12,Gampaha,1,LK-1,Negombo Municipal Council,Municipal,Negombo,Negombo,内贡博,csc:66516,7.2083,79.8358,GeoNames 1233369
+12,Gampaha,2,LK-1,Gampaha Municipal Council,Municipal,Gampaha,Gampaha,加姆珀哈,csc:66470,7.0897,79.9925,GeoNames 1246007
+12,Gampaha,3,LK-1,Wattala - Mabola Urban Council,Urban,Wattala,Wattala-Mabola,瓦塔拉-马博拉,gn:1224085,6.98918,79.89167,GeoNames 1224085
+12,Gampaha,4,LK-1,Katunayaka - Seeduwa Urban Council,Urban,Seeduwa,Katunayaka-Seeduwa,卡图纳亚克-锡杜沃,gn:1228056,7.1305,79.8871,GeoNames 1228056
+12,Gampaha,5,LK-1,Minuwangoda Urban Council,Urban,Minuwangoda,Minuwangoda,米努万戈德,gn:1235000,7.1663,79.9533,GeoNames 1235000
+12,Gampaha,6,LK-1,Ja - Ela Urban Council,Urban,Ja Ela,Ja-Ela,贾埃勒,gn:1242835,7.0744,79.8919,GeoNames 1242835
+12,Gampaha,7,LK-1,Peliyagoda Urban Council,Urban,Peliyagoda,Peliyagoda,佩利亚戈德,gn:1230613,6.9685,79.8836,GeoNames 1230613
+13,Kalutara,1,LK-1,Panadura Urban Council,Urban,Panadura,Panadura,帕讷杜勒,gn:1231410,6.7132,79.9026,GeoNames 1231410
+13,Kalutara,2,LK-1,Horana Urban Council,Urban,Horana South,Horana,霍拉讷,gn:1243867,6.7159,80.0626,GeoNames 1243867
+13,Kalutara,3,LK-1,Kalutara Municipal Council,Municipal,Kalutara,Kalutara,卡鲁塔拉,csc:66487,6.5831,79.9593,GeoNames 1241964
+13,Kalutara,4,LK-1,Beruwala Urban Council,Urban,Beruwala,Beruwala,贝鲁沃勒,gn:1249931,6.4788,79.9828,GeoNames 1249931
+21,Kandy,1,LK-2,Kandy Municipal Council,Municipal,Kandy,Kandy,康提,csc:66489,7.2906,80.6336,GeoNames 1241622
+21,Kandy,2,LK-2,Wattegama Urban Council,Urban,Wattegama,Wattegama,瓦泰加马,gn:1224059,7.3493,80.6808,GeoNames 1224059
+21,Kandy,3,LK-2,Kadugannawa Urban Council,Urban,Kadugannawa,Kadugannawa,卡杜甘纳沃,gn:1242571,7.2547,80.5242,GeoNames 1242571
+21,Kandy,4,LK-2,Gampola Urban Council,Urban,Gampola,Gampola,甘波勒,gn:1246000,7.1643,80.5696,GeoNames 1246000
+21,Kandy,5,LK-2,Nawalapitiya Urban Council,Urban,Nawalapitiya,Nawalapitiya,纳瓦拉皮蒂亚,gn:1233497,7.0534,80.5321,GeoNames 1233497
+22,Matale,1,LK-2,Dambulla Municipal Council,Municipal,Dambulla,Dambulla,丹布勒,csc:66463,7.86,80.65167,GeoNames 1248749
+22,Matale,2,LK-2,Matale Municipal Council,Municipal,Matale,Matale,马特莱,csc:66505,7.4698,80.6217,GeoNames 1235855
+23,Nuwara Eliya,1,LK-2,Nuwara Eliya Municipal Council,Municipal,Nuwara Eliya,Nuwara Eliya,努沃勒埃利耶,csc:66517,6.97078,80.78286,GeoNames 1232783
+23,Nuwara Eliya,2,LK-2,Hatton - Dickoya Urban Council,Urban,Hatton,Hatton-Dickoya,哈顿-迪科亚,gn:1244596,6.8916,80.5955,GeoNames 1244596
+23,Nuwara Eliya,3,LK-2,Thalawakele Lindula Urban Council,Urban,Talawakele,Thalawakele Lindula,塔拉瓦凯莱-林杜拉,gn:1227300,6.9371,80.6581,GeoNames 1227300
+31,Galle,1,LK-3,Galle Municipal Council,Municipal,Galle,Galle,加勒,csc:66468,6.0461,80.2103,GeoNames 1246294
+31,Galle,2,LK-3,Ambalangoda Urban Council,Urban,Ambalangoda,Ambalangoda,安巴兰戈达,gn:1251574,6.2355,80.0538,GeoNames 1251574
+31,Galle,3,LK-3,Hikkaduwa Urban Council,Urban,Hikkaduwa,Hikkaduwa,希卡杜沃,gn:1244178,6.1407,80.1012,GeoNames 1244178
+32,Matara,1,LK-3,Matara Municipal Council,Municipal,Matara,Matara,马塔拉,csc:66507,5.94851,80.53528,GeoNames 1235846
+32,Matara,2,LK-3,Weligama Urban Council,Urban,Weligama,Weligama,韦利格默,gn:1223738,5.97501,80.42968,GeoNames 1223738
+33,Hambantota,1,LK-3,Hambantota Municipal Council,Municipal,Hambantota,Hambantota,汉班托塔,csc:66473,6.1241,81.1185,GeoNames 1244926
+33,Hambantota,2,LK-3,Tangalle Urban Council,Urban,Tangalle,Tangalle,坦加勒,csc:66533,6.02338,80.79738,GeoNames 1227037
+41,Jaffna,1,LK-4,Jaffna Municipal Council,Municipal,Jaffna,Jaffna,贾夫纳,csc:66483,9.66845,80.00742,GeoNames 1242833
+41,Jaffna,2,LK-4,Valvettithurai Urban Council,Urban,Valvedditturai,Valvettithurai,瓦尔韦蒂图赖,gn:1225142,9.81667,80.16667,GeoNames 1225142
+41,Jaffna,3,LK-4,Point Pedro Urban Council,Urban,Point Pedro,Point Pedro,佩德罗角,gn:1229989,9.81667,80.23333,GeoNames 1229989
+41,Jaffna,4,LK-4,Chavakachcheri Urban Council,Urban,Chavakachcheri,Chavakachcheri,恰瓦卡切里,gn:1249220,9.6614,80.1708,GeoNames 1249220
+42,Mannar,1,LK-4,Mannar Urban Council,Urban,Mannar,Mannar,马纳尔,gn:1236150,8.98945,79.87842,GeoNames 1236150
+43,Vavuniya,1,LK-4,Vavuniya Municipal Council,Municipal,Vavuniya,Vavuniya,瓦武尼亚,csc:66539,8.7514,80.4971,GeoNames 1225018
+51,Batticaloa,1,LK-5,Batticaloa Municipal Council,Municipal,Batticaloa,Batticaloa,巴提卡洛阿,csc:66456,7.7102,81.6924,GeoNames 1250161
+51,Batticaloa,2,LK-5,Eravur Urban Council,Urban,Eravur Town,Eravur,埃拉武尔,gn:1246924,7.7782,81.6038,GeoNames 1246924
+51,Batticaloa,3,LK-5,Karthankudy Urban Council,Urban,Kattankudy,Karthankudy,卡坦库迪,gn:1462565,7.6824,81.7334,GeoNames 1462565
+52,Ampara,1,LK-5,Akkaripattu Municipal Council,Municipal,Akkaraipattu,Akkaraipattu,阿卡赖帕图,gn:1252160,7.2165,81.8538,GeoNames 1252160
+52,Ampara,2,LK-5,Ampara Urban Council,Urban,Ampara,Ampara,安帕赖,gn:1251459,7.29754,81.68202,GeoNames 1251459
+53,Trincomalee,1,LK-5,Trincomalee Municipal Council,Municipal,Trincomalee,Trincomalee,亭可马里,csc:66534,8.5778,81.2289,GeoNames 1226260
+53,Trincomalee,2,LK-5,Kinniya Urban Council,Urban,Kinniya,Kinniya,金尼亚,gn:1230486,8.49852,81.18317,GeoNames 1230486
+61,Kurunegala,1,LK-6,Kurunegala Municipal Council,Municipal,Kurunegala,Kurunegala,库鲁内格勒,csc:66502,7.4839,80.3683,GeoNames 1237980
+61,Kurunegala,2,LK-6,Kuliyapitiya Urban Council,Urban,Kuliyapitiya,Kuliyapitiya,库利亚皮蒂亚,gn:1238427,7.4688,80.0401,GeoNames 1238427
+62,Puttalam,1,LK-6,Puttalam Municipal Council,Municipal,Puttalam,Puttalam,普塔勒姆,csc:66525,8.0362,79.8283,GeoNames 1229293
+62,Puttalam,2,LK-6,Chilaw Urban Council,Urban,Chilaw,Chilaw,奇洛,gn:1249145,7.57583,79.79528,GeoNames 1249145
+71,Anuradhapura,1,LK-7,Anuradhapura Municipal Council,Municipal,Anuradhapura,Anuradhapura,阿努拉德普勒,csc:66451,8.31223,80.41306,GeoNames 1251081
+72,Polonnaruwa,1,LK-7,Polonnaruwa Municipal Council,Municipal,Polonnaruwa,Polonnaruwa,波隆纳鲁沃,csc:66523,7.93965,81.00274,GeoNames 1229901
+81,Badulla,1,LK-8,Badulla Municipal Council,Municipal,Badulla,Badulla,巴杜勒,csc:66453,6.9802,81.0577,GeoNames 1250615
+81,Badulla,2,LK-8,Bandarawela Municipal Council,Municipal,Bandarawela,Bandarawela,庞德罗拉,gn:1250308,6.8334,80.9853,GeoNames 1250308
+81,Badulla,3,LK-8,Haputale Urban Council,Urban,Haputale,Haputale,哈普塔莱,gn:1244713,6.76566,80.95104,GeoNames 1244713
+91,Ratnapura,1,LK-9,Ratnapura Municipal Council,Municipal,Ratnapura,Ratnapura,拉特纳普勒,csc:66527,6.6858,80.4036,GeoNames 1228730
+91,Ratnapura,2,LK-9,Balangoda Urban Council,Urban,Balangoda,Balangoda,巴兰戈德,gn:1250500,6.6466,80.7007,GeoNames 1250500
+91,Ratnapura,3,LK-9,Embilipitiya Urban Council,Urban,Embilipitiya,Embilipitiya,恩比利皮蒂耶,gn:1247018,6.34389,80.84889,GeoNames 1247018
+92,Kegalle,1,LK-9,Kegalle Municipal Council,Municipal,Kegalle,Kegalle,卡格拉,csc:66493,7.2523,80.3436,GeoNames 1240723
+52,Ampara,Gazette 2469/17,LK-5,Kalmunai Municipal Council,Municipal,Kalmunai,Kalmunai,卡尔穆奈,csc:66486,7.40902,81.83472,GeoNames 1242110

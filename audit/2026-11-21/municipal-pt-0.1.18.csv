@@ -1,0 +1,8 @@
+id,name,chinese,region_code,latitude,longitude,coordinate_or_action,official_source
+csc:89245,Lisbon,里斯本,PT-11,38.72509,-9.1498,GeoNames 2267057,https://geohab.ine.pt/assets/html/ManualPrecosHabitacaoCidades20.html
+csc:89657,Vila Nova de Gaia,加亚新城,PT-13,41.12401,-8.61241,GeoNames 2732544,https://geohab.ine.pt/assets/html/ManualPrecosHabitacaoCidades20.html
+csc:88946,Almancil,阿尔曼西尔,PT-08,37.08686,-8.03074,GeoNames 2271947,https://diariodarepublica.pt/dr/detalhe/lei/17-2025-908906752
+csc:89307,Mogadouro,莫加多鲁,PT-04,41.34034,-6.71187,GeoNames 2737599,https://diariodarepublica.pt/dr/detalhe/lei/46-2025-913636011
+csc:89685,Vizela,维泽拉,PT-03,41.38212,-8.3089,GeoNames 2741738,https://www.cm-vizela.pt/caracterizacao-do-concelho/
+csc:143481,Mercês,梅尔塞斯,PT-11,38.71611111,-9.14888889,removed: former Lisbon parish,https://www.lisboa.pt/fileadmin/informacao/publicacoes/revista_lisboa/Revista_Lisboa_09.pdf
+csc:143604,Santa Catarina,圣卡塔琳娜州,PT-11,38.71138889,-9.14805556,removed: former Lisbon parish,https://www.lisboa.pt/fileadmin/informacao/publicacoes/revista_lisboa/Revista_Lisboa_09.pdf

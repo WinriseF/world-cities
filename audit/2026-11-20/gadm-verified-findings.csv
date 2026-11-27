@@ -1,0 +1,21 @@
+﻿类别,分片,记录ID,城市,核查发现,独立来源
+漏收城市,ID,,Subulussalam,BPS 2026 城市年鉴确认现行 Kota；在印尼分片缺少对应条目。,https://subulussalamkota.bps.go.id/en/publication/2026/02/27/54cd636ef8dcfba93f166f46/kota-subulussalam-dalam-angka-2026.html
+漏收城市,ID,,Tidore Kepulauan,BPS 2026 城市年鉴确认现行 Kota；在印尼分片缺少对应条目。,https://tikepkota.bps.go.id/en/publication/2026/02/27/4355087b05f458e98b77c70b/kota-tidore-kepulauan-dalam-angka-2026.html
+漏收城市,ID,,Baubau,BPS 2026 城市年鉴确认现行 Kota；在印尼分片缺少对应条目。,https://baubaukota.bps.go.id/id/publication/2026/02/27/213cbbfd133b398a2f3a27e3/baubau-municipality-in-figures-2026.html
+漏收城市,ID,,Bitung,BPS 2026 城市年鉴确认现行 Kota；在印尼分片缺少对应条目。,https://bitungkota.bps.go.id/id/publication/2026/02/27/1ddb0eb978376c6a0d7127c8/kota-bitung-dalam-angka-2026.html
+漏收城市,ID,,Sawahlunto,BPS 2026 城市年鉴确认现行 Kota；在印尼分片缺少对应条目。,https://sawahluntokota.bps.go.id/en/publication/2026/02/27/0d0bcabbf8977ec426e160f6/kota-sawahlunto-dalam-angka-2026.html
+上级归属缺失,AR,wd:Q1486,Buenos Aires,归属 Autonomous City of Buenos Aires（AR-C，csc:r:4880）,https://buenosaires.gob.ar/gcaba_historico/justicia/elecciones-2025-en-la-ciudad/organizacion-politico-territorial
+代表点错误,BD,csc:153887,Jamalpur,包内经度 89.2605013°E 位于官方给出的县域经度范围外；GeoNames 城市驻地点为 24.91965°N、89.94812°E，两点相距约 70.0 公里。,https://bbs.jamalpur.gov.bd/pages/static-pages/6970740ea31054345f1510c8 | https://www.geonames.org/1185106/jamalpur.html
+上级归属错挂,BW,wd:Q3919,Gaborone,归属 Gaborone（BW-GA，csc:r:5712）,https://statsbots.org.bw/sites/default/files/publications/2022%20Population%20and%20Housing%20Census%20Preliminary%20Results%20Aug.pdf
+上级归属缺失,ID,wd:Q3630,Jakarta,归属 DKI Jakarta（ID-JK，csc:r:1805）,https://www.jakarta.go.id/tentang-jakarta
+上级归属缺失,IE,csc:57279,Kilkenny,归属 Kilkenny（IE-KK，csc:r:1090）,https://kilkennycoco.ie/eng/services/community_culture/information-booklet-for-invitation-for-expression-copy.pdf
+上级归属错挂,MN,csc:153783,Ulan Bator,归属 Ulaanbaatar（MN-1，csc:r:5453）,https://downloads.1212.mn/Statistical_Yearkbook_2021_eng.pdf
+上级归属缺失,NP,wd:Q3037,Kathmandu,归属 Bagmati（NP-P3，csc:r:2073）,https://kathmandu.gov.np/en/about-us
+上级归属缺失,UG,csc:110960,Tororo,归属 Tororo（UG-212，csc:r:359）,https://www.tororo.go.ug/
+上级归属缺失,UG,csc:110910,Kasese,归属 Kasese（UG-406，csc:r:440）,https://www.kasese.go.ug/admin-units/
+代表点在所属市界外,BR,csc:12058,Guaratinguetá,IBGE 3518404；包内点位于官方边界外约 0.299 公里；IBGE 驻地点（纬度 -22.817101、经度 -45.192402）在市界内。,https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/Brasil/ | https://geoftp.ibge.gov.br/organizacao_do_territorio/estrutura_territorial/localidades/Localidades_do_Brasil/2022/
+代表点在所属市界外,BR,csc:13340,Nossa Senhora de Lourdes,IBGE 2804706；包内点位于官方边界外约 4.553 公里；IBGE 驻地点（纬度 -10.0783、经度 -37.057301）在市界内。,https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/Brasil/ | https://geoftp.ibge.gov.br/organizacao_do_territorio/estrutura_territorial/localidades/Localidades_do_Brasil/2022/
+代表点在所属市界外,BR,csc:10774,Brasiléia,IBGE 1200104；包内点位于官方边界外约 0.015 公里；IBGE 驻地点（纬度 -11.0154、经度 -68.75）在市界内。,https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/Brasil/ | https://geoftp.ibge.gov.br/organizacao_do_territorio/estrutura_territorial/localidades/Localidades_do_Brasil/2022/
+代表点在所属市界外,BR,csc:10489,Balneário Piçarras,IBGE 4212809；包内点位于官方边界外约 0.95 公里；IBGE 驻地点（纬度 -26.765301、经度 -48.671398）在市界内。,https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/Brasil/ | https://geoftp.ibge.gov.br/organizacao_do_territorio/estrutura_territorial/localidades/Localidades_do_Brasil/2022/
+代表点在所属市界外,BR,csc:12212,Ilhabela,IBGE 3520400；包内点位于官方边界外约 0.017 公里；IBGE 驻地点（纬度 -23.8144、经度 -45.365501）在市界内。,https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/Brasil/ | https://geoftp.ibge.gov.br/organizacao_do_territorio/estrutura_territorial/localidades/Localidades_do_Brasil/2022/
+代表点在所属市界外,BR,csc:11336,Colônia Leopoldina,IBGE 2702108；包内点位于官方边界外约 0.098 公里；IBGE 驻地点（纬度 -8.9106、经度 -35.7234）在市界内。,https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/Brasil/ | https://geoftp.ibge.gov.br/organizacao_do_territorio/estrutura_territorial/localidades/Localidades_do_Brasil/2022/

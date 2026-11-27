@@ -1,0 +1,21 @@
+id,official_id,region,en,zh,latitude,longitude,roster_source,coordinate_source,notes
+csc:15722,,BT-15,Thimphu,廷布,27.46609,89.64191,https://www.moit.gov.bt/wp-content/uploads/2022/12/CNDP-Vol1_Summary.pdf,https://github.com/dr5hn/countries-states-cities-database,沿用与宗级城镇相符的城区代表点
+csc:15716,,BT-12,Phuentsholing,彭措林,26.85164,89.38837,https://www.moit.gov.bt/wp-content/uploads/2022/12/CNDP-Vol1_Summary.pdf,https://github.com/dr5hn/countries-states-cities-database,沿用与宗级城镇相符的城区代表点
+csc:15714,,BT-11,Paro,帕罗,27.4305,89.41334,https://www.moit.gov.bt/wp-content/uploads/2022/12/CNDP-Vol1_Summary.pdf,https://github.com/dr5hn/countries-states-cities-database,沿用与宗级城镇相符的城区代表点
+csc:153839,,BT-31,Gelephu,盖莱普,26.86833,90.48778,https://www.moit.gov.bt/wp-content/uploads/2022/12/CNDP-Vol1_Summary.pdf,https://github.com/dr5hn/countries-states-cities-database,沿用与宗级城镇相符的城区代表点
+csc:15718,,BT-45,Samdrup Jongkhar,桑珠琼卡尔,26.80069,91.50519,https://www.moit.gov.bt/wp-content/uploads/2022/12/CNDP-Vol1_Summary.pdf,https://github.com/dr5hn/countries-states-cities-database,沿用与宗级城镇相符的城区代表点
+bt:thromde:wangduephodrang,,BT-24,Wangdue Phodrang,旺杜波德朗,27.48615,89.89915,https://www.moit.gov.bt/wp-content/uploads/2022/12/CNDP-Vol1_Summary.pdf,https://www.geonames.org/1252395/,沿用与宗级城镇相符的城区代表点
+bt:thromde:mongar,,BT-42,Mongar,蒙加尔,27.27471,91.23963,https://www.moit.gov.bt/wp-content/uploads/2022/12/CNDP-Vol1_Summary.pdf,https://www.geonames.org/1252514/,沿用与宗级城镇相符的城区代表点
+csc:15717,,BT-23,Punakha,普那卡,27.59137,89.87743,https://www.moit.gov.bt/wp-content/uploads/2022/12/CNDP-Vol1_Summary.pdf,https://github.com/dr5hn/countries-states-cities-database,沿用与宗级城镇相符的城区代表点
+gn:1337301,,BT-33,Jakar,贾卡尔,27.54918,90.7525,https://www.moit.gov.bt/wp-content/uploads/2022/12/CNDP-Vol1_Summary.pdf,https://www.geonames.org/1337301/,沿用与宗级城镇相符的城区代表点
+bt:thromde:samtse,,BT-14,Samtse,萨姆策,26.89903,89.09951,https://www.moit.gov.bt/wp-content/uploads/2022/12/CNDP-Vol1_Summary.pdf,https://www.geonames.org/1337360/,沿用与宗级城镇相符的城区代表点
+gn:1337372,,BT-21,Damphu,丹普,27.01667,90.1,https://www.moit.gov.bt/wp-content/uploads/2022/12/CNDP-Vol1_Summary.pdf,https://www.geonames.org/1337372/,沿用与宗级城镇相符的城区代表点
+gn:1252422,,BT-TY,Trashi Yangtse,扎西央孜,27.6116,91.498,https://www.moit.gov.bt/wp-content/uploads/2022/12/CNDP-Vol1_Summary.pdf,https://www.geonames.org/1252422/,沿用与宗级城镇相符的城区代表点
+gn:1252408,,BT-32,Trongsa,通萨,27.5026,90.50716,https://www.moit.gov.bt/wp-content/uploads/2022/12/CNDP-Vol1_Summary.pdf,https://www.geonames.org/1252408/,沿用与宗级城镇相符的城区代表点
+gn:1252423,,BT-41,Trashigang,扎西冈,27.3331,91.55424,https://www.moit.gov.bt/wp-content/uploads/2022/12/CNDP-Vol1_Summary.pdf,https://www.geonames.org/1252423/,沿用与宗级城镇相符的城区代表点
+gn:1252451,,BT-34,Zhemgang,谢姆冈,27.21689,90.65793,https://www.moit.gov.bt/wp-content/uploads/2022/12/CNDP-Vol1_Summary.pdf,https://www.geonames.org/1252451/,沿用与宗级城镇相符的城区代表点
+gn:1252563,,BT-13,Haa,哈阿,27.38747,89.28074,https://www.moit.gov.bt/wp-content/uploads/2022/12/CNDP-Vol1_Summary.pdf,https://www.geonames.org/1252563/,沿用与宗级城镇相符的城区代表点
+gn:1252433,,BT-22,Daga,达加,27.07529,89.87688,https://www.moit.gov.bt/wp-content/uploads/2022/12/CNDP-Vol1_Summary.pdf,https://www.geonames.org/1252433/,沿用与宗级城镇相符的城区代表点
+bt:thromde:lhuentse,,BT-44,Lhuentse,隆采,27.66787,91.18393,https://www.moit.gov.bt/wp-content/uploads/2022/12/CNDP-Vol1_Summary.pdf,https://www.geonames.org/1252526/,沿用与宗级城镇相符的城区代表点
+bt:thromde:gasa,,BT-GA,Gasa,加萨,27.90372,89.72689,https://www.moit.gov.bt/wp-content/uploads/2022/12/CNDP-Vol1_Summary.pdf,https://www.geonames.org/1252578/,沿用与宗级城镇相符的城区代表点
+bt:thromde:denchi,,BT-43,Denchi,登奇,27.01815,91.39968,https://www.moit.gov.bt/wp-content/uploads/2022/12/CNDP-Vol1_Summary.pdf,https://www.openstreetmap.org/way/1115201752,以位于登奇镇的新宗政府行政办公楼为代表点；中文名采用音译

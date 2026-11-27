@@ -1,0 +1,153 @@
+{
+  "LR": {
+    "cities": [
+      {
+        "id": "csc:66558",
+        "en": "Yekepa",
+        "zh": "耶凯帕",
+        "region": "csc:r:3046",
+        "kind": "locality",
+        "lat": 7.57944,
+        "lon": -8.53778,
+        "aliases": [
+          "New Yekepa",
+          "Jekepa"
+        ]
+      },
+      {
+        "id": "csc:165178",
+        "en": "Harbel",
+        "zh": "哈贝尔",
+        "region": "csc:r:3043",
+        "kind": "locality",
+        "lat": 6.24683,
+        "lon": -10.35642
+      }
+    ],
+    "retired": []
+  },
+  "ML": {
+    "cities": [
+      {
+        "id": "ml:13040102",
+        "en": "Fana",
+        "zh": "法纳",
+        "aliases": [
+          "Guégnéka",
+          "古埃格内卡",
+          "gu ai ge nei ka",
+          "GUEGNEKA",
+          "Guegneka",
+          "fa na"
+        ],
+        "lat": 12.7787,
+        "lon": -6.9564
+      },
+      {
+        "id": "ml:13010102",
+        "en": "Dioïla",
+        "zh": "迪奥伊拉",
+        "aliases": [
+          "Kaladougou",
+          "卡拉多乌戈乌",
+          "ka la duo wu ge wu",
+          "KALADOUGOU",
+          "Dioila",
+          "di ao yi la"
+        ],
+        "lat": 12.48735,
+        "lon": -6.80313
+      },
+      {
+        "id": "ml:15020101",
+        "en": "Yanfolila",
+        "zh": "扬福利拉",
+        "aliases": [
+          "Wassoulou-Ballé",
+          "瓦斯索乌洛乌巴勒莱",
+          "wa si suo wu luo wu ba le lai",
+          "WASSOULOU-BALLE",
+          "Wassoulou Balle",
+          "Wassoulou-Balle",
+          "yang fu li la"
+        ],
+        "lat": 11.18333,
+        "lon": -8.15
+      },
+      {
+        "id": "ml:04050101",
+        "en": "Ké-Macina",
+        "zh": "凯马西纳",
+        "aliases": [
+          "Macina",
+          "马伊纳",
+          "ma yi na",
+          "MACINA",
+          "Ke-Macina",
+          "kai ma xi na"
+        ],
+        "lat": 13.9641,
+        "lon": -5.35791
+      }
+    ],
+    "retired": []
+  },
+  "IQ": {
+    "cities": [
+      {
+        "id": "iq:kr-11061",
+        "en": "Akre",
+        "zh": "阿克雷",
+        "aliases": [
+          "Akry",
+          "ئاكري",
+          "ئاکرێ",
+          "عقرة",
+          "Akra"
+        ]
+      },
+      {
+        "id": "iq:kr-11044",
+        "en": "Dereluk",
+        "zh": "德雷卢克",
+        "aliases": [
+          "Dirluk",
+          "ديرلوك",
+          "دێرەلوک",
+          "deraluk",
+          "Derelok",
+          "Deralok"
+        ]
+      },
+      {
+        "id": "iq:way-1324236693",
+        "en": "Sheladiza",
+        "zh": "希拉迪扎",
+        "aliases": [
+          "شێلادزێ",
+          "شیلادزي",
+          "شيلادزة",
+          "Shiladze",
+          "Sheladiz",
+          "Shelādiz"
+        ]
+      }
+    ],
+    "retired": []
+  },
+  "TD": {
+    "cities": [
+      {
+        "id": "td:lr-bebidja",
+        "en": "Bebidja",
+        "zh": "贝比德贾",
+        "aliases": [
+          "BEBIDJA",
+          "Bébédja",
+          "Bebedja"
+        ]
+      }
+    ],
+    "retired": []
+  }
+}

@@ -1,0 +1,299 @@
+id,official_id,region,en,zh,latitude,longitude,roster_source,coordinate_source,notes
+hn:1102,1102,HN-IB,Guanaja,瓜纳哈岛,16.44186,-85.88717,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3609293/,Guanaja
+hn:1103,1103,HN-IB,José Santos  Guardiola,何塞·桑托斯·瓜迪奥拉,16.394832,-86.39072,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://data.humdata.org/dataset/cod-ab-hnd,辖区内代表点
+hn:1101,1101,HN-IB,Roatán,罗阿坦,16.3229,-86.53605,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/10792300/,Roatán
+csc:54349,0201,HN-CL,Trujillo,特鲁希略,15.91741,-85.95263,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3600591/,Trujillo
+hn:0203,0203,HN-CL,Iriona,伊里奥纳,15.96777,-85.09323,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3608822/,Iriona
+hn:0206,0206,HN-CL,Santa Rosa De Aguán,圣罗萨德阿古安,15.95,-85.71667,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3601496/,Santa Rosa de Aguán
+hn:0107,0107,HN-AT,Tela,特拉,15.77425,-87.46731,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3600931/,Tela
+hn:0204,0204,HN-CL,Limón,利蒙,15.789441,-85.519777,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://data.humdata.org/dataset/cod-ab-hnd,辖区内代表点
+hn:0205,0205,HN-CL,Santa Fe,圣达菲,15.88209,-86.02947,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3601593/,Santa Fe
+hn:0506,0506,HN-CR,Puerto Cortés,科尔特斯港,15.82562,-87.92968,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3600026/,Puerto Cortez
+hn:0202,0202,HN-CL,Balfate,巴尔法特,15.77057,-86.38872,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3614903/,Balfate
+hn:0210,0210,HN-CL,Bonito Oriental,东博尼托,15.74765,-85.73559,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3614705/,Bonito Oriental
+hn:0108,0108,HN-AT,Arizona,亚利桑那,15.63333,-87.31667,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3615069/,Arizona
+hn:0103,0103,HN-AT,Esparta,埃斯帕塔,15.71667,-87.2,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3609752/,Esparta
+hn:0104,0104,HN-AT,Jutiapa,胡蒂亚帕,15.76667,-86.51667,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3608514/,Jutiapa
+hn:0503,0503,HN-CR,Omoa,奥莫阿,15.77603,-88.03833,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3604229/,Omoa
+hn:0101,0101,HN-AT,La Ceiba,拉塞瓦,15.75971,-86.78221,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3608248/,La Ceiba
+hn:0105,0105,HN-AT,La Masica,拉马西卡,15.61667,-87.11667,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3607419/,La Masica
+hn:0106,0106,HN-AT,San Francisco,旧金山,15.65,-87.05,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3602301/,San Francisco
+hn:0102,0102,HN-AT,El Porvenir,埃尔波韦尼尔,15.75,-86.93333,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3610676/,El Porvenir
+hn:0209,0209,HN-CL,Tocoa,托科阿,15.68333,-86.0,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3600704/,Tocoa
+hn:0502,0502,HN-CR,Choloma,乔洛马,15.61444,-87.95302,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3613533/,Choloma
+hn:0207,0207,HN-CL,Sonaguera,索纳格拉,15.63333,-86.33333,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3601211/,Sonaguera
+hn:1804,1804,HN-YO,El Progreso,埃尔普罗格雷索,15.4,-87.8,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3610613/,El Progreso
+hn:1803,1803,HN-YO,El Negrito,埃尔内格里托,15.31667,-87.7,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3611150/,El Negrito
+csc:54281,0501,HN-CR,San Pedro Sula,圣佩德罗苏拉,15.50585,-88.02588,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3601782/,San Pedro Sula
+hn:1807,1807,HN-YO,Olanchito,奥兰奇托,15.48131,-86.57415,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3604251/,Olanchito
+hn:1517,1517,HN-OL,San Esteban,圣埃斯特万,15.21231,-85.76996,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3602355/,San Esteban
+hn:0512,0512,HN-CR,La Lima,拉利马,15.43333,-87.91667,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3607511/,La Lima
+hn:0208,0208,HN-CL,Sabá,萨巴,15.481156,-86.164411,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://data.humdata.org/dataset/cod-ab-hnd,辖区内代表点
+hn:1618,1618,HN-SB,Quimistán,基米斯坦,15.34752,-88.4052,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3602952/,Quimistán
+csc:54375,1801,HN-YO,Yoro,约罗,15.13824,-87.12838,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3600195/,Yoro
+hn:1508,1508,HN-OL,Gualaco,瓜拉科,15.02521,-86.07076,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3609389/,Gualaco
+hn:1806,1806,HN-YO,Morazán,莫拉桑,15.31667,-87.6,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3604584/,Morazán
+hn:1604,1604,HN-SB,Azacualpa,阿萨夸尔帕,15.34364,-88.55226,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3614970/,Azacualpa
+hn:0509,0509,HN-CR,San Manuel,圣马努埃尔,15.33143,-87.92115,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3601921/,San Manuel
+hn:1609,1609,HN-SB,Chinda,钦达,15.11667,-88.2,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3613601/,Chinda
+hn:1626,1626,HN-SB,Trinidad,特里尼达,15.14237,-88.23321,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3600608/,Trinidad
+hn:1617,1617,HN-SB,Protección,普罗特克西翁,15.02764,-88.6469,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3603256/,Protección
+hn:0413,0413,HN-CP,Nueva Arcadia,拉恩特拉达,15.03333,-88.71667,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3604399/,Nueva Arcadia
+hn:0507,0507,HN-CR,San Antonio de  Cortés,圣安东尼奥德科尔特斯,15.11611,-88.04074,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3602444/,San Antonio de Cortés
+hn:1606,1606,HN-SB,San José de Colinas,圣何塞德科利纳斯,15.04101,-88.30186,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3602097/,San José de Colinas
+hn:0409,0409,HN-CP,El Paraíso,埃尔帕拉伊索,15.02338,-88.98314,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3610950/,El Paraíso
+hn:1620,1620,HN-SB,San Luis,圣路易斯,15.12692,-88.43931,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3601932/,San Luis
+hn:1514,1514,HN-OL,Mangulile,曼古利莱,15.06667,-86.8,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3605053/,Mangulile
+hn:1505,1505,HN-OL,Dulce Nombre de  Culmí,杜尔塞农布雷德库尔米,15.1,-85.53333,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3612810/,Dulce Nombre de Culmí
+hn:1512,1512,HN-OL,Jano,贾诺,15.05,-86.5,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3608735/,Jano
+hn:1811,1811,HN-YO,Yorito,约里托,15.06667,-87.28333,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3600199/,Yorito
+hn:0510,0510,HN-CR,Santa Cruz de  Yojoa,圣克鲁斯德约霍阿,14.98086,-87.89091,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3601627/,Santa Cruz de Yojoa
+hn:1810,1810,HN-YO,Victoria,维多利亚,14.93761,-87.39354,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3600358/,Victoria
+hn:1510,1510,HN-OL,Guata,瓜塔,15.08333,-86.38333,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3607830/,La Guata
+hn:0411,0411,HN-CP,La Jigua,拉吉瓜,15.03333,-88.8,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3607679/,La Jigua
+hn:0404,0404,HN-CP,Copán Ruinas,科潘遗址,14.83936,-89.15583,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3613230/,Copán Ruinas
+hn:0402,0402,HN-CP,Cabañas,卡瓦尼亚斯,14.83333,-89.1,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3614537/,Cabañas
+hn:1311,1311,HN-LE,La Unión,拉乌尼翁,14.81387,-88.40845,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3606171/,La Unión
+hn:0316,0316,HN-CM,San Luis,圣路易斯,14.74935,-87.40846,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3601936/,San Luis
+hn:1515,1515,HN-OL,Manto,曼塔,14.91667,-86.38333,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3605042/,Manto
+hn:0315,0315,HN-CM,San José del  Potrero,圣何塞德尔波特雷罗,14.83999,-87.28405,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3602070/,San José del Potrero
+hn:0306,0306,HN-CM,La Libertad,拉利伯塔德,14.75792,-87.60759,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3607540/,La Libertad
+hn:1313,1313,HN-LE,Lepaera,莱帕埃拉,14.77876,-88.5902,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3606048/,Lepaera
+csc:54313,0401,HN-CP,Santa Rosa de  Copán,科潘省圣罗莎,14.77388,-88.7756,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3601494/,Santa Rosa de Copán
+hn:1511,1511,HN-OL,Guayape,瓜亚佩,14.71667,-86.83333,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3609152/,Guayape
+hn:1608,1608,HN-SB,Concepción del Sur,康塞普西翁德尔苏尔,14.8,-88.16667,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3613281/,Concepción del Sur
+hn:0310,0310,HN-CM,Meámbar,记住,14.78333,-87.76667,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3604894/,Meámbar
+hn:0321,0321,HN-CM,Taulabé,陶拉贝,14.69251,-87.96537,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3600966/,Taulabé
+hn:0311,0311,HN-CM,Minas de Oro,米纳斯德奥罗,14.79611,-87.34654,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3604795/,Minas de Oro
+hn:0418,0418,HN-CP,San Juan de  Opoa,圣胡安德奥波阿,14.779,-88.69641,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3601993/,San Juan de Opoa
+hn:1623,1623,HN-SB,San Pedro Zacapa,圣佩德罗-萨卡帕,14.7565,-88.11373,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3601780/,San Pedro Zacapa
+hn:1610,1610,HN-SB,El Níspero,埃尔尼斯佩罗,14.76667,-88.33333,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3611144/,El Níspero
+hn:1516,1516,HN-OL,Salamá,萨拉玛,14.83333,-86.58333,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3602603/,Salamá
+hn:0312,0312,HN-CM,Ojos de Agua,奥霍斯·德·阿瓜,14.76498,-87.64957,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3604261/,Ojos de Agua
+hn:1605,1605,HN-SB,Ceguaca,塞瓜卡,14.80232,-88.20387,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3613900/,Ceguaca
+hn:0303,0303,HN-CM,El Rosario,埃尔罗萨里奥,14.57909,-87.72677,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3610380/,El Rosario
+hn:1501,1501,HN-OL,Juticalpa,胡蒂卡尔帕,14.66438,-86.22246,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3608503/,Juticalpa
+hn:1017,1017,HN-IN,San Francisco de  Opalaca,圣弗兰西斯科德奥帕拉卡,14.520126,-88.297139,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://data.humdata.org/dataset/cod-ab-hnd,辖区内代表点
+hn:1006,1006,HN-IN,Intibucá,因蒂布卡,14.31226,-88.17608,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3608834/,Intibucá
+hn:0318,0318,HN-CM,Siguatepeque,锡瓜特佩克,14.59691,-87.83102,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3601311/,Siguatepeque
+hn:1504,1504,HN-OL,Concordia,康考迪亚,14.61667,-86.65,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3613263/,Concordia
+hn:1309,1309,HN-LE,La Iguala,拉伊瓜拉,14.61667,-88.46667,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3607728/,La Iguala
+hn:0803,0803,HN-FM,Cedros,塞德罗斯,14.6,-87.11667,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3613906/,Cedros
+hn:1302,1302,HN-LE,Belén,贝伦,14.5,-88.48333,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3614801/,Belén
+hn:1518,1518,HN-OL,San Francisco de  Becerra,圣弗兰西斯科德贝塞拉,14.63333,-86.1,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3602287/,San Francisco de Becerra
+csc:53908,0301,HN-CM,Comayagua,科马亚瓜,14.45577,-87.63968,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3613321/,Comayagua
+hn:1502,1502,HN-OL,Campamento,坎帕门托,14.55,-86.65,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3614319/,Campamento
+hn:0313,0313,HN-CM,San Jerónimo,圣赫罗尼莫,14.62674,-87.60671,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3602190/,San Jerónimo
+csc:54010,1301,HN-LE,Gracias,格拉西亚斯,14.59065,-88.58612,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3609586/,Gracias
+hn:1403,1403,HN-OC,Concepción,康塞普西翁,14.5,-89.21667,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3613293/,Concepción
+hn:0806,0806,HN-FM,Guaimaca,瓜伊马卡,14.53333,-86.81667,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3609418/,Guaimaca
+hn:1404,1404,HN-OC,Dolores Merendón,多洛雷斯·梅伦登,14.53333,-89.11667,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3612840/,Dolores
+hn:0405,0405,HN-CP,Corquín,科尔金,14.56667,-88.86667,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3613171/,Corquín
+hn:1011,1011,HN-IN,San Isidro,圣伊西德罗,14.56667,-88.11667,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3602233/,San Isidro
+hn:0511,0511,HN-CR,Villanueva,比亚努埃瓦,15.31476,-87.99383,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3600327/,Villanueva
+hn:1802,1802,HN-YO,Arenal,阿雷纳尔,15.35,-86.83333,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3615090/,Arenal
+hn:1507,1507,HN-OL,Esquipulas del  Norte,埃斯基普拉斯德尔北,15.3,-86.53333,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3609734/,Esquipulas del Norte
+hn:1805,1805,HN-YO,Jocón,霍孔,15.28333,-86.96667,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3608635/,Jocón
+hn:1616,1616,HN-SB,Petoa,佩托阿,15.26939,-88.28878,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3603799/,Petoa
+hn:1613,1613,HN-SB,Macuelizo,马库埃利索,15.31276,-88.54113,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3605186/,Macuelizo
+hn:1621,1621,HN-SB,San Marcos,圣马科斯,15.30248,-88.41605,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3601899/,San Marcos
+hn:0504,0504,HN-CR,Pimienta,辣椒,15.27458,-87.97329,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3603655/,Pimienta
+hn:0410,0410,HN-CP,Florida,弗洛里达,15.02692,-88.83567,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3609681/,Florida
+hn:1513,1513,HN-OL,La Unión,拉乌尼翁,15.03333,-86.71667,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3606167/,La Unión
+hn:1607,1607,HN-SB,Concepción del  Norte,孔塞普西翁德尔北,15.16667,-88.13333,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3613283/,Concepción del Norte
+hn:0505,0505,HN-CR,Potrerillos,波特雷里约斯,15.23008,-87.96386,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3603330/,Potrerillos
+hn:1808,1808,HN-YO,Santa Rita,圣丽塔,15.2,-87.88333,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3601516/,Santa Rita
+hn:0415,0415,HN-CP,San Antonio,圣安东尼奥,15.01978,-88.87303,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3602479/,San Antonio
+hn:1612,1612,HN-SB,Ilama,伊拉马,15.06809,-88.22311,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3608860/,Ilama
+hn:0508,0508,HN-CR,San Francisco  de Yojoa,圣弗兰西斯科德约霍阿,15.01442,-87.9716,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3602272/,San Francisco de Yojoa
+hn:1503,1503,HN-OL,Catacamas,卡塔卡马斯,14.85114,-85.89412,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3613974/,Catacamas
+hn:1809,1809,HN-YO,Sulaco,苏拉科,14.91667,-87.26667,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3601159/,Sulaco
+hn:1614,1614,HN-SB,Naranjito,纳兰希托,14.95297,-88.68333,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3604478/,Naranjito
+hn:0419,0419,HN-CP,San Nicolás,圣尼古拉斯,15.00341,-88.75167,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3601833/,San Nicolás
+hn:1611,1611,HN-SB,Gualala,瓜拉拉,15.004573,-88.178857,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://data.humdata.org/dataset/cod-ab-hnd,辖区内代表点
+hn:0811,0811,HN-FM,Marale,马拉莱,14.88333,-87.15,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3605018/,Marale
+hn:1615,1615,HN-SB,Nuevo Celilac,新塞利拉克,14.98333,-88.33333,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3604376/,Nuevo Celilac
+hn:1522,1522,HN-OL,Yocón,约孔,14.956242,-86.818057,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://data.humdata.org/dataset/cod-ab-hnd,辖区内代表点
+hn:1603,1603,HN-SB,Atima,阿蒂马,14.93253,-88.48965,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3615028/,Atima
+hn:0416,0416,HN-CP,San Jerónimo,圣赫罗尼莫,14.96667,-88.86667,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3602184/,San Jerónimo
+csc:54294,1601,HN-SB,Santa Bárbara,圣巴巴拉,14.92217,-88.23756,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3601691/,Santa Bárbara
+hn:0814,0814,HN-FM,Orica,澳瑞凯,14.7,-86.95,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3604203/,Orica
+hn:1509,1509,HN-OL,Guarizama,瓜里萨马,14.91667,-86.33333,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3609231/,Guarizama
+hn:0422,0422,HN-CP,Trinidad de  Copán,特里尼达德科潘,14.94567,-88.7422,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3600605/,Trinidad de Copán
+hn:0421,0421,HN-CP,Santa Rita,圣丽塔,14.86748,-89.1,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3601519/,"Santa Rita, Copan"
+hn:1622,1622,HN-SB,San Nicolas,圣尼古拉斯,14.9423,-88.32796,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3601834/,San Nicolás
+hn:1506,1506,HN-OL,El Rosario,埃尔罗萨里奥,14.9,-86.68333,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3610375/,El Rosario
+hn:0407,0407,HN-CP,Dolores,多洛雷斯,14.87459,-88.81637,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3612838/,Dolores
+hn:1519,1519,HN-OL,San Francisco de  La Paz,圣弗兰西斯科德拉巴斯,14.9,-86.2,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3602281/,San Francisco de la Paz
+hn:0417,0417,HN-CP,San José,圣何塞,14.90235,-88.72063,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3602092/,San José
+hn:0403,0403,HN-CP,Concepción,康塞普西翁,14.83333,-88.85,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3613292/,Concepción
+hn:0320,0320,HN-CM,Las Lajas,拉斯拉哈斯,14.89589,-87.57912,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3606667/,Las Lajas
+hn:1520,1520,HN-OL,Santa María del  Real,圣玛丽亚德尔雷亚尔,14.76667,-85.95,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3601543/,Santa María del Real
+hn:1627,1627,HN-SB,Las Vegas,拉斯维加斯,14.873838,-88.048739,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://data.humdata.org/dataset/cod-ab-hnd,辖区内代表点
+hn:0423,0423,HN-CP,Veracruz,韦拉克雷斯,14.890058,-88.779472,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://data.humdata.org/dataset/cod-ab-hnd,辖区内代表点
+hn:1625,1625,HN-SB,San Vicente  Centenario,圣文森特森特纳里奥,14.89045,-88.28534,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3601436/,San Vicente Centenario
+hn:0408,0408,HN-CP,Dulce Nombre,杜尔塞·诺布雷,14.84802,-88.8316,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3612813/,Dulce Nombre
+hn:1602,1602,HN-SB,Arada,阿拉达,14.84582,-88.30108,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3615125/,Arada
+hn:0414,0414,HN-CP,San Agustín,圣奥古斯丁,14.81958,-88.93562,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3602546/,San Agustín
+hn:1521,1521,HN-OL,Silca,西尔卡,14.83333,-86.53333,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3601302/,Silca
+hn:0805,0805,HN-FM,El Porvenir,埃尔波韦尼尔,14.75,-87.18333,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3610685/,El Porvenir
+hn:0819,0819,HN-FM,San Ignacio,圣伊格纳西奥,14.65,-87.03333,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3602257/,San Ignacio
+hn:1624,1624,HN-SB,Santa Rita,圣丽塔,14.771,-88.25727,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3601521/,Santa Rita
+hn:0412,0412,HN-CP,La Unión,拉乌尼翁,14.65924,-88.89827,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3606173/,La Unión
+hn:1619,1619,HN-SB,San Francisco de  Ojuera,圣弗朗西斯科·德奥胡埃拉,14.75,-88.18333,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3602275/,San Francisco de Ojuera
+hn:0304,0304,HN-CM,Esquías,埃斯基亚斯,14.74392,-87.3712,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3609742/,Esquías
+hn:1320,1320,HN-LE,San Rafael,圣拉斐尔,14.72709,-88.41828,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3601764/,San Rafael
+hn:0314,0314,HN-CM,San José de  Comayagua,圣何塞德科马亚瓜,14.73333,-88.03333,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3602094/,San José de Comayagua
+hn:0406,0406,HN-CP,Cucuyagua,库库亚瓜,14.64777,-88.87385,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3613015/,Cucuyagua
+hn:1310,1310,HN-LE,Las Flores,拉斯弗洛雷斯,14.674612,-88.6517,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://data.humdata.org/dataset/cod-ab-hnd,辖区内代表点
+hn:0308,0308,HN-CM,La Trinidad,拉特立尼达,14.71667,-87.66667,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3606187/,La Trinidad
+hn:1410,1410,HN-OC,San Fernando,圣费尔南多,14.68333,-89.11667,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3602337/,San Fernando
+hn:1412,1412,HN-OC,San Jorge,圣豪尔赫,14.65,-89.13333,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3602163/,San Jorge
+hn:1323,1323,HN-LE,Talgua,塔尔瓜,14.7,-88.7,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3601063/,Talgua
+hn:1406,1406,HN-OC,La Encarnación,拉恩卡纳西翁,14.66676,-89.08751,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3607992/,La Encarnación
+hn:1408,1408,HN-OC,Lucerna,卢塞尔纳,14.55817,-88.9345,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3605222/,Lucerna
+hn:1007,1007,HN-IN,Jesús de Otoro,赫苏斯德奥托罗,14.48775,-87.98181,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3608715/,Jesús de Otoro
+csc:54054,1001,HN-IN,La Esperanza,拉埃斯佩兰萨,14.30158,-88.16725,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3607966/,La Esperanza
+hn:1405,1405,HN-OC,Fraternidad,兄弟会,14.53333,-89.08333,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3609670/,Fraternidad
+hn:0420,0420,HN-CP,San Pedro,圣佩德罗,14.61667,-88.86667,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3601787/,San Pedro de Copán
+hn:1415,1415,HN-OC,Sensenti,森森蒂,14.49379,-88.93761,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3601367/,Sensenti
+hn:0828,0828,HN-FM,Vallecillo,瓦莱西略,14.51667,-87.4,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3600450/,Vallecillo
+hn:1407,1407,HN-OC,La Labor,拉劳尔,14.48625,-89.00272,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3607644/,La Labor
+hn:1414,1414,HN-OC,Santa Fé,圣达菲,14.51667,-89.23333,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3601596/,Santa Fe
+hn:1402,1402,HN-OC,Belen Gualcho,贝伦瓜尔乔,14.48333,-88.8,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3614797/,Belén Gualcho
+hn:1416,1416,HN-OC,Sinuapa,锡努阿帕,14.44305,-89.18594,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3601282/,Sinuapa
+hn:1308,1308,HN-LE,La Campa,拉坎帕,14.46667,-88.6,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3608336/,La Campa
+hn:1523,1523,HN-OL,Patuca,帕图卡,14.326162,-85.962504,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://data.humdata.org/dataset/cod-ab-hnd,辖区内代表点
+hn:1319,1319,HN-LE,San Manuel Colohete,圣曼努埃尔·科洛赫特,14.45,-88.66667,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3601919/,San Manuel de Colohete
+hn:1009,1009,HN-IN,Masaguara,马萨瓜拉,14.36667,-87.98333,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3604976/,Masaguara
+hn:1401,1401,HN-OC,Ocotepeque,奥科特佩凯,14.43382,-89.18281,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3604384/,Nueva Ocotepeque
+hn:1411,1411,HN-OC,San Francisco del Valle,圣弗兰西斯科德尔巴列,14.43542,-88.95608,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3602277/,San Francisco del Valle
+hn:1012,1012,HN-IN,San Juan,圣胡安,14.40309,-88.42314,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3602046/,San Juan
+hn:0824,0824,HN-FM,Talanga,塔兰加,14.4,-87.08333,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3601072/,Talanga
+hn:1413,1413,HN-OC,San Marcos,圣马科斯,14.40788,-88.95525,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3601903/,San Marcos
+hn:1014,1014,HN-IN,San Miguelito,圣米格利托,14.35,-88.36667,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3601848/,San Miguelito Guancapla
+hn:1321,1321,HN-LE,San Sebastián,圣塞瓦斯蒂安,14.4,-88.73333,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3601731/,San Sebastián
+hn:1322,1322,HN-LE,Santa Cruz,圣克鲁斯,14.31667,-88.51667,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3601656/,Santa Cruz
+hn:1328,1328,HN-LE,San Marcos De Caiquín,圣马科斯德卡伊金,14.38764,-88.580644,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://data.humdata.org/dataset/cod-ab-hnd,辖区内代表点
+hn:0302,0302,HN-CM,Ajuterique,阿胡特里克,14.38304,-87.70965,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3615279/,Ajuterique
+hn:1218,1218,HN-LP,Santiago de Puringla,圣地亚哥德普里恩格拉,14.35783,-87.9041,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3601462/,Santiago de Puringla
+hn:0715,0715,HN-EP,Teupasenti,特乌帕森蒂,14.21667,-86.7,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3600841/,Teupasenti
+hn:1304,1304,HN-LE,Cololaca,科洛拉卡,14.3,-88.88333,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3613371/,Cololaca
+hn:1409,1409,HN-OC,Mercedes,梅赛德斯,14.31667,-88.98333,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3604856/,Mercedes
+hn:0820,0820,HN-FM,Cantarranas,圣胡安德弗洛雷斯,14.26667,-87.03333,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3601999/,San Juan de Flores
+hn:1016,1016,HN-IN,Yamaranguila,亚马兰吉拉,14.28333,-88.24199,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3600254/,Yamaranguila
+csc:54073,1201,HN-LP,La Paz,拉巴斯市,14.32124,-87.67589,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3607254/,La Paz
+hn:0309,0309,HN-CM,Lejamaní,莱哈马尼,14.36681,-87.7072,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3606069/,Lejamaní
+hn:0319,0319,HN-CM,Villa de San  Antonio,圣安东尼奥镇,14.32594,-87.61351,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3600340/,Villa de San Antonio
+csc:54333,0801,HN-FM,Tegucigalpa,特古西加尔巴,14.0818,-87.20681,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3600949/,Tegucigalpa
+hn:1305,1305,HN-LE,Erandique,埃兰迪克,14.23787,-88.46447,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3609775/,Erandique
+hn:0703,0703,HN-EP,Danlí,丹利,14.03333,-86.58333,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3612907/,Danlí
+hn:1316,1316,HN-LE,San Andrés,圣安德烈斯,14.21667,-88.55,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3602531/,San Andrés
+hn:1217,1217,HN-LP,Santa María,圣玛丽亚,14.28333,-87.93333,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3601553/,Santa María
+hn:1204,1204,HN-LP,Cane,卡内,14.27933,-87.65794,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3614218/,Cane
+hn:1307,1307,HN-LE,Guarita,瓜里塔,14.18333,-88.81667,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3609233/,Guarita
+hn:1005,1005,HN-IN,Dolores,多洛雷斯,14.23333,-88.35,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3612841/,Dolores
+hn:1214,1214,HN-LP,San Pedro de Tutule,圣佩德罗德图图莱,14.25145,-87.85414,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3601784/,San Pedro de Tutule
+hn:1325,1325,HN-LE,Tomalá,托马拉,14.25572,-88.727035,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://data.humdata.org/dataset/cod-ab-hnd,辖区内代表点
+hn:0708,0708,HN-EP,Morocelí,莫罗塞利,14.11667,-86.86667,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3604579/,Morocelí
+hn:1324,1324,HN-LE,Tambla,坦布拉,14.21682,-88.78326,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3601030/,Tambla
+hn:1212,1212,HN-LP,San José,圣何塞,14.24809,-87.95951,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3602137/,San José
+hn:0719,0719,HN-EP,Trojes,特洛伊斯,14.06667,-85.98333,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3606292/,Las Trojes
+hn:0305,0305,HN-CM,Humuya,胡穆亚,14.22444,-87.720864,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://data.humdata.org/dataset/cod-ab-hnd,辖区内代表点
+hn:0317,0317,HN-CM,San Sebastián,圣塞瓦斯蒂安,14.24582,-87.63981,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3601733/,San Sebastián
+hn:1208,1208,HN-LP,Marcala,马尔卡拉,14.15661,-88.03466,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3605005/,Marcala
+hn:0307,0307,HN-CM,Lamaní,拉马尼,14.19626,-87.62128,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3607436/,Lamaní
+hn:0827,0827,HN-FM,Villa de San Francisco,圣弗兰西斯科镇,14.16667,-86.96667,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3600338/,Villa de San Francisco
+hn:1205,1205,HN-LP,Chinacla,中国,14.182363,-87.957435,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://data.humdata.org/dataset/cod-ab-hnd,辖区内代表点
+hn:0826,0826,HN-FM,Valle de Ángeles,安赫莱斯镇,14.1578,-87.04263,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3600422/,Valle de Ángeles
+hn:1317,1317,HN-LE,San Francisco,旧金山,14.11667,-88.36667,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3602318/,San Francisco
+hn:1206,1206,HN-LP,Guajiquiro,瓜吉基罗,14.11667,-87.83333,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3609395/,Guajiquiro
+hn:1326,1326,HN-LE,Valladolid,巴利亚多利德,14.15,-88.73333,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3600458/,Valladolid
+hn:0809,0809,HN-FM,Lepaterique,莱帕特里克,14.06667,-87.46667,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3606035/,Lepaterique
+hn:1306,1306,HN-LE,Gualcince,瓜尔辛斯,14.11667,-88.55,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3609370/,Gualcince
+hn:1318,1318,HN-LE,San Juan Guarita,圣胡安瓜里塔,14.14779,-88.772274,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://data.humdata.org/dataset/cod-ab-hnd,辖区内代表点
+hn:1210,1210,HN-LP,Opatoro,奥帕托罗,14.08333,-87.9,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3604213/,Opatoro
+hn:1013,1013,HN-IN,San Marcos De  Sierra,圣马科斯德谢拉,14.11667,-88.25,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3601885/,San Marcos de Sierra
+hn:1219,1219,HN-LP,Yarula,亚鲁拉,14.11667,-88.08333,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3600233/,Yarula
+hn:0823,0823,HN-FM,Santa Lucia,圣卢西亚,14.11568,-87.11368,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3601566/,Santa Lucía
+hn:0706,0706,HN-EP,Jacaleapa,哈卡莱阿帕,14.01667,-86.66667,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3608798/,Jacaleapa
+hn:1216,1216,HN-LP,Santa Elena,圣埃伦娜,14.069593,-88.160883,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://data.humdata.org/dataset/cod-ab-hnd,辖区内代表点
+hn:1312,1312,HN-LE,La Virtud,美德,14.06137,-88.69482,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3606097/,La Virtud
+hn:1315,1315,HN-LE,Piraera,比雷埃拉,14.06667,-88.46667,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3603604/,Piraera
+hn:0710,0710,HN-EP,Potrerillos,波特雷里约斯,14.0,-86.76667,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3603352/,Potrerillos
+hn:0817,0817,HN-FM,San Antonio de Oriente,圣安东尼奥·德·奥连特,14.04421,-87.0313,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3602423/,San Antonio de Oriente
+hn:1215,1215,HN-LP,Santa Ana,圣安娜,14.06667,-87.95,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3601717/,Santa Ana
+hn:1004,1004,HN-IN,Concepción,康塞普西翁,14.03333,-88.33333,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3613297/,Concepción
+hn:1303,1303,HN-LE,Candelaria,坎德拉里亚,14.08333,-88.56667,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3614235/,Candelaria
+hn:1203,1203,HN-LP,Cabañas,卡瓦尼亚斯,14.05,-88.0,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3614538/,Cabañas
+hn:1314,1314,HN-LE,Mapulaca,马普拉卡,14.03333,-88.61667,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3605031/,Mapulaca
+hn:1003,1003,HN-IN,Colomoncagua,科洛蒙卡瓜,13.95,-88.28333,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3613361/,Colomoncagua
+hn:1202,1202,HN-LP,Aguanqueterique,阿瓜克特里克,13.95139,-87.66333,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3615352/,Aguanqueterique
+csc:54376,0701,HN-EP,Yuscarán,尤斯卡兰,13.94439,-86.85241,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3600165/,Yuscarán
+hn:1002,1002,HN-IN,Camasca,卡马斯卡,13.99677,-88.37973,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3614328/,Camasca
+hn:1327,1327,HN-LE,Virginia,弗吉尼亚州,14.01667,-88.56667,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3600315/,Virginia
+hn:0825,0825,HN-FM,Tatumbla,塔图姆布拉,14.0148,-87.10086,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3600971/,Tatumbla
+hn:0813,0813,HN-FM,Ojojona,奥霍霍纳,13.93389,-87.29583,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3604270/,Ojojona
+hn:1010,1010,HN-IN,San Antonio,圣安东尼奥,13.96667,-88.48333,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3602510/,San Antonio
+hn:0713,0713,HN-EP,San Matías,圣马蒂亚斯,13.98333,-86.63333,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3601874/,San Matías
+hn:1213,1213,HN-LP,San Juan,圣胡安,13.95889,-87.695,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3602051/,San Juan
+hn:1209,1209,HN-LP,Mercedes de  Oriente,梅尔塞德斯德东方,13.91028,-87.77583,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3604852/,Mercedes de Oriente
+hn:0810,0810,HN-FM,Maraita,玛莱塔,13.88417,-87.03972,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3605021/,Maraita
+hn:0822,0822,HN-FM,Santa Ana,圣安娜,13.93167,-87.27139,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3601719/,Santa Ana
+hn:1008,1008,HN-IN,Magdalena,马格达莱娜,13.921206,-88.365788,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://data.humdata.org/dataset/cod-ab-hnd,辖区内代表点
+hn:1015,1015,HN-IN,Santa Lucía,圣卢西亚,13.908275,-88.41822,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://data.humdata.org/dataset/cod-ab-hnd,辖区内代表点
+hn:0705,0705,HN-EP,Güinope,吉诺佩,13.88333,-86.93333,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3609112/,Güinope
+hn:0818,0818,HN-FM,San Buenaventura,圣布埃纳文图拉,13.89694,-87.20028,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3602397/,San Buenaventura
+hn:0804,0804,HN-FM,Curarén,库拉伦,13.84861,-87.53194,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3612966/,Curarén
+hn:0704,0704,HN-EP,El Paraíso,埃尔帕拉伊索,13.86667,-86.55,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3610965/,El Paraíso
+hn:1211,1211,HN-LP,San Antonio del  Norte,圣安东尼奥德尔诺特,13.88444,-87.70306,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3602428/,San Antonio del Norte
+hn:0702,0702,HN-EP,Alauca,阿劳卡,13.85,-86.68333,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3615266/,Alauca
+hn:0815,0815,HN-FM,Reitoca,雷托卡,13.82583,-87.46528,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3602852/,Reitoca
+hn:0816,0816,HN-FM,Sabanagrande,萨瓦纳格兰德,13.80778,-87.25917,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3602680/,Sabanagrande
+hn:1207,1207,HN-LP,Lauterique,劳特里克,13.85361,-87.66056,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3606155/,Lauterique
+hn:0709,0709,HN-EP,Oropolí,奥罗波利,13.81667,-86.81667,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3604181/,Oropolí
+hn:1705,1705,HN-VA,Caridad,卡里达德,13.82722,-87.69306,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3614095/,Caridad
+hn:0812,0812,HN-FM,Nueva Armenia,新阿尔梅尼阿,13.7575,-87.16444,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3604397/,Nueva Armenia
+hn:0802,0802,HN-FM,Alubarén,阿卢巴伦,13.79611,-87.46889,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3615226/,Alubarén
+hn:0718,0718,HN-EP,Yauyupe,亚乌尤佩,13.74306,-87.06,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3600222/,Yauyupe
+hn:0712,0712,HN-EP,San Lucas,圣卢卡斯,13.73333,-86.95,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3601951/,San Lucas
+hn:1704,1704,HN-VA,Aramecina,阿拉梅西纳,13.74222,-87.71028,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3615115/,Aramecina
+hn:0821,0821,HN-FM,San Miguelito,圣米格利托,13.74139,-87.49444,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3601856/,San Miguelito
+hn:0808,0808,HN-FM,La Venta,拉文塔,13.75806,-87.31306,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3606123/,La Venta
+hn:0711,0711,HN-EP,San Antonio de  Flores,圣安东尼奥·德·弗洛雷斯,13.71667,-86.88333,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3602439/,San Antonio de Flores
+hn:0614,0614,HN-CH,San José,圣何塞,13.715265,-87.421388,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://data.humdata.org/dataset/cod-ab-hnd,辖区内代表点
+hn:0716,0716,HN-EP,Texiguat,特克西瓜特,13.64972,-87.0225,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3812188/,Texíguat
+hn:1707,1707,HN-VA,Langue,兰格,13.62083,-87.6525,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3607294/,Langue
+hn:0807,0807,HN-FM,La Libertad,拉利伯塔德,13.71389,-87.505,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3607544/,La Libertad
+hn:1708,1708,HN-VA,San Francisco de  Coray,圣弗兰西斯科德科赖,13.66139,-87.53278,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3602284/,San Francisco de Coray
+hn:0604,0604,HN-CH,Duyure,杜尤雷,13.63333,-86.81667,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3612801/,Duyure
+hn:0717,0717,HN-EP,Vado Ancho,瓦多安乔,13.61667,-86.98333,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3600469/,Vado Ancho
+hn:1706,1706,HN-VA,Goascorán,戈阿斯科兰,13.61314,-87.75188,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/9199835/,Goascorán
+hn:0611,0611,HN-CH,Pespire,佩斯皮雷,13.59222,-87.36167,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3603805/,Pespire
+hn:0612,0612,HN-CH,San Antonio de Flores,圣安东尼奥·德·弗洛雷斯,13.66667,-87.36139,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3602440/,San Antonio de Flores
+hn:0613,0613,HN-CH,San Isidro,圣伊西德罗,13.63972,-87.29028,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3602246/,San Isidro
+hn:0714,0714,HN-EP,Soledad,索莱达,13.58694,-87.11917,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3601238/,Soledad
+hn:1701,1701,HN-VA,Nacaome,纳卡奥梅,13.53917,-87.48913,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3604522/,Nacaome
+hn:0608,0608,HN-CH,Morolica,莫罗利卡,13.56667,-86.9,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3604576/,Morolica
+hn:0707,0707,HN-EP,Liure,柳雷,13.53583,-87.09194,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3605950/,Liure
+hn:0615,0615,HN-CH,San Marcos de Colón,圣马科斯·德·科隆,13.43333,-86.8,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3601888/,San Marcos de Colón
+hn:0610,0610,HN-CH,Orocuina,奥罗奎纳,13.48167,-87.105,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3604189/,Orocuina
+hn:1702,1702,HN-VA,Alianza,联盟,13.51222,-87.72444,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3615250/,La Alianza
+hn:0602,0602,HN-CH,Apacilagua,阿帕西拉瓜,13.47806,-87.07556,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3615161/,Apacilagua
+hn:1709,1709,HN-VA,San Lorenzo,圣洛伦索,13.42417,-87.44722,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3601977/,San Lorenzo
+csc:53901,0601,HN-CH,Choluteca,乔卢特卡,13.30569,-87.17882,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3613528/,Ciudad Choluteca
+hn:0605,0605,HN-CH,El Corpus,埃尔科普斯,13.28889,-87.03472,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3611987/,Corpus
+hn:0607,0607,HN-CH,Marcovia,马尔科维亚,13.28806,-87.30972,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3605000/,Marcovia
+hn:1703,1703,HN-VA,Amapala,阿马帕拉,13.29222,-87.65389,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3615213/,Amapala
+hn:0616,0616,HN-CH,Santa Ana de Yusguare,圣安娜德尤斯瓜雷,13.30056,-87.11389,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3601702/,Santa Ana de Yusguare
+hn:0603,0603,HN-CH,Concepción de María,康塞普西翁·德·玛丽亚,13.21667,-87.0,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3613279/,Concepción de María
+hn:0609,0609,HN-CH,Namasigüe,纳马西格,13.20472,-87.13889,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3604503/,Namasigüe
+hn:0606,0606,HN-CH,El Triunfo,埃尔特里温福,13.11667,-87.0,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3610060/,El Triunfo
+hn:1104,1104,HN-IB,Útila,乌提拉,16.09942,-86.89619,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3600483/,Utila
+hn:0903,0903,HN-GD,Juan Francisco Bulnes,胡安·弗朗西斯科·布尔内斯,15.719771,-84.90849,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://data.humdata.org/dataset/cod-ab-hnd,辖区内代表点
+hn:0906,0906,HN-GD,Ramón Villeda Morales,拉蒙比耶达莫拉莱斯,15.103108,-83.435695,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://data.humdata.org/dataset/cod-ab-hnd,辖区内代表点
+hn:0905,0905,HN-GD,Wampusirpi,旺普西尔皮,15.071872,-84.61306,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://data.humdata.org/dataset/cod-ab-hnd,辖区内代表点
+hn:0904,0904,HN-GD,Ahuas,阿瓦斯,15.48333,-84.33333,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3615022/,Auas
+csc:54186,0901,HN-GD,Puerto Lempira,伦皮拉港,15.26566,-83.77436,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3603157/,Puerto Lempira
+hn:0902,0902,HN-GD,Brus Laguna,布鲁斯拉古纳,15.75,-84.48333,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://www.geonames.org/3614663/,Brus Laguna
+hn:1628,1628,HN-SB,Nueva Frontera,新弗朗特拉,15.280276,-88.671173,https://ine.gob.hn/wp-content/uploads/2026/01/Publicacion-del-Directorio-DEE-Honduras-2024.pdf,https://data.humdata.org/dataset/cod-ab-hnd,辖区内代表点

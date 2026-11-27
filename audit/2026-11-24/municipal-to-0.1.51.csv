@@ -1,0 +1,25 @@
+id,official_id,region,en,zh,latitude,longitude,roster_source,coordinate_source,notes
+to:TO11,TO11,TO-04,Kolofo'ou,科洛福乌,-21.144833,-175.183198,https://tongastats.gov.to/download/266/general-tables/8089/1-population-trends.xlsx,https://data.humdata.org/dataset/cod-ab-ton,以最大岛屿内点作为辖区代表点。中文名采用通行译名或音译。
+to:TO12,TO12,TO-04,Kolomotu'a,科洛莫图阿,-21.143303,-175.241088,https://tongastats.gov.to/download/266/general-tables/8089/1-population-trends.xlsx,https://data.humdata.org/dataset/cod-ab-ton,以最大岛屿内点作为辖区代表点。中文名采用通行译名或音译。
+to:TO13,TO13,TO-04,Vaini,瓦伊尼,-21.19292,-175.17678,https://tongastats.gov.to/download/266/general-tables/8089/1-population-trends.xlsx,https://www.geonames.org/4032243/,同名居民地点位在辖区边界内。中文名采用通行译名或音译。
+to:TO14,TO14,TO-04,Tatakamotonga,塔塔卡莫通加,-21.18627,-175.12453,https://tongastats.gov.to/download/266/general-tables/8089/1-population-trends.xlsx,https://www.geonames.org/11543613/,同名居民地点位在辖区边界内。中文名采用通行译名或音译。
+to:TO15,TO15,TO-04,Lapaha,拉帕哈,-21.17735,-175.1172,https://tongastats.gov.to/download/266/general-tables/8089/1-population-trends.xlsx,https://www.geonames.org/4032543/,同名居民地点位在辖区边界内。中文名采用通行译名或音译。
+to:TO16,TO16,TO-04,Nukunuku,努库努库,-21.13333,-175.3,https://tongastats.gov.to/download/266/general-tables/8089/1-population-trends.xlsx,https://www.geonames.org/4032392/,同名居民地点位在辖区边界内。中文名采用通行译名或音译。
+to:TO17,TO17,TO-04,Kolovai,科洛瓦伊,-21.10101,-175.33766,https://tongastats.gov.to/download/266/general-tables/8089/1-population-trends.xlsx,https://www.geonames.org/4032563/,同名居民地点位在辖区边界内。中文名采用通行译名或音译。
+gn:4032420,TO21,TO-05,Neiafu,内亚富,-18.65144,-173.98354,https://tongastats.gov.to/download/266/general-tables/8089/1-population-trends.xlsx,https://www.geonames.org/4032420/,保留既有同名驻地坐标。中文名采用通行译名或音译。
+to:TO22,TO22,TO-05,Pangaimotu,庞艾莫图,-18.6855,-173.99739,https://tongastats.gov.to/download/266/general-tables/8089/1-population-trends.xlsx,https://www.geonames.org/4032370/,同名居民地点位在辖区边界内。中文名采用通行译名或音译。
+to:TO23,TO23,TO-05,Hahake,哈哈凯,-18.606828,-173.935838,https://tongastats.gov.to/download/266/general-tables/8089/1-population-trends.xlsx,https://data.humdata.org/dataset/cod-ab-ton,以最大岛屿内点作为辖区代表点。中文名采用通行译名或音译。
+to:TO24,TO24,TO-05,Leimatu'a,莱马图阿,-18.59964,-173.98121,https://tongastats.gov.to/download/266/general-tables/8089/1-population-trends.xlsx,https://www.geonames.org/4032535/,同名居民地点位在辖区边界内。中文名采用通行译名或音译。
+to:TO25,TO25,TO-05,Hihifo,希希福,-18.637569,-174.045891,https://tongastats.gov.to/download/266/general-tables/8089/1-population-trends.xlsx,https://data.humdata.org/dataset/cod-ab-ton,以最大岛屿内点作为辖区代表点。中文名采用通行译名或音译。
+to:TO26,TO26,TO-05,Motu,莫图,-18.70454,-174.026371,https://tongastats.gov.to/download/266/general-tables/8089/1-population-trends.xlsx,https://data.humdata.org/dataset/cod-ab-ton,以最大岛屿内点作为辖区代表点。中文名采用通行译名或音译。
+gn:4032369,TO31,TO-02,Pangai,庞艾,-19.81468,-174.35423,https://tongastats.gov.to/download/266/general-tables/8089/1-population-trends.xlsx,https://www.geonames.org/4032369/,保留既有同名驻地坐标。中文名采用通行译名或音译。
+to:TO32,TO32,TO-02,Foa,福阿,-19.738465,-174.298585,https://tongastats.gov.to/download/266/general-tables/8089/1-population-trends.xlsx,https://data.humdata.org/dataset/cod-ab-ton,以最大岛屿内点作为辖区代表点。中文名采用通行译名或音译。
+to:TO33,TO33,TO-02,Lulunga,卢伦加,-19.810924,-174.721854,https://tongastats.gov.to/download/266/general-tables/8089/1-population-trends.xlsx,https://data.humdata.org/dataset/cod-ab-ton,以最大岛屿内点作为辖区代表点。中文名采用通行译名或音译。
+to:TO34,TO34,TO-02,Mu'omu'a,穆奥穆阿,-20.32971,-174.71172,https://tongastats.gov.to/download/266/general-tables/8089/1-population-trends.xlsx,https://data.humdata.org/dataset/cod-ab-ton,以最大岛屿内点作为辖区代表点。中文名采用通行译名或音译。
+to:TO35,TO35,TO-02,Ha'ano,哈阿诺,-19.66233,-174.29028,https://tongastats.gov.to/download/266/general-tables/8089/1-population-trends.xlsx,https://www.geonames.org/4032639/,同名居民地点位在辖区边界内。中文名采用通行译名或音译。
+to:TO36,TO36,TO-02,'Uiha,乌伊哈,-19.909236,-174.410209,https://tongastats.gov.to/download/266/general-tables/8089/1-population-trends.xlsx,https://data.humdata.org/dataset/cod-ab-ton,以最大岛屿内点作为辖区代表点。中文名采用通行译名或音译。
+to:TO41,TO41,TO-01,Eua Motu'a,旧埃瓦,-21.369576,-174.921569,https://tongastats.gov.to/download/266/general-tables/8089/1-population-trends.xlsx,https://data.humdata.org/dataset/cod-ab-ton,以最大岛屿内点作为辖区代表点。中文名采用通行译名或音译。
+to:TO42,TO42,TO-01,Eua Fo'ou,新埃瓦,-21.373297,-174.953842,https://tongastats.gov.to/download/266/general-tables/8089/1-population-trends.xlsx,https://data.humdata.org/dataset/cod-ab-ton,以最大岛屿内点作为辖区代表点。中文名采用通行译名或音译。
+to:TO51,TO51,TO-03,Niuatoputapu,纽阿托普塔普,-15.955576,-173.77853,https://tongastats.gov.to/download/266/general-tables/8089/1-population-trends.xlsx,https://data.humdata.org/dataset/cod-ab-ton,以最大岛屿内点作为辖区代表点。中文名采用通行译名或音译。
+to:TO52,TO52,TO-03,Niuafo'ou,纽阿弗欧,-15.597816,-175.606337,https://tongastats.gov.to/download/266/general-tables/8089/1-population-trends.xlsx,https://data.humdata.org/dataset/cod-ab-ton,以最大岛屿内点作为辖区代表点。中文名采用通行译名或音译。
+csc:107048,,TO-04,Nuku‘alofa,努库阿洛法,-21.13938,-175.2018,https://tongastats.gov.to/download/266/general-tables/8089/1-population-trends.xlsx,https://www.geonames.org/4032402/,保留全国首都代表点

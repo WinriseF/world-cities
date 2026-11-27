@@ -1,0 +1,45 @@
+country,officialId,placeId,municipality,region,representative,geonames
+SV,0101,csc:104842,Ahuachapán Centro,SV-AH,Ahuachapán,3587426
+SV,0102,sv:municipality:0102,Ahuachapán Norte,SV-AH,Atiquizaya,3587317
+SV,0103,sv:municipality:0103,Ahuachapán Sur,SV-AH,Jujutla,3585392
+SV,0201,csc:104917,Santa Ana Centro,SV-SA,Santa Ana,3583334
+SV,0202,sv:municipality:0202,Santa Ana Este,SV-SA,Coatepeque,3586981
+SV,0203,sv:municipality:0203,Santa Ana Norte,SV-SA,Metapán,3584384
+SV,0204,sv:municipality:0204,Santa Ana Oeste,SV-SA,Chalchuapa,3587086
+SV,0301,csc:104927,Sonsonate Centro,SV-SO,Sonsonate,3583102
+SV,0302,sv:municipality:0302,Sonsonate Este,SV-SO,Izalco,3585473
+SV,0303,sv:municipality:0303,Sonsonate Norte,SV-SO,Juayúa,3585401
+SV,0304,csc:104840,Sonsonate Oeste,SV-SO,Acajutla,3587498
+SV,0401,sv:municipality:0401,Chalatenango Centro,SV-CH,Nueva Concepción,3584266
+SV,0402,sv:municipality:0402,Chalatenango Norte,SV-CH,La Palma,3585098
+SV,0403,csc:104853,Chalatenango Sur,SV-CH,Chalatenango,3587091
+SV,0501,sv:municipality:0501,La Libertad Centro,SV-LI,San Juan Opico,3583531
+SV,0502,sv:municipality:0502,La Libertad Costa,SV-LI,La Libertad,3585157
+SV,0503,sv:municipality:0503,La Libertad Este,SV-LI,Antiguo Cuscatlán,3587362
+SV,0504,sv:municipality:0504,La Libertad Norte,SV-LI,Quezaltepeque,3583981
+SV,0505,sv:municipality:0505,La Libertad Oeste,SV-LI,Colón,3586696
+SV,0506,csc:104920,La Libertad Sur,SV-LI,Santa Tecla,3584257
+SV,0601,csc:104914,San Salvador Centro,SV-SS,San Salvador,3583361
+SV,0602,sv:municipality:0602,San Salvador Este,SV-SS,Soyapango,3583096
+SV,0603,sv:municipality:0603,San Salvador Norte,SV-SS,Aguilares,3587428
+SV,0604,sv:municipality:0604,San Salvador Oeste,SV-SS,Apopa,3587345
+SV,0605,sv:municipality:0605,San Salvador Sur,SV-SS,Panchimalco,3584156
+SV,0701,sv:municipality:0701,Cuscatlán Norte,SV-CU,Suchitoto,3583090
+SV,0702,csc:104861,Cuscatlán Sur,SV-CU,Cojutepeque,3586977
+SV,0801,sv:municipality:0801,La Paz Centro,SV-PA,Santiago Nonualco,3583196
+SV,0802,csc:104938,La Paz Este,SV-PA,Zacatecoluca,3582805
+SV,0803,sv:municipality:0803,La Paz Oeste,SV-PA,Olocuilta,3584212
+SV,0901,csc:104924,Cabañas Este,SV-CA,Sensuntepeque,3583158
+SV,0902,sv:municipality:0902,Cabañas Oeste,SV-CA,Ilobasco,3585487
+SV,1001,sv:municipality:1001,San Vicente Norte,SV-SV,Apastepeque,3587349
+SV,1002,csc:104916,San Vicente Sur,SV-SV,San Vicente,3583178
+SV,1101,csc:104936,Usulután Este,SV-US,Usulután,3582883
+SV,1102,sv:municipality:1102,Usulután Norte,SV-US,Santiago de María,3583199
+SV,1103,sv:municipality:1103,Usulután Oeste,SV-US,Jiquilisco,3585438
+SV,1201,csc:104910,San Miguel Centro,SV-SM,San Miguel,3583446
+SV,1202,sv:municipality:1202,San Miguel Norte,SV-SM,Ciudad Barrios,3586983
+SV,1203,sv:municipality:1203,San Miguel Oeste,SV-SM,Chinameca,3587037
+SV,1301,sv:municipality:1301,Morazán Norte,SV-MO,Perquín,3584105
+SV,1302,sv:municipality:1302,Morazán Sur,SV-MO,San Francisco Gotera,3583747
+SV,1401,sv:municipality:1401,La Unión Norte,SV-UN,Santa Rosa de Lima,3583214
+SV,1402,csc:104885,La Unión Sur,SV-UN,La Unión,3584772

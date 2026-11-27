@@ -1,0 +1,378 @@
+{
+  "BD-alts.raw": {
+    "sha256": "5cda6221c12561d0f6bcaa28c3153dad565f542bd8c0cc0114486a044c35d7aa",
+    "url": "https://download.geonames.org/export/dump/alternatenames/BD.zip",
+    "use": "GeoNames alternate names"
+  },
+  "BDgeo.raw": {
+    "sha256": "96eee548c4b965143d3ea6d36cd667940c1f14a639d2cdb23d83f70a41e2b64e",
+    "url": "https://download.geonames.org/export/dump/BD.zip",
+    "use": "GeoNames coordinates"
+  },
+  "BG-alts.raw": {
+    "sha256": "71a2033ab60fa340267d68cee1c9b2ed7f4fd3075c61809d494fea4788efc970",
+    "url": "https://download.geonames.org/export/dump/alternatenames/BG.zip",
+    "use": "GeoNames alternate names"
+  },
+  "BW-alts.raw": {
+    "sha256": "8d3a607151fb8e6c8344c9ae5f5db9be9a90a104b230e55070baa9c4efadcb00",
+    "url": "https://download.geonames.org/export/dump/alternatenames/BW.zip",
+    "use": "GeoNames alternate names"
+  },
+  "BWgeo.raw": {
+    "sha256": "8a40f3a7ba3b665e4e7b527466be9140f93efdc41af1eaa5f23ab20eab40f84a",
+    "url": "https://download.geonames.org/export/dump/BW.zip",
+    "use": "GeoNames coordinates"
+  },
+  "CA-alts.raw": {
+    "sha256": "b8ba121329ae0f0e8055a8afcc32109fd6c606187076fe0c7e62a98c266cda80",
+    "url": "https://download.geonames.org/export/dump/alternatenames/CA.zip",
+    "use": "GeoNames alternate names"
+  },
+  "CZ-alts.raw": {
+    "sha256": "e5d91f2469085ff8b9b3f4244e6b4bc2f188f7808382d9d71825ee2f8c1871b5",
+    "url": "https://download.geonames.org/export/dump/alternatenames/CZ.zip",
+    "use": "GeoNames alternate names"
+  },
+  "EE-alts.raw": {
+    "sha256": "b83799357aed4ed6e2ffdc749a8560d575fc70717e6a6f5961cf5cfc11c97e29",
+    "url": "https://download.geonames.org/export/dump/alternatenames/EE.zip",
+    "use": "GeoNames alternate names"
+  },
+  "EEgeo.raw": {
+    "sha256": "e06229c144b8ee5aca80aa3321ec51b6db17dd2aa1f487a768a39a8bc27d9454",
+    "url": "https://download.geonames.org/export/dump/EE.zip",
+    "use": "GeoNames coordinates"
+  },
+  "FI-alts.raw": {
+    "sha256": "8972b26b80e34488660d03e36f3d538fdcd6dc1eee7554f23be7d800a02ce340",
+    "url": "https://download.geonames.org/export/dump/alternatenames/FI.zip",
+    "use": "GeoNames alternate names"
+  },
+  "FIgeo.raw": {
+    "sha256": "6e7a282cdd8021f95002308929e9477e6bbde8c99dd6ea58649ca9a57f7d3f00",
+    "url": "https://download.geonames.org/export/dump/FI.zip",
+    "use": "GeoNames coordinates"
+  },
+  "GE-alts.raw": {
+    "sha256": "a87ab063043b44cb30e782e1b5fa142fe473fae7ffa0e1add80c0c6d46e17d58",
+    "url": "https://download.geonames.org/export/dump/alternatenames/GE.zip",
+    "use": "GeoNames alternate names"
+  },
+  "GE.xlsx": {
+    "sha256": "3576525e42d9f21f6703396efa3721cb85e939468c81f608f3964697b298e0e0",
+    "url": "https://www.geostat.ge/media/84000/1-3-population-by-cities-and-boroughs.xlsx",
+    "use": "authority reference"
+  },
+  "GEgeo.raw": {
+    "sha256": "576cb20dc12d96ba5d522c16e854b31a6c1b1f35c0d0e600c0e4be57bab83f72",
+    "url": "https://download.geonames.org/export/dump/GE.zip",
+    "use": "GeoNames coordinates"
+  },
+  "HR-alts.raw": {
+    "sha256": "1360692b4f979478a90613863051a63cd14eca5681a41700467593003fdc46f1",
+    "url": "https://download.geonames.org/export/dump/alternatenames/HR.zip",
+    "use": "GeoNames alternate names"
+  },
+  "HU-alts.raw": {
+    "sha256": "b2e0e39ce0f953b57483fb99e0b1120da7cb3591a4fce9bf5f0d5adf642b9795",
+    "url": "https://download.geonames.org/export/dump/alternatenames/HU.zip",
+    "use": "GeoNames alternate names"
+  },
+  "HU26.xlsx": {
+    "sha256": "bd21f7e80f721093d2d471e4037ffc846c29fbb1d393e4edbd7058259417702d",
+    "url": "https://www.ksh.hu/docs/helysegnevtar/hnt_letoltes_2026.xlsx",
+    "use": "authority reference"
+  },
+  "HUgeo.raw": {
+    "sha256": "8e95000864952f2397b6cfe40dab5f6f1cc66953708cdc6bac2055d5884b870b",
+    "url": "https://download.geonames.org/export/dump/HU.zip",
+    "use": "GeoNames coordinates"
+  },
+  "IE-alts.raw": {
+    "sha256": "c81b506d5e87c5ba140fc504d1ed58a289cd9d92e3b9ffe14bf2a7e75759a9ad",
+    "url": "https://download.geonames.org/export/dump/alternatenames/IE.zip",
+    "use": "GeoNames alternate names"
+  },
+  "IEgeo.raw": {
+    "sha256": "38542d7004d42ad400da7b2f8dd69a44a473f5c13e44b59f7c02f73a9bf9639b",
+    "url": "https://download.geonames.org/export/dump/IE.zip",
+    "use": "GeoNames coordinates"
+  },
+  "IN-alts.raw": {
+    "sha256": "5c9a28c68fa19b52944806a1382d1957e8f0525f6e892322edd28fbb651e174b",
+    "url": "https://download.geonames.org/export/dump/alternatenames/IN.zip",
+    "use": "GeoNames alternate names"
+  },
+  "INgeo.raw": {
+    "sha256": "27d90b18bdca2fb5f92f2fc861eead16993ee3ec3bdc3cfc2adc906dcaef2df8",
+    "url": "https://download.geonames.org/export/dump/IN.zip",
+    "use": "GeoNames coordinates"
+  },
+  "KE-alts.raw": {
+    "sha256": "28fee3176b9c8e319d417ea8f8ce599a63be21b599b37fd86f3ce0748f9022bc",
+    "url": "https://download.geonames.org/export/dump/alternatenames/KE.zip",
+    "use": "GeoNames alternate names"
+  },
+  "KEgeo.raw": {
+    "sha256": "834014f9024ed01b7bbec10da0005a1496d8efcc2c4129d03a50ce23d7c1a67e",
+    "url": "https://download.geonames.org/export/dump/KE.zip",
+    "use": "GeoNames coordinates"
+  },
+  "KR-alts.raw": {
+    "sha256": "1a3d7a3c1a9acbc74fb6baed05f036ab72009f805e777084efa04849f6fa034a",
+    "url": "https://download.geonames.org/export/dump/alternatenames/KR.zip",
+    "use": "GeoNames alternate names"
+  },
+  "LK-alts.raw": {
+    "sha256": "44cfdc7975438f1765f5f76cc8d60889c9296f3e7b412f645c48ef57d13870c7",
+    "url": "https://download.geonames.org/export/dump/alternatenames/LK.zip",
+    "use": "GeoNames alternate names"
+  },
+  "NP-alts.raw": {
+    "sha256": "30bc1741e371f066d5f607a07b191ab1ba7268d0ac1bfc995ff2914baa3b5c16",
+    "url": "https://download.geonames.org/export/dump/alternatenames/NP.zip",
+    "use": "GeoNames alternate names"
+  },
+  "NPgeo.raw": {
+    "sha256": "60f5295634984d787f4e253ea67b4d23f9ff3c19be0b413c23f535c8a53838ee",
+    "url": "https://download.geonames.org/export/dump/NP.zip",
+    "use": "GeoNames coordinates"
+  },
+  "NZ-alts.raw": {
+    "sha256": "c65993405ff0bb2d822db38c242e64677b3082f40626cfa0893b10fe11e465f9",
+    "url": "https://download.geonames.org/export/dump/alternatenames/NZ.zip",
+    "use": "GeoNames alternate names"
+  },
+  "NZgeo.raw": {
+    "sha256": "f010726fd629d1d192f9e832f14276848e67b51c8d4a8d074ae04ee13b0a6412",
+    "url": "https://download.geonames.org/export/dump/NZ.zip",
+    "use": "GeoNames coordinates"
+  },
+  "RO-alts.raw": {
+    "sha256": "07fb65e01746eeb5b73f9cc275de5f2440e62beb60c3959748c4930e179f3dea",
+    "url": "https://download.geonames.org/export/dump/alternatenames/RO.zip",
+    "use": "GeoNames alternate names"
+  },
+  "SI-alts.raw": {
+    "sha256": "9ef9428c4fa7d9fe27152b8e028487f7cc8363c35a593cefb98b3b00001afdf5",
+    "url": "https://download.geonames.org/export/dump/alternatenames/SI.zip",
+    "use": "GeoNames alternate names"
+  },
+  "SIgeo.raw": {
+    "sha256": "192d3d5809b10b32aab51648aae77030f8dc777f0442eef9bee8c78bc0638690",
+    "url": "https://download.geonames.org/export/dump/SI.zip",
+    "use": "GeoNames coordinates"
+  },
+  "SK-alts.raw": {
+    "sha256": "0cdd8c510a6e3cc082e0373e88fc1a115817581c82f0018f9a052c9e86ba641e",
+    "url": "https://download.geonames.org/export/dump/alternatenames/SK.zip",
+    "use": "GeoNames alternate names"
+  },
+  "UG-alts.raw": {
+    "sha256": "a9f5c3a3f2dbd036e1467f2a3f926ed43f3634a73bdae5261c710c8505e11f34",
+    "url": "https://download.geonames.org/export/dump/alternatenames/UG.zip",
+    "use": "GeoNames alternate names"
+  },
+  "UGgeo.raw": {
+    "sha256": "9d8eb9a52fecc5cba0006986ae77470572a17f2dbf44d801bab38cebc73761cf",
+    "url": "https://download.geonames.org/export/dump/UG.zip",
+    "use": "GeoNames coordinates"
+  },
+  "UY-alts.raw": {
+    "sha256": "5ca97126978de5332d3cab457156b79481efbc62109f24bba9fa214972d1aa11",
+    "url": "https://download.geonames.org/export/dump/alternatenames/UY.zip",
+    "use": "GeoNames alternate names"
+  },
+  "UYgeo.raw": {
+    "sha256": "433d95f6c24030a86343a0e07a082a62f82377d642091b999f3b88757da04828",
+    "url": "https://download.geonames.org/export/dump/UY.zip",
+    "use": "GeoNames coordinates"
+  },
+  "ZA-alts.raw": {
+    "sha256": "cde25ded722b8f9dc0e75968b3911f2882b600dd5c7de6b1f9d59d0c5fb80358",
+    "url": "https://download.geonames.org/export/dump/alternatenames/ZA.zip",
+    "use": "GeoNames alternate names"
+  },
+  "ZAgeo.raw": {
+    "sha256": "68306fdc42603f2dc0cb5175e1fcd783d5537842a9042c9ef8e20214bea593c2",
+    "url": "https://download.geonames.org/export/dump/ZA.zip",
+    "use": "GeoNames coordinates"
+  },
+  "admin.raw": {
+    "sha256": "2e4867f5397acb056ea26377601b57af37cb4c81399770225018e9e439e91ad3",
+    "url": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
+    "use": "GeoNames subdivisions"
+  },
+  "bg2025.raw": {
+    "sha256": "0bf017c6b3bd5683215f9734cc5bb70c15c3b96b2fd9b6dda5d5096e92bae397",
+    "url": "https://nrnm.nsi.bg/ekatte/archive/json/Ekatte-2025-json.zip/download",
+    "use": "authority reference"
+  },
+  "bggeo.raw": {
+    "sha256": "066538d9ac557ab33070b9fa0ab634fba21920b093037191981e8b14e146a331",
+    "url": "https://download.geonames.org/export/dump/BG.zip",
+    "use": "GeoNames coordinates"
+  },
+  "bwbackup.raw": {
+    "sha256": "7bd726212971c0f7506f8d18baaa85b3e5fa39fdc727c9c09d0a8c2622200343",
+    "url": "https://www.cofc.gov.bw/wp-content/uploads/2025/06/LOCAL-GOVERNMENT-ACT-18-OF-2012-1.pdf",
+    "use": "authority reference"
+  },
+  "ca-polys.raw": {
+    "sha256": "cd636b740f54bb07d377c3c278652a09ebda24eba71a2f2a1ec305b81c206502",
+    "url": "https://geo.statcan.gc.ca/geo_wa/rest/services/2026/Cartographic_boundary_files/MapServer/6/query?where=CSDTYPE+IN+%28%27C%27%2C%27CV%27%2C%27CY%27%2C%27V%27%29&outFields=CSDUID%2CCSDNAME%2CCSDENAME%2CCSDFNAME%2CCSDTYPE%2CPRUID&outSR=4326&maxAllowableOffset=0.0005&geometryPrecision=6&returnGeometry=true&f=geojson",
+    "use": "Statistics Canada code, type and polygons"
+  },
+  "cageo.raw": {
+    "sha256": "3048cb62417b5f28a479e0cfd7f7419c7a037e5b44bf0d32beecd93d15234e2f",
+    "url": "https://download.geonames.org/export/dump/CA.zip",
+    "use": "GeoNames coordinates"
+  },
+  "cz-polys.raw": {
+    "sha256": "8ca3ac7ce569134808c2f3aac5d89ecd92370ba4f1ebd6b33da43e61e4bfb95a",
+    "url": "https://ags.cuzk.gov.cz/arcgis/rest/services/RUIAN/MapServer/12/query?where=statuskod+in+%283%2C4%2C5%29&outFields=kod%2Cnazev%2Cstatuskod&outSR=4326&maxAllowableOffset=0.00015&geometryPrecision=6&f=geojson",
+    "use": "ČÚZK city polygons, WGS84"
+  },
+  "cz.raw": {
+    "sha256": "c03bcd8bc1618e669417387f06c62ba8c1032855df796be6f172e82952693182",
+    "url": "https://services.cuzk.cz/sestavy/cis/UI_OBEC.zip",
+    "use": "ČÚZK register"
+  },
+  "ee-municipalities.zip": {
+    "sha256": "596714ef561e4ac4d1c403dcdd2e884b5be05ba6247e0e840ddfc97353c7eee5",
+    "url": "https://s3.pilw.io/rp-kemit-kataster/EHAK/omavalitsus_shp.zip",
+    "use": "authority reference"
+  },
+  "ee-settlements.zip": {
+    "sha256": "1ef9956bd40af99316c25b03951d5aca30804db3845d5c9aa46ce989af1aa81a",
+    "url": "https://s3.pilw.io/rp-kemit-kataster/EHAK/asustusyksus_shp.zip",
+    "use": "authority reference"
+  },
+  "fi-guide.pdf": {
+    "sha256": "ddcbd5791c9b7cde9b910b5c127d050060b8aa53927ab2ff8f8b8c5584e31cdf",
+    "url": "https://unstats.un.org/unsd/ungegn/sessions/4th_session_2025/documents/Toponymic_guidelines_2025.pdf",
+    "use": "authority reference"
+  },
+  "fi-regions.xlsx": {
+    "sha256": "4d04a45284eaf421bf28685ef41d1a5a00ce3347900ea41f23f5b16298c518be",
+    "url": "https://media.stat.fi/A7H6ohk0S8qafyCM4bfDaz/cmn7k0vimr9sh07w3qqzb10ow",
+    "use": "authority reference"
+  },
+  "geo.raw": {
+    "sha256": "e9e07e14b29769b0d5f769b0cd53ffc167403018f524a95b3928b6f8eda4bf21",
+    "url": "https://download.geonames.org/export/dump/CZ.zip",
+    "use": "GeoNames coordinates"
+  },
+  "hr2.raw": {
+    "sha256": "1f60a60b90e875cf59dd69de2fff64a1550a699165251ff665ed039fa67a3ac0",
+    "url": "https://mpudt.gov.hr/UserDocsImages/MURH-%20arhiva/Uprava%20za%20politi%C4%8Dki%20sustav/JLRS/100613-Kopija%20opcine_gradovi_RH.xls",
+    "use": "authority reference"
+  },
+  "hrgeo.raw": {
+    "sha256": "5286fe03c18712287e1f4642a13a056a2fbcf150799b3992edfd19395398fc61",
+    "url": "https://download.geonames.org/export/dump/HR.zip",
+    "use": "GeoNames coordinates"
+  },
+  "ie.raw": {
+    "sha256": "979103bb2dffd6e568da46623c17e76ae2db7c3cf7b227a5a506c61eab8c7fdb",
+    "url": "https://www.cso.ie/en/releasesandpublications/ep/p-cpp1/censusofpopulation2022profile1-populationdistributionandmovements/backgroundnotes/",
+    "use": "authority reference"
+  },
+  "in-geom.zip": {
+    "sha256": "548e25e1a7cdcc718d6f30fb526c46ae8f29ab30b474b2f276982c6e377b8921",
+    "url": "https://raw.githubusercontent.com/madpk/kerala-ward-map/b9f1dcd8154d5f02243c5d1fad43d28ea31daafd/Kerala_ward_boundaries.zip",
+    "use": "Independent K-SMART geometry extract for district cross-check and representative coordinates"
+  },
+  "inkl.raw": {
+    "sha256": "0c638ca6a86a56fbcbb964f6110a60114e41e2bb021825e28ef0c681d31773da",
+    "url": "https://lsgkerala.gov.in/en/lsgd/department/dua",
+    "use": "authority reference"
+  },
+  "kr.raw": {
+    "sha256": "b01d4998c509d6ef3ad4eeca3cd5259dd946310be165e031ffd527424777db60",
+    "url": "https://www.studyinkorea.go.kr/ko/life/regionsIntro.do",
+    "use": "authority reference"
+  },
+  "krgeo.raw": {
+    "sha256": "4b50ef3de7831d447886e03acde90f684206feb130d437f513963aa012e9a423",
+    "url": "https://download.geonames.org/export/dump/KR.zip",
+    "use": "GeoNames coordinates"
+  },
+  "lkg.raw": {
+    "sha256": "dac04d108b68ebcd9ebe65e356f2e5cf222c811fe6a02280b6e2c548898a55bf",
+    "url": "https://download.geonames.org/export/dump/LK.zip",
+    "use": "GeoNames coordinates"
+  },
+  "nna.raw": {
+    "sha256": "8e2ba3458cd447af702e5c9df28d14256998442e32c030780f77015f8d24d58a",
+    "url": "https://unstats.un.org/unsd/ungegn/nna/nna-committees/",
+    "use": "authority reference"
+  },
+  "np-census.raw": {
+    "sha256": "2d5d08ca4783af1d38a89de7f5944d563d2cf3d93bd7184a3fb689256c4db55a",
+    "url": "https://censusresults.nsonepal.gov.np/local-level",
+    "use": "authority reference"
+  },
+  "np-geo.json": {
+    "sha256": "ccb2c0ee43eb997af724df65b3c262c9dae441e8983448a812afc053087b97b2",
+    "url": "https://localboundries.oknp.org/data/local-level/nepal.geojson",
+    "use": "Open Knowledge Nepal, CC BY 4.0, supplementary location source"
+  },
+  "nz.raw": {
+    "sha256": "b7f308cecfe52197abbaf5e2a9e8be48faf77f6201223e48fe2bf73e14b68fc6",
+    "url": "https://services2.arcgis.com/vKb0s8tBIA3bdocZ/ArcGIS/rest/services/Territorial_Authority_2026/FeatureServer/0/query?where=1%3D1&outFields=*&returnGeometry=false&f=json",
+    "use": "authority reference"
+  },
+  "okres.raw": {
+    "sha256": "ac84b26e4ac813065cb48f8c1cf640c176755628e8a7fdbe90f361af0b425df0",
+    "url": "https://services.cuzk.cz/sestavy/cis/UI_OKRES.zip",
+    "use": "ČÚZK register"
+  },
+  "regions.raw": {
+    "sha256": "9257a70e0ef837a2b56c6f9542d8e20eb1540e8f19645cbe051e847100abffc7",
+    "url": "https://services.cuzk.cz/sestavy/cis/UI_VUSC.zip",
+    "use": "ČÚZK register"
+  },
+  "rogeo.raw": {
+    "sha256": "bb8c94230d00c8aa0ea90311c6e1e80ee7cfc5856362bd82d2c72bce183ff480",
+    "url": "https://download.geonames.org/export/dump/RO.zip",
+    "use": "GeoNames coordinates"
+  },
+  "roreg.raw": {
+    "officialURL": "https://data.gov.ro/dataset/721c9059-5f87-4c79-9854-a1d5c18f58d5/resource/dac903f0-32b5-489a-89e7-2c80d96cf68d/download/siruta_s1_2026.csv",
+    "sha256": "f443e49af2f9c9dce8ea515ae53090a18fb476547466b6cd804051424eaf72c6",
+    "url": "https://raw.githubusercontent.com/romania/siruta/main/sources/current/siruta.csv",
+    "use": "Byte mirror of INS SIRUTA 2026 S1"
+  },
+  "si-cities.pdf": {
+    "sha256": "c5f446a92fa0c7038f1fedb241c67f1204e72049043be900f3df0d048b27778a",
+    "url": "https://www.gov.si/assets/ministrstva/MOP/MNVP/Dokumenti/Urbani-razvoj/naselja_s_statusom_mesta.pdf",
+    "use": "authority reference"
+  },
+  "sk.raw": {
+    "sha256": "1fc7a2689fdd1f1254ec087f52b4d07ba6c7d4cbdbdc589ae176ff086fae7368",
+    "url": "https://www.minv.sk/swift_data/source/verejna_sprava/odbor_priestupkov/zoznam_miest.pdf",
+    "use": "authority reference"
+  },
+  "skgeo.raw": {
+    "sha256": "c919e3d9d619f1f440d7dc2b358f266717a1d4cc076849e74abc04a6c1e99a4c",
+    "url": "https://download.geonames.org/export/dump/SK.zip",
+    "use": "GeoNames coordinates"
+  },
+  "stat.raw": {
+    "sha256": "714e95a96199e8493630cad83dfd81b20f1a8376d4e98b387b31ff83a26d33b2",
+    "url": "https://services.cuzk.cz/sestavy/cis/CS_STATUS_OBCE.zip",
+    "use": "ČÚZK register"
+  },
+  "unplaces.raw": {
+    "sha256": "b9801b98d832e41ab0140036ce30d268a6716c23a2dfd4fdf568e6bd6453c4ed",
+    "url": "https://unstats.un.org/unsd/ungegn/nna/geo-names/",
+    "use": "authority reference"
+  },
+  "za.raw": {
+    "sha256": "3645cbb2b4889776df37a4a07a23855062a714eebfe6d0e725817f050e3feb78",
+    "url": "https://www.gov.za/about-government/government-system/local-government",
+    "use": "authority reference"
+  }
+}

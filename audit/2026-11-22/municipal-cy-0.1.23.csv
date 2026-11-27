@@ -1,0 +1,30 @@
+official_code,official_name,point_role,point_place,registry_comment,region,chinese,latitude,longitude,point_source,id
+11010000,Lefkosia,operating municipality,Nicosia,Partly occupied,CY-01,尼科西亚,35.17531,33.3642,Existing coordinate matched to GeoNames 146268,csc:22069
+11021012,Strovolos,operating municipality,Strovolos,,CY-01,斯特罗沃洛斯,35.14867,33.33384,GeoNames 146054,gn:146054
+11030000,Lakatameia,operating municipality,Lakatamia,,CY-01,拉卡塔米亚,35.11755,33.32539,GeoNames 146523,gn:146523
+11040000,Lakkia (Latsia) - Geri,operating municipality,Latsia,Partly occupied,CY-01,拉齐亚-耶里,35.10168,33.37952,GeoNames 146395,gn:146395
+11050000,Notia Lefkosia - Idalion,operating municipality,Dali,,CY-01,南尼科西亚-伊达利翁,35.02294,33.42195,GeoNames 146666,gn:146666
+11061340,Morfou,registered historical location,Morphou,Occupied,CY-01,莫尔富,35.19869,32.99338,GeoNames 146286,gn:146286
+11071139,Kythrea,registered historical location,Kythrea,Occupied,CY-01,基特雷亚,35.25041,33.48059,GeoNames 146409,gn:146409
+21012000,Keryneia,registered historical location,Kyrenia,Occupied,CY-06,凯里尼亚,35.33634,33.31729,GeoNames 146412,gn:146412
+21022222,Lapithos,registered historical location,Lapithos,Occupied,CY-06,拉皮索斯,35.33823,33.17368,GeoNames 146403,gn:146403
+21032217,Karavas,registered historical location,Karavas,Occupied,CY-06,卡拉瓦斯,35.34139,33.19593,GeoNames 146545,gn:146545
+31010000,Paralimni - Deryneia,operating municipality,Paralimni,Partly occupied,CY-04,帕拉利姆尼-德里尼亚,35.03945,33.98181,GeoNames 146209,gn:146209
+31020000,Agia Napa,operating municipality,Ayia Napa,Partly occupied,CY-04,阿依纳帕,34.98213,34.00183,GeoNames 146748,gn:146748
+31033000,Ammochostos,registered historical location,Famagusta,Occupied,CY-04,法马古斯塔,35.12489,33.94135,GeoNames 146617,gn:146617
+31043221,Lefkonoiko,registered historical location,Lefkoniko,Occupied,CY-04,莱夫科尼科,35.2598,33.73189,GeoNames 146391,gn:146391
+31053304,Akanthou,registered historical location,Akanthou,Occupied,CY-04,阿坎图,35.37394,33.75302,GeoNames 146846,gn:146846
+31063202,Lysi,registered historical location,Lysi,Partly occupied,CY-04,利西,35.10475,33.681,GeoNames 146361,gn:146361
+41010000,Larnaka,operating municipality,Larnaca,,CY-03,拉纳卡,34.92291,33.6233,Existing coordinate matched to GeoNames 146400,csc:22051
+41020000,Aradippou,operating municipality,Aradippou,Partly occupied,CY-03,阿拉季普,34.94779,33.58813,GeoNames 146796,gn:146796
+41030000,Dromolaxia - Meneou,operating municipality,Dromolaxia,,CY-03,德罗莫拉克夏-梅内乌,34.87551,33.58684,GeoNames 146654,gn:146654
+41040000,Athienou,operating municipality,Athienou,Partly occupied,CY-03,阿西埃努,35.06183,33.54166,GeoNames 146768,gn:146768
+41050000,Lefkara,operating municipality,Pano Lefkara,,CY-03,莱夫卡拉,34.81667,33.28333,GeoNames 146220,gn:146220
+51010000,Lemesos,operating municipality,Limassol,,CY-02,利马索尔,34.68406,33.03794,Existing coordinate matched to GeoNames 146384,csc:22055
+51020000,Amathous,operating municipality,Agios Athanasios,,CY-02,阿马苏斯,34.70935,33.04997,GeoNames 146735,gn:146735
+51030000,Polemidia,operating municipality,Kato Polemidia,,CY-02,波莱米迪亚,34.69721,32.99324,GeoNames 146516,gn:146516
+51040000,Kourion,operating municipality,Ypsonas,,CY-02,库里翁,34.68797,32.96191,GeoNames 145952,gn:145952
+61016000,Pafos,operating municipality,Paphos,,CY-05,帕福斯,34.77679,32.42451,Existing coordinate matched to GeoNames 146214,csc:22071
+61020000,Ierokipia,operating municipality,Geroskipou,,CY-05,耶罗基皮亚,34.76091,32.44844,GeoNames 11919534,gn:11919534
+61030000,Akamas,operating municipality,Pegeia,,CY-05,阿卡马斯,34.88385,32.38188,GeoNames 146175,gn:146175
+61040000,Poli Chrysochous,operating municipality,Polis,,CY-05,波利斯赫里索胡斯,35.03403,32.4255,GeoNames 12110832,gn:12110832

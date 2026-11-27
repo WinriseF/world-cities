@@ -1,0 +1,12 @@
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+SELECT ?key ?entity (SAMPLE(?pos) AS ?coord) (SAMPLE(?zhHans) AS ?hans)
+       (SAMPLE(?zhName) AS ?zh) (SAMPLE(?enName) AS ?en)
+WHERE {
+  ?entity wdt:P1585 ?key .
+  OPTIONAL { ?entity wdt:P625 ?pos }
+  OPTIONAL { ?entity rdfs:label ?zhHans FILTER (LANG(?zhHans)="zh-hans") }
+  OPTIONAL { ?entity rdfs:label ?zhName FILTER (LANG(?zhName)="zh") }
+  OPTIONAL { ?entity rdfs:label ?enName FILTER (LANG(?enName)="en") }
+}
+GROUP BY ?entity ?key

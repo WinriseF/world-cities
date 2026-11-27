@@ -1,0 +1,1105 @@
+country,officialId,placeId,officialName,type,region,lat,lon,reference,independentCodeMatch,nameSource,nameSourceId,pointSource
+CO,05001,csc:21074,MEDELLÍN,Municipio,CO-ANT,6.245,-75.57151,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,project,csc:21074,GeoNames:3674962
+CO,05002,co:municipality:05002,ABEJORRAL,Municipio,CO-ANT,5.78928,-75.42725,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20485,GeoNames:3690592
+CO,05004,co:municipality:05004,ABRIAQUÍ,Municipio,CO-ANT,6.63148,-76.06444,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20487,GeoNames:3690582
+CO,05021,co:municipality:05021,ALEJANDRÍA,Municipio,CO-ANT,6.37745,-75.14065,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20504,GeoNames:3690213
+CO,05030,co:municipality:05030,AMAGÁ,Municipio,CO-ANT,6.04001,-75.70315,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20512,GeoNames:3690019
+CO,05031,co:municipality:05031,AMALFI,Municipio,CO-ANT,6.91016,-75.07764,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20513,GeoNames:3690010
+CO,05034,co:municipality:05034,ANDES,Municipio,CO-ANT,5.65576,-75.87959,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20520,GeoNames:3689899
+CO,05036,co:municipality:05036,ANGELÓPOLIS,Municipio,CO-ANT,6.11072,-75.70923,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20521,GeoNames:3689877
+CO,05038,co:municipality:05038,ANGOSTURA,Municipio,CO-ANT,6.88508,-75.33467,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20522,GeoNames:3689870
+CO,05040,co:municipality:05040,ANORÍ,Municipio,CO-ANT,7.07273,-75.14768,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20747,GeoNames:3689838
+CO,05042,co:municipality:05042,SANTA FÉ DE ANTIOQUIA,Municipio,CO-ANT,6.55687,-75.82806,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21417,GeoNames:3689816
+CO,05044,co:municipality:05044,ANZÁ,Municipio,CO-ANT,6.30322,-75.85381,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20527,GeoNames:3689804
+CO,05045,co:municipality:05045,APARTADÓ,Municipio,CO-ANT,7.88299,-76.62587,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20529,GeoNames:3689798
+CO,05051,co:municipality:05051,ARBOLETES,Municipio,CO-ANT,8.85051,-76.42694,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20541,GeoNames:3689693
+CO,05055,co:municipality:05055,ARGELIA,Municipio,CO-ANT,5.73127,-75.14257,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20544,GeoNames:3689611
+CO,05059,co:municipality:05059,ARMENIA,Municipio,CO-ANT,6.15639,-75.78722,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20551,GeoNames:3689559
+CO,05079,co:municipality:05079,BARBOSA,Municipio,CO-ANT,6.43809,-75.33136,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20566,GeoNames:3689205
+CO,05086,co:municipality:05086,BELMIRA,Municipio,CO-ANT,6.60508,-75.66619,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20580,GeoNames:3688923
+CO,05088,csc:20579,BELLO,Municipio,CO-ANT,6.358841086,-75.58973588,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20579,DANE / MinSalud RDA 1.0.3
+CO,05091,co:municipality:05091,BETANIA,Municipio,CO-ANT,5.74601,-75.97765,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20588,GeoNames:3688855
+CO,05093,co:municipality:05093,BETULIA,Municipio,CO-ANT,6.11284,-75.98378,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20589,GeoNames:3688840
+CO,05101,co:municipality:05101,CIUDAD BOLÍVAR,Municipio,CO-ANT,5.85389,-76.02528,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20711,GeoNames:3792376
+CO,05107,co:municipality:05107,BRICEÑO,Municipio,CO-ANT,7.11096,-75.55152,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20602,GeoNames:3688499
+CO,05113,co:municipality:05113,BURITICÁ,Municipio,CO-ANT,6.71873,-75.90734,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20613,GeoNames:3792374
+CO,05120,co:municipality:05120,CÁCERES,Municipio,CO-ANT,7.58078,-75.34842,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20763,GeoNames:3688128
+CO,05125,co:municipality:05125,CAICEDO,Municipio,CO-ANT,6.40511,-75.98255,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20621,GeoNames:3688072
+CO,05129,co:municipality:05129,CALDAS,Municipio,CO-ANT,6.09106,-75.63569,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20631,GeoNames:3687952
+CO,05134,co:municipality:05134,CAMPAMENTO,Municipio,CO-ANT,6.9792,-75.29724,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20638,GeoNames:3687835
+CO,05138,co:municipality:05138,CAÑASGORDAS,Municipio,CO-ANT,6.74989,-76.02539,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20667,GeoNames:3687677
+CO,05142,co:municipality:05142,CARACOLÍ,Municipio,CO-ANT,6.4092,-74.75715,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20649,GeoNames:3687451
+CO,05145,co:municipality:05145,CARAMANTA,Municipio,CO-ANT,5.54782,-75.64368,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20650,GeoNames:3687426
+CO,05147,co:municipality:05147,CAREPA,Municipio,CO-ANT,7.75849,-76.65255,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20652,GeoNames:3792375
+CO,05148,co:municipality:05148,EL CARMEN DE VIBORAL,Municipio,CO-ANT,6.08236,-75.33509,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20656,GeoNames:3687318
+CO,05150,co:municipality:05150,CAROLINA,Municipio,CO-ANT,6.72439,-75.28168,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20658,GeoNames:3687310
+CO,05154,co:municipality:05154,CAUCASIA,Municipio,CO-ANT,7.98654,-75.19349,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20666,GeoNames:3687025
+CO,05172,co:municipality:05172,CHIGORODÓ,Municipio,CO-ANT,7.66638,-76.68106,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20683,GeoNames:3686636
+CO,05190,co:municipality:05190,CISNEROS,Municipio,CO-ANT,6.53833,-75.08861,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20710,GeoNames:3686227
+CO,05197,co:municipality:05197,COCORNÁ,Municipio,CO-ANT,6.0573,-75.18524,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20716,GeoNames:3686158
+CO,05206,co:municipality:05206,CONCEPCIÓN,Municipio,CO-ANT,6.39408,-75.2583,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20724,GeoNames:3686028
+CO,05209,co:municipality:05209,CONCORDIA,Municipio,CO-ANT,6.04639,-75.90705,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20727,GeoNames:3686013
+CO,05212,co:municipality:05212,COPACABANA,Municipio,CO-ANT,6.34633,-75.50888,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20735,GeoNames:3685949
+CO,05234,co:municipality:05234,DABEIBA,Municipio,CO-ANT,6.992243782,-76.31426328,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20773,DANE / MinSalud RDA 1.0.3
+CO,05237,co:municipality:05237,DONMATÍAS,Municipio,CO-ANT,6.48569,-75.39496,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20781,GeoNames:3685126
+CO,05240,co:municipality:05240,EBÉJICO,Municipio,CO-ANT,6.32598,-75.76835,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20785,GeoNames:3685058
+CO,05250,co:municipality:05250,EL BAGRE,Municipio,CO-ANT,7.704633351,-74.66427726,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20786,DANE / MinSalud RDA 1.0.3
+CO,05264,co:municipality:05264,ENTRERRÍOS,Municipio,CO-ANT,6.5654,-75.5169,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20838,GeoNames:3682633
+CO,05266,co:municipality:05266,ENVIGADO,Municipio,CO-ANT,6.17591,-75.59174,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20840,GeoNames:3682631
+CO,05282,co:municipality:05282,FREDONIA,Municipio,CO-ANT,5.92583,-75.67056,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20859,GeoNames:3780602
+CO,05284,co:municipality:05284,FRONTINO,Municipio,CO-ANT,6.691364773,-76.33199656,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20861,DANE / MinSalud RDA 1.0.3
+CO,05306,co:municipality:05306,GIRALDO,Municipio,CO-ANT,6.68013,-75.95259,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20885,GeoNames:3682030
+CO,05308,co:municipality:05308,GIRARDOTA,Municipio,CO-ANT,6.37747,-75.44883,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20888,GeoNames:3682022
+CO,05310,co:municipality:05310,GÓMEZ PLATA,Municipio,CO-ANT,6.68178,-75.21907,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20931,GeoNames:3681997
+CO,05313,co:municipality:05313,GRANADA,Municipio,CO-ANT,6.14353,-75.18532,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20893,GeoNames:3681952
+CO,05315,co:municipality:05315,GUADALUPE,Municipio,CO-ANT,6.81449,-75.24063,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20901,GeoNames:3681731
+CO,05318,co:municipality:05318,GUARNE,Municipio,CO-ANT,6.28046,-75.44354,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20913,GeoNames:3681429
+CO,05321,co:municipality:05321,GUATAPÉ,Municipio,CO-ANT,6.236329826,-75.15651272,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20915,DANE / MinSalud RDA 1.0.3
+CO,05347,co:municipality:05347,HELICONIA,Municipio,CO-ANT,6.214511788,-75.74971002,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20939,DANE / MinSalud RDA 1.0.3
+CO,05353,co:municipality:05353,HISPANIA,Municipio,CO-ANT,5.79925,-75.90718,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20942,GeoNames:3680857
+CO,05360,co:municipality:05360,ITAGÜÍ,Municipio,CO-ANT,6.18461,-75.59913,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20953,GeoNames:3680450
+CO,05361,co:municipality:05361,ITUANGO,Municipio,CO-ANT,7.17117,-75.76404,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20955,GeoNames:3680434
+CO,05364,co:municipality:05364,JARDÍN,Municipio,CO-ANT,5.59902,-75.81976,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20959,GeoNames:3680366
+CO,05368,co:municipality:05368,JERICÓ,Municipio,CO-ANT,5.79211,-75.78601,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20961,GeoNames:3680317
+CO,05376,co:municipality:05376,LA CEJA,Municipio,CO-ANT,6.03131,-75.43333,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20974,GeoNames:3679554
+CO,05380,co:municipality:05380,LA ESTRELLA,Municipio,CO-ANT,6.15769,-75.64317,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20983,GeoNames:3679065
+CO,05390,co:municipality:05390,LA PINTADA,Municipio,CO-ANT,5.74867,-75.60626,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21000,GeoNames:3678118
+CO,05400,co:municipality:05400,LA UNIÓN,Municipio,CO-ANT,5.97431,-75.36195,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21009,GeoNames:3676923
+CO,05411,co:municipality:05411,LIBORINA,Municipio,CO-ANT,6.6779,-75.81218,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21028,GeoNames:3676591
+CO,05425,co:municipality:05425,MACEO,Municipio,CO-ANT,6.55196,-74.78741,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21044,GeoNames:3675768
+CO,05440,co:municipality:05440,MARINILLA,Municipio,CO-ANT,6.17358,-75.33621,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21066,GeoNames:3675263
+CO,05467,co:municipality:05467,MONTEBELLO,Municipio,CO-ANT,5.94806,-75.5275,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21097,GeoNames:3674519
+CO,05475,co:municipality:05475,MURINDÓ,Municipio,CO-ANT,6.98057,-76.82119,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21120,GeoNames:3674161
+CO,05480,co:municipality:05480,MUTATÁ,Municipio,CO-ANT,7.24407,-76.43564,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21121,GeoNames:3674130
+CO,05483,co:municipality:05483,NARIÑO,Municipio,CO-ANT,5.60893,-75.17656,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21126,GeoNames:3674027
+CO,05490,co:municipality:05490,NECOCLÍ,Municipio,CO-ANT,8.42627,-76.78926,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21130,GeoNames:3673974
+CO,05495,co:municipality:05495,NECHÍ,Municipio,CO-ANT,8.09419,-74.77573,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21129,GeoNames:3673976
+CO,05501,co:municipality:05501,OLAYA,Municipio,CO-ANT,6.62773,-75.8127,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21149,GeoNames:3673613
+CO,05541,co:municipality:05541,PEÑOL,Municipio,CO-ANT,6.232396368,-75.22350906,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21197,DANE / MinSalud RDA 1.0.3
+CO,05543,co:municipality:05543,PEQUE,Municipio,CO-ANT,7.02123,-75.90926,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21194,GeoNames:3672512
+CO,05576,co:municipality:05576,PUEBLORRICO,Municipio,CO-ANT,5.79176,-75.84101,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21227,GeoNames:3671630
+CO,05579,co:municipality:05579,PUERTO BERRÍO,Municipio,CO-ANT,6.49156,-74.40326,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21234,GeoNames:3671540
+CO,05585,co:municipality:05585,PUERTO NARE,Municipio,CO-ANT,6.126539139,-74.70317722,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21248,DANE / MinSalud RDA 1.0.3
+CO,05591,co:municipality:05591,PUERTO TRIUNFO,Municipio,CO-ANT,5.87259,-74.6405,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21258,GeoNames:3671308
+CO,05604,co:municipality:05604,REMEDIOS,Municipio,CO-ANT,7.02835,-74.69379,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21281,GeoNames:3670899
+CO,05607,co:municipality:05607,RETIRO,Municipio,CO-ANT,6.05861,-75.50306,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21286,GeoNames:3670849
+CO,05615,co:municipality:05615,RIONEGRO,Municipio,CO-ANT,6.15515,-75.37371,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21293,GeoNames:3670730
+CO,05628,co:municipality:05628,SABANALARGA,Municipio,CO-ANT,6.84893,-75.81711,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21311,GeoNames:3670506
+CO,05631,co:municipality:05631,SABANETA,Municipio,CO-ANT,6.138305183,-75.60880599,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21314,DANE / MinSalud RDA 1.0.3
+CO,05642,co:municipality:05642,SALGAR,Municipio,CO-ANT,5.96502,-75.96541,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21323,GeoNames:3670350
+CO,05647,co:municipality:05647,SAN ANDRÉS DE CUERQUÍA,Municipio,CO-ANT,6.90333,-75.6825,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21330,GeoNames:3787727
+CO,05649,co:municipality:05649,SAN CARLOS,Municipio,CO-ANT,6.18789,-74.99315,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21345,GeoNames:3670000
+CO,05652,co:municipality:05652,SAN FRANCISCO,Municipio,CO-ANT,5.96426,-75.10165,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21357,GeoNames:3669858
+CO,05656,co:municipality:05656,SAN JERÓNIMO,Municipio,CO-ANT,6.44344,-75.72815,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21362,GeoNames:3669718
+CO,05658,co:municipality:05658,SAN JOSÉ DE LA MONTAÑA,Municipio,CO-ANT,6.85028,-75.68333,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21366,GeoNames:3669557
+CO,05659,co:municipality:05659,SAN JUAN DE URABÁ,Municipio,CO-ANT,8.75924,-76.52969,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21376,GeoNames:3669461
+CO,05660,co:municipality:05660,SAN LUIS,Municipio,CO-ANT,6.04343,-74.99366,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:149253,GeoNames:3669383
+CO,05664,co:municipality:05664,SAN PEDRO DE LOS MILAGROS,Municipio,CO-ANT,6.46135,-75.55778,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21117,GeoNames:3669138
+CO,05665,co:municipality:05665,SAN PEDRO DE URABÁ,Municipio,CO-ANT,8.27515,-76.37641,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21399,GeoNames:3669087
+CO,05667,co:municipality:05667,SAN RAFAEL,Municipio,CO-ANT,6.29436,-75.02589,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21402,GeoNames:3669056
+CO,05670,co:municipality:05670,SAN ROQUE,Municipio,CO-ANT,6.48511,-75.0196,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21403,GeoNames:3669011
+CO,05674,co:municipality:05674,SAN VICENTE FERRER,Municipio,CO-ANT,6.28535,-75.33385,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21407,GeoNames:3668302
+CO,05679,co:municipality:05679,SANTA BÁRBARA,Municipio,CO-ANT,5.87458,-75.56706,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21414,GeoNames:3668895
+CO,05686,co:municipality:05686,SANTA ROSA DE OSOS,Municipio,CO-ANT,6.64738,-75.46031,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21425,GeoNames:3668451
+CO,05690,co:municipality:05690,SANTO DOMINGO,Municipio,CO-ANT,6.481044132,-75.14260097,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21439,DANE / MinSalud RDA 1.0.3
+CO,05697,co:municipality:05697,EL SANTUARIO,Municipio,CO-ANT,6.13833,-75.26417,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21441,GeoNames:3668323
+CO,05736,co:municipality:05736,SEGOVIA,Municipio,CO-ANT,7.07993,-74.6989,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21449,GeoNames:3668175
+CO,05756,co:municipality:05756,SONSÓN,Municipio,CO-ANT,5.71062,-75.31069,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21474,GeoNames:3667820
+CO,05761,co:municipality:05761,SOPETRÁN,Municipio,CO-ANT,6.5018,-75.74309,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21476,GeoNames:11885795
+CO,05789,co:municipality:05789,TÁMESIS,Municipio,CO-ANT,5.66462,-75.71339,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21562,GeoNames:3667473
+CO,05790,co:municipality:05790,TARAZÁ,Municipio,CO-ANT,7.58358,-75.40068,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21513,GeoNames:3667402
+CO,05792,co:municipality:05792,TARSO,Municipio,CO-ANT,5.86467,-75.82192,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21514,GeoNames:3667380
+CO,05809,co:municipality:05809,TITIRIBÍ,Municipio,CO-ANT,6.06276,-75.7937,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21532,GeoNames:3667023
+CO,05819,co:municipality:05819,TOLEDO,Municipio,CO-ANT,7.01306,-75.69528,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21537,GeoNames:3666960
+CO,05837,csc:21557,TURBO,Municipio,CO-ANT,8.09263,-76.72822,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21557,GeoNames:3666570
+CO,05842,co:municipality:05842,URAMITA,Municipio,CO-ANT,6.89944,-76.17417,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21572,GeoNames:3666436
+CO,05847,co:municipality:05847,URRAO,Municipio,CO-ANT,6.33534134,-76.25906482,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21574,DANE / MinSalud RDA 1.0.3
+CO,05854,co:municipality:05854,VALDIVIA,Municipio,CO-ANT,7.16433,-75.43906,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21577,GeoNames:11886309
+CO,05856,co:municipality:05856,VALPARAÍSO,Municipio,CO-ANT,5.615,-75.62422,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21584,GeoNames:3666287
+CO,05858,co:municipality:05858,VEGACHÍ,Municipio,CO-ANT,6.836535122,-74.7540302,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21585,DANE / MinSalud RDA 1.0.3
+CO,05861,co:municipality:05861,VENECIA,Municipio,CO-ANT,5.96278,-75.73806,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21588,GeoNames:3666193
+CO,05873,co:municipality:05873,VIGÍA DEL FUERTE,Municipio,CO-ANT,6.58933,-76.89599,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21595,GeoNames:3666042
+CO,05885,co:municipality:05885,YALÍ,Municipio,CO-ANT,6.67457,-74.8343,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21621,GeoNames:3665792
+CO,05887,co:municipality:05887,YARUMAL,Municipio,CO-ANT,6.96321,-75.41738,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21622,GeoNames:3665741
+CO,05890,co:municipality:05890,YOLOMBÓ,Municipio,CO-ANT,6.59841,-75.0114,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21624,GeoNames:3665693
+CO,05893,co:municipality:05893,YONDÓ,Municipio,CO-ANT,7.00621,-73.90972,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21625,GeoNames:3665691
+CO,05895,co:municipality:05895,ZARAGOZA,Municipio,CO-ANT,7.48971,-74.86919,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21632,GeoNames:3665566
+CO,08001,csc:20574,BARRANQUILLA,Municipio,CO-ATL,10.96854,-74.78132,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20574,GeoNames:3689147
+CO,08078,co:municipality:08078,BARANOA,Municipio,CO-ATL,10.79408,-74.9164,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20564,GeoNames:3689235
+CO,08137,co:municipality:08137,CAMPO DE LA CRUZ,Municipio,CO-ATL,10.37808,-74.88356,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20640,GeoNames:3687758
+CO,08141,co:municipality:08141,CANDELARIA,Municipio,CO-ATL,10.45912,-74.8797,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20643,GeoNames:3687634
+CO,08296,co:municipality:08296,GALAPA,Municipio,CO-ATL,10.89686,-74.886,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20876,GeoNames:3682238
+CO,08372,co:municipality:08372,JUAN DE ACOSTA,Municipio,CO-ATL,10.8293,-75.03346,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20966,GeoNames:3680176
+CO,08421,co:municipality:08421,LURUACO,Municipio,CO-ATL,10.63503116,-75.15402741,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21038,DANE / MinSalud RDA 1.0.3
+CO,08433,co:municipality:08433,MALAMBO,Municipio,CO-ATL,10.85953,-74.77386,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21053,GeoNames:3675595
+CO,08436,co:municipality:08436,MANATÍ,Municipio,CO-ATL,10.44589,-74.95869,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21055,GeoNames:3675512
+CO,08520,co:municipality:08520,PALMAR DE VARELA,Municipio,CO-ATL,10.74055,-74.75443,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21171,GeoNames:3673220
+CO,08549,co:municipality:08549,PIOJÓ,Municipio,CO-ATL,10.74846,-75.10776,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21208,GeoNames:3672176
+CO,08558,co:municipality:08558,POLONUEVO,Municipio,CO-ATL,10.77697,-74.85344,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21217,GeoNames:3671950
+CO,08560,co:municipality:08560,PONEDERA,Municipio,CO-ATL,10.64297,-74.75393,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21218,GeoNames:3671936
+CO,08573,co:municipality:08573,PUERTO COLOMBIA,Municipio,CO-ATL,10.98778,-74.95472,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21238,GeoNames:3671497
+CO,08606,co:municipality:08606,REPELÓN,Municipio,CO-ATL,10.4952,-75.12448,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21283,GeoNames:3670874
+CO,08634,co:municipality:08634,SABANAGRANDE,Municipio,CO-ATL,10.79894015,-74.7687966,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21309,DANE / MinSalud RDA 1.0.3
+CO,08638,csc:21312,SABANALARGA,Municipio,CO-ATL,10.63072,-74.92214,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21312,GeoNames:3670502
+CO,08675,co:municipality:08675,SANTA LUCÍA,Municipio,CO-ATL,10.3242,-74.96017,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21420,GeoNames:3668655
+CO,08685,co:municipality:08685,SANTO TOMÁS,Municipio,CO-ATL,10.75773,-74.75451,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21440,GeoNames:3668332
+CO,08758,csc:21472,SOLEDAD,Municipio,CO-ATL,10.91843,-74.76459,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21472,GeoNames:3667849
+CO,08770,co:municipality:08770,SUAN,Municipio,CO-ATL,10.33347,-74.88016,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21485,GeoNames:3667780
+CO,08832,co:municipality:08832,TUBARÁ,Municipio,CO-ATL,10.90721938,-74.98423293,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21550,DANE / MinSalud RDA 1.0.3
+CO,08849,co:municipality:08849,USIACURÍ,Municipio,CO-ATL,10.74313,-74.97604,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21576,GeoNames:3666370
+CO,11001,csc:149237,"BOGOTÁ, D.C.",Municipio,CO-DC,4.60971,-74.08175,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,project,csc:149237,GeoNames:3688689
+CO,13001,csc:20659,CARTAGENA DE INDIAS,Municipio,CO-BOL,10.39817,-75.49328,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20659,GeoNames:3687238
+CO,13006,co:municipality:13006,ACHÍ,Municipio,CO-BOL,8.5695,-74.55715,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20490,GeoNames:3690549
+CO,13030,co:municipality:13030,ALTOS DEL ROSARIO,Municipio,CO-BOL,8.79162,-74.16556,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20510,GeoNames:3792378
+CO,13042,co:municipality:13042,ARENAL,Municipio,CO-BOL,8.4589,-73.94162,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20543,GeoNames:3689653
+CO,13052,csc:20549,ARJONA,Municipio,CO-BOL,10.25444,-75.34389,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20549,GeoNames:3689570
+CO,13062,co:municipality:13062,ARROYOHONDO,Municipio,CO-BOL,10.2522,-75.0198,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20554,GeoNames:3689507
+CO,13074,co:municipality:13074,BARRANCO DE LOBA,Municipio,CO-BOL,8.94597,-74.10647,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20573,GeoNames:3689157
+CO,13140,co:municipality:13140,CALAMAR,Municipio,CO-BOL,10.25271,-74.91574,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20628,GeoNames:3687972
+CO,13160,co:municipality:13160,CANTAGALLO,Municipio,CO-BOL,7.37926,-73.9155,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20645,GeoNames:3687541
+CO,13188,co:municipality:13188,CICUCO,Municipio,CO-BOL,9.27756,-74.64312,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20707,GeoNames:3686288
+CO,13212,co:municipality:13212,CÓRDOBA,Municipio,CO-BOL,9.58612,-74.82705,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20770,GeoNames:3685893
+CO,13222,co:municipality:13222,CLEMENCIA,Municipio,CO-BOL,10.56645,-75.32499,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20715,GeoNames:3686196
+CO,13244,csc:20796,EL CARMEN DE BOLÍVAR,Municipio,CO-BOL,9.7174,-75.12023,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20796,GeoNames:3684666
+CO,13248,co:municipality:13248,EL GUAMO,Municipio,CO-BOL,10.03155,-74.97612,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20810,GeoNames:3684115
+CO,13268,co:municipality:13268,EL PEÑÓN,Municipio,CO-BOL,8.98885,-73.94898,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20818,GeoNames:3683497
+CO,13300,co:municipality:13300,HATILLO DE LOBA,Municipio,CO-BOL,8.95635,-74.07819,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20935,GeoNames:3681029
+CO,13430,csc:21048,MAGANGUÉ,Municipio,CO-BOL,9.24202,-74.75467,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21048,GeoNames:3675692
+CO,13433,co:municipality:13433,MAHATES,Municipio,CO-BOL,10.23293,-75.18985,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21050,GeoNames:3675668
+CO,13440,co:municipality:13440,MARGARITA,Municipio,CO-BOL,9.15596,-74.26618,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21065,GeoNames:3675305
+CO,13442,co:municipality:13442,MARÍA LA BAJA,Municipio,CO-BOL,9.9832,-75.30155,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21072,GeoNames:3675287
+CO,13458,co:municipality:13458,MONTECRISTO,Municipio,CO-BOL,8.2971,-74.4733,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21098,GeoNames:3674499
+CO,13468,co:municipality:13468,SANTA CRUZ DE MOMPOX,Municipio,CO-BOL,9.24194,-74.42667,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,project,csc:21093,GeoNames:3674597
+CO,13473,co:municipality:13473,MORALES,Municipio,CO-BOL,8.27621,-73.86803,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21104,GeoNames:3674412
+CO,13490,co:municipality:13490,NOROSÍ,Municipio,CO-BOL,8.52692,-74.03736,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21138,GeoNames:3673804
+CO,13549,co:municipality:13549,PINILLOS,Municipio,CO-BOL,8.91925,-74.46771,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21207,GeoNames:3672197
+CO,13580,co:municipality:13580,REGIDOR,Municipio,CO-BOL,8.66633,-73.82221,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21280,GeoNames:3670910
+CO,13600,co:municipality:13600,RÍO VIEJO,Municipio,CO-BOL,8.58863,-73.83972,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21306,GeoNames:3670709
+CO,13620,co:municipality:13620,SAN CRISTÓBAL,Municipio,CO-BOL,10.39523,-75.06562,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21350,GeoNames:3669955
+CO,13647,co:municipality:13647,SAN ESTANISLAO,Municipio,CO-BOL,10.39833,-75.15111,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21353,GeoNames:3669929
+CO,13650,co:municipality:13650,SAN FERNANDO,Municipio,CO-BOL,9.21093,-74.31797,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21355,GeoNames:11896874
+CO,13654,csc:21360,SAN JACINTO,Municipio,CO-BOL,9.82767,-75.1217,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21360,GeoNames:3669736
+CO,13655,co:municipality:13655,SAN JACINTO DEL CAUCA,Municipio,CO-BOL,8.24976,-74.72079,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21361,GeoNames:3669729
+CO,13657,co:municipality:13657,SAN JUAN NEPOMUCENO,Municipio,CO-BOL,9.95157,-75.08198,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21372,GeoNames:3669454
+CO,13667,co:municipality:13667,SAN MARTÍN DE LOBA,Municipio,CO-BOL,8.936,-74.03975,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21386,GeoNames:11896875
+CO,13670,co:municipality:13670,SAN PABLO,Municipio,CO-BOL,7.47754,-73.92255,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21393,GeoNames:3669196
+CO,13673,co:municipality:13673,SANTA CATALINA,Municipio,CO-BOL,10.60361,-75.28824,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21416,GeoNames:3668861
+CO,13683,co:municipality:13683,SANTA ROSA,Municipio,CO-BOL,10.44472,-75.36972,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21423,GeoNames:3668472
+CO,13688,co:municipality:13688,SANTA ROSA DEL SUR,Municipio,CO-BOL,7.96444,-74.05444,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21427,GeoNames:3792379
+CO,13744,co:municipality:13744,SIMITÍ,Municipio,CO-BOL,7.9579,-73.9436,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21460,GeoNames:3668012
+CO,13760,co:municipality:13760,SOPLAVIENTO,Municipio,CO-BOL,10.33209031,-75.11699226,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21477,DANE / MinSalud RDA 1.0.3
+CO,13780,co:municipality:13780,TALAIGUA NUEVO,Municipio,CO-BOL,9.30347,-74.56477,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21505,GeoNames:3667548
+CO,13810,co:municipality:13810,TIQUISIO,Municipio,CO-BOL,8.55666,-74.26355,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21531,GeoNames:3792380
+CO,13836,co:municipality:13836,TURBACO,Municipio,CO-BOL,10.32944,-75.41137,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21555,GeoNames:3666577
+CO,13838,co:municipality:13838,TURBANA,Municipio,CO-BOL,10.27169,-75.44222,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21556,GeoNames:3666575
+CO,13873,co:municipality:13873,VILLANUEVA,Municipio,CO-BOL,10.44361,-75.27306,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21609,GeoNames:3665935
+CO,13894,co:municipality:13894,ZAMBRANO,Municipio,CO-BOL,9.7474,-74.81572,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21629,GeoNames:3665616
+CO,15001,csc:21553,TUNJA,Municipio,CO-BOY,5.54481,-73.35756,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21553,GeoNames:3666608
+CO,15022,co:municipality:15022,ALMEIDA,Municipio,CO-BOY,4.97083,-73.37972,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20507,GeoNames:3690134
+CO,15047,co:municipality:15047,AQUITANIA,Municipio,CO-BOY,5.51858,-72.88387,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20532,GeoNames:3689771
+CO,15051,co:municipality:15051,ARCABUCO,Municipio,CO-BOY,5.75463,-73.43669,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20542,GeoNames:3689689
+CO,15087,co:municipality:15087,BELÉN,Municipio,CO-BOY,5.98892,-72.91254,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20583,GeoNames:3689003
+CO,15090,co:municipality:15090,BERBEO,Municipio,CO-BOY,5.22675,-73.12608,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20587,GeoNames:3688909
+CO,15092,co:municipality:15092,BETÉITIVA,Municipio,CO-BOY,5.91102,-72.80926,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20591,GeoNames:3688846
+CO,15097,co:municipality:15097,BOAVITA,Municipio,CO-BOY,6.33031,-72.58505,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20593,GeoNames:3688775
+CO,15104,co:municipality:15104,BOYACÁ,Municipio,CO-BOY,5.45371,-73.3625,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20600,GeoNames:3688539
+CO,15106,co:municipality:15106,BRICEÑO,Municipio,CO-BOY,5.68822,-73.91784,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20601,GeoNames:3688500
+CO,15109,co:municipality:15109,BUENAVISTA,Municipio,CO-BOY,5.51377,-73.94913,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20609,GeoNames:3688420
+CO,15114,co:municipality:15114,BUSBANZÁ,Municipio,CO-BOY,5.83047,-72.88419,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20614,GeoNames:3688214
+CO,15131,co:municipality:15131,CALDAS,Municipio,CO-BOY,5.55456,-73.86567,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20632,GeoNames:3687953
+CO,15135,co:municipality:15135,CAMPOHERMOSO,Municipio,CO-BOY,5.03132,-73.10327,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20641,GeoNames:3687751
+CO,15162,co:municipality:15162,CERINZA,Municipio,CO-BOY,5.95568,-72.94783,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20670,GeoNames:3686918
+CO,15172,co:municipality:15172,CHINAVITA,Municipio,CO-BOY,5.16723,-73.36823,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20687,GeoNames:3686569
+CO,15176,csc:20693,CHIQUINQUIRÁ,Municipio,CO-BOY,5.61637,-73.81748,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20693,GeoNames:3686513
+CO,15180,co:municipality:15180,CHISCAS,Municipio,CO-BOY,6.55642,-72.50378,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20695,GeoNames:3686471
+CO,15183,co:municipality:15183,CHITA,Municipio,CO-BOY,6.19053,-72.47588,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20696,GeoNames:3686464
+CO,15185,co:municipality:15185,CHITARAQUE,Municipio,CO-BOY,6.02839,-73.44703,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20698,GeoNames:11886464
+CO,15187,co:municipality:15187,CHIVATÁ,Municipio,CO-BOY,5.55823,-73.28198,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20699,GeoNames:3686453
+CO,15189,co:municipality:15189,CIÉNEGA,Municipio,CO-BOY,5.40867,-73.29572,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20714,GeoNames:3686262
+CO,15204,co:municipality:15204,CÓMBITA,Municipio,CO-BOY,5.63312,-73.32398,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20723,GeoNames:3686052
+CO,15212,co:municipality:15212,COPER,Municipio,CO-BOY,5.47681,-74.04416,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20736,GeoNames:3685943
+CO,15215,co:municipality:15215,CORRALES,Municipio,CO-BOY,5.82968,-72.84332,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20740,GeoNames:3685794
+CO,15218,co:municipality:15218,COVARACHÍA,Municipio,CO-BOY,6.50563,-72.7331,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20743,GeoNames:3792381
+CO,15223,co:municipality:15223,CUBARÁ,Municipio,CO-BOY,7.00578,-72.10568,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20750,GeoNames:3685571
+CO,15224,co:municipality:15224,CUCAITA,Municipio,CO-BOY,5.54373,-73.45433,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20751,GeoNames:3685569
+CO,15226,co:municipality:15226,CUÍTIVA,Municipio,CO-BOY,5.58007,-72.96687,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20762,GeoNames:3685482
+CO,15232,co:municipality:15232,CHÍQUIZA,Municipio,CO-BOY,5.60412,-73.48518,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20706,GeoNames:3686495
+CO,15236,co:municipality:15236,CHIVOR,Municipio,CO-BOY,4.88556,-73.36889,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20701,GeoNames:3769623
+CO,15238,csc:20783,DUITAMA,Municipio,CO-BOY,5.8245,-73.03408,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20783,GeoNames:3685084
+CO,15244,co:municipality:15244,EL COCUY,Municipio,CO-BOY,6.41151,-72.44876,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20802,GeoNames:3684510
+CO,15248,co:municipality:15248,EL ESPINO,Municipio,CO-BOY,6.48277,-72.49718,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20808,GeoNames:3684189
+CO,15272,co:municipality:15272,FIRAVITOBA,Municipio,CO-BOY,5.66885,-72.99289,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20846,GeoNames:3682465
+CO,15276,co:municipality:15276,FLORESTA,Municipio,CO-BOY,5.85903,-72.91882,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20850,GeoNames:3682400
+CO,15293,co:municipality:15293,GACHANTIVÁ,Municipio,CO-BOY,5.75662,-73.5395,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20873,GeoNames:3682260
+CO,15296,co:municipality:15296,GÁMEZA,Municipio,CO-BOY,5.80263,-72.80586,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20882,GeoNames:3682172
+CO,15299,co:municipality:15299,GARAGOA,Municipio,CO-BOY,5.08236,-73.36334,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20883,GeoNames:3682160
+CO,15317,co:municipality:15317,GUACAMAYAS,Municipio,CO-BOY,6.46243,-72.50465,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20896,GeoNames:3681812
+CO,15322,co:municipality:15322,GUATEQUE,Municipio,CO-BOY,5.00619,-73.47274,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20918,GeoNames:3681356
+CO,15325,co:municipality:15325,GUAYATÁ,Municipio,CO-BOY,4.96417,-73.4875,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20924,GeoNames:3681255
+CO,15332,co:municipality:15332,GÜICÁN DE LA SIERRA,Municipio,CO-BOY,6.46554,-72.41539,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20933,GeoNames:3681222
+CO,15362,co:municipality:15362,IZA,Municipio,CO-BOY,5.61203,-72.9793,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20956,GeoNames:3680426
+CO,15367,co:municipality:15367,JENESANO,Municipio,CO-BOY,5.38541,-73.36364,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20960,GeoNames:3680335
+CO,15368,co:municipality:15368,JERICÓ,Municipio,CO-BOY,6.14592,-72.5708,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20962,GeoNames:3680316
+CO,15377,co:municipality:15377,LABRANZAGRANDE,Municipio,CO-BOY,5.56223,-72.57499,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21018,GeoNames:3679716
+CO,15380,co:municipality:15380,LA CAPILLA,Municipio,CO-BOY,5.0959,-73.44407,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20973,GeoNames:3679623
+CO,15401,co:municipality:15401,LA VICTORIA,Municipio,CO-BOY,5.52583,-74.23611,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21015,GeoNames:3666074
+CO,15403,co:municipality:15403,LA UVITA,Municipio,CO-BOY,6.32064,-72.56281,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21010,GeoNames:3676884
+CO,15407,co:municipality:15407,VILLA DE LEYVA,Municipio,CO-BOY,5.63413,-73.52438,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21598,GeoNames:3666003
+CO,15425,co:municipality:15425,MACANAL,Municipio,CO-BOY,4.97214,-73.31959,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21042,GeoNames:3675791
+CO,15442,co:municipality:15442,MARIPÍ,Municipio,CO-BOY,5.55194,-74.00861,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21067,GeoNames:3675255
+CO,15455,co:municipality:15455,MIRAFLORES,Municipio,CO-BOY,5.19608,-73.14504,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21084,GeoNames:3674735
+CO,15464,co:municipality:15464,MONGUA,Municipio,CO-BOY,5.75084,-72.80339,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21094,GeoNames:3674580
+CO,15466,co:municipality:15466,MONGUÍ,Municipio,CO-BOY,5.72151,-72.84908,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21095,GeoNames:3674576
+CO,15469,co:municipality:15469,MONIQUIRÁ,Municipio,CO-BOY,5.87638,-73.57284,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21096,GeoNames:3674572
+CO,15476,co:municipality:15476,MOTAVITA,Municipio,CO-BOY,5.57655,-73.36696,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21110,GeoNames:3674280
+CO,15480,co:municipality:15480,MUZO,Municipio,CO-BOY,5.53528,-74.10778,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21123,GeoNames:3674121
+CO,15491,co:municipality:15491,NOBSA,Municipio,CO-BOY,5.76978,-72.94099,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21135,GeoNames:3673829
+CO,15494,co:municipality:15494,NUEVO COLÓN,Municipio,CO-BOY,5.35368,-73.4566,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21140,GeoNames:3673730
+CO,15500,co:municipality:15500,OICATÁ,Municipio,CO-BOY,5.59548,-73.3082,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21148,GeoNames:3673635
+CO,15507,co:municipality:15507,OTANCHE,Municipio,CO-BOY,5.65672,-74.18249,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21156,GeoNames:3673475
+CO,15511,co:municipality:15511,PACHAVITA,Municipio,CO-BOY,5.13969,-73.39739,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21158,GeoNames:3673431
+CO,15514,co:municipality:15514,PÁEZ,Municipio,CO-BOY,5.10112,-73.05123,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21268,GeoNames:3673397
+CO,15516,co:municipality:15516,PAIPA,Municipio,CO-BOY,5.78013,-73.11708,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21166,GeoNames:3673369
+CO,15518,co:municipality:15518,PAJARITO,Municipio,CO-BOY,5.2929,-72.70277,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21168,GeoNames:3673352
+CO,15522,co:municipality:15522,PANQUEBA,Municipio,CO-BOY,6.44533,-72.46268,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21180,GeoNames:3672981
+CO,15531,co:municipality:15531,PAUNA,Municipio,CO-BOY,5.65861,-73.9825,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21186,GeoNames:3672698
+CO,15533,co:municipality:15533,PAYA,Municipio,CO-BOY,5.62492,-72.42345,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21187,GeoNames:3672669
+CO,15537,co:municipality:15537,PAZ DE RÍO,Municipio,CO-BOY,5.98452,-72.7505,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21190,GeoNames:3672651
+CO,15542,co:municipality:15542,PESCA,Municipio,CO-BOY,5.55,-73.05,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21196,GeoNames:3672428
+CO,15550,co:municipality:15550,PISBA,Municipio,CO-BOY,5.72396,-72.48646,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21209,GeoNames:3672143
+CO,15572,co:municipality:15572,PUERTO BOYACÁ,Municipio,CO-BOY,5.976,-74.58516,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21236,GeoNames:3671531
+CO,15580,co:municipality:15580,QUÍPAMA,Municipio,CO-BOY,5.5194,-74.17765,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21276,GeoNames:3775262
+CO,15599,co:municipality:15599,RAMIRIQUÍ,Municipio,CO-BOY,5.4002,-73.33544,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21278,GeoNames:3671002
+CO,15600,co:municipality:15600,RÁQUIRA,Municipio,CO-BOY,5.53793,-73.63201,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21303,GeoNames:3670966
+CO,15621,co:municipality:15621,RONDÓN,Municipio,CO-BOY,5.35642,-73.20918,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21300,GeoNames:3670624
+CO,15632,co:municipality:15632,SABOYÁ,Municipio,CO-BOY,5.69636,-73.76932,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21315,GeoNames:3670447
+CO,15638,co:municipality:15638,SÁCHICA,Municipio,CO-BOY,5.58453,-73.54184,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21502,GeoNames:3670431
+CO,15646,co:municipality:15646,SAMACÁ,Municipio,CO-BOY,5.49273,-73.48537,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21324,GeoNames:3670303
+CO,15660,co:municipality:15660,SAN EDUARDO,Municipio,CO-BOY,5.22396,-73.07696,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21352,GeoNames:3669936
+CO,15664,co:municipality:15664,SAN JOSÉ DE PARE,Municipio,CO-BOY,6.01746,-73.54703,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21368,GeoNames:3669541
+CO,15667,co:municipality:15667,SAN LUIS DE GACENO,Municipio,CO-BOY,4.82052,-73.16851,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21380,GeoNames:3669355
+CO,15673,co:municipality:15673,SAN MATEO,Municipio,CO-BOY,6.40195,-72.55314,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21387,GeoNames:3669310
+CO,15676,co:municipality:15676,SAN MIGUEL DE SEMA,Municipio,CO-BOY,5.51847,-73.72238,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21390,GeoNames:3669238
+CO,15681,co:municipality:15681,SAN PABLO DE BORBUR,Municipio,CO-BOY,5.65138,-74.06991,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21394,GeoNames:3669173
+CO,15686,co:municipality:15686,SANTANA,Municipio,CO-BOY,6.0575,-73.48112,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21433,GeoNames:3668594
+CO,15690,co:municipality:15690,SANTA MARÍA,Municipio,CO-BOY,4.86048,-73.26234,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21422,GeoNames:3668631
+CO,15693,co:municipality:15693,SANTA ROSA DE VITERBO,Municipio,CO-BOY,5.87401,-72.98217,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21426,GeoNames:3668447
+CO,15696,co:municipality:15696,SANTA SOFÍA,Municipio,CO-BOY,5.70908,-73.60404,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21430,GeoNames:3668434
+CO,15720,co:municipality:15720,SATIVANORTE,Municipio,CO-BOY,6.13156,-72.70895,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21447,GeoNames:3668221
+CO,15723,co:municipality:15723,SATIVASUR,Municipio,CO-BOY,6.09334,-72.71235,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21448,GeoNames:3668219
+CO,15740,co:municipality:15740,SIACHOQUE,Municipio,CO-BOY,5.51238,-73.24436,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21452,GeoNames:3668096
+CO,15753,co:municipality:15753,SOATÁ,Municipio,CO-BOY,6.33369,-72.68283,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21465,GeoNames:3667901
+CO,15755,co:municipality:15755,SOCOTÁ,Municipio,CO-BOY,6.04028,-72.63509,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21469,GeoNames:3667880
+CO,15757,co:municipality:15757,SOCHA,Municipio,CO-BOY,5.99732,-72.69138,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21466,GeoNames:11886463
+CO,15759,csc:21470,SOGAMOSO,Municipio,CO-BOY,5.71434,-72.93391,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21470,GeoNames:3667873
+CO,15761,co:municipality:15761,SOMONDOCO,Municipio,CO-BOY,4.98495,-73.43238,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21473,GeoNames:3667834
+CO,15762,co:municipality:15762,SORA,Municipio,CO-BOY,5.56514,-73.45017,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21479,GeoNames:3667806
+CO,15763,co:municipality:15763,SOTAQUIRÁ,Municipio,CO-BOY,5.76483,-73.24758,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21481,GeoNames:3667796
+CO,15764,co:municipality:15764,SORACÁ,Municipio,CO-BOY,5.50055,-73.33299,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21480,GeoNames:3667805
+CO,15774,co:municipality:15774,SUSACÓN,Municipio,CO-BOY,6.22978,-72.6901,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21495,GeoNames:3667660
+CO,15776,co:municipality:15776,SUTAMARCHÁN,Municipio,CO-BOY,5.61538,-73.61701,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21496,GeoNames:3667651
+CO,15778,co:municipality:15778,SUTATENZA,Municipio,CO-BOY,5.02311,-73.4523,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21498,GeoNames:3667647
+CO,15790,co:municipality:15790,TASCO,Municipio,CO-BOY,5.91044,-72.78001,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21515,GeoNames:3667373
+CO,15798,co:municipality:15798,TENZA,Municipio,CO-BOY,5.07664,-73.42077,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21521,GeoNames:3667288
+CO,15804,co:municipality:15804,TIBANÁ,Municipio,CO-BOY,5.31728,-73.39655,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21523,GeoNames:3667218
+CO,15806,co:municipality:15806,TIBASOSA,Municipio,CO-BOY,5.75,-73.0,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21524,GeoNames:3667211
+CO,15808,co:municipality:15808,TINJACÁ,Municipio,CO-BOY,5.57916,-73.64486,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21529,GeoNames:3667050
+CO,15810,co:municipality:15810,TIPACOQUE,Municipio,CO-BOY,6.42031,-72.69184,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21530,GeoNames:3667044
+CO,15814,co:municipality:15814,TOCA,Municipio,CO-BOY,5.56393,-73.18398,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21533,GeoNames:3667007
+CO,15816,co:municipality:15816,TOGÜÍ,Municipio,CO-BOY,5.921830062,-73.48921806,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21536,DANE / MinSalud RDA 1.0.3
+CO,15820,co:municipality:15820,TÓPAGA,Municipio,CO-BOY,5.75979,-72.82583,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21563,GeoNames:3666905
+CO,15822,co:municipality:15822,TOTA,Municipio,CO-BOY,5.55833,-72.98757,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21545,GeoNames:3666840
+CO,15832,co:municipality:15832,TUNUNGUÁ,Municipio,CO-BOY,5.72967,-73.94137,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21554,GeoNames:3666596
+CO,15835,co:municipality:15835,TURMEQUÉ,Municipio,CO-BOY,5.3236,-73.49067,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21558,GeoNames:3666562
+CO,15837,co:municipality:15837,TUTA,Municipio,CO-BOY,5.68966,-73.22779,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21559,GeoNames:3666550
+CO,15839,co:municipality:15839,TUTAZÁ,Municipio,CO-BOY,6.03228,-72.85639,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21560,GeoNames:3666546
+CO,15842,co:municipality:15842,ÚMBITA,Municipio,CO-BOY,5.22041,-73.45695,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21568,GeoNames:3666493
+CO,15861,co:municipality:15861,VENTAQUEMADA,Municipio,CO-BOY,5.36753,-73.52075,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21589,GeoNames:3666163
+CO,15879,co:municipality:15879,VIRACACHÁ,Municipio,CO-BOY,5.43637,-73.29606,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21615,GeoNames:3665879
+CO,15897,co:municipality:15897,ZETAQUIRA,Municipio,CO-BOY,5.28215,-73.16896,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21634,GeoNames:3665547
+CO,17001,csc:21059,MANIZALES,Municipio,CO-CAL,5.0668,-75.50684,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21059,GeoNames:3675443
+CO,17013,co:municipality:17013,AGUADAS,Municipio,CO-CAL,5.61161,-75.45624,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20494,GeoNames:3690431
+CO,17042,co:municipality:17042,ANSERMA,Municipio,CO-CAL,5.23426,-75.78539,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20525,GeoNames:11897423
+CO,17050,co:municipality:17050,ARANZAZU,Municipio,CO-CAL,5.27101,-75.49028,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20534,GeoNames:3689740
+CO,17088,co:municipality:17088,BELALCÁZAR,Municipio,CO-CAL,4.99495,-75.81235,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20576,GeoNames:3689012
+CO,17174,co:municipality:17174,CHINCHINÁ,Municipio,CO-CAL,4.9832,-75.60488,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20688,GeoNames:3686561
+CO,17272,co:municipality:17272,FILADELFIA,Municipio,CO-CAL,5.29671,-75.56206,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20844,GeoNames:3682481
+CO,17380,co:municipality:17380,LA DORADA,Municipio,CO-CAL,5.44783,-74.66311,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20981,GeoNames:3679277
+CO,17388,co:municipality:17388,LA MERCED,Municipio,CO-CAL,5.39915,-75.5472,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20992,GeoNames:11897424
+CO,17433,co:municipality:17433,MANZANARES,Municipio,CO-CAL,5.23295391,-75.15263447,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21061,DANE / MinSalud RDA 1.0.3
+CO,17442,co:municipality:17442,MARMATO,Municipio,CO-CAL,5.47501,-75.6004,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21068,GeoNames:3675242
+CO,17444,co:municipality:17444,MARQUETALIA,Municipio,CO-CAL,5.29659,-75.05496,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21069,GeoNames:3675234
+CO,17446,co:municipality:17446,MARULANDA,Municipio,CO-CAL,5.28393,-75.26016,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21071,GeoNames:3675191
+CO,17486,co:municipality:17486,NEIRA,Municipio,CO-CAL,5.16648,-75.5199,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21131,GeoNames:3673902
+CO,17495,co:municipality:17495,NORCASIA,Municipio,CO-CAL,5.57535,-74.88831,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21137,GeoNames:3673811
+CO,17513,co:municipality:17513,PÁCORA,Municipio,CO-CAL,5.52708,-75.4593,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21267,GeoNames:3673413
+CO,17524,co:municipality:17524,PALESTINA,Municipio,CO-CAL,5.02053,-75.62219,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21169,GeoNames:3673269
+CO,17541,co:municipality:17541,PENSILVANIA,Municipio,CO-CAL,5.38346,-75.16122,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21193,GeoNames:3672521
+CO,17614,co:municipality:17614,RIOSUCIO,Municipio,CO-CAL,5.42126,-75.70271,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21294,GeoNames:3670719
+CO,17616,co:municipality:17616,RISARALDA,Municipio,CO-CAL,5.16436,-75.76686,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21296,GeoNames:3670700
+CO,17653,co:municipality:17653,SALAMINA,Municipio,CO-CAL,5.40733,-75.48749,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21319,GeoNames:3670370
+CO,17662,co:municipality:17662,SAMANÁ,Municipio,CO-CAL,5.41258,-74.99219,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21326,GeoNames:7523086
+CO,17665,co:municipality:17665,SAN JOSÉ,Municipio,CO-CAL,5.08066,-75.79168,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21364,GeoNames:3669623
+CO,17777,co:municipality:17777,SUPÍA,Municipio,CO-CAL,5.45182,-75.65107,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21492,GeoNames:3667697
+CO,17867,co:municipality:17867,VICTORIA,Municipio,CO-CAL,5.31648,-74.91101,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21594,GeoNames:3666075
+CO,17873,co:municipality:17873,VILLAMARÍA,Municipio,CO-CAL,5.04509,-75.51249,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21605,GeoNames:3665973
+CO,17877,co:municipality:17877,VITERBO,Municipio,CO-CAL,5.06262,-75.87189,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21617,GeoNames:3665851
+CO,18001,co:municipality:18001,FLORENCIA,Municipio,CO-CAQ,1.61549,-75.60412,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20849,GeoNames:3682426
+CO,18029,co:municipality:18029,ALBANIA,Municipio,CO-CAQ,1.32866,-75.87824,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20499,GeoNames:3690262
+CO,18094,co:municipality:18094,BELÉN DE LOS ANDAQUÍES,Municipio,CO-CAQ,1.41828,-75.87753,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20584,GeoNames:3688991
+CO,18150,co:municipality:18150,CARTAGENA DEL CHAIRÁ,Municipio,CO-CAQ,1.33488,-74.84289,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20660,GeoNames:3792382
+CO,18205,co:municipality:18205,CURILLO,Municipio,CO-CAQ,1.03327,-75.91907,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20759,GeoNames:3733861
+CO,18247,co:municipality:18247,EL DONCELLO,Municipio,CO-CAQ,1.67817,-75.28466,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20805,GeoNames:3684276
+CO,18256,co:municipality:18256,EL PAUJÍL,Municipio,CO-CAQ,1.57006,-75.32863,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20814,GeoNames:3683528
+CO,18410,co:municipality:18410,LA MONTAÑITA,Municipio,CO-CAQ,1.48016,-75.43664,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20994,GeoNames:3678363
+CO,18460,co:municipality:18460,MILÁN,Municipio,CO-CAQ,1.29034,-75.50757,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21082,GeoNames:3674784
+CO,18479,co:municipality:18479,MORELIA,Municipio,CO-CAQ,1.48747,-75.72581,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21105,GeoNames:3674393
+CO,18592,co:municipality:18592,PUERTO RICO,Municipio,CO-CAQ,1.90999,-75.15931,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21251,GeoNames:3671348
+CO,18610,co:municipality:18610,SAN JOSÉ DEL FRAGUA,Municipio,CO-CAQ,1.33196,-75.97409,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21369,GeoNames:3828519
+CO,18753,co:municipality:18753,SAN VICENTE DEL CAGUÁN,Municipio,CO-CAQ,2.12172,-74.76614,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:149254,GeoNames:3668290
+CO,18756,co:municipality:18756,SOLANO,Municipio,CO-CAQ,0.69937,-75.25353,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21471,GeoNames:3667868
+CO,18785,co:municipality:18785,SOLITA,Municipio,CO-CAQ,0.87516,-75.61943,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:149255,GeoNames:6792004
+CO,18860,co:municipality:18860,VALPARAÍSO,Municipio,CO-CAQ,1.19403,-75.70746,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21583,GeoNames:3666291
+CO,19001,csc:21219,POPAYÁN,Municipio,CO-CAU,2.43823,-76.61316,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21219,GeoNames:3671916
+CO,19022,co:municipality:19022,ALMAGUER,Municipio,CO-CAU,1.91472,-76.85482,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20506,GeoNames:3690136
+CO,19050,co:municipality:19050,ARGELIA,Municipio,CO-CAU,2.25563,-77.24876,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20545,GeoNames:3689615
+CO,19075,co:municipality:19075,BALBOA,Municipio,CO-CAU,2.04183,-77.21646,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20562,GeoNames:3689292
+CO,19100,co:municipality:19100,BOLÍVAR,Municipio,CO-CAU,1.83994,-76.96889,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20599,GeoNames:3688662
+CO,19110,co:municipality:19110,BUENOS AIRES,Municipio,CO-CAU,2.988923885,-76.62158951,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20610,DANE / MinSalud RDA 1.0.3
+CO,19130,co:municipality:19130,CAJIBÍO,Municipio,CO-CAU,2.62271,-76.57039,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20625,GeoNames:3688009
+CO,19137,co:municipality:19137,CALDONO,Municipio,CO-CAU,2.79739,-76.48316,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20633,GeoNames:3687933
+CO,19142,co:municipality:19142,CALOTO,Municipio,CO-CAU,3.03586,-76.40788,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20637,GeoNames:3687880
+CO,19212,co:municipality:19212,CORINTO,Municipio,CO-CAU,3.17301,-76.26275,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20737,GeoNames:3685871
+CO,19256,co:municipality:19256,EL TAMBO,Municipio,CO-CAU,2.45199,-76.81029,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20831,GeoNames:3682963
+CO,19290,co:municipality:19290,FLORENCIA,Municipio,CO-CAU,1.68318,-77.07331,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20848,GeoNames:3682425
+CO,19300,co:municipality:19300,GUACHENÉ,Municipio,CO-CAU,3.13333,-76.3927,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:149241,GeoNames:3681769
+CO,19318,co:municipality:19318,GUAPI,Municipio,CO-CAU,2.57082,-77.88542,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20909,GeoNames:3681505
+CO,19355,co:municipality:19355,INZÁ,Municipio,CO-CAU,2.55452,-76.06722,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20948,GeoNames:3680554
+CO,19364,co:municipality:19364,JAMBALÓ,Municipio,CO-CAU,2.77762,-76.32444,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20957,GeoNames:3680393
+CO,19392,co:municipality:19392,LA SIERRA,Municipio,CO-CAU,2.17835,-76.76265,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21003,GeoNames:3677457
+CO,19397,co:municipality:19397,LA VEGA,Municipio,CO-CAU,2.00187,-76.7789,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21011,GeoNames:3676868
+CO,19418,co:municipality:19418,LÓPEZ DE MICAY,Municipio,CO-CAU,2.8454,-77.24791,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21041,GeoNames:3676416
+CO,19450,co:municipality:19450,MERCADERES,Municipio,CO-CAU,1.793825164,-77.18060381,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21080,DANE / MinSalud RDA 1.0.3
+CO,19455,co:municipality:19455,MIRANDA,Municipio,CO-CAU,3.24987,-76.22807,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21085,GeoNames:3674702
+CO,19473,co:municipality:19473,MORALES,Municipio,CO-CAU,2.75446,-76.62791,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21103,GeoNames:3770718
+CO,19513,co:municipality:19513,PADILLA,Municipio,CO-CAU,3.22376,-76.31305,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21161,GeoNames:3673407
+CO,19517,co:municipality:19517,PÁEZ,Municipio,CO-CAU,2.64644,-75.97269,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21163,GeoNames:3673398
+CO,19532,co:municipality:19532,PATÍA,Municipio,CO-CAU,2.11696,-76.98214,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21185,GeoNames:3684860
+CO,19533,co:municipality:19533,PIAMONTE,Municipio,CO-CAU,1.12002,-76.32131,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:149245,GeoNames:7546600
+CO,19548,co:municipality:19548,PIENDAMÓ - TUNÍA,Municipio,CO-CAU,2.702420026,-76.53770455,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21202,DANE / MinSalud RDA 1.0.3
+CO,19573,co:municipality:19573,PUERTO TEJADA,Municipio,CO-CAU,3.23229,-76.41784,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21257,GeoNames:3671315
+CO,19585,co:municipality:19585,PURACÉ,Municipio,CO-CAU,2.34249,-76.49581,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21263,GeoNames:3686162
+CO,19622,co:municipality:19622,ROSAS,Municipio,CO-CAU,2.26093,-76.73986,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21301,GeoNames:3670595
+CO,19693,co:municipality:19693,SAN SEBASTIÁN,Municipio,CO-CAU,1.83861,-76.77189,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21404,GeoNames:3668990
+CO,19698,co:municipality:19698,SANTANDER DE QUILICHAO,Municipio,CO-CAU,3.00975,-76.48499,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21434,GeoNames:3668572
+CO,19701,co:municipality:19701,SANTA ROSA,Municipio,CO-CAU,1.70267,-76.57389,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:149250,GeoNames:3668511
+CO,19743,co:municipality:19743,SILVIA,Municipio,CO-CAU,2.61557,-76.38261,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21457,GeoNames:3668025
+CO,19760,co:municipality:19760,SOTARÁ PAISPAMBA,Municipio,CO-CAU,2.25462,-76.61086,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21482,GeoNames:3673368
+CO,19780,co:municipality:19780,SUÁREZ,Municipio,CO-CAU,2.95395,-76.69644,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21499,GeoNames:3667773
+CO,19785,co:municipality:19785,SUCRE,Municipio,CO-CAU,2.03805,-76.92446,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21489,GeoNames:3667732
+CO,19807,co:municipality:19807,TIMBÍO,Municipio,CO-CAU,2.35017,-76.68341,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:149257,GeoNames:3667073
+CO,19809,co:municipality:19809,TIMBIQUÍ,Municipio,CO-CAU,2.7717,-77.66536,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21528,GeoNames:3667070
+CO,19821,co:municipality:19821,TORIBÍO,Municipio,CO-CAU,2.95481,-76.26839,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21542,GeoNames:3666887
+CO,19824,co:municipality:19824,TOTORÓ,Municipio,CO-CAU,2.51111,-76.40178,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21546,GeoNames:3666834
+CO,19845,co:municipality:19845,VILLA RICA,Municipio,CO-CAU,3.17484,-76.46197,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21597,GeoNames:3665911
+CO,20001,csc:21582,VALLEDUPAR,Municipio,CO-CES,10.46538,-73.2531,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21582,GeoNames:3666304
+CO,20011,co:municipality:20011,AGUACHICA,Municipio,CO-CES,8.30844,-73.6166,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20492,GeoNames:3690465
+CO,20013,co:municipality:20013,AGUSTÍN CODAZZI,Municipio,CO-CES,10.03672,-73.23558,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20496,GeoNames:3792383
+CO,20032,co:municipality:20032,ASTREA,Municipio,CO-CES,9.49828,-73.97591,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20555,GeoNames:3689458
+CO,20045,co:municipality:20045,BECERRIL,Municipio,CO-CES,9.70413,-73.2793,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20575,GeoNames:3689026
+CO,20060,co:municipality:20060,BOSCONIA,Municipio,CO-CES,9.97106,-73.88817,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:149238,GeoNames:3688566
+CO,20175,co:municipality:20175,CHIMICHAGUA,Municipio,CO-CES,9.25778,-73.81228,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20685,GeoNames:3686585
+CO,20178,co:municipality:20178,CHIRIGUANÁ,Municipio,CO-CES,9.36238,-73.60313,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20694,GeoNames:3686479
+CO,20228,co:municipality:20228,CURUMANÍ,Municipio,CO-CES,9.19992,-73.54274,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20761,GeoNames:3685335
+CO,20238,co:municipality:20238,EL COPEY,Municipio,CO-CES,10.15031,-73.9614,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20804,GeoNames:3684452
+CO,20250,co:municipality:20250,EL PASO,Municipio,CO-CES,9.65724,-73.74685,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20813,GeoNames:3683538
+CO,20295,co:municipality:20295,GAMARRA,Municipio,CO-CES,8.32292,-73.74233,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20880,GeoNames:3682182
+CO,20310,co:municipality:20310,GONZÁLEZ,Municipio,CO-CES,8.39016,-73.38048,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20890,GeoNames:3681990
+CO,20383,co:municipality:20383,LA GLORIA,Municipio,CO-CES,8.61954,-73.80212,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20985,GeoNames:3678907
+CO,20400,co:municipality:20400,LA JAGUA DE IBIRICO,Municipio,CO-CES,9.56228,-73.33405,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20987,GeoNames:3678674
+CO,20443,co:municipality:20443,MANAURE BALCÓN DEL CESAR,Municipio,CO-CES,10.39278,-73.0325,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21058,GeoNames:3792384
+CO,20517,co:municipality:20517,PAILITAS,Municipio,CO-CES,8.95671,-73.62378,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21164,GeoNames:3673379
+CO,20550,co:municipality:20550,PELAYA,Municipio,CO-CES,8.68819,-73.66451,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21192,GeoNames:3672599
+CO,20570,co:municipality:20570,PUEBLO BELLO,Municipio,CO-CES,10.41706,-73.5804,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:149247,GeoNames:3671671
+CO,20614,co:municipality:20614,RÍO DE ORO,Municipio,CO-CES,8.29223,-73.3849,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21307,GeoNames:3670756
+CO,20621,co:municipality:20621,LA PAZ,Municipio,CO-CES,10.38439,-73.17332,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20997,GeoNames:3678186
+CO,20710,co:municipality:20710,SAN ALBERTO,Municipio,CO-CES,7.76107,-73.3922,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21328,GeoNames:3670242
+CO,20750,co:municipality:20750,SAN DIEGO,Municipio,CO-CES,10.33384,-73.18048,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21351,GeoNames:3669947
+CO,20770,co:municipality:20770,SAN MARTÍN,Municipio,CO-CES,8.00181,-73.51143,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21384,GeoNames:3792385
+CO,20787,co:municipality:20787,TAMALAMEQUE,Municipio,CO-CES,8.85221,-73.81229,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21507,GeoNames:3667528
+CO,23001,csc:21102,MONTERÍA,Municipio,CO-COR,8.75081,-75.87823,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21102,GeoNames:3674453
+CO,23068,co:municipality:23068,AYAPEL,Municipio,CO-COR,8.31372,-75.13982,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20558,GeoNames:3689381
+CO,23079,co:municipality:23079,BUENAVISTA,Municipio,CO-COR,8.22245,-75.48173,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20608,GeoNames:3688402
+CO,23090,co:municipality:23090,CANALETE,Municipio,CO-COR,8.78558,-76.24065,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20642,GeoNames:3687699
+CO,23162,co:municipality:23162,CERETÉ,Municipio,CO-COR,8.88479,-75.79052,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20669,GeoNames:3686922
+CO,23168,co:municipality:23168,CHIMÁ,Municipio,CO-COR,9.14893,-75.62841,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20686,GeoNames:3686605
+CO,23182,co:municipality:23182,CHINÚ,Municipio,CO-COR,9.10569,-75.39812,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20690,GeoNames:3686540
+CO,23189,co:municipality:23189,CIÉNAGA DE ORO,Municipio,CO-COR,8.87443,-75.62028,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20713,GeoNames:3686272
+CO,23300,co:municipality:23300,COTORRA,Municipio,CO-COR,9.03886,-75.78969,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20742,GeoNames:3685724
+CO,23350,co:municipality:23350,LA APARTADA,Municipio,CO-COR,8.04911,-75.33728,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20970,GeoNames:11900984
+CO,23417,co:municipality:23417,LORICA,Municipio,CO-COR,9.23648,-75.8135,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21031,GeoNames:3676397
+CO,23419,co:municipality:23419,LOS CÓRDOBAS,Municipio,CO-COR,8.89403,-76.35455,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21033,GeoNames:3676205
+CO,23464,co:municipality:23464,MOMIL,Municipio,CO-COR,9.23767,-75.67489,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21092,GeoNames:3674603
+CO,23466,co:municipality:23466,MONTELÍBANO,Municipio,CO-COR,7.866432635,-75.87533926,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21099,DANE / MinSalud RDA 1.0.3
+CO,23500,co:municipality:23500,MOÑITOS,Municipio,CO-COR,9.2455,-76.13017,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21112,GeoNames:3674568
+CO,23555,co:municipality:23555,PLANETA RICA,Municipio,CO-COR,8.181108488,-75.68923803,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21213,DANE / MinSalud RDA 1.0.3
+CO,23570,co:municipality:23570,PUEBLO NUEVO,Municipio,CO-COR,8.50122,-75.508,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,project,csc:21225,GeoNames:3671651
+CO,23574,co:municipality:23574,PUERTO ESCONDIDO,Municipio,CO-COR,9.01811,-76.26413,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21241,GeoNames:3671470
+CO,23580,co:municipality:23580,PUERTO LIBERTADOR,Municipio,CO-COR,7.8894,-75.67015,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21245,GeoNames:11900983
+CO,23586,co:municipality:23586,PURÍSIMA DE LA CONCEPCIÓN,Municipio,CO-COR,9.23657,-75.72191,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21266,GeoNames:3671203
+CO,23660,co:municipality:23660,SAHAGÚN,Municipio,CO-COR,8.94617,-75.44275,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21316,GeoNames:3670419
+CO,23670,co:municipality:23670,SAN ANDRÉS DE SOTAVENTO,Municipio,CO-COR,9.14475,-75.50877,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21333,GeoNames:3670207
+CO,23672,co:municipality:23672,SAN ANTERO,Municipio,CO-COR,9.3741,-75.75891,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21335,GeoNames:3670199
+CO,23675,co:municipality:23675,SAN BERNARDO DEL VIENTO,Municipio,CO-COR,9.3533,-75.95244,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21343,GeoNames:3670018
+CO,23678,co:municipality:23678,SAN CARLOS,Municipio,CO-COR,8.79577,-75.69947,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21346,GeoNames:3669997
+CO,23682,co:municipality:23682,SAN JOSÉ DE URÉ,Municipio,CO-COR,7.78637,-75.5337,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:149251,GeoNames:3666424
+CO,23686,co:municipality:23686,SAN PELAYO,Municipio,CO-COR,8.95833,-75.83627,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21401,GeoNames:3669084
+CO,23807,co:municipality:23807,TIERRALTA,Municipio,CO-COR,8.17361,-76.05917,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21527,GeoNames:3667158
+CO,23815,co:municipality:23815,TUCHÍN,Municipio,CO-COR,9.18662,-75.55473,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:149258,GeoNames:3666670
+CO,23855,co:municipality:23855,VALENCIA,Municipio,CO-COR,8.25801,-76.14928,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21578,GeoNames:3666326
+CO,25001,co:municipality:25001,AGUA DE DIOS,Municipio,CO-CUN,4.37648,-74.66995,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20491,GeoNames:3690429
+CO,25019,co:municipality:25019,ALBÁN,Municipio,CO-CUN,4.87661,-74.43768,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20501,GeoNames:3690264
+CO,25035,co:municipality:25035,ANAPOIMA,Municipio,CO-CUN,4.55099,-74.53517,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20516,GeoNames:3689941
+CO,25040,co:municipality:25040,ANOLAIMA,Municipio,CO-CUN,4.76333,-74.46472,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20523,GeoNames:3689841
+CO,25053,co:municipality:25053,ARBELÁEZ,Municipio,CO-CUN,4.27254,-74.41513,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20538,GeoNames:3689709
+CO,25086,co:municipality:25086,BELTRÁN,Municipio,CO-CUN,4.80165,-74.74177,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20581,GeoNames:3688918
+CO,25095,co:municipality:25095,BITUIMA,Municipio,CO-CUN,4.87252,-74.53925,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20592,GeoNames:3688811
+CO,25099,co:municipality:25099,BOJACÁ,Municipio,CO-CUN,4.73176,-74.34129,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20595,GeoNames:3688673
+CO,25120,co:municipality:25120,CABRERA,Municipio,CO-CUN,3.98598,-74.48283,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20615,GeoNames:3688170
+CO,25123,co:municipality:25123,CACHIPAY,Municipio,CO-CUN,4.723063341,-74.45919528,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20619,DANE / MinSalud RDA 1.0.3
+CO,25126,co:municipality:25126,CAJICÁ,Municipio,CO-CUN,4.91857,-74.02799,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20626,GeoNames:3688006
+CO,25148,co:municipality:25148,CAPARRAPÍ,Municipio,CO-CUN,5.34644,-74.49147,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20646,GeoNames:3687505
+CO,25151,co:municipality:25151,CÁQUEZA,Municipio,CO-CUN,4.40569,-73.94683,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20648,GeoNames:3687476
+CO,25154,co:municipality:25154,CARMEN DE CARUPA,Municipio,CO-CUN,5.34862,-73.90168,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20655,GeoNames:3687321
+CO,25168,co:municipality:25168,CHAGUANÍ,Municipio,CO-CUN,4.94829,-74.59392,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20675,GeoNames:3686851
+CO,25175,co:municipality:25175,CHÍA,Municipio,CO-CUN,4.85876,-74.05866,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20705,GeoNames:3686675
+CO,25178,co:municipality:25178,CHIPAQUE,Municipio,CO-CUN,4.4425,-74.04417,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20691,GeoNames:3686532
+CO,25181,co:municipality:25181,CHOACHÍ,Municipio,CO-CUN,4.52897,-73.92273,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20702,GeoNames:3686441
+CO,25183,co:municipality:25183,CHOCONTÁ,Municipio,CO-CUN,5.14468,-73.68578,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20703,GeoNames:3686422
+CO,25200,co:municipality:25200,COGUA,Municipio,CO-CUN,5.06051,-73.97925,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20718,GeoNames:3686134
+CO,25214,co:municipality:25214,COTA,Municipio,CO-CUN,4.80938,-74.098,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20741,GeoNames:3685733
+CO,25224,co:municipality:25224,CUCUNUBÁ,Municipio,CO-CUN,5.24958,-73.7661,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20752,GeoNames:3685540
+CO,25245,co:municipality:25245,EL COLEGIO,Municipio,CO-CUN,4.58103,-74.44293,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20803,GeoNames:11901840
+CO,25258,co:municipality:25258,EL PEÑÓN,Municipio,CO-CUN,5.25264,-74.29069,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20817,GeoNames:3683501
+CO,25260,co:municipality:25260,EL ROSAL,Municipio,CO-CUN,4.85314,-74.25996,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20826,GeoNames:3683155
+CO,25269,co:municipality:25269,FACATATIVÁ,Municipio,CO-CUN,4.81367,-74.35453,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20842,GeoNames:3682516
+CO,25279,co:municipality:25279,FÓMEQUE,Municipio,CO-CUN,4.48797,-73.89749,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20854,GeoNames:3682380
+CO,25281,co:municipality:25281,FOSCA,Municipio,CO-CUN,4.33916,-73.93852,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20857,GeoNames:3682358
+CO,25286,co:municipality:25286,FUNZA,Municipio,CO-CUN,4.71638,-74.21195,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20866,GeoNames:3682281
+CO,25288,co:municipality:25288,FÚQUENE,Municipio,CO-CUN,5.40425,-73.7964,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20869,GeoNames:3682279
+CO,25290,co:municipality:25290,FUSAGASUGÁ,Municipio,CO-CUN,4.33646,-74.36378,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20867,GeoNames:3682274
+CO,25293,co:municipality:25293,GACHALÁ,Municipio,CO-CUN,4.69244,-73.52042,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20870,GeoNames:3682266
+CO,25295,co:municipality:25295,GACHANCIPÁ,Municipio,CO-CUN,4.99111,-73.87154,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20872,GeoNames:3682262
+CO,25297,co:municipality:25297,GACHETÁ,Municipio,CO-CUN,4.81854,-73.63659,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20874,GeoNames:3781883
+CO,25299,co:municipality:25299,GAMA,Municipio,CO-CUN,4.76288,-73.61091,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20879,GeoNames:3682185
+CO,25307,csc:20886,GIRARDOT,Municipio,CO-CUN,4.338154518,-74.81143922,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20886,DANE / MinSalud RDA 1.0.3
+CO,25312,co:municipality:25312,GRANADA,Municipio,CO-CUN,4.51997,-74.35261,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20892,GeoNames:3681955
+CO,25317,co:municipality:25317,GUACHETÁ,Municipio,CO-CUN,5.38425,-73.68617,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20898,GeoNames:3681767
+CO,25320,co:municipality:25320,GUADUAS,Municipio,CO-CUN,5.06692,-74.59499,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20903,GeoNames:3681702
+CO,25322,co:municipality:25322,GUASCA,Municipio,CO-CUN,4.86601,-73.87748,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20914,GeoNames:3681404
+CO,25324,co:municipality:25324,GUATAQUÍ,Municipio,CO-CUN,4.51573,-74.78935,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20916,GeoNames:3681364
+CO,25326,co:municipality:25326,GUATAVITA,Municipio,CO-CUN,4.93658,-73.83314,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20917,GeoNames:3681360
+CO,25328,co:municipality:25328,GUAYABAL DE SÍQUIMA,Municipio,CO-CUN,4.87739,-74.46744,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20921,GeoNames:3681306
+CO,25335,co:municipality:25335,GUAYABETAL,Municipio,CO-CUN,4.21472,-73.81719,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20923,GeoNames:3681303
+CO,25339,co:municipality:25339,GUTIÉRREZ,Municipio,CO-CUN,4.25472,-74.0025,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20925,GeoNames:3681175
+CO,25368,co:municipality:25368,JERUSALÉN,Municipio,CO-CUN,4.56309,-74.69519,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20963,GeoNames:3680308
+CO,25372,co:municipality:25372,JUNÍN,Municipio,CO-CUN,4.79027,-73.66011,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20968,GeoNames:3680113
+CO,25377,co:municipality:25377,LA CALERA,Municipio,CO-CUN,4.72069,-73.96926,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20972,GeoNames:3679660
+CO,25386,co:municipality:25386,LA MESA,Municipio,CO-CUN,4.650773167,-74.47321717,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20993,DANE / MinSalud RDA 1.0.3
+CO,25394,co:municipality:25394,LA PALMA,Municipio,CO-CUN,5.3592,-74.39047,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20995,GeoNames:3678278
+CO,25398,co:municipality:25398,LA PEÑA,Municipio,CO-CUN,5.19847,-74.39368,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20999,GeoNames:3678167
+CO,25402,co:municipality:25402,LA VEGA,Municipio,CO-CUN,4.978619842,-74.33936061,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21012,DANE / MinSalud RDA 1.0.3
+CO,25407,co:municipality:25407,LENGUAZAQUE,Municipio,CO-CUN,5.30711,-73.71152,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21026,GeoNames:3676644
+CO,25426,co:municipality:25426,MACHETÁ,Municipio,CO-CUN,5.08154,-73.60761,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,project,csc:21045,GeoNames:3675757
+CO,25430,co:municipality:25430,MADRID,Municipio,CO-CUN,4.73245,-74.26419,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21047,GeoNames:3675707
+CO,25436,co:municipality:25436,MANTA,Municipio,CO-CUN,5.00864,-73.54115,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,project,csc:21060,GeoNames:3675432
+CO,25438,co:municipality:25438,MEDINA,Municipio,CO-CUN,4.51005,-73.34982,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21075,GeoNames:3674931
+CO,25473,co:municipality:25473,MOSQUERA,Municipio,CO-CUN,4.70592,-74.23021,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21109,GeoNames:3674292
+CO,25483,co:municipality:25483,NARIÑO,Municipio,CO-CUN,4.39781,-74.82731,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21127,GeoNames:3674029
+CO,25486,co:municipality:25486,NEMOCÓN,Municipio,CO-CUN,5.06767,-73.87769,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21132,GeoNames:3673887
+CO,25488,co:municipality:25488,NILO,Municipio,CO-CUN,4.30604,-74.62083,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21133,GeoNames:3673849
+CO,25489,co:municipality:25489,NIMAIMA,Municipio,CO-CUN,5.12614,-74.38495,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21134,GeoNames:3673845
+CO,25491,co:municipality:25491,NOCAIMA,Municipio,CO-CUN,5.06696,-74.38439,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21136,GeoNames:3673826
+CO,25506,co:municipality:25506,VENECIA,Municipio,CO-CUN,4.08808,-74.47746,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21587,GeoNames:3666203
+CO,25513,co:municipality:25513,PACHO,Municipio,CO-CUN,5.13278,-74.15977,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21159,GeoNames:3673424
+CO,25518,co:municipality:25518,PAIME,Municipio,CO-CUN,5.37054,-74.15219,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21165,GeoNames:3673372
+CO,25524,co:municipality:25524,PANDI,Municipio,CO-CUN,4.19111,-74.4875,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21179,GeoNames:3672997
+CO,25530,co:municipality:25530,PARATEBUENO,Municipio,CO-CUN,4.37575,-73.21547,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21182,GeoNames:3769960
+CO,25535,co:municipality:25535,PASCA,Municipio,CO-CUN,4.30722,-74.30056,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21183,GeoNames:3672813
+CO,25572,co:municipality:25572,PUERTO SALGAR,Municipio,CO-CUN,5.46304,-74.65436,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21254,GeoNames:3671330
+CO,25580,co:municipality:25580,PULÍ,Municipio,CO-CUN,4.68116,-74.71406,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21261,GeoNames:3671279
+CO,25592,co:municipality:25592,QUEBRADANEGRA,Municipio,CO-CUN,5.11737,-74.47944,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21270,GeoNames:3671161
+CO,25594,co:municipality:25594,QUETAME,Municipio,CO-CUN,4.33234,-73.86141,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21271,GeoNames:3671119
+CO,25596,co:municipality:25596,QUIPILE,Municipio,CO-CUN,4.74517,-74.53378,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21275,GeoNames:3671072
+CO,25599,co:municipality:25599,APULO,Municipio,CO-CUN,4.51952,-74.59293,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20530,GeoNames:3671020
+CO,25612,co:municipality:25612,RICAURTE,Municipio,CO-CUN,4.28075,-74.76469,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21287,GeoNames:3670812
+CO,25645,co:municipality:25645,SAN ANTONIO DEL TEQUENDAMA,Municipio,CO-CUN,4.61617,-74.352,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21338,GeoNames:3670058
+CO,25649,co:municipality:25649,SAN BERNARDO,Municipio,CO-CUN,4.17864,-74.42311,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21342,GeoNames:3670030
+CO,25653,co:municipality:25653,SAN CAYETANO,Municipio,CO-CUN,5.3359,-74.02659,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21348,GeoNames:11901838
+CO,25658,co:municipality:25658,SAN FRANCISCO,Municipio,CO-CUN,4.964100703,-74.27217129,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21358,DANE / MinSalud RDA 1.0.3
+CO,25662,co:municipality:25662,SAN JUAN DE RIOSECO,Municipio,CO-CUN,4.814537831,-74.61525985,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21375,DANE / MinSalud RDA 1.0.3
+CO,25718,co:municipality:25718,SASAIMA,Municipio,CO-CUN,4.946805263,-74.41230921,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21446,DANE / MinSalud RDA 1.0.3
+CO,25736,co:municipality:25736,SESQUILÉ,Municipio,CO-CUN,5.04463,-73.79724,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21450,GeoNames:3668138
+CO,25740,co:municipality:25740,SIBATÉ,Municipio,CO-CUN,4.49154,-74.25957,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21453,GeoNames:3668087
+CO,25743,co:municipality:25743,SILVANIA,Municipio,CO-CUN,4.40367,-74.3867,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21456,GeoNames:3668028
+CO,25745,co:municipality:25745,SIMIJACA,Municipio,CO-CUN,5.50291,-73.85227,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21459,GeoNames:3668017
+CO,25754,co:municipality:25754,SOACHA,Municipio,CO-CUN,4.57937,-74.21682,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21464,GeoNames:3667905
+CO,25758,co:municipality:25758,SOPÓ,Municipio,CO-CUN,4.9075,-73.9384,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21478,GeoNames:3667807
+CO,25769,co:municipality:25769,SUBACHOQUE,Municipio,CO-CUN,4.92614,-74.17299,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21486,GeoNames:3667760
+CO,25772,co:municipality:25772,SUESCA,Municipio,CO-CUN,5.10289,-73.79845,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21490,GeoNames:3667717
+CO,25777,co:municipality:25777,SUPATÁ,Municipio,CO-CUN,5.06097,-74.23721,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21491,GeoNames:3667701
+CO,25779,co:municipality:25779,SUSA,Municipio,CO-CUN,5.4519,-73.81436,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21494,GeoNames:3667665
+CO,25781,co:municipality:25781,SUTATAUSA,Municipio,CO-CUN,5.24779,-73.85238,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21497,GeoNames:3667649
+CO,25785,co:municipality:25785,TABIO,Municipio,CO-CUN,4.91726,-74.09364,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21503,GeoNames:3667629
+CO,25793,co:municipality:25793,TAUSA,Municipio,CO-CUN,5.19903,-73.89128,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21517,GeoNames:3667351
+CO,25797,co:municipality:25797,TENA,Municipio,CO-CUN,4.66001,-74.39258,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21518,GeoNames:3667310
+CO,25799,co:municipality:25799,TENJO,Municipio,CO-CUN,4.8727,-74.14435,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21520,GeoNames:3667290
+CO,25805,co:municipality:25805,TIBACUY,Municipio,CO-CUN,4.35,-74.45179,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21522,GeoNames:3667222
+CO,25807,co:municipality:25807,TIBIRITA,Municipio,CO-CUN,5.05227,-73.50459,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21525,GeoNames:3667205
+CO,25815,co:municipality:25815,TOCAIMA,Municipio,CO-CUN,4.4582,-74.63434,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21534,GeoNames:3667003
+CO,25817,co:municipality:25817,TOCANCIPÁ,Municipio,CO-CUN,4.96531,-73.91301,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21535,GeoNames:3666997
+CO,25823,co:municipality:25823,TOPAIPÍ,Municipio,CO-CUN,5.33457,-74.30292,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21541,GeoNames:3666903
+CO,25839,co:municipality:25839,UBALÁ,Municipio,CO-CUN,4.74389,-73.53472,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21565,GeoNames:11901839
+CO,25841,co:municipality:25841,UBAQUE,Municipio,CO-CUN,4.48667,-73.93748,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21566,GeoNames:3666522
+CO,25843,co:municipality:25843,VILLA DE SAN DIEGO DE UBATÉ,Municipio,CO-CUN,5.30933,-73.81575,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21599,GeoNames:3666519
+CO,25845,co:municipality:25845,UNE,Municipio,CO-CUN,4.40306,-74.02528,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21569,GeoNames:3666481
+CO,25851,co:municipality:25851,ÚTICA,Municipio,CO-CUN,5.18727,-74.48105,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21640,GeoNames:3666363
+CO,25862,co:municipality:25862,VERGARA,Municipio,CO-CUN,5.11841,-74.34549,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21590,GeoNames:3666111
+CO,25867,co:municipality:25867,VIANÍ,Municipio,CO-CUN,4.87384,-74.56244,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21593,GeoNames:3666087
+CO,25871,co:municipality:25871,VILLAGÓMEZ,Municipio,CO-CUN,5.27372,-74.19614,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21603,GeoNames:3665991
+CO,25873,co:municipality:25873,VILLAPINZÓN,Municipio,CO-CUN,5.21617,-73.5949,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21610,GeoNames:3665924
+CO,25875,co:municipality:25875,VILLETA,Municipio,CO-CUN,5.00886,-74.47226,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21613,GeoNames:3665895
+CO,25878,co:municipality:25878,VIOTÁ,Municipio,CO-CUN,4.43713,-74.52157,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21614,GeoNames:3665881
+CO,25885,co:municipality:25885,YACOPÍ,Municipio,CO-CUN,5.45948,-74.33823,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21619,GeoNames:3665813
+CO,25898,co:municipality:25898,ZIPACÓN,Municipio,CO-CUN,4.75881,-74.38017,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21635,GeoNames:3665544
+CO,25899,co:municipality:25899,ZIPAQUIRÁ,Municipio,CO-CUN,5.02208,-74.00481,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21636,GeoNames:3665542
+CO,27001,co:municipality:27001,QUIBDÓ,Municipio,CO-CHO,5.69188,-76.65835,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21272,GeoNames:3671116
+CO,27006,co:municipality:27006,ACANDÍ,Municipio,CO-CHO,8.51158,-77.27719,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20489,GeoNames:3690572
+CO,27025,co:municipality:27025,ALTO BAUDÓ,Municipio,CO-CHO,5.51619,-76.97433,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20509,GeoNames:3672327
+CO,27050,co:municipality:27050,ATRATO,Municipio,CO-CHO,5.53111,-76.63578,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20557,GeoNames:3665633
+CO,27073,co:municipality:27073,BAGADÓ,Municipio,CO-CHO,5.41092,-76.41538,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20559,GeoNames:3689336
+CO,27075,co:municipality:27075,BAHÍA SOLANO,Municipio,CO-CHO,6.162762775,-77.41653534,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20560,DANE / MinSalud RDA 1.0.3
+CO,27077,co:municipality:27077,BAJO BAUDÓ,Municipio,CO-CHO,4.95499,-77.36409,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20561,GeoNames:3672086
+CO,27099,co:municipality:27099,BOJAYÁ,Municipio,CO-CHO,6.55645,-76.88389,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20596,GeoNames:3766939
+CO,27135,co:municipality:27135,EL CANTÓN DEL SAN PABLO,Municipio,CO-CHO,5.33541,-76.72688,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20791,GeoNames:3675538
+CO,27150,co:municipality:27150,CARMEN DEL DARIÉN,Municipio,CO-CHO,7.15778,-76.97111,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20657,GeoNames:3688760
+CO,27160,co:municipality:27160,CÉRTEGUI,Municipio,CO-CHO,5.37148,-76.60406,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20767,GeoNames:3686883
+CO,27205,co:municipality:27205,CONDOTO,Municipio,CO-CHO,5.09191,-76.65049,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20728,GeoNames:3686002
+CO,27245,co:municipality:27245,EL CARMEN DE ATRATO,Municipio,CO-CHO,5.89862,-76.14205,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20795,GeoNames:11900793
+CO,27250,co:municipality:27250,EL LITORAL DEL SAN JUAN,Municipio,CO-CHO,4.25767,-77.36481,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21418,GeoNames:3792408
+CO,27361,co:municipality:27361,ISTMINA,Municipio,CO-CHO,5.15964,-76.68611,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20952,GeoNames:3680453
+CO,27372,co:municipality:27372,JURADÓ,Municipio,CO-CHO,7.103338868,-77.67973662,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20969,DANE / MinSalud RDA 1.0.3
+CO,27413,co:municipality:27413,LLORÓ,Municipio,CO-CHO,5.49786,-76.5476,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21030,GeoNames:3676477
+CO,27425,co:municipality:27425,MEDIO ATRATO,Municipio,CO-CHO,5.99458,-76.7812,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21076,GeoNames:3688849
+CO,27430,co:municipality:27430,MEDIO BAUDÓ,Municipio,CO-CHO,5.19305,-76.95045,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21077,GeoNames:3671403
+CO,27450,co:municipality:27450,MEDIO SAN JUAN,Municipio,CO-CHO,4.621182739,-76.80861843,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21078,DANE / MinSalud RDA 1.0.3
+CO,27491,co:municipality:27491,NÓVITA,Municipio,CO-CHO,4.95548,-76.607,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21143,GeoNames:3673783
+CO,27493,co:municipality:27493,Nuevo Belén de Bajirá,Municipio,CO-CHO,7.3725,-76.71472,Chocó ordinance 180,Chocó ordinance 180 and DANE,project,,GeoNames:3786596
+CO,27495,co:municipality:27495,NUQUÍ,Municipio,CO-CHO,5.7125,-77.27083,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21142,GeoNames:3673690
+CO,27580,co:municipality:27580,RÍO IRÓ,Municipio,CO-CHO,5.18583,-76.47232,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21304,GeoNames:3668560
+CO,27600,co:municipality:27600,RÍO QUITO,Municipio,CO-CHO,5.48312,-76.73988,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21305,GeoNames:3673376
+CO,27615,co:municipality:27615,RIOSUCIO,Municipio,CO-CHO,7.44348,-77.11964,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21295,GeoNames:3670718
+CO,27660,co:municipality:27660,SAN JOSÉ DEL PALMAR,Municipio,CO-CHO,4.958741345,-76.28002361,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21371,DANE / MinSalud RDA 1.0.3
+CO,27745,co:municipality:27745,SIPÍ,Municipio,CO-CHO,4.6534,-76.64348,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21462,GeoNames:3667959
+CO,27787,co:municipality:27787,TADÓ,Municipio,CO-CHO,5.26353,-76.56174,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21504,GeoNames:3667579
+CO,27800,co:municipality:27800,UNGUÍA,Municipio,CO-CHO,8.04364,-77.09137,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21570,GeoNames:3666475
+CO,27810,co:municipality:27810,UNIÓN PANAMERICANA,Municipio,CO-CHO,5.28066,-76.63025,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21571,GeoNames:3677755
+CO,41001,csc:143894,NEIVA,Municipio,CO-HUI,2.93001,-75.27973,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:143894,GeoNames:3673899
+CO,41006,co:municipality:41006,ACEVEDO,Municipio,CO-HUI,1.709114446,-75.99664184,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:143877,DANE / MinSalud RDA 1.0.3
+CO,41013,co:municipality:41013,AGRADO,Municipio,CO-HUI,2.25725,-75.77142,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:143884,GeoNames:3690520
+CO,41016,co:municipality:41016,AIPE,Municipio,CO-HUI,3.22199,-75.23737,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:143878,GeoNames:3690287
+CO,41020,co:municipality:41020,ALGECIRAS,Municipio,CO-HUI,2.49785068,-75.29134946,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:143879,DANE / MinSalud RDA 1.0.3
+CO,41026,co:municipality:41026,ALTAMIRA,Municipio,CO-HUI,2.06278,-75.78722,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:143880,GeoNames:3690102
+CO,41078,co:municipality:41078,BARAYA,Municipio,CO-HUI,3.15333,-75.05306,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:143881,GeoNames:3689232
+CO,41132,co:municipality:41132,CAMPOALEGRE,Municipio,CO-HUI,2.68489,-75.32311,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:143882,GeoNames:3687806
+CO,41206,co:municipality:41206,COLOMBIA,Municipio,CO-HUI,3.37606,-74.8015,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:143883,GeoNames:3686120
+CO,41244,co:municipality:41244,ELÍAS,Municipio,CO-HUI,2.0117,-75.93968,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:143885,GeoNames:3684029
+CO,41298,csc:143886,GARZÓN,Municipio,CO-HUI,2.19593,-75.62777,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:143886,GeoNames:3682108
+CO,41306,co:municipality:41306,GIGANTE,Municipio,CO-HUI,2.371781539,-75.51699754,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:143887,DANE / MinSalud RDA 1.0.3
+CO,41319,co:municipality:41319,GUADALUPE,Municipio,CO-HUI,2.0248,-75.75589,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:143888,GeoNames:3681733
+CO,41349,co:municipality:41349,HOBO,Municipio,CO-HUI,2.58333,-75.45,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:143889,GeoNames:3680854
+CO,41357,co:municipality:41357,ÍQUIRA,Municipio,CO-HUI,2.64867,-75.63457,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:143890,GeoNames:3680531
+CO,41359,co:municipality:41359,ISNOS,Municipio,CO-HUI,1.92874,-76.21104,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:143891,GeoNames:3669558
+CO,41378,co:municipality:41378,LA ARGENTINA,Municipio,CO-HUI,2.19762,-75.9799,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:149242,GeoNames:3679852
+CO,41396,co:municipality:41396,LA PLATA,Municipio,CO-HUI,2.39341,-75.89232,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:143892,GeoNames:3678097
+CO,41483,co:municipality:41483,NÁTAGA,Municipio,CO-HUI,2.54359,-75.80852,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:143893,GeoNames:3674012
+CO,41503,co:municipality:41503,OPORAPA,Municipio,CO-HUI,2.02378,-75.99588,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:143895,GeoNames:3673578
+CO,41518,co:municipality:41518,PAICOL,Municipio,CO-HUI,2.44962,-75.775,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:143896,GeoNames:3673386
+CO,41524,co:municipality:41524,PALERMO,Municipio,CO-HUI,2.88911,-75.43461,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:143897,GeoNames:3673286
+CO,41530,co:municipality:41530,PALESTINA,Municipio,CO-HUI,1.72362,-76.13403,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:143898,GeoNames:3673275
+CO,41548,co:municipality:41548,PITAL,Municipio,CO-HUI,2.2665,-75.80442,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,project,csc:143899,GeoNames:3672123
+CO,41551,co:municipality:41551,PITALITO,Municipio,CO-HUI,1.848217185,-76.05217643,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:143900,DANE / MinSalud RDA 1.0.3
+CO,41615,co:municipality:41615,RIVERA,Municipio,CO-HUI,2.77717,-75.25642,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:143901,GeoNames:3670692
+CO,41660,co:municipality:41660,SALADOBLANCO,Municipio,CO-HUI,1.99244,-76.04335,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:143902,GeoNames:3670383
+CO,41668,co:municipality:41668,SAN AGUSTÍN,Municipio,CO-HUI,1.924165493,-76.4165655,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:143903,DANE / MinSalud RDA 1.0.3
+CO,41676,co:municipality:41676,SANTA MARÍA,Municipio,CO-HUI,2.93897,-75.5858,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:143904,GeoNames:3780965
+CO,41770,co:municipality:41770,SUAZA,Municipio,CO-HUI,1.97611,-75.79454,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:143905,GeoNames:3667764
+CO,41791,co:municipality:41791,TARQUI,Municipio,CO-HUI,2.11248,-75.82419,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:143906,GeoNames:3667386
+CO,41797,co:municipality:41797,TESALIA,Municipio,CO-HUI,2.48587,-75.72921,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:143909,GeoNames:3667244
+CO,41799,co:municipality:41799,TELLO,Municipio,CO-HUI,3.06694,-75.13778,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:143907,GeoNames:3667323
+CO,41801,co:municipality:41801,TERUEL,Municipio,CO-HUI,2.74193,-75.56738,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:143908,GeoNames:3667247
+CO,41807,co:municipality:41807,TIMANÁ,Municipio,CO-HUI,1.97136,-75.93123,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:143910,GeoNames:3667082
+CO,41872,co:municipality:41872,VILLAVIEJA,Municipio,CO-HUI,3.22052,-75.21864,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:143911,GeoNames:3665898
+CO,41885,co:municipality:41885,YAGUARÁ,Municipio,CO-HUI,2.66355,-75.51753,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:143912,GeoNames:3665803
+CO,44001,csc:21291,RIOHACHA,Municipio,CO-LAG,11.54444,-72.90722,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21291,GeoNames:3670745
+CO,44035,co:municipality:44035,ALBANIA,Municipio,CO-LAG,11.16099,-72.59238,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20498,GeoNames:3690250
+CO,44078,co:municipality:44078,BARRANCAS,Municipio,CO-LAG,10.95672,-72.79456,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20571,GeoNames:3689162
+CO,44090,co:municipality:44090,DIBULLA,Municipio,CO-LAG,11.27251,-73.30911,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20776,GeoNames:3685223
+CO,44098,co:municipality:44098,DISTRACCIÓN,Municipio,CO-LAG,10.89784,-72.88666,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20777,GeoNames:3685200
+CO,44110,co:municipality:44110,EL MOLINO,Municipio,CO-LAG,10.65296,-72.92461,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20812,GeoNames:3683778
+CO,44279,co:municipality:44279,FONSECA,Municipio,CO-LAG,10.88606,-72.8487,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20855,GeoNames:3682374
+CO,44378,co:municipality:44378,HATONUEVO,Municipio,CO-LAG,11.09905582,-72.73842427,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20938,DANE / MinSalud RDA 1.0.3
+CO,44420,co:municipality:44420,LA JAGUA DEL PILAR,Municipio,CO-LAG,10.51023,-73.07176,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20988,GeoNames:3678672
+CO,44430,co:municipality:44430,MAICAO,Municipio,CO-LAG,11.37837,-72.2395,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,project,csc:21051,GeoNames:3675657
+CO,44560,co:municipality:44560,MANAURE,Municipio,CO-LAG,11.77505,-72.44447,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21056,GeoNames:3675504
+CO,44650,co:municipality:44650,SAN JUAN DEL CESAR,Municipio,CO-LAG,10.77107,-73.00314,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21377,GeoNames:3669469
+CO,44847,co:municipality:44847,URIBIA,Municipio,CO-LAG,11.71505,-72.26592,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21573,GeoNames:3666409
+CO,44855,co:municipality:44855,URUMITA,Municipio,CO-LAG,10.56095,-73.0134,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21575,GeoNames:3666381
+CO,44874,co:municipality:44874,VILLANUEVA,Municipio,CO-LAG,10.60768,-72.97901,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21608,GeoNames:3665934
+CO,47001,csc:21421,SANTA MARTA,Municipio,CO-MAG,11.23855,-74.19427,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21421,GeoNames:3668605
+CO,47030,co:municipality:47030,ALGARROBO,Municipio,CO-MAG,10.18618,-74.06085,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20505,GeoNames:3685001
+CO,47053,co:municipality:47053,ARACATACA,Municipio,CO-MAG,10.59181,-74.18983,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20533,GeoNames:3689759
+CO,47058,co:municipality:47058,ARIGUANÍ,Municipio,CO-MAG,9.84975,-74.23627,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20548,GeoNames:3684293
+CO,47161,co:municipality:47161,CERRO DE SAN ANTONIO,Municipio,CO-MAG,10.32585,-74.86933,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20673,GeoNames:3686894
+CO,47170,co:municipality:47170,CHIVOLO,Municipio,CO-MAG,10.02502,-74.62279,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20700,GeoNames:3686445
+CO,47189,csc:20712,CIÉNAGA,Municipio,CO-MAG,11.00703,-74.24765,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,project,csc:20712,GeoNames:3686279
+CO,47205,co:municipality:47205,CONCORDIA,Municipio,CO-MAG,10.25757,-74.83333,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20726,GeoNames:3686010
+CO,47245,csc:20787,EL BANCO,Municipio,CO-MAG,9.00114,-73.97581,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20787,GeoNames:3684917
+CO,47258,co:municipality:47258,EL PIÑÓN,Municipio,CO-MAG,10.40283,-74.82415,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20820,GeoNames:3683463
+CO,47268,co:municipality:47268,EL RETÉN,Municipio,CO-MAG,10.61135,-74.26824,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20824,GeoNames:3683233
+CO,47288,co:municipality:47288,FUNDACIÓN,Municipio,CO-MAG,10.52066,-74.18504,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20864,GeoNames:3682292
+CO,47318,co:municipality:47318,GUAMAL,Municipio,CO-MAG,9.14334,-74.22384,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20907,GeoNames:3681596
+CO,47460,co:municipality:47460,NUEVA GRANADA,Municipio,CO-MAG,9.80168,-74.39304,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21139,GeoNames:3673756
+CO,47541,co:municipality:47541,PEDRAZA,Municipio,CO-MAG,10.18739,-74.91504,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21191,GeoNames:3672633
+CO,47545,co:municipality:47545,PIJIÑO DEL CARMEN,Municipio,CO-MAG,9.32908,-74.45302,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21205,GeoNames:3672249
+CO,47551,co:municipality:47551,PIVIJAY,Municipio,CO-MAG,10.46167,-74.61621,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21210,GeoNames:3672093
+CO,47555,co:municipality:47555,PLATO,Municipio,CO-MAG,9.79029,-74.78244,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21214,GeoNames:3792392
+CO,47570,co:municipality:47570,PUEBLOVIEJO,Municipio,CO-MAG,10.99376,-74.28439,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21228,GeoNames:3671615
+CO,47605,co:municipality:47605,REMOLINO,Municipio,CO-MAG,10.70199,-74.71602,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21282,GeoNames:3670884
+CO,47660,co:municipality:47660,SABANAS DE SAN ÁNGEL,Municipio,CO-MAG,10.03047,-74.21482,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21313,GeoNames:3670203
+CO,47675,co:municipality:47675,SALAMINA,Municipio,CO-MAG,10.49027,-74.79463,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21318,GeoNames:3670368
+CO,47692,co:municipality:47692,SAN SEBASTIÁN DE BUENAVISTA,Municipio,CO-MAG,9.23778,-74.35166,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20606,GeoNames:3668986
+CO,47703,co:municipality:47703,SAN ZENÓN,Municipio,CO-MAG,9.24217,-74.50037,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21409,GeoNames:3668286
+CO,47707,co:municipality:47707,SANTA ANA,Municipio,CO-MAG,9.32125,-74.56848,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21411,GeoNames:3668937
+CO,47720,co:municipality:47720,SANTA BÁRBARA DE PINTO,Municipio,CO-MAG,9.43251,-74.70414,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21415,GeoNames:3672185
+CO,47745,co:municipality:47745,SITIONUEVO,Municipio,CO-MAG,10.77737,-74.72049,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21463,GeoNames:3667918
+CO,47798,co:municipality:47798,TENERIFE,Municipio,CO-MAG,9.90093,-74.85985,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21519,GeoNames:3667298
+CO,47960,co:municipality:47960,ZAPAYÁN,Municipio,CO-MAG,10.16863,-74.71682,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21631,GeoNames:3671248
+CO,47980,co:municipality:47980,ZONA BANANERA,Municipio,CO-MAG,10.76343,-74.13916,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21637,GeoNames:3668123
+CO,50001,co:municipality:50001,VILLAVICENCIO,Municipio,CO-MET,4.13238,-73.62564,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21612,GeoNames:3665900
+CO,50006,co:municipality:50006,ACACÍAS,Municipio,CO-MET,3.98695,-73.75797,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20488,GeoNames:3690577
+CO,50110,co:municipality:50110,BARRANCA DE UPÍA,Municipio,CO-MET,4.56963,-72.96676,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20569,GeoNames:3689167
+CO,50124,co:municipality:50124,CABUYARO,Municipio,CO-MET,4.2817,-72.79399,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20617,GeoNames:3688151
+CO,50150,co:municipality:50150,CASTILLA LA NUEVA,Municipio,CO-MET,3.82722,-73.68831,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20665,GeoNames:3687084
+CO,50223,co:municipality:50223,CUBARRAL,Municipio,CO-MET,3.834631516,-74.06232494,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20749,DANE / MinSalud RDA 1.0.3
+CO,50226,co:municipality:50226,CUMARAL,Municipio,CO-MET,4.2708,-73.48669,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20754,GeoNames:3685442
+CO,50245,co:municipality:50245,EL CALVARIO,Municipio,CO-MET,4.35342,-73.71147,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20790,GeoNames:3684770
+CO,50251,co:municipality:50251,EL CASTILLO,Municipio,CO-MET,3.56363,-73.79488,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20799,GeoNames:3684662
+CO,50270,co:municipality:50270,EL DORADO,Municipio,CO-MET,3.73924,-73.83489,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:149240,GeoNames:3792393
+CO,50287,co:municipality:50287,FUENTE DE ORO,Municipio,CO-MET,3.46263,-73.62162,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20863,GeoNames:3682299
+CO,50313,co:municipality:50313,GRANADA,Municipio,CO-MET,3.54625,-73.70687,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20894,GeoNames:3681957
+CO,50318,co:municipality:50318,GUAMAL,Municipio,CO-MET,3.88043,-73.76566,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20906,GeoNames:3681605
+CO,50325,co:municipality:50325,MAPIRIPÁN,Municipio,CO-MET,2.89115,-72.13328,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21064,GeoNames:3792394
+CO,50330,co:municipality:50330,MESETAS,Municipio,CO-MET,3.38463,-74.04424,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21081,GeoNames:3763578
+CO,50350,co:municipality:50350,LA MACARENA,Municipio,CO-MET,2.161863917,-74.09488076,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20990,DANE / MinSalud RDA 1.0.3
+CO,50370,co:municipality:50370,URIBE,Municipio,CO-MET,3.2409,-74.35497,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:149259,GeoNames:3666413
+CO,50400,co:municipality:50400,LEJANÍAS,Municipio,CO-MET,3.52762,-74.02335,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21025,GeoNames:3732964
+CO,50450,co:municipality:50450,PUERTO CONCORDIA,Municipio,CO-MET,2.62206,-72.75724,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21240,GeoNames:3792395
+CO,50568,co:municipality:50568,PUERTO GAITÁN,Municipio,CO-MET,4.31328,-72.08157,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21242,GeoNames:3769976
+CO,50573,co:municipality:50573,PUERTO LÓPEZ,Municipio,CO-MET,4.014298921,-72.64570499,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21247,DANE / MinSalud RDA 1.0.3
+CO,50577,co:municipality:50577,PUERTO LLERAS,Municipio,CO-MET,3.26942,-73.37537,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21246,GeoNames:8597358
+CO,50590,co:municipality:50590,PUERTO RICO,Municipio,CO-MET,2.758083657,-73.13780171,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21252,DANE / MinSalud RDA 1.0.3
+CO,50606,co:municipality:50606,RESTREPO,Municipio,CO-MET,4.25833,-73.56142,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21284,GeoNames:3670855
+CO,50680,co:municipality:50680,SAN CARLOS DE GUAROA,Municipio,CO-MET,3.71161,-73.24344,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21347,GeoNames:3669987
+CO,50683,co:municipality:50683,SAN JUAN DE ARAMA,Municipio,CO-MET,3.36985,-73.87267,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21373,GeoNames:3669482
+CO,50686,co:municipality:50686,SAN JUANITO,Municipio,CO-MET,4.46103,-73.68048,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:149252,GeoNames:3669458
+CO,50689,co:municipality:50689,SAN MARTÍN,Municipio,CO-MET,3.69637,-73.69957,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21385,GeoNames:3669332
+CO,50711,co:municipality:50711,VISTAHERMOSA,Municipio,CO-MET,3.12428,-73.75156,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21616,GeoNames:3665860
+CO,52001,csc:21184,PASTO,Municipio,CO-NAR,1.21456,-77.27846,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21184,GeoNames:3672778
+CO,52019,co:municipality:52019,ALBÁN,Municipio,CO-NAR,1.47446,-77.08144,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21365,GeoNames:3669657
+CO,52022,co:municipality:52022,ALDANA,Municipio,CO-NAR,0.88283,-77.70103,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20503,GeoNames:3690226
+CO,52036,co:municipality:52036,ANCUYA,Municipio,CO-NAR,1.2633,-77.51376,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20517,GeoNames:3689915
+CO,52051,co:municipality:52051,ARBOLEDA,Municipio,CO-NAR,1.480051172,-77.12985001,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20539,DANE / MinSalud RDA 1.0.3
+CO,52079,co:municipality:52079,BARBACOAS,Municipio,CO-NAR,1.67154,-78.13978,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,project,csc:20565,GeoNames:3689228
+CO,52083,co:municipality:52083,BELÉN,Municipio,CO-NAR,1.593645287,-77.01999366,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20582,DANE / MinSalud RDA 1.0.3
+CO,52110,co:municipality:52110,BUESACO,Municipio,CO-NAR,1.38364,-77.15622,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20611,GeoNames:3688266
+CO,52203,co:municipality:52203,COLÓN,Municipio,CO-NAR,1.636334379,-77.0473156,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20722,DANE / MinSalud RDA 1.0.3
+CO,52207,co:municipality:52207,CONSACÁ,Municipio,CO-NAR,1.20805,-77.46548,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20730,GeoNames:3685984
+CO,52210,co:municipality:52210,CONTADERO,Municipio,CO-NAR,0.90841,-77.5477,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20732,GeoNames:3685974
+CO,52215,co:municipality:52215,CÓRDOBA,Municipio,CO-NAR,0.85362,-77.51817,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20769,GeoNames:3685903
+CO,52224,co:municipality:52224,CUASPUD CARLOSAMA,Municipio,CO-NAR,0.86292,-77.72734,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20748,GeoNames:3687335
+CO,52227,co:municipality:52227,CUMBAL,Municipio,CO-NAR,0.90875,-77.79145,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20756,GeoNames:3685432
+CO,52233,co:municipality:52233,CUMBITARA,Municipio,CO-NAR,1.64786,-77.57819,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20757,GeoNames:3685428
+CO,52240,co:municipality:52240,CHACHAGÜÍ,Municipio,CO-NAR,1.386497844,-77.26969022,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20674,DANE / MinSalud RDA 1.0.3
+CO,52250,co:municipality:52250,EL CHARCO,Municipio,CO-NAR,2.48075,-78.10972,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20801,GeoNames:3684579
+CO,52254,co:municipality:52254,EL PEÑOL,Municipio,CO-NAR,1.45365,-77.44017,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20816,GeoNames:3683508
+CO,52256,co:municipality:52256,EL ROSARIO,Municipio,CO-NAR,1.74404,-77.33481,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20827,GeoNames:3683149
+CO,52258,co:municipality:52258,EL TABLÓN DE GÓMEZ,Municipio,CO-NAR,1.42717,-77.09693,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20829,GeoNames:3682981
+CO,52260,co:municipality:52260,EL TAMBO,Municipio,CO-NAR,1.40785,-77.39218,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20832,GeoNames:3682965
+CO,52287,co:municipality:52287,FUNES,Municipio,CO-NAR,1.00075,-77.44918,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20865,GeoNames:3682283
+CO,52317,co:municipality:52317,GUACHUCAL,Municipio,CO-NAR,0.96093,-77.73161,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20899,GeoNames:3681756
+CO,52320,co:municipality:52320,GUAITARILLA,Municipio,CO-NAR,1.13103,-77.54815,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20904,GeoNames:3681644
+CO,52323,co:municipality:52323,GUALMATÁN,Municipio,CO-NAR,0.91992,-77.56738,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20905,GeoNames:3681619
+CO,52352,co:municipality:52352,ILES,Municipio,CO-NAR,0.9704,-77.52146,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20946,GeoNames:3680616
+CO,52354,co:municipality:52354,IMUÉS,Municipio,CO-NAR,1.05516,-77.49669,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20947,GeoNames:3680601
+CO,52356,csc:20950,IPIALES,Municipio,CO-NAR,0.82501,-77.63966,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20950,GeoNames:3680539
+CO,52378,co:municipality:52378,LA CRUZ,Municipio,CO-NAR,1.60221,-76.9713,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20978,GeoNames:3679379
+CO,52381,co:municipality:52381,LA FLORIDA,Municipio,CO-NAR,1.29851,-77.40614,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20984,GeoNames:3679007
+CO,52385,co:municipality:52385,LA LLANADA,Municipio,CO-NAR,1.4731,-77.58024,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20989,GeoNames:3678575
+CO,52390,co:municipality:52390,LA TOLA,Municipio,CO-NAR,2.56027333,-78.23506694,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21005,DANE / MinSalud RDA 1.0.3
+CO,52399,co:municipality:52399,LA UNIÓN,Municipio,CO-NAR,1.6045,-77.13152,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,project,csc:21008,GeoNames:3676934
+CO,52405,co:municipality:52405,LEIVA,Municipio,CO-NAR,1.93497,-77.30634,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21024,GeoNames:3676661
+CO,52411,co:municipality:52411,LINARES,Municipio,CO-NAR,1.35078,-77.52339,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21029,GeoNames:3676540
+CO,52418,co:municipality:52418,LOS ANDES,Municipio,CO-NAR,1.49474,-77.52136,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21032,GeoNames:3667791
+CO,52427,co:municipality:52427,MAGÜÍ,Municipio,CO-NAR,1.76645,-78.18326,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21189,GeoNames:3672665
+CO,52435,co:municipality:52435,MALLAMA,Municipio,CO-NAR,1.14109,-77.86479,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21054,GeoNames:3672295
+CO,52473,co:municipality:52473,MOSQUERA,Municipio,CO-NAR,2.50861,-78.4511,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21108,GeoNames:3674293
+CO,52480,co:municipality:52480,NARIÑO,Municipio,CO-NAR,1.28995,-77.35721,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21125,GeoNames:3674031
+CO,52490,co:municipality:52490,OLAYA HERRERA,Municipio,CO-NAR,2.34814,-78.32571,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21150,GeoNames:3688716
+CO,52506,co:municipality:52506,OSPINA,Municipio,CO-NAR,1.0595,-77.56554,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21155,GeoNames:3673482
+CO,52520,co:municipality:52520,FRANCISCO PIZARRO,Municipio,CO-NAR,2.088531925,-78.59193099,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20858,DANE / MinSalud RDA 1.0.3
+CO,52540,co:municipality:52540,POLICARPA,Municipio,CO-NAR,1.62843,-77.45956,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21216,GeoNames:3671961
+CO,52560,co:municipality:52560,POTOSÍ,Municipio,CO-NAR,0.80739,-77.57216,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21221,GeoNames:3671848
+CO,52565,co:municipality:52565,PROVIDENCIA,Municipio,CO-NAR,1.23907,-77.59721,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:149246,GeoNames:3688504
+CO,52573,co:municipality:52573,PUERRES,Municipio,CO-NAR,0.88371,-77.50324,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21230,GeoNames:3671577
+CO,52585,co:municipality:52585,PUPIALES,Municipio,CO-NAR,0.87136,-77.64027,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21262,GeoNames:3671228
+CO,52612,co:municipality:52612,RICAURTE,Municipio,CO-NAR,1.21474,-77.99801,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21288,GeoNames:3670816
+CO,52621,co:municipality:52621,ROBERTO PAYÁN,Municipio,CO-NAR,1.69659,-78.24482,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21297,GeoNames:3669654
+CO,52678,co:municipality:52678,SAMANIEGO,Municipio,CO-NAR,1.33849,-77.5957,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21325,GeoNames:3670293
+CO,52683,co:municipality:52683,SANDONÁ,Municipio,CO-NAR,1.28626,-77.46921,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21410,GeoNames:3669938
+CO,52685,co:municipality:52685,SAN BERNARDO,Municipio,CO-NAR,1.51525,-77.04679,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21341,GeoNames:3670034
+CO,52687,co:municipality:52687,SAN LORENZO,Municipio,CO-NAR,1.50294,-77.21537,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21378,GeoNames:3669440
+CO,52693,co:municipality:52693,SAN PABLO,Municipio,CO-NAR,1.681576627,-76.97527979,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21392,DANE / MinSalud RDA 1.0.3
+CO,52694,co:municipality:52694,SAN PEDRO DE CARTAGO,Municipio,CO-NAR,1.536823494,-77.10140325,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21398,DANE / MinSalud RDA 1.0.3
+CO,52696,co:municipality:52696,SANTA BÁRBARA,Municipio,CO-NAR,2.45065,-77.97998,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21413,GeoNames:3680491
+CO,52699,co:municipality:52699,SANTACRUZ,Municipio,CO-NAR,1.2224,-77.67766,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21431,GeoNames:3681770
+CO,52720,co:municipality:52720,SAPUYES,Municipio,CO-NAR,1.03728,-77.62094,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21443,GeoNames:3668268
+CO,52786,co:municipality:52786,TAMINANGO,Municipio,CO-NAR,1.57032,-77.28043,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21509,GeoNames:3667471
+CO,52788,co:municipality:52788,TANGUA,Municipio,CO-NAR,1.09473,-77.39482,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21510,GeoNames:3667447
+CO,52835,csc:21552,SAN ANDRÉS DE TUMACO,Municipio,CO-NAR,1.79112,-78.79275,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21552,GeoNames:3666640
+CO,52838,co:municipality:52838,TÚQUERRES,Municipio,CO-NAR,1.08647,-77.61858,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21564,GeoNames:3666582
+CO,52885,co:municipality:52885,YACUANQUER,Municipio,CO-NAR,1.11577,-77.40169,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21620,GeoNames:3665811
+CO,54001,csc:20772,SAN JOSÉ DE CÚCUTA,Municipio,CO-NSA,7.90745,-72.5049,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20772,GeoNames:3685533
+CO,54003,co:municipality:54003,ÁBREGO,Municipio,CO-NSA,8.08202,-73.22135,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20486,GeoNames:3690584
+CO,54051,co:municipality:54051,ARBOLEDAS,Municipio,CO-NSA,7.64233,-72.79944,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20540,GeoNames:3689697
+CO,54099,co:municipality:54099,BOCHALEMA,Municipio,CO-NSA,7.61095,-72.64773,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20594,GeoNames:3688705
+CO,54109,co:municipality:54109,BUCARASICA,Municipio,CO-NSA,8.04096,-72.86538,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20604,GeoNames:3688462
+CO,54125,co:municipality:54125,CÁCOTA,Municipio,CO-NSA,7.26787,-72.64197,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20765,GeoNames:3688087
+CO,54128,co:municipality:54128,CÁCHIRA,Municipio,CO-NSA,7.74104,-73.0483,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20620,GeoNames:3688106
+CO,54172,co:municipality:54172,CHINÁCOTA,Municipio,CO-NSA,7.60731,-72.60108,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20689,GeoNames:3686574
+CO,54174,co:municipality:54174,CHITAGÁ,Municipio,CO-NSA,7.13781,-72.66456,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20697,GeoNames:3686460
+CO,54206,co:municipality:54206,CONVENCIÓN,Municipio,CO-NSA,8.873159895,-73.20007769,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,project,csc:20734,DANE / MinSalud RDA 1.0.3
+CO,54223,co:municipality:54223,CUCUTILLA,Municipio,CO-NSA,7.53941,-72.77238,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20753,GeoNames:3685529
+CO,54239,co:municipality:54239,DURANIA,Municipio,CO-NSA,7.71307,-72.65759,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20784,GeoNames:3685069
+CO,54245,co:municipality:54245,EL CARMEN,Municipio,CO-NSA,8.51116,-73.44761,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20793,GeoNames:3684683
+CO,54250,co:municipality:54250,EL TARRA,Municipio,CO-NSA,8.57506,-73.09607,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20833,GeoNames:3738301
+CO,54261,co:municipality:54261,EL ZULIA,Municipio,CO-NSA,7.93248,-72.60125,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20834,GeoNames:3682682
+CO,54313,co:municipality:54313,GRAMALOTE,Municipio,CO-NSA,7.88752,-72.79749,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20891,GeoNames:3681966
+CO,54344,co:municipality:54344,HACARÍ,Municipio,CO-NSA,8.32097,-73.14576,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20934,GeoNames:3681168
+CO,54347,co:municipality:54347,HERRÁN,Municipio,CO-NSA,7.50611,-72.48332,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20940,GeoNames:3680886
+CO,54377,co:municipality:54377,LABATECA,Municipio,CO-NSA,7.29889,-72.49472,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21017,GeoNames:3756907
+CO,54385,co:municipality:54385,LA ESPERANZA,Municipio,CO-NSA,7.64059,-73.32762,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20982,GeoNames:3792397
+CO,54398,co:municipality:54398,LA PLAYA,Municipio,CO-NSA,8.21327,-73.23823,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21001,GeoNames:3678083
+CO,54405,co:municipality:54405,LOS PATIOS,Municipio,CO-NSA,7.83793,-72.5037,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21035,GeoNames:3675975
+CO,54418,co:municipality:54418,LOURDES,Municipio,CO-NSA,7.94411,-72.83253,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21037,GeoNames:3675857
+CO,54480,co:municipality:54480,MUTISCUA,Municipio,CO-NSA,7.30061,-72.74667,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21122,GeoNames:3674124
+CO,54498,csc:21146,OCAÑA,Municipio,CO-NSA,8.23773,-73.35604,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21146,GeoNames:3673662
+CO,54518,co:municipality:54518,PAMPLONA,Municipio,CO-NSA,7.37565,-72.64795,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21176,GeoNames:3673045
+CO,54520,co:municipality:54520,PAMPLONITA,Municipio,CO-NSA,7.43637,-72.63808,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21177,GeoNames:3673041
+CO,54553,co:municipality:54553,PUERTO SANTANDER,Municipio,CO-NSA,8.36361,-72.4063,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21255,GeoNames:3671325
+CO,54599,co:municipality:54599,RAGONVALIA,Municipio,CO-NSA,7.57749,-72.47574,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21277,GeoNames:3671018
+CO,54660,co:municipality:54660,SALAZAR,Municipio,CO-NSA,7.772747824,-72.86769959,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21320,DANE / MinSalud RDA 1.0.3
+CO,54670,co:municipality:54670,SAN CALIXTO,Municipio,CO-NSA,8.4028,-73.2076,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21344,GeoNames:3670011
+CO,54673,co:municipality:54673,SAN CAYETANO,Municipio,CO-NSA,7.87707,-72.6243,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21349,GeoNames:3669977
+CO,54680,co:municipality:54680,SANTIAGO,Municipio,CO-NSA,7.86432,-72.7162,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21436,GeoNames:3668396
+CO,54720,co:municipality:54720,SARDINATA,Municipio,CO-NSA,8.08289,-72.80071,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21445,GeoNames:3668245
+CO,54743,co:municipality:54743,SILOS,Municipio,CO-NSA,7.20524,-72.75639,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,project,csc:21455,GeoNames:3668033
+CO,54800,co:municipality:54800,TEORAMA,Municipio,CO-NSA,8.43685,-73.28691,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:149256,GeoNames:3667286
+CO,54810,co:municipality:54810,TIBÚ,Municipio,CO-NSA,8.63895,-72.73583,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21526,GeoNames:3667202
+CO,54820,co:municipality:54820,TOLEDO,Municipio,CO-NSA,7.30984,-72.48295,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21538,GeoNames:3666959
+CO,54871,co:municipality:54871,VILLA CARO,Municipio,CO-NSA,7.91427,-72.97144,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:149260,GeoNames:3666016
+CO,54874,co:municipality:54874,VILLA DEL ROSARIO,Municipio,CO-NSA,7.83389,-72.47417,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21601,GeoNames:3665913
+CO,63001,csc:20550,ARMENIA,Municipio,CO-QUI,4.53656,-75.67263,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20550,GeoNames:3689560
+CO,63111,co:municipality:63111,BUENAVISTA,Municipio,CO-QUI,4.35959,-75.73838,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20607,GeoNames:3688433
+CO,63130,co:municipality:63130,CALARCÁ,Municipio,CO-QUI,4.52863,-75.64024,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20629,GeoNames:3687964
+CO,63190,co:municipality:63190,CIRCASIA,Municipio,CO-QUI,4.61905,-75.63584,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20709,GeoNames:3686233
+CO,63212,co:municipality:63212,CÓRDOBA,Municipio,CO-QUI,4.39107,-75.68682,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20771,GeoNames:3685900
+CO,63272,co:municipality:63272,FILANDIA,Municipio,CO-QUI,4.67434,-75.65819,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20845,GeoNames:3682473
+CO,63302,co:municipality:63302,GÉNOVA,Municipio,CO-QUI,4.20779,-75.78928,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20930,GeoNames:3769366
+CO,63401,co:municipality:63401,LA TEBAIDA,Municipio,CO-QUI,4.45242,-75.7869,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21004,GeoNames:3677010
+CO,63470,co:municipality:63470,MONTENEGRO,Municipio,CO-QUI,4.56594,-75.7499,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,project,csc:21100,GeoNames:3674463
+CO,63548,co:municipality:63548,PIJAO,Municipio,CO-QUI,4.33404,-75.70422,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21204,GeoNames:3672255
+CO,63594,co:municipality:63594,QUIMBAYA,Municipio,CO-QUI,4.62406,-75.7627,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21273,GeoNames:3671098
+CO,63690,co:municipality:63690,SALENTO,Municipio,CO-QUI,4.63758,-75.56996,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21322,GeoNames:3670352
+CO,66001,csc:21195,PEREIRA,Municipio,CO-RIS,4.81428,-75.69488,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21195,GeoNames:3672486
+CO,66045,co:municipality:66045,APÍA,Municipio,CO-RIS,5.1069,-75.94241,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20531,GeoNames:3689793
+CO,66075,co:municipality:66075,BALBOA,Municipio,CO-RIS,4.94913,-75.95749,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20563,GeoNames:3689291
+CO,66088,co:municipality:66088,BELÉN DE UMBRÍA,Municipio,CO-RIS,5.20199,-75.86753,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20585,GeoNames:3688989
+CO,66170,co:municipality:66170,DOSQUEBRADAS,Municipio,CO-RIS,4.83659,-75.66926,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20782,GeoNames:3685095
+CO,66318,co:municipality:66318,GUÁTICA,Municipio,CO-RIS,5.31563,-75.7978,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20926,GeoNames:3681353
+CO,66383,co:municipality:66383,LA CELIA,Municipio,CO-RIS,4.988127679,-76.00822678,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20975,DANE / MinSalud RDA 1.0.3
+CO,66400,co:municipality:66400,LA VIRGINIA,Municipio,CO-RIS,4.90006,-75.88278,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21016,GeoNames:3676720
+CO,66440,co:municipality:66440,MARSELLA,Municipio,CO-RIS,4.93697,-75.73793,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21070,GeoNames:3675212
+CO,66456,co:municipality:66456,MISTRATÓ,Municipio,CO-RIS,5.414078141,-75.96135387,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21087,DANE / MinSalud RDA 1.0.3
+CO,66572,co:municipality:66572,PUEBLO RICO,Municipio,CO-RIS,5.22205,-76.03043,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21226,GeoNames:3671633
+CO,66594,co:municipality:66594,QUINCHÍA,Municipio,CO-RIS,5.33948,-75.72956,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21274,GeoNames:3671091
+CO,66682,co:municipality:66682,SANTA ROSA DE CABAL,Municipio,CO-RIS,4.86889,-75.62195,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21424,GeoNames:3668454
+CO,66687,co:municipality:66687,SANTUARIO,Municipio,CO-RIS,5.073,-75.96344,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21442,GeoNames:3668324
+CO,68001,csc:20603,BUCARAMANGA,Municipio,CO-SAN,7.125,-73.11895,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20603,GeoNames:3688465
+CO,68013,co:municipality:68013,AGUADA,Municipio,CO-SAN,6.16232,-73.5221,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20493,GeoNames:3810194
+CO,68020,co:municipality:68020,ALBANIA,Municipio,CO-SAN,5.75894,-73.91376,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20497,GeoNames:3690257
+CO,68051,co:municipality:68051,ARATOCA,Municipio,CO-SAN,6.69432,-73.01868,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20535,GeoNames:3689723
+CO,68077,co:municipality:68077,BARBOSA,Municipio,CO-SAN,5.93168,-73.61507,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20567,GeoNames:3689206
+CO,68079,co:municipality:68079,BARICHARA,Municipio,CO-SAN,6.63572,-73.22282,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20568,GeoNames:3689187
+CO,68081,csc:20570,BARRANCABERMEJA,Municipio,CO-SAN,7.06528,-73.85472,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20570,GeoNames:3689169
+CO,68092,co:municipality:68092,BETULIA,Municipio,CO-SAN,6.90069,-73.28347,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20590,GeoNames:3688839
+CO,68101,co:municipality:68101,BOLÍVAR,Municipio,CO-SAN,5.9893,-73.77058,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20597,GeoNames:3688656
+CO,68121,co:municipality:68121,CABRERA,Municipio,CO-SAN,6.5928,-73.2465,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20616,GeoNames:3688169
+CO,68132,co:municipality:68132,CALIFORNIA,Municipio,CO-SAN,7.34776,-72.9458,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20635,GeoNames:3687913
+CO,68147,co:municipality:68147,CAPITANEJO,Municipio,CO-SAN,6.52881,-72.69595,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20647,GeoNames:3687490
+CO,68152,co:municipality:68152,CARCASÍ,Municipio,CO-SAN,6.62711,-72.62625,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20651,GeoNames:3687394
+CO,68160,co:municipality:68160,CEPITÁ,Municipio,CO-SAN,6.75427,-72.9744,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20668,GeoNames:3686925
+CO,68162,co:municipality:68162,CERRITO,Municipio,CO-SAN,6.84315,-72.69404,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20671,GeoNames:3686907
+CO,68167,co:municipality:68167,CHARALÁ,Municipio,CO-SAN,6.28581,-73.14722,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20679,GeoNames:3686736
+CO,68169,co:municipality:68169,CHARTA,Municipio,CO-SAN,7.28025,-72.96782,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20680,GeoNames:3686712
+CO,68176,co:municipality:68176,CHIMA,Municipio,CO-SAN,6.34431,-73.37393,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20684,GeoNames:3686606
+CO,68179,co:municipality:68179,CHIPATÁ,Municipio,CO-SAN,6.06196,-73.63718,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20692,GeoNames:3686530
+CO,68190,co:municipality:68190,CIMITARRA,Municipio,CO-SAN,6.31419,-73.94968,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20708,GeoNames:3686255
+CO,68207,co:municipality:68207,CONCEPCIÓN,Municipio,CO-SAN,6.76619,-72.694,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20725,GeoNames:3686027
+CO,68209,co:municipality:68209,CONFINES,Municipio,CO-SAN,6.35625,-73.24131,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20729,GeoNames:3685994
+CO,68211,co:municipality:68211,CONTRATACIÓN,Municipio,CO-SAN,6.29005,-73.47354,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20733,GeoNames:3685961
+CO,68217,co:municipality:68217,COROMORO,Municipio,CO-SAN,6.29461,-73.04022,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20738,GeoNames:3685840
+CO,68229,co:municipality:68229,CURITÍ,Municipio,CO-SAN,6.60519,-73.06809,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20760,GeoNames:3685345
+CO,68235,co:municipality:68235,EL CARMEN DE CHUCURÍ,Municipio,CO-SAN,6.69736,-73.51117,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20797,GeoNames:3684689
+CO,68245,co:municipality:68245,EL GUACAMAYO,Municipio,CO-SAN,6.24518,-73.49655,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20809,GeoNames:3684132
+CO,68250,co:municipality:68250,EL PEÑÓN,Municipio,CO-SAN,6.05489,-73.81519,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20819,GeoNames:3683499
+CO,68255,co:municipality:68255,EL PLAYÓN,Municipio,CO-SAN,7.47131,-73.2031,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20822,GeoNames:3792399
+CO,68264,co:municipality:68264,ENCINO,Municipio,CO-SAN,6.13735,-73.09847,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20836,GeoNames:3682656
+CO,68266,co:municipality:68266,ENCISO,Municipio,CO-SAN,6.66808,-72.69986,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20837,GeoNames:3682653
+CO,68271,co:municipality:68271,FLORIÁN,Municipio,CO-SAN,5.80487,-73.97029,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20853,GeoNames:3682395
+CO,68276,co:municipality:68276,FLORIDABLANCA,Municipio,CO-SAN,7.06222,-73.08644,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20852,GeoNames:3682385
+CO,68296,co:municipality:68296,GALÁN,Municipio,CO-SAN,6.63781,-73.28878,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20878,GeoNames:3682243
+CO,68298,co:municipality:68298,GÁMBITA,Municipio,CO-SAN,5.94597,-73.34435,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20881,GeoNames:3682178
+CO,68307,co:municipality:68307,GIRÓN,Municipio,CO-SAN,7.0682,-73.16981,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20889,GeoNames:3682018
+CO,68318,co:municipality:68318,GUACA,Municipio,CO-SAN,6.87621,-72.85594,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20895,GeoNames:3681832
+CO,68320,co:municipality:68320,GUADALUPE,Municipio,CO-SAN,6.2464,-73.41833,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20902,GeoNames:3681732
+CO,68322,co:municipality:68322,GUAPOTÁ,Municipio,CO-SAN,6.30798,-73.3202,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20910,GeoNames:3681491
+CO,68324,co:municipality:68324,GUAVATÁ,Municipio,CO-SAN,5.95502,-73.70018,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20919,GeoNames:3681346
+CO,68327,co:municipality:68327,GÜEPSA,Municipio,CO-SAN,6.02505,-73.57313,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20932,GeoNames:3681234
+CO,68344,co:municipality:68344,HATO,Municipio,CO-SAN,6.54302,-73.30826,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20936,GeoNames:3681025
+CO,68368,co:municipality:68368,JESÚS MARÍA,Municipio,CO-SAN,5.87715,-73.78097,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20964,GeoNames:3680297
+CO,68370,co:municipality:68370,JORDÁN,Municipio,CO-SAN,6.733,-73.09588,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20965,GeoNames:3680235
+CO,68377,co:municipality:68377,LA BELLEZA,Municipio,CO-SAN,5.86371,-73.96167,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20971,GeoNames:3679776
+CO,68385,co:municipality:68385,LANDÁZURI,Municipio,CO-SAN,6.21826,-73.81121,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21019,GeoNames:3678328
+CO,68397,co:municipality:68397,LA PAZ,Municipio,CO-SAN,6.17848,-73.58948,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20996,GeoNames:3678190
+CO,68406,co:municipality:68406,LEBRIJA,Municipio,CO-SAN,7.11317,-73.2178,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21021,GeoNames:3676674
+CO,68418,co:municipality:68418,LOS SANTOS,Municipio,CO-SAN,6.75343,-73.10473,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21036,GeoNames:3675908
+CO,68425,co:municipality:68425,MACARAVITA,Municipio,CO-SAN,6.50567,-72.59299,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21043,GeoNames:3675780
+CO,68432,co:municipality:68432,MÁLAGA,Municipio,CO-SAN,6.69903,-72.73233,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21124,GeoNames:3675605
+CO,68444,co:municipality:68444,MATANZA,Municipio,CO-SAN,7.32233,-73.01516,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21073,GeoNames:3675118
+CO,68464,co:municipality:68464,MOGOTES,Municipio,CO-SAN,6.47559,-72.97046,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21090,GeoNames:3674640
+CO,68468,co:municipality:68468,MOLAGAVITA,Municipio,CO-SAN,6.67315,-72.80875,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21091,GeoNames:3674618
+CO,68498,co:municipality:68498,OCAMONTE,Municipio,CO-SAN,6.34001,-73.12205,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21145,GeoNames:3673664
+CO,68500,co:municipality:68500,OIBA,Municipio,CO-SAN,6.26387,-73.29876,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21147,GeoNames:3673637
+CO,68502,co:municipality:68502,ONZAGA,Municipio,CO-SAN,6.34434,-72.81726,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21151,GeoNames:3673590
+CO,68522,co:municipality:68522,PALMAR,Municipio,CO-SAN,6.53773,-73.29234,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21170,GeoNames:3673236
+CO,68524,co:municipality:68524,PALMAS DEL SOCORRO,Municipio,CO-SAN,6.40756,-73.28824,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21172,GeoNames:3673187
+CO,68533,co:municipality:68533,PÁRAMO,Municipio,CO-SAN,6.41639,-73.17,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21269,GeoNames:3672895
+CO,68547,co:municipality:68547,PIEDECUESTA,Municipio,CO-SAN,6.98789,-73.04953,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21199,GeoNames:3672328
+CO,68549,co:municipality:68549,PINCHOTE,Municipio,CO-SAN,6.53226,-73.17309,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21206,GeoNames:3672204
+CO,68572,co:municipality:68572,PUENTE NACIONAL,Municipio,CO-SAN,5.87739,-73.6781,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21229,GeoNames:3671591
+CO,68573,co:municipality:68573,PUERTO PARRA,Municipio,CO-SAN,6.65149,-74.05734,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21250,GeoNames:3671371
+CO,68575,co:municipality:68575,PUERTO WILCHES,Municipio,CO-SAN,7.34828,-73.89601,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21259,GeoNames:3671287
+CO,68615,co:municipality:68615,RIONEGRO,Municipio,CO-SAN,7.26456,-73.15012,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21292,GeoNames:8304674
+CO,68655,co:municipality:68655,SABANA DE TORRES,Municipio,CO-SAN,7.3915,-73.49574,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21308,GeoNames:3670520
+CO,68669,co:municipality:68669,SAN ANDRÉS,Municipio,CO-SAN,6.81148,-72.84929,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21332,GeoNames:3670224
+CO,68673,co:municipality:68673,SAN BENITO,Municipio,CO-SAN,6.13269,-73.49065,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21339,GeoNames:3670042
+CO,68679,co:municipality:68679,SAN GIL,Municipio,CO-SAN,6.550778765,-73.11887911,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21359,DANE / MinSalud RDA 1.0.3
+CO,68682,co:municipality:68682,SAN JOAQUÍN,Municipio,CO-SAN,6.43004,-72.86768,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21363,GeoNames:3669693
+CO,68684,co:municipality:68684,SAN JOSÉ DE MIRANDA,Municipio,CO-SAN,6.6587,-72.73344,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21367,GeoNames:3669545
+CO,68686,co:municipality:68686,SAN MIGUEL,Municipio,CO-SAN,6.57583,-72.64591,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21388,GeoNames:3669264
+CO,68689,co:municipality:68689,SAN VICENTE DE CHUCURÍ,Municipio,CO-SAN,6.881,-73.40977,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21408,GeoNames:3668292
+CO,68705,co:municipality:68705,SANTA BÁRBARA,Municipio,CO-SAN,6.99022,-72.907,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21412,GeoNames:3668888
+CO,68720,co:municipality:68720,SANTA HELENA DEL OPÓN,Municipio,CO-SAN,6.33997,-73.61696,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:149249,GeoNames:3792400
+CO,68745,co:municipality:68745,SIMACOTA,Municipio,CO-SAN,6.4429,-73.33688,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21458,GeoNames:3668023
+CO,68755,csc:21468,SOCORRO,Municipio,CO-SAN,6.46838,-73.26022,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21468,GeoNames:3667887
+CO,68770,co:municipality:68770,SUAITA,Municipio,CO-SAN,6.1014,-73.44041,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21484,GeoNames:3667783
+CO,68773,co:municipality:68773,SUCRE,Municipio,CO-SAN,5.91833,-73.79109,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21488,GeoNames:3667731
+CO,68780,co:municipality:68780,SURATÁ,Municipio,CO-SAN,7.36633,-72.98361,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21493,GeoNames:3667685
+CO,68820,co:municipality:68820,TONA,Municipio,CO-SAN,7.20221,-72.96502,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21540,GeoNames:3666921
+CO,68855,co:municipality:68855,VALLE DE SAN JOSÉ,Municipio,CO-SAN,6.4475,-73.14361,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21579,GeoNames:3666311
+CO,68861,co:municipality:68861,VÉLEZ,Municipio,CO-SAN,6.01335,-73.67352,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21618,GeoNames:3666232
+CO,68867,co:municipality:68867,VETAS,Municipio,CO-SAN,7.30911,-72.87122,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21592,GeoNames:3666092
+CO,68872,co:municipality:68872,VILLANUEVA,Municipio,CO-SAN,6.67169,-73.17421,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21606,GeoNames:3665949
+CO,68895,co:municipality:68895,ZAPATOCA,Municipio,CO-SAN,6.81532,-73.26768,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21630,GeoNames:3665587
+CO,70001,csc:21461,SINCELEJO,Municipio,CO-SUC,9.3045,-75.3905,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21461,GeoNames:3667983
+CO,70110,co:municipality:70110,BUENAVISTA,Municipio,CO-SUC,9.31939,-74.97358,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:149239,GeoNames:3688394
+CO,70124,co:municipality:70124,CAIMITO,Municipio,CO-SUC,8.78962,-75.11686,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20623,GeoNames:3688030
+CO,70204,co:municipality:70204,COLOSÓ,Municipio,CO-SUC,9.49477,-75.35271,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20719,GeoNames:3686065
+CO,70215,co:municipality:70215,COROZAL,Municipio,CO-SUC,9.31847,-75.2933,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20739,GeoNames:3685823
+CO,70221,co:municipality:70221,COVEÑAS,Municipio,CO-SUC,9.40254,-75.68029,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20744,GeoNames:3685712
+CO,70230,co:municipality:70230,CHALÁN,Municipio,CO-SUC,9.54765,-75.31128,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20676,GeoNames:3686835
+CO,70233,co:municipality:70233,EL ROBLE,Municipio,CO-SUC,9.10193,-75.19508,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20825,GeoNames:3683180
+CO,70235,co:municipality:70235,GALERAS,Municipio,CO-SUC,9.16095,-75.04811,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20877,GeoNames:3682232
+CO,70265,co:municipality:70265,GUARANDA,Municipio,CO-SUC,8.46746,-74.53617,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20912,GeoNames:3681474
+CO,70400,co:municipality:70400,LA UNIÓN,Municipio,CO-SUC,8.84965,-75.27942,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21007,GeoNames:3676912
+CO,70418,co:municipality:70418,LOS PALMITOS,Municipio,CO-SUC,9.37899,-75.26769,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21034,GeoNames:3675987
+CO,70429,co:municipality:70429,MAJAGUAL,Municipio,CO-SUC,8.54119,-74.62942,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21052,GeoNames:3675637
+CO,70473,co:municipality:70473,MORROA,Municipio,CO-SUC,9.33348,-75.30542,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21107,GeoNames:3674337
+CO,70508,co:municipality:70508,OVEJAS,Municipio,CO-SUC,9.52716,-75.22873,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21157,GeoNames:3673455
+CO,70523,co:municipality:70523,PALMITO,Municipio,CO-SUC,9.33189,-75.5417,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21174,GeoNames:3673142
+CO,70670,co:municipality:70670,SAMPUÉS,Municipio,CO-SUC,9.18361,-75.38167,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21327,GeoNames:3670280
+CO,70678,co:municipality:70678,SAN BENITO ABAD,Municipio,CO-SUC,8.92901,-75.02709,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21340,GeoNames:3670038
+CO,70702,co:municipality:70702,SAN JUAN DE BETULIA,Municipio,CO-SUC,9.27345,-75.24103,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21374,GeoNames:3669480
+CO,70708,co:municipality:70708,SAN MARCOS,Municipio,CO-SUC,8.65972,-75.12809,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21383,GeoNames:3669346
+CO,70713,co:municipality:70713,SAN ONOFRE,Municipio,CO-SUC,9.73586,-75.52626,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21391,GeoNames:3669218
+CO,70717,co:municipality:70717,SAN PEDRO,Municipio,CO-SUC,9.3956,-75.06476,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21395,GeoNames:3669128
+CO,70742,co:municipality:70742,SAN LUIS DE SINCÉ,Municipio,CO-SUC,9.24391,-75.14675,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21382,GeoNames:3667991
+CO,70771,co:municipality:70771,SUCRE,Municipio,CO-SUC,8.81136,-74.72084,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21487,GeoNames:3667728
+CO,70820,co:municipality:70820,SANTIAGO DE TOLÚ,Municipio,CO-SUC,9.52392,-75.58139,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21438,GeoNames:3666939
+CO,70823,co:municipality:70823,SAN JOSÉ DE TOLUVIEJO,Municipio,CO-SUC,9.45082,-75.43864,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21539,GeoNames:3666936
+CO,73001,csc:20944,IBAGUÉ,Municipio,CO-TOL,4.43573,-75.20289,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20944,GeoNames:3680656
+CO,73024,co:municipality:73024,ALPUJARRA,Municipio,CO-TOL,3.39176,-74.93344,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20508,GeoNames:8564150
+CO,73026,co:municipality:73026,ALVARADO,Municipio,CO-TOL,4.56826,-74.9523,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20511,GeoNames:3690030
+CO,73030,co:municipality:73030,AMBALEMA,Municipio,CO-TOL,4.78405,-74.76268,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20514,GeoNames:3689979
+CO,73043,co:municipality:73043,ANZOÁTEGUI,Municipio,CO-TOL,4.63087,-75.0946,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20528,GeoNames:3689802
+CO,73055,co:municipality:73055,ARMERO,Municipio,CO-TOL,5.03103,-74.88683,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20552,GeoNames:3689551
+CO,73067,co:municipality:73067,ATACO,Municipio,CO-TOL,3.59147,-75.38178,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20556,GeoNames:3689450
+CO,73124,co:municipality:73124,CAJAMARCA,Municipio,CO-TOL,4.406971283,-75.49745918,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20624,DANE / MinSalud RDA 1.0.3
+CO,73148,co:municipality:73148,CARMEN DE APICALÁ,Municipio,CO-TOL,4.14725,-74.72014,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20654,GeoNames:3687324
+CO,73152,co:municipality:73152,CASABIANCA,Municipio,CO-TOL,5.07959,-75.12059,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20664,GeoNames:3687213
+CO,73168,co:municipality:73168,CHAPARRAL,Municipio,CO-TOL,3.72412,-75.48386,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20678,GeoNames:3686793
+CO,73200,co:municipality:73200,COELLO,Municipio,CO-TOL,4.28908,-74.89825,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20717,GeoNames:3686142
+CO,73217,co:municipality:73217,COYAIMA,Municipio,CO-TOL,3.79936,-75.19467,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20745,GeoNames:3685708
+CO,73226,co:municipality:73226,CUNDAY,Municipio,CO-TOL,4.06004,-74.69212,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20758,GeoNames:3685418
+CO,73236,co:municipality:73236,DOLORES,Municipio,CO-TOL,3.5391,-74.89752,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20779,GeoNames:8564545
+CO,73268,co:municipality:73268,ESPINAL,Municipio,CO-TOL,4.14924,-74.88429,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20841,GeoNames:3682573
+CO,73270,co:municipality:73270,FALAN,Municipio,CO-TOL,5.12383,-74.95181,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20843,GeoNames:3682510
+CO,73275,co:municipality:73275,FLANDES,Municipio,CO-TOL,4.242813257,-74.83708638,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20847,DANE / MinSalud RDA 1.0.3
+CO,73283,co:municipality:73283,FRESNO,Municipio,CO-TOL,5.15264,-75.03624,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20860,GeoNames:3682330
+CO,73319,co:municipality:73319,GUAMO,Municipio,CO-TOL,4.03078,-74.9701,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20908,GeoNames:3681563
+CO,73347,co:municipality:73347,HERVEO,Municipio,CO-TOL,5.08004,-75.17556,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20941,GeoNames:3680880
+CO,73349,co:municipality:73349,HONDA,Municipio,CO-TOL,5.20856,-74.73584,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,project,csc:20943,GeoNames:3680840
+CO,73352,co:municipality:73352,ICONONZO,Municipio,CO-TOL,4.17698,-74.53254,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20945,GeoNames:3680641
+CO,73408,co:municipality:73408,LÉRIDA,Municipio,CO-TOL,4.86242,-74.90977,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21039,GeoNames:3676626
+CO,73411,co:municipality:73411,LÍBANO,Municipio,CO-TOL,4.9218,-75.06232,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21040,GeoNames:3676604
+CO,73443,co:municipality:73443,SAN SEBASTIÁN DE MARIQUITA,Municipio,CO-TOL,5.19889,-74.89295,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21405,GeoNames:3675252
+CO,73449,co:municipality:73449,MELGAR,Municipio,CO-TOL,4.20475,-74.64075,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21079,GeoNames:3674885
+CO,73461,co:municipality:73461,MURILLO,Municipio,CO-TOL,4.87393,-75.17151,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21119,GeoNames:3674166
+CO,73483,co:municipality:73483,NATAGAIMA,Municipio,CO-TOL,3.62057,-75.09415,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21128,GeoNames:3674010
+CO,73504,co:municipality:73504,ORTEGA,Municipio,CO-TOL,3.93429,-75.21989,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21154,GeoNames:3673511
+CO,73520,co:municipality:73520,PALOCABILDO,Municipio,CO-TOL,5.11705,-75.01732,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21175,GeoNames:3673126
+CO,73547,co:municipality:73547,PIEDRAS,Municipio,CO-TOL,4.54261,-74.87823,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21201,GeoNames:3672290
+CO,73555,co:municipality:73555,PLANADAS,Municipio,CO-TOL,3.19698,-75.64506,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21212,GeoNames:3672077
+CO,73563,co:municipality:73563,PRADO,Municipio,CO-TOL,3.75118,-74.93004,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21223,GeoNames:3671765
+CO,73585,co:municipality:73585,PURIFICACIÓN,Municipio,CO-TOL,3.85871,-74.93129,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21264,GeoNames:3671208
+CO,73616,co:municipality:73616,RIOBLANCO,Municipio,CO-TOL,3.52973,-75.64525,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21289,GeoNames:3670764
+CO,73622,co:municipality:73622,RONCESVALLES,Municipio,CO-TOL,4.0108,-75.60493,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21299,GeoNames:3670629
+CO,73624,co:municipality:73624,ROVIRA,Municipio,CO-TOL,4.23921,-75.24021,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21302,GeoNames:3670587
+CO,73671,co:municipality:73671,SALDAÑA,Municipio,CO-TOL,3.92923,-75.01517,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21321,GeoNames:3670357
+CO,73675,co:municipality:73675,SAN ANTONIO,Municipio,CO-TOL,3.91423,-75.48009,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21337,GeoNames:3670162
+CO,73678,co:municipality:73678,SAN LUIS,Municipio,CO-TOL,4.13258,-75.09499,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21379,GeoNames:3669399
+CO,73686,co:municipality:73686,SANTA ISABEL,Municipio,CO-TOL,4.71418,-75.09799,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21419,GeoNames:3668716
+CO,73770,co:municipality:73770,SUÁREZ,Municipio,CO-TOL,4.04906,-74.83198,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21500,GeoNames:3667772
+CO,73854,co:municipality:73854,VALLE DE SAN JUAN,Municipio,CO-TOL,4.19869,-75.11733,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21580,GeoNames:3666309
+CO,73861,co:municipality:73861,VENADILLO,Municipio,CO-TOL,4.71929,-74.92918,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21586,GeoNames:3666226
+CO,73870,co:municipality:73870,VILLAHERMOSA,Municipio,CO-TOL,5.03067,-75.11607,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21604,GeoNames:3665986
+CO,73873,co:municipality:73873,VILLARRICA,Municipio,CO-TOL,3.93502,-74.60036,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21611,GeoNames:3665910
+CO,76001,csc:20634,SANTIAGO DE CALI,Municipio,CO-VAC,3.43054,-76.5199,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20634,GeoNames:3687925
+CO,76020,co:municipality:76020,ALCALÁ,Municipio,CO-VAC,4.67468,-75.78188,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20502,GeoNames:3690237
+CO,76036,co:municipality:76036,ANDALUCÍA,Municipio,CO-VAC,4.16983,-76.16716,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20519,GeoNames:3689905
+CO,76041,co:municipality:76041,ANSERMANUEVO,Municipio,CO-VAC,4.79662,-75.99464,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20526,GeoNames:3689831
+CO,76054,co:municipality:76054,ARGELIA,Municipio,CO-VAC,4.72692,-76.12101,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20546,GeoNames:3689613
+CO,76100,co:municipality:76100,BOLÍVAR,Municipio,CO-VAC,4.33837,-76.18436,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20598,GeoNames:3688659
+CO,76109,csc:20605,BUENAVENTURA,Municipio,CO-VAC,3.87962,-77.03105,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20605,GeoNames:3688451
+CO,76111,co:municipality:76111,GUADALAJARA DE BUGA,Municipio,CO-VAC,3.901,-76.29826,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20900,GeoNames:3688256
+CO,76113,co:municipality:76113,BUGALAGRANDE,Municipio,CO-VAC,4.21134,-76.15682,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20612,GeoNames:3688254
+CO,76122,co:municipality:76122,CAICEDONIA,Municipio,CO-VAC,4.33267,-75.8265,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20622,GeoNames:3688071
+CO,76126,co:municipality:76126,CALIMA,Municipio,CO-VAC,3.91667,-76.5,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20636,GeoNames:3687903
+CO,76130,co:municipality:76130,CANDELARIA,Municipio,CO-VAC,3.40807,-76.34804,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20644,GeoNames:3687644
+CO,76147,csc:20661,CARTAGO,Municipio,CO-VAC,4.7454,-75.91247,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20661,GeoNames:3687230
+CO,76233,co:municipality:76233,DAGUA,Municipio,CO-VAC,3.65716,-76.68899,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20774,GeoNames:3685292
+CO,76243,co:municipality:76243,EL ÁGUILA,Municipio,CO-VAC,4.90793,-76.0421,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20835,GeoNames:3685027
+CO,76246,co:municipality:76246,EL CAIRO,Municipio,CO-VAC,4.756063701,-76.21502826,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20789,DANE / MinSalud RDA 1.0.3
+CO,76248,co:municipality:76248,EL CERRITO,Municipio,CO-VAC,3.68532,-76.31203,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20800,GeoNames:3684615
+CO,76250,co:municipality:76250,EL DOVIO,Municipio,CO-VAC,4.50799,-76.23644,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20806,GeoNames:3684266
+CO,76275,co:municipality:76275,FLORIDA,Municipio,CO-VAC,3.32401,-76.23436,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20851,GeoNames:3682393
+CO,76306,co:municipality:76306,GINEBRA,Municipio,CO-VAC,3.72548,-76.2669,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20884,GeoNames:3682039
+CO,76318,co:municipality:76318,GUACARÍ,Municipio,CO-VAC,3.76388,-76.33201,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20897,GeoNames:3681797
+CO,76364,co:municipality:76364,JAMUNDÍ,Municipio,CO-VAC,3.26177,-76.54021,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20958,GeoNames:3680387
+CO,76377,co:municipality:76377,LA CUMBRE,Municipio,CO-VAC,3.65059,-76.56954,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20979,GeoNames:3679317
+CO,76400,csc:21006,LA UNIÓN,Municipio,CO-VAC,4.53314,-76.10337,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21006,GeoNames:3676928
+CO,76403,co:municipality:76403,LA VICTORIA,Municipio,CO-VAC,4.483511142,-75.96677303,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21013,DANE / MinSalud RDA 1.0.3
+CO,76497,co:municipality:76497,OBANDO,Municipio,CO-VAC,4.57463,-75.97352,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21144,GeoNames:3673676
+CO,76520,co:municipality:76520,PALMIRA,Municipio,CO-VAC,3.53479,-76.29774,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21173,GeoNames:3673164
+CO,76563,co:municipality:76563,PRADERA,Municipio,CO-VAC,3.41974,-76.24187,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21222,GeoNames:3671772
+CO,76606,co:municipality:76606,RESTREPO,Municipio,CO-VAC,3.82231,-76.52251,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21285,GeoNames:3670856
+CO,76616,co:municipality:76616,RIOFRÍO,Municipio,CO-VAC,4.15751,-76.2884,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21290,GeoNames:3670754
+CO,76622,co:municipality:76622,ROLDANILLO,Municipio,CO-VAC,4.41369,-76.15259,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21298,GeoNames:3670644
+CO,76670,co:municipality:76670,SAN PEDRO,Municipio,CO-VAC,3.98143244,-76.20836168,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21397,DANE / MinSalud RDA 1.0.3
+CO,76736,co:municipality:76736,SEVILLA,Municipio,CO-VAC,4.26548,-75.93151,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21451,GeoNames:3668132
+CO,76823,co:municipality:76823,TORO,Municipio,CO-VAC,4.61005,-76.07842,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21544,GeoNames:3666881
+CO,76828,co:municipality:76828,TRUJILLO,Municipio,CO-VAC,4.21296,-76.319,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21549,GeoNames:3666680
+CO,76834,csc:21551,TULUÁ,Municipio,CO-VAC,4.08484,-76.19548,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21551,GeoNames:3666645
+CO,76845,co:municipality:76845,ULLOA,Municipio,CO-VAC,4.70295,-75.73774,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21567,GeoNames:3666502
+CO,76863,co:municipality:76863,VERSALLES,Municipio,CO-VAC,4.57475,-76.19885,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21591,GeoNames:3666102
+CO,76869,co:municipality:76869,VIJES,Municipio,CO-VAC,3.69873,-76.44202,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21596,GeoNames:3666025
+CO,76890,co:municipality:76890,YOTOCO,Municipio,CO-VAC,3.86009,-76.38301,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21627,GeoNames:3665678
+CO,76892,co:municipality:76892,YUMBO,Municipio,CO-VAC,3.58236,-76.49147,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21628,GeoNames:3665657
+CO,76895,co:municipality:76895,ZARZAL,Municipio,CO-VAC,4.3958,-76.07113,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21633,GeoNames:3665559
+CO,81001,csc:20536,ARAUCA,Municipio,CO-ARA,7.08471,-70.75908,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20536,GeoNames:3689718
+CO,81065,co:municipality:81065,ARAUQUITA,Municipio,CO-ARA,7.02917,-71.42806,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20537,GeoNames:3689714
+CO,81220,co:municipality:81220,CRAVO NORTE,Municipio,CO-ARA,6.30173,-70.20415,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20746,GeoNames:3685702
+CO,81300,co:municipality:81300,FORTUL,Municipio,CO-ARA,6.79261,-71.77596,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20856,GeoNames:3682361
+CO,81591,co:municipality:81591,PUERTO RONDÓN,Municipio,CO-ARA,6.28048,-71.1,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21253,GeoNames:3671337
+CO,81736,co:municipality:81736,SARAVENA,Municipio,CO-ARA,6.96319,-71.8823,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21444,GeoNames:3668257
+CO,81794,co:municipality:81794,TAME,Municipio,CO-ARA,6.46065,-71.73618,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21508,GeoNames:3667478
+CO,85001,csc:21626,YOPAL,Municipio,CO-CAS,5.33573,-72.3939,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21626,GeoNames:3665688
+CO,85010,co:municipality:85010,AGUAZUL,Municipio,CO-CAS,5.17282,-72.54706,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20495,GeoNames:3690316
+CO,85015,co:municipality:85015,CHÁMEZA,Municipio,CO-CAS,5.21421,-72.86948,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20677,GeoNames:3686819
+CO,85125,co:municipality:85125,HATO COROZAL,Municipio,CO-CAS,6.03948032,-71.52445752,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20937,DANE / MinSalud RDA 1.0.3
+CO,85136,co:municipality:85136,LA SALINA,Municipio,CO-CAS,6.13162,-72.33841,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:149243,GeoNames:3677767
+CO,85139,co:municipality:85139,MANÍ,Municipio,CO-CAS,4.81638,-72.27946,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21062,GeoNames:3675452
+CO,85162,co:municipality:85162,MONTERREY,Municipio,CO-CAS,4.87802,-72.89575,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21101,GeoNames:3769932
+CO,85225,co:municipality:85225,NUNCHÍA,Municipio,CO-CAS,5.529181235,-72.09251937,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21141,DANE / MinSalud RDA 1.0.3
+CO,85230,co:municipality:85230,OROCUÉ,Municipio,CO-CAS,4.79035,-71.33917,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21153,GeoNames:3673536
+CO,85250,co:municipality:85250,PAZ DE ARIPORO,Municipio,CO-CAS,5.88148,-71.89167,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:149244,GeoNames:3672653
+CO,85263,co:municipality:85263,PORE,Municipio,CO-CAS,5.72792,-71.99266,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21220,GeoNames:3671901
+CO,85279,co:municipality:85279,RECETOR,Municipio,CO-CAS,5.22947,-72.76099,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21279,GeoNames:3670934
+CO,85300,co:municipality:85300,SABANALARGA,Municipio,CO-CAS,4.8543,-73.04003,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21310,GeoNames:3769988
+CO,85315,co:municipality:85315,SÁCAMA,Municipio,CO-CAS,6.09908,-72.2488,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21501,GeoNames:3670443
+CO,85325,co:municipality:85325,SAN LUIS DE PALENQUE,Municipio,CO-CAS,5.42139,-71.73167,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21381,GeoNames:3669352
+CO,85400,co:municipality:85400,TÁMARA,Municipio,CO-CAS,5.82998,-72.16286,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21561,GeoNames:3667516
+CO,85410,co:municipality:85410,TAURAMENA,Municipio,CO-CAS,5.01789,-72.74675,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21516,GeoNames:3667355
+CO,85430,co:municipality:85430,TRINIDAD,Municipio,CO-CAS,5.40849,-71.66196,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21548,GeoNames:3666719
+CO,85440,co:municipality:85440,VILLANUEVA,Municipio,CO-CAS,4.61208,-72.92761,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21607,GeoNames:3770044
+CO,86001,co:municipality:86001,MOCOA,Municipio,CO-PUT,1.15284,-76.65208,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21089,GeoNames:3674654
+CO,86219,co:municipality:86219,COLÓN,Municipio,CO-PUT,1.204815876,-76.97376805,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20721,DANE / MinSalud RDA 1.0.3
+CO,86320,co:municipality:86320,ORITO,Municipio,CO-PUT,0.673756323,-76.94313923,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21152,DANE / MinSalud RDA 1.0.3
+CO,86568,co:municipality:86568,PUERTO ASÍS,Municipio,CO-PUT,0.50514,-76.49571,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21233,GeoNames:3671549
+CO,86569,co:municipality:86569,PUERTO CAICEDO,Municipio,CO-PUT,0.68362,-76.60439,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:149248,GeoNames:3829349
+CO,86571,co:municipality:86571,PUERTO GUZMÁN,Municipio,CO-PUT,0.96454,-76.40795,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21243,GeoNames:7541935
+CO,86573,co:municipality:86573,PUERTO LEGUÍZAMO,Municipio,CO-PUT,-0.19337,-74.78189,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21244,GeoNames:3671437
+CO,86749,co:municipality:86749,SIBUNDOY,Municipio,CO-PUT,1.228746922,-76.91307585,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21454,DANE / MinSalud RDA 1.0.3
+CO,86755,co:municipality:86755,SAN FRANCISCO,Municipio,CO-PUT,1.136071096,-76.84726661,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21356,DANE / MinSalud RDA 1.0.3
+CO,86757,co:municipality:86757,SAN MIGUEL,Municipio,CO-PUT,0.34314,-76.91124,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21389,GeoNames:3669293
+CO,86760,co:municipality:86760,SANTIAGO,Municipio,CO-PUT,1.14844,-77.0045,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21435,GeoNames:3668400
+CO,86865,co:municipality:86865,VALLE DEL GUAMUEZ,Municipio,CO-PUT,0.4258,-76.90558,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21581,GeoNames:3763531
+CO,86885,co:municipality:86885,VILLAGARZÓN,Municipio,CO-PUT,0.911149515,-76.74495447,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21602,DANE / MinSalud RDA 1.0.3
+CO,88001,csc:21331,SAN ANDRÉS,Isla,CO-SAP,12.57858,-81.69973,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21331,GeoNames:3670218
+CO,88564,co:municipality:88564,PROVIDENCIA,Municipio,CO-SAP,13.38166,-81.36891,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21224,GeoNames:3668690
+CO,91001,csc:21027,LETICIA,Municipio,CO-AMA,-4.21079,-69.93944,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21027,GeoNames:3676623
+CO,91540,co:municipality:91540,PUERTO NARIÑO,Municipio,CO-AMA,-3.631323222,-70.47199039,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21249,DANE / MinSalud RDA 1.0.3
+CO,94001,co:municipality:94001,INÍRIDA,Municipio,CO-GUA,3.86528,-67.92389,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20949,GeoNames:3671450
+CO,94343,co:municipality:94343,BARRANCOMINAS,Municipio,CO-GUA,3.140558454,-69.69713423,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20572,DANE / MinSalud RDA 1.0.3
+CO,95001,csc:21370,SAN JOSÉ DEL GUAVIARE,Municipio,CO-GUV,2.56799,-72.63972,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21370,GeoNames:3828545
+CO,95015,co:municipality:95015,CALAMAR,Municipio,CO-GUV,1.9596,-72.65315,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20627,GeoNames:3687975
+CO,95025,co:municipality:95025,EL RETORNO,Municipio,CO-GUV,2.33022,-72.62765,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20823,GeoNames:3792387
+CO,95200,co:municipality:95200,MIRAFLORES,Municipio,CO-GUV,1.33667,-71.95111,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21083,GeoNames:3674740
+CO,97001,csc:21088,MITÚ,Municipio,CO-VAU,1.25744,-70.23551,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21088,GeoNames:3674676
+CO,97161,co:municipality:97161,CARURÚ,Municipio,CO-VAU,1.01402,-71.29624,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20663,GeoNames:3792401
+CO,97666,co:municipality:97666,TARAIRA,Municipio,CO-VAU,-0.719822209,-69.90776202,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21511,DANE / MinSalud RDA 1.0.3
+CO,99001,co:municipality:99001,PUERTO CARREÑO,Municipio,CO-VID,6.19041,-67.48391,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21237,GeoNames:3671519
+CO,99524,co:municipality:99524,LA PRIMAVERA,Municipio,CO-VID,5.49056,-70.40917,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21002,GeoNames:3678000
+CO,99624,co:municipality:99624,SANTA ROSALÍA,Municipio,CO-VID,4.968581012,-70.65997097,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:21428,DANE / MinSalud RDA 1.0.3
+CO,99773,co:municipality:99773,CUMARIBO,Municipio,CO-VID,4.44552,-69.79897,DANE / MinSalud RDA 1.0.3,MinSalud RDA 1.0.3,CSC,csc:20755,GeoNames:3685435

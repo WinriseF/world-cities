@@ -1,0 +1,57 @@
+{
+  "DM": { "zh": "多米尼克" },
+  "DO": { "zh": "多米尼加共和国" },
+  "MF": { "zh": "法属圣马丁" },
+  "VG": { "zh": "英属维尔京群岛" },
+  "csc:r:2901": { "zh": "桑坦德省" },
+  "csc:r:4921": { "zh": "波哥大首都区" },
+  "csc:r:5854": { "zh": "全南光州统合特别市" },
+  "csc:r:4388": { "zh": "绍尔德内什蒂" },
+  "csc:r:4378": { "zh": "斯特凡沃德" },
+  "csc:r:2255": { "zh": "中国台湾" },
+  "csc:r:2267": { "zh": "中国香港" },
+  "csc:r:2266": { "zh": "中国澳门" },
+  "csc:134698": { "pinyin": "ma shi ha de" },
+  "ir:2654": { "pinyin": "ma shi ha de li ze" },
+  "ir:2846": { "pinyin": "wu shi ha a nei" },
+  "ir:1352": { "pinyin": "a shi ha nei" },
+  "cn:500000": {
+    "pinyin": "chong qing"
+  },
+  "cn:341500": {
+    "pinyin": "lu an"
+  },
+  "cn:350200": {
+    "pinyin": "xia men",
+    "lat": 24.48,
+    "lon": 118.08,
+    "source": "https://ungegn.un.org/dashboard/cities/details?id=2441"
+  },
+  "cn:331100": {
+    "pinyin": "li shui"
+  },
+  "cn:540300": {
+    "pinyin": "chang du"
+  },
+  "cn:653100": {
+    "pinyin": "ka shi di qu"
+  },
+  "cn:540200": {
+    "en": "Shigatse"
+  },
+  "cn:540500": {
+    "lat": 29.24662,
+    "lon": 91.78338,
+    "source": "https://www.wikidata.org/wiki/Q247599"
+  },
+  "cn:540600": {
+    "lat": 31.47555,
+    "lon": 92.04775,
+    "source": "https://www.wikidata.org/wiki/Q1868994"
+  },
+  "cn:542500": {
+    "lat": 32.50124,
+    "lon": 80.09758,
+    "source": "https://www.wikidata.org/wiki/Q2279283"
+  }
+}

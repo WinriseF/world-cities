@@ -1,0 +1,11 @@
+region_no,region,municipality,zh,id,latitude,longitude,point_source
+01,GY-BA,Mabaruma,马巴鲁马,csc:53826,8.20377,-59.78117,GeoNames 3377301
+02,GY-PM,Anna Regina,安娜雷吉纳,csc:53821,7.26555,-58.48265,GeoNames 7303406
+04,GY-DE,Georgetown,乔治敦,csc:53823,6.80448,-58.15527,GeoNames 3378644
+06,GY-EB,New Amsterdam,新阿姆斯特丹,csc:53830,6.24924,-57.51578,GeoNames 3376762
+06,GY-EB,Rose Hall,罗斯霍尔,gn:3376227,6.25577,-57.35502,GeoNames 3376227
+06,GY-EB,Corriverton,科里弗顿,osm:node:5290688051,5.886677,-57.1393627,OSM town council office 5290688051
+07,GY-CU,Bartica,巴蒂卡,csc:53822,6.40539,-58.62334,GeoNames 3379507
+08,GY-PT,Mahdia,马迪亚,gn:3377263,5.28473,-59.14982,GeoNames 3377263
+09,GY-UT,Lethem,莱瑟姆,csc:53824,3.3726,-59.79967,GeoNames 3377425
+10,GY-UD,Linden,林登,csc:53825,6.00815,-58.30724,GeoNames 3377408

@@ -1,0 +1,752 @@
+country,id,registerCode,name,region,latitude,longitude,coordinateSource,geonamesId,zh,labelSource,note,kind,aliases
+AD,ad:AD-02,AD-02,Canillo,csc:r:489,42.58333,1.65833,gn:3041203,3041203,卡尼略,Q24260,,municipality,[]
+AD,ad:AD-03,AD-03,Encamp,csc:r:487,42.53333,1.63333,gn:3040684,3040684,恩坎普,Q24269,,municipality,[]
+AD,ad:AD-04,AD-04,La Massana,csc:r:493,42.55417,1.48333,gn:3040131,3040131,马萨纳,Q24276,,municipality,[]
+AD,ad:AD-05,AD-05,Ordino,csc:r:491,42.59758,1.52573,gn:3039676,3039676,奥尔迪诺,Q24272,,municipality,[]
+AD,ad:AD-06,AD-06,Sant Julià de Lòria,csc:r:490,42.46247,1.48247,gn:3039162,3039162,圣胡利娅-德洛里亚,Q24282,,municipality,[]
+AD,ad:AD-08,AD-08,Escaldes-Engordany,csc:r:492,42.5,1.56667,gn:3338529,3338529,埃斯卡尔德斯-恩戈尔达尼,Q24286,,municipality,[]
+AD,csc:1,AD-07,Andorra la Vella,csc:r:488,42.50779,1.52109,0.1.7,3041566,安道尔城,Q1863,,capital,[]
+AG,ag:AG-10,AG-10,Codrington,csc:r:3708,17.6394,-61.82437,gn:3576311,3576311,科德灵顿,Q1024679,,municipality,"[""Barbuda Council""]"
+AG,csc:150,,Saint John’s,csc:r:3706,17.12096,-61.84329,0.1.7,3576022,圣约翰,Q36262,,capital,[]
+AW,csc:160396,,Oranjestad,,12.52398,-70.02703,0.1.7,3577154,奥腊涅斯塔德,Q131243,The city spans the two statistical Oranjestad regions,capital,[]
+AW,gn:3577089,,San Nicolas,csc:r:5248,12.43624,-69.90713,gn:3577089,3577089,圣尼古拉斯,Q2605285,,city,"[""San Nicolaas"", ""Sint Nicolaas""]"
+AX,ax:035,035,Brändö,csc:r:5298,60.41238,21.0445,gn:660528,660528,布伦德,Q179706,,municipality,[]
+AX,ax:043,043,Eckerö,csc:r:5294,60.22294,19.55498,gn:3041809,3041809,埃克勒,Q51909,,municipality,[]
+AX,ax:060,060,Finström,csc:r:5289,60.25,19.91667,gn:3041799,3041799,芬斯特伦,Q51914,,municipality,[]
+AX,ax:062,062,Föglö,csc:r:5295,60.01035,20.427,gn:659951,659951,弗格勒,Q179722,,municipality,[]
+AX,ax:065,065,Geta,csc:r:5296,60.41667,19.83333,gn:3041793,3041793,耶塔,Q134675,,municipality,[]
+AX,ax:076,076,Hammarland,csc:r:5292,60.25,19.75,gn:3041777,3041777,哈马兰,Q134685,,municipality,[]
+AX,ax:170,170,Jomala,csc:r:5288,60.16667,19.91667,gn:3041761,3041761,约马拉,Q176178,,municipality,[]
+AX,ax:295,295,Kumlinge,csc:r:5300,60.26124,20.777,gn:650397,650397,库姆灵厄,Q179726,,municipality,[]
+AX,ax:318,318,Kökar,csc:r:5301,59.91667,21.0,gn:651989,651989,雪卡尔,Q179730,,municipality,[]
+AX,ax:417,417,Lemland,csc:r:5290,60.08333,20.08333,gn:648384,648384,莱姆兰,Q176186,,municipality,[]
+AX,ax:438,438,Lumparland,csc:r:5299,60.1156,20.26217,gn:647457,647457,伦帕尔兰,Q176191,,municipality,[]
+AX,ax:736,736,Saltvik,csc:r:5291,60.27978,20.05481,gn:637880,637880,萨尔特维克,Q176196,,municipality,[]
+AX,ax:766,766,Sottunga,csc:r:5302,60.11667,20.75,gn:636159,636159,索通阿,Q179739,,municipality,[]
+AX,ax:771,771,Sund,csc:r:5293,60.24439,20.11942,gn:635817,635817,松德,Q176201,,municipality,[]
+AX,ax:941,941,Vårdö,csc:r:5297,60.24675,20.38176,gn:632425,632425,沃尔德,Q179749,,municipality,[]
+AX,csc:160425,478,Mariehamn,csc:r:5287,60.09726,19.93481,0.1.7,3041733,玛丽港,Q48329,,capital,"[""Maarianhamina""]"
+BB,csc:8448,,Bridgetown,csc:r:1230,13.10732,-59.62021,0.1.7,3374036,布里奇顿,Q36168,,capital,[]
+BB,gn:3373505,,Speightstown,csc:r:1222,13.25072,-59.64396,gn:3373505,3373505,斯佩茨敦,Q2544610,,city,[]
+BB,gn:3373652,,Oistins,csc:r:1228,13.07067,-59.54637,gn:3373652,3373652,奥伊斯廷斯,Q692475,,city,[]
+BB,gn:3373790,,Holetown,csc:r:1224,13.18672,-59.63808,gn:3373790,3373790,霍尔敦,Q2290478,,city,[]
+BM,csc:153515,,Hamilton,,32.294,-64.783,0.1.7,3573197,汉密尔顿,0.1.7,,capital,"[""哈密尔顿""]"
+BM,gn:3573061,,St. George’s,,32.38167,-64.67806,gn:3573061,3573061,圣乔治斯,Q28063,,city,"[""Saint George"", ""Town of St. George""]"
+BN,csc:9816,,Bandar Seri Begawan,csc:r:1216,4.89035,114.94006,0.1.7,1820906,斯里巴加湾市,Q9279,,capital,[]
+BN,gn:1820071,,Tutong,csc:r:1219,4.80278,114.64917,gn:1820071,1820071,北干都东,Q2299301,,city,[]
+BN,gn:1820187,,Seria,csc:r:1217,4.60637,114.32476,gn:1820187,1820187,赛瑞亚镇,Q2159472,,city,[]
+BN,gn:1820491,,Kuala Belait,csc:r:1217,4.58361,114.2312,gn:1820491,1820491,马来奕,Q588045,,city,[]
+BQ,bq:BQ-BO,BQ-BO,Kralendijk,csc:r:5086,12.15,-68.26667,gn:3513563,3513563,克拉伦代克,Q331584,,municipality,"[""Bonaire""]"
+BQ,bq:BQ-SA,BQ-SA,The Bottom,csc:r:5087,17.62652,-63.24971,gn:3513173,3513173,博坦,Q475718,,municipality,"[""Saba""]"
+BQ,bq:BQ-SE,BQ-SE,Oranjestad,csc:r:5088,17.48303,-62.9864,gn:3513426,3513426,奥腊涅斯塔德,Q217610,,municipality,"[""Sint Eustatius""]"
+BS,bs:acklins,,Acklins,csc:r:3601,22.43167,-73.96417,gn:3572937,3572937,,,,municipality,"[""Acklins Island District""]"
+BS,bs:berryislands,,Berry Islands,csc:r:3593,25.72111,-77.83139,gn:3571809,3571809,贝里群岛,existing sources,,municipality,[]
+BS,bs:bimini,,Bimini,csc:r:3629,25.70444,-79.28889,gn:3572807,3572807,,,,municipality,[]
+BS,bs:catisland,,Cat Island,csc:r:3611,24.335,-75.4575,gn:3572678,3572678,卡特岛,existing sources,,municipality,[]
+BS,bs:centralabaco,,Central Abaco,csc:r:3603,26.43917,-77.12972,gn:8030542,8030542,中阿巴科,existing sources,,municipality,[]
+BS,bs:centralandros,,Central Andros,csc:r:3631,24.43889,-77.95194,gn:8030543,8030543,,,,municipality,[]
+BS,bs:centraleleuthera,,Central Eleuthera,csc:r:3596,25.135,-76.14556,gn:8030544,8030544,,,,municipality,[]
+BS,bs:crookedislandandlongcay,,Crooked Island and Long Cay,csc:r:3621,22.73361,-74.21528,gn:8030545,8030545,,,,municipality,"[""Crooked Island and Long Cay District""]"
+BS,bs:eastgrandbahama,,East Grand Bahama,csc:r:3614,26.67167,-78.14139,gn:8030546,8030546,东大巴哈马区,existing sources,,municipality,[]
+BS,bs:exuma,,Exuma,csc:r:3612,23.56944,-75.88417,gn:3572427,3572427,埃克苏马,existing sources,,municipality,[]
+BS,bs:exumacays,,Exuma Cays,,24.09045,-76.39134,gn:3572796,3572796,,,Representative locality inside the statutory district; no exact match in the ISO region shard,municipality,[]
+BS,bs:grandcay,,Grand Cay,csc:r:3632,27.22917,-78.33056,gn:8030547,8030547,,,,municipality,[]
+BS,bs:greatabacocays,,Great Abaco Cays,,26.53855,-76.95745,gn:3572165,3572165,,,Representative locality inside the statutory district; no exact match in the ISO region shard,municipality,[]
+BS,bs:greenturtlecay,,Green Turtle Cay,,26.75818,-77.32482,gn:3572272,3572272,,,Representative locality inside the statutory district; no exact match in the ISO region shard,municipality,[]
+BS,bs:harbourisland,,Harbour Island,csc:r:3613,25.48946,-76.63513,gn:3572238,3572238,哈勃岛,existing sources,,municipality,[]
+BS,bs:inagua,,Inagua,csc:r:3609,21.07694,-73.31167,gn:3572154,3572154,那瓜岛,existing sources,,municipality,[]
+BS,bs:longisland,,Long Island,csc:r:3610,23.21667,-75.11167,gn:3572005,3572005,,,,municipality,[]
+BS,bs:mangrovecay,,Mangrove Cay,csc:r:3625,24.16,-77.78028,gn:8030549,8030549,,,,municipality,[]
+BS,bs:mayaguana,,Mayaguana,csc:r:3633,22.38417,-72.95389,gn:3571894,3571894,,,,municipality,[]
+BS,bs:mooresisland,,Moores Island,csc:r:5717,26.30083,-77.55417,gn:8030550,8030550,,,,municipality,"[""Moore’s Island District""]"
+BS,bs:northabaco,,North Abaco,csc:r:3616,26.78944,-77.43694,gn:8030551,8030551,北阿巴科区,existing sources,,municipality,[]
+BS,bs:northandros,,North Andros,csc:r:3617,24.76694,-78.09611,gn:8030552,8030552,北安德罗斯岛,existing sources,,municipality,[]
+BS,bs:northeleuthera,,North Eleuthera,csc:r:3602,25.46278,-76.67556,gn:8030553,8030553,北伊柳塞拉,existing sources,,municipality,[]
+BS,bs:raggedisland,,Ragged Island,csc:r:3615,22.37083,-75.815,gn:3571629,3571629,拉吉德岛,existing sources,,municipality,[]
+BS,bs:rumcay,,Rum Cay,csc:r:3600,23.67806,-74.85667,gn:8030554,8030554,,,,municipality,[]
+BS,bs:sansalvador,,San Salvador,csc:r:3627,24.03667,-74.49306,gn:3571493,3571493,,,,municipality,"[""San Salvador District""]"
+BS,bs:southabaco,,South Abaco,csc:r:3608,26.04694,-77.24361,gn:8030555,8030555,南阿巴科区,existing sources,,municipality,[]
+BS,bs:southandros,,South Andros,csc:r:3622,23.92361,-77.64889,gn:8030556,8030556,南安德罗斯,existing sources,,municipality,[]
+BS,bs:southeleuthera,,South Eleuthera,csc:r:3607,24.80083,-76.18306,gn:8030557,8030557,南伊柳塞拉,existing sources,,municipality,[]
+BS,bs:spanishwells,,Spanish Wells,csc:r:3630,25.54538,-76.77057,gn:8030558,8030558,西班牙井,existing sources,,municipality,[]
+BS,bs:sweetingscay,,Sweeting’s Cay,,26.61334,-77.86931,gn:3571338,3571338,,,Representative locality inside the statutory district; no exact match in the ISO region shard,municipality,[]
+BS,bs:westgrandbahama,,West Grand Bahama,csc:r:3599,26.59333,-78.60056,gn:8030559,8030559,西大巴哈馬島區,existing sources,,municipality,[]
+BS,csc:143913,,Nassau,csc:r:4881,25.066667,-77.333333,0.1.7,3571824,拿骚,Q2467,,capital,[]
+BS,gn:3572375,,Freeport,csc:r:3626,26.53333,-78.7,gn:3572375,3572375,自由港,existing sources,,city,[]
+DM,csc:31013,,Roseau,csc:r:4079,15.30174,-61.38808,0.1.7,3575635,罗索,Q36281,,capital,[]
+DM,gn:3575654,,Portsmouth,csc:r:4076,15.58288,-61.45592,gn:3575654,3575654,朴次茅斯,Q1014235,,municipality,[]
+DM,gn:8504974,,Canefield,csc:r:4084,15.33137,-61.38916,gn:8504974,8504974,坎菲尔德,Q2936342,,municipality,[]
+EH,csc:67220,,Smara,,26.73841,-11.67194,0.1.7,,斯马拉,existing sources,,municipality,[]
+EH,gn:2461993,,El Marsa,,27.09611,-13.41583,gn:2461993,2461993,,,,municipality,[]
+EH,gn:2462651,,Lagouira,,20.83228,-17.08988,gn:2462651,2462651,拉圭拉,Q1356850,Registered urban commune; historic settlement currently deserted,municipality,"[""La Güera"", ""Lagouera""]"
+EH,gn:2462881,,Laayoune,,27.1418,-13.18797,gn:2462881,2462881,阿尤恩,existing sources,,municipality,"[""El Aaiún"", ""Laâyoune""]"
+EH,gn:2463029,,Boujdour,,26.13073,-14.48513,gn:2463029,2463029,布伊杜尔,Q599897,,municipality,[]
+EH,gn:2463447,,Dakhla,,23.68477,-15.95798,gn:2463447,2463447,达克拉,Q345204,,municipality,[]
+FM,fm:FM101,FM101,Rumung,csc:r:2582,9.622,138.154,gn:4036933,4036933,魯蒙島,Q3942661,,municipality,"[""Rumung Municipality""]"
+FM,fm:FM102,FM102,Maap,csc:r:2582,9.592472,138.165239,boundary,,馬普島,Q1133174,,municipality,"[""Maap Municipality""]"
+FM,fm:FM103,FM103,Gagil,csc:r:2582,9.550917,138.180605,boundary,,加吉爾島,Q3757207,,municipality,"[""Gagil Municipality""]"
+FM,fm:FM104,FM104,Tomil,csc:r:2582,9.541522,138.152393,boundary,,托米尔市,existing sources,,municipality,"[""Tomil Municipality""]"
+FM,fm:FM105,FM105,Fanif,csc:r:2582,9.563046,138.114512,boundary,,法尼夫市,existing sources,,municipality,"[""Fanif Municipality""]"
+FM,fm:FM106,FM106,Weloy,csc:r:2582,9.53158,138.105867,boundary,,韦洛伊,Q4018907,,municipality,"[""Weloy Municipality""]"
+FM,fm:FM107,FM107,Dalipebinaw,csc:r:2582,9.514116,138.084843,boundary,,达利佩比诺市,existing sources,,municipality,"[""Dalipebinaw Municipality""]"
+FM,fm:FM108,FM108,Rull,csc:r:2582,9.487866,138.082084,boundary,,拉尔,Q7379073,,municipality,"[""Rull Municipality""]"
+FM,fm:FM109,FM109,Kanifay,csc:r:2582,9.478726,138.067668,boundary,,卡尼费市,existing sources,,municipality,"[""Kanifay Municipality""]"
+FM,fm:FM110,FM110,Gilman,csc:r:2582,9.451464,138.058382,boundary,,吉尔曼市,existing sources,,municipality,"[""Gilman Municipality""]"
+FM,fm:FM111,FM111,Ulithi,csc:r:2582,10.016831,139.79064,boundary,,,,,municipality,"[""Ulithi Municipality""]"
+FM,fm:FM112,FM112,Fais,csc:r:2582,9.766,140.52,gn:7645769,7645769,法斯島,Q1393489,,municipality,"[""Fais Municipality""]"
+FM,fm:FM113,FM113,Ngulu,csc:r:2582,8.298474,137.487997,boundary,,,,,municipality,"[""Ngulu Municipality""]"
+FM,fm:FM114,FM114,Woleai,csc:r:2582,7.373385,143.907217,boundary,,沃萊艾環礁,Q567984,,municipality,"[""Woleai Municipality""]"
+FM,fm:FM115,FM115,Eauripik,csc:r:2582,6.682869,143.077629,boundary,,歐里皮克環礁,Q1278448,,municipality,"[""Eauripik Municipality""]"
+FM,fm:FM116,FM116,Ifalik,csc:r:2582,7.249386,144.455841,boundary,,伊法利克環礁,Q1430734,,municipality,"[""Ifalik Municipality""]"
+FM,fm:FM117,FM117,Faraulep,csc:r:2582,8.588794,144.523415,boundary,,法勞萊普環礁,Q1396235,,municipality,"[""Faraulep Municipality""]"
+FM,fm:FM118,FM118,Elato,csc:r:2582,7.51116,146.171605,boundary,,埃拉托環礁,Q1325019,,municipality,"[""Elato Municipality""]"
+FM,fm:FM119,FM119,Lamotrek,csc:r:2582,7.456696,146.380297,boundary,,拉莫特雷克環礁,Q1779228,,municipality,"[""Lamotrek Municipality""]"
+FM,fm:FM120,FM120,Satawal,csc:r:2582,7.382,147.0322,gn:7645723,7645723,薩塔瓦爾環礁,Q1851644,,municipality,"[""Satawal Municipality""]"
+FM,fm:FM201,FM201,Weno,csc:r:2580,7.44648,151.84135,gn:2081114,2081114,維諾,Q1009384,,municipality,"[""Weno Municipality""]"
+FM,fm:FM202,FM202,PiisPenau,csc:r:2580,7.676786,151.76468,boundary,,,,,municipality,"[""PiisPenau Municipality""]"
+FM,fm:FM203,FM203,Fono,csc:r:2580,7.484276,151.881827,boundary,,,,,municipality,"[""Fono Municipality""]"
+FM,fm:FM204,FM204,Tonoas,csc:r:2580,7.376144,151.880043,boundary,,托诺阿斯市,existing sources,,municipality,"[""Tonoas Municipality""]"
+FM,fm:FM205,FM205,Fefen,csc:r:2580,7.3417,151.84487,boundary,,费芬市,existing sources,,municipality,"[""Fefen Municipality""]"
+FM,fm:FM206,FM206,Siis,csc:r:2580,7.298745,151.824217,boundary,,锡斯市,existing sources,,municipality,"[""Siis Municipality""]"
+FM,fm:FM207,FM207,Uman,csc:r:2580,7.300999,151.880746,boundary,,,,,municipality,"[""Uman Municipality""]"
+FM,fm:FM208,FM208,Parem,csc:r:2580,7.360428,151.79193,boundary,,帕雷姆市,existing sources,,municipality,"[""Parem Municipality""]"
+FM,fm:FM209,FM209,Eot,csc:r:2580,7.386309,151.738987,boundary,,埃托島,Q1112114,,municipality,"[""Eot Municipality""]"
+FM,fm:FM210,FM210,Udot,csc:r:2580,7.382143,151.713151,boundary,,烏多特島,Q938932,,municipality,"[""Udot Municipality""]"
+FM,fm:FM211,FM211,Romanum,csc:r:2580,7.411342,151.669708,boundary,,羅馬,Q647305,,municipality,"[""Romanum Municipality""]"
+FM,fm:FM212,FM212,Fanapanges,csc:r:2580,7.353506,151.667348,boundary,,法纳潘吉斯市,existing sources,,municipality,"[""Fanapanges Municipality""]"
+FM,fm:FM213,FM213,Wonei,csc:r:2580,7.3826,151.604959,boundary,,沃内市,existing sources,,municipality,"[""Wonei Municipality""]"
+FM,fm:FM214,FM214,Paata,csc:r:2580,7.374652,151.585572,boundary,,,,,municipality,"[""Paata Municipality""]"
+FM,fm:FM215,FM215,Tol,csc:r:2580,7.349114,151.620961,boundary,,托爾島,Q2198810,,municipality,"[""Tol Municipality""]"
+FM,fm:FM216,FM216,Polle,csc:r:2580,7.337354,151.57826,boundary,,,,,municipality,"[""Polle Municipality""]"
+FM,fm:FM217,FM217,Nema,csc:r:2580,6.98922,152.57377,gn:7645215,7645215,尼玛,existing sources,,municipality,"[""Nema Municipality""]"
+FM,fm:FM218,FM218,Losap,csc:r:2580,6.894,152.74,gn:7645217,7645217,洛薩普環礁,Q24573159,,municipality,"[""Losap Municipality""]"
+FM,fm:FM219,FM219,PiisEmwar,csc:r:2580,6.836049,152.702699,boundary,,皮斯-埃姆瓦尔市,existing sources,,municipality,"[""PiisEmwar Municipality""]"
+FM,fm:FM220,FM220,Namoluk,csc:r:2580,5.923282,153.11663,boundary,,納莫魯克環礁,Q1964365,,municipality,"[""Namoluk Municipality""]"
+FM,fm:FM221,FM221,Ettal,csc:r:2580,5.584,153.586,gn:7645270,7645270,埃塔尔市,existing sources,,municipality,"[""Ettal Municipality""]"
+FM,fm:FM222,FM222,Lekinoch,csc:r:2580,5.504455,153.81942,boundary,,,,,municipality,"[""Lekinoch Municipality""]"
+FM,fm:FM223,FM223,Oneop,csc:r:2580,5.5066,153.7105,gn:7645372,7645372,奥诺普市,existing sources,,municipality,"[""Oneop Municipality""]"
+FM,fm:FM224,FM224,Satowan,csc:r:2580,5.334,153.738,gn:7645384,7645384,萨托万市,existing sources,,municipality,"[""Satowan Municipality""]"
+FM,fm:FM225,FM225,Kuttu,csc:r:2580,5.453,153.4575,gn:7645378,7645378,库图市,existing sources,,municipality,"[""Kuttu Municipality""]"
+FM,fm:FM226,FM226,Moch,csc:r:2580,5.4918,153.54,gn:7645375,7645375,莫赫市,existing sources,,municipality,"[""Moch Municipality""]"
+FM,fm:FM227,FM227,Ta,csc:r:2580,5.2842,153.648,gn:7645381,7645381,塔市,existing sources,,municipality,"[""Ta Municipality""]"
+FM,fm:FM228,FM228,Houk,csc:r:2580,6.6894,149.29908,gn:7627628,7627628,胡克市,existing sources,,municipality,"[""Houk Municipality""]"
+FM,fm:FM229,FM229,Polowat,csc:r:2580,7.35661,149.19908,gn:7628103,7628103,波洛瓦特市,existing sources,,municipality,"[""Polowat Municipality""]"
+FM,fm:FM230,FM230,Pollap,csc:r:2580,7.637243,149.429814,boundary,,波拉普市,existing sources,,municipality,"[""Pollap Municipality""]"
+FM,fm:FM231,FM231,Tamatam,csc:r:2580,7.53868,149.41428,gn:7628253,7628253,塔马塔姆市,existing sources,,municipality,"[""Tamatam Municipality""]"
+FM,fm:FM232,FM232,Makur,csc:r:2580,8.985,150.1275,gn:7628283,7628283,马库尔市,existing sources,,municipality,"[""Makur Municipality""]"
+FM,fm:FM233,FM233,Onoun,csc:r:2580,8.575,149.687,gn:7628259,7628259,奥农市,existing sources,,municipality,"[""Onoun Municipality""]"
+FM,fm:FM234,FM234,Onou,csc:r:2580,8.799,150.2915,gn:7628277,7628277,奥努市,existing sources,,municipality,"[""Onou Municipality""]"
+FM,fm:FM235,FM235,Unanu,csc:r:2580,8.75,150.341,gn:7628280,7628280,乌纳努市,existing sources,,municipality,"[""Unanu Municipality""]"
+FM,fm:FM236,FM236,Piherech,csc:r:2580,8.569804,150.419472,boundary,,,,,municipality,"[""Piherech Municipality""]"
+FM,fm:FM237,FM237,Nomwin,csc:r:2580,8.43,151.748,gn:7644931,7644931,诺姆温市,existing sources,,municipality,"[""Nomwin Municipality""]"
+FM,fm:FM238,FM238,Fananu,csc:r:2580,8.55811,151.90922,gn:7645169,7645169,法那努,Q1604754,,municipality,"[""Fananu Municipality""]"
+FM,fm:FM239,FM239,Ruo,csc:r:2580,8.609,152.2455,gn:7645195,7645195,若奥市,existing sources,,municipality,"[""Ruo Municipality""]"
+FM,fm:FM240,FM240,Murillo,csc:r:2580,8.691907,152.340782,boundary,,,,,municipality,"[""Murillo Municipality""]"
+FM,fm:FM301,FM301,Madolenihmw,csc:r:2581,6.859056,158.264089,boundary,,,,,municipality,"[""Madolenihmw Municipality""]"
+FM,fm:FM302,FM302,U,csc:r:2581,6.9408,158.266604,boundary,,烏 (密克羅尼西亞聯邦),Q1966418,,municipality,"[""U Municipality""]"
+FM,fm:FM303,FM303,Nett,csc:r:2581,6.926989,158.228169,boundary,,内特市,existing sources,,municipality,"[""Nett Municipality""]"
+FM,fm:FM304,FM304,Sokehs,csc:r:2581,6.92099,158.154973,boundary,,索克斯市,existing sources,,municipality,"[""Sokehs Municipality""]"
+FM,fm:FM305,FM305,Kitti,csc:r:2581,6.848334,158.204805,boundary,,基蒂市,existing sources,,municipality,"[""Kitti Municipality""]"
+FM,fm:FM306,FM306,Kolonia,csc:r:2581,6.964,158.2062,gn:4043034,4043034,科洛尼亚,Q514165,,municipality,"[""Kolonia Municipality""]"
+FM,fm:FM307,FM307,Mwokilloa,csc:r:2581,6.666314,159.754356,boundary,,,,,municipality,"[""Mwokilloa Municipality""]"
+FM,fm:FM308,FM308,Pingelap,csc:r:2581,6.20589,160.70327,gn:7627186,7627186,平格拉普環礁,Q576348,,municipality,"[""Pingelap Municipality""]"
+FM,fm:FM309,FM309,Sapwuafik,csc:r:2581,5.78849,157.15954,gn:7627088,7627088,,,,municipality,"[""Sapwuafik Municipality""]"
+FM,fm:FM310,FM310,Nukuoro,csc:r:2581,3.83619,154.97143,gn:7627037,7627037,努庫奧羅環礁,Q187864,,municipality,"[""Nukuoro Municipality""]"
+FM,fm:FM311,FM311,Kapingamarangi,csc:r:2581,1.07861,154.80752,gn:7627032,7627032,卡平阿馬朗伊環礁,Q388347,,municipality,"[""Kapingamarangi Municipality""]"
+FM,fm:FM401,FM401,Lelu,csc:r:2583,5.33359,163.02248,gn:7648249,7648249,萊盧島,Q1816727,,municipality,"[""Lelu Municipality""]"
+FM,fm:FM402,FM402,Malem,csc:r:2583,5.28599,163.02609,gn:7648440,7648440,马勒姆市,existing sources,,municipality,"[""Malem Municipality""]"
+FM,fm:FM403,FM403,Utwe,csc:r:2583,5.27486,162.97656,gn:7648441,7648441,乌特韦市,existing sources,,municipality,"[""Utwe Municipality""]"
+FM,fm:FM404,FM404,Tafunsak,csc:r:2583,5.3671,162.98532,gn:7648250,7648250,塔丰萨克市,existing sources,,municipality,"[""Tafunsak Municipality""]"
+FM,gn:7626953,,Sorol,csc:r:2582,8.1435,140.3925,gn:7626953,7626953,索羅爾環礁,Q1369630,,municipality,"[""Sorol Municipality""]"
+FO,csc:153769,504,Húsavíkar kommuna,csc:r:5231,61.809649,-6.679496,0.1.7,2619613,胡萨维克,existing sources,,municipality,"[""Húsavík"", ""Húsavíkar""]"
+FO,fo:101,101,Fugloyar kommuna,csc:r:5230,62.31851,-6.31646,gn:2618855,2621795,富格洛伊,Q934253,,municipality,"[""Fugloy"", ""Fugloyar""]"
+FO,fo:103,103,Viðareiðis kommuna,csc:r:5230,62.35999,-6.5313,gn:2610302,2610303,,,,municipality,"[""Viðareiði"", ""Viðareiðis""]"
+FO,fo:104,104,Hvannasunds kommuna,csc:r:5230,62.29667,-6.55334,gn:2619569,2619569,,,,municipality,"[""Hvannasund"", ""Hvannasunds""]"
+FO,fo:105,105,Klaksvíkar kommuna,csc:r:5230,62.22655,-6.58901,gn:2618795,2618796,克拉克斯维克市镇,Q1094328,,municipality,"[""Klaksvik"", ""Klaksvíkar""]"
+FO,fo:106,106,Kunoyar kommuna,csc:r:5230,62.30388,-6.64754,gn:2618119,2618121,昆诺伊市镇,Q3364807,,municipality,"[""Kunoy"", ""Kunoyar""]"
+FO,fo:203,203,Fuglafjarðar kommuna,csc:r:5229,62.25322,-6.80054,gn:2621810,2621810,富格拉菲厄泽,existing sources,,municipality,"[""Fuglafjarðar"", ""Fuglafjørður""]"
+FO,fo:205,205,Eysturkommuna,csc:r:5229,62.20907,-6.75247,gn:7798678,7798679,埃斯图尔市镇,Q548193,,municipality,"[""Eystur""]"
+FO,fo:206,206,Nes kommuna,csc:r:5229,62.09553,-6.72089,gn:2616501,2616501,内斯市镇,Q6479325,,municipality,"[""Nes""]"
+FO,fo:207,207,Runavíkar kommuna,csc:r:5229,62.10677,-6.7202,gn:2614403,2614403,鲁纳维克,existing sources,,municipality,"[""Runavík"", ""Runavíkar""]"
+FO,fo:208,208,Sjóvar kommuna,csc:r:5229,62.13471,-6.79916,gn:7798686,7798686,肖瓦尔市镇,Q1187370,,municipality,"[""Sjóvar""]"
+FO,fo:210,210,Eiðis kommuna,csc:r:5229,62.2993,-7.09245,gn:2622676,2622677,埃伊,existing sources,,municipality,"[""Eiði"", ""Eiðis""]"
+FO,fo:211,211,Sunda kommuna,csc:r:5229,62.20523,-6.98181,gn:7798685,7798685,松达,Q768990,Sunda spans islands; the municipal seat Oyrarbakki is on Eysturoy,municipality,"[""Sunda""]"
+FO,fo:306,306,Kvívíkar kommuna,csc:r:5232,62.13005,-7.04636,gn:2618086,2618086,,,,municipality,"[""Kvívík"", ""Kvívíkar""]"
+FO,fo:307,307,Vestmanna kommuna,csc:r:5232,62.16422,-7.16927,gn:2610344,2610344,韦斯特曼纳,existing sources,,municipality,"[""Vestmanna""]"
+FO,fo:402,402,Vága kommuna,csc:r:5234,62.08267,-7.16171,gn:7798680,7798680,沃格市镇,Q1079322,,municipality,"[""Vága"", ""Vága Municipality""]"
+FO,fo:403,403,Sørvágs kommuna,csc:r:5234,62.06917,-7.30247,gn:2612891,2612891,瑟沃格市镇,Q648131,,municipality,"[""Sørvágs"", ""Sørvágur""]"
+FO,fo:501,501,Sands kommuna,csc:r:5231,61.84449,-6.80603,gn:2614213,2614213,桑德尔,existing sources,,municipality,"[""Sands"", ""Sandur""]"
+FO,fo:502,502,Skopunar kommuna,csc:r:5231,61.90285,-6.88234,gn:2613660,2613661,,,,municipality,"[""Skopun"", ""Skopunar""]"
+FO,fo:503,503,Skálavíkar kommuna,csc:r:5231,61.83141,-6.6623,gn:2613921,2613922,斯卡拉维克,existing sources,,municipality,"[""Skálavík"", ""Skálavíkar""]"
+FO,fo:505,505,Skúvoyar kommuna,csc:r:5231,61.77103,-6.80501,gn:2613477,2613479,,,,municipality,"[""Skúvoy"", ""Skúvoyar""]"
+FO,fo:601,601,Hvalbiar kommuna,csc:r:5233,61.60237,-6.96063,gn:2619596,2619592,克瓦尔巴,Q666627,,municipality,"[""Hvalbiar"", ""Hvalbøur""]"
+FO,fo:602,602,Tvøroyrar kommuna,csc:r:5233,61.55557,-6.81109,gn:2611060,7798684,特沃罗伊里,existing sources,,municipality,"[""Tvøroyrar"", ""Tvøroyri""]"
+FO,fo:603,603,Famjins kommuna,csc:r:5233,61.52106,-6.86852,gn:2622349,2622349,福阿姆因,existing sources,,municipality,"[""Famjins"", ""Fámjin""]"
+FO,fo:604,604,Hovs kommuna,csc:r:5233,61.50684,-6.75993,gn:2619734,2619738,霍夫,Q1025136,,municipality,"[""Hov"", ""Hovs""]"
+FO,fo:605,605,Porkeris kommuna,csc:r:5233,61.48135,-6.74497,gn:2615132,2615133,波切里,Q943723,,municipality,"[""Porkeri"", ""Porkeris""]"
+FO,fo:606,606,Vágs kommuna,csc:r:5233,61.46764,-6.80878,gn:2610808,2610808,沃格,existing sources,,municipality,"[""Vágs"", ""Vágur""]"
+FO,fo:607,607,Sumbiar kommuna,csc:r:5233,61.42498,-6.71883,gn:2612088,2612088,,,,municipality,"[""Sumbiar"", ""Sunnbøur""]"
+FO,fo:701,701,Tórshavnar kommuna,csc:r:5232,62.00973,-6.77164,gn:2611396,2611397,托尔斯港市镇,Q944273,,municipality,"[""Tórshavn"", ""Tórshavnar""]"
+GD,csc:52032,,Saint George’s,csc:r:3864,12.05288,-61.75226,0.1.7,3579925,圣乔治,Q41547,,capital,"[""Saint George's""]"
+GD,gn:3579833,,Victoria,csc:r:3866,12.19021,-61.70677,gn:3579833,3579833,维多利亚,Q12874663,,city,[]
+GD,gn:3579891,,Sauteurs,csc:r:3863,12.21833,-61.63917,gn:3579891,3579891,索特爾,Q1318103,,city,[]
+GD,gn:3579931,,Saint David’s,csc:r:3869,12.04903,-61.66875,gn:3579931,3579931,聖戴維,Q7587702,,city,[]
+GD,gn:3580215,,Hillsborough,csc:r:3867,12.48292,-61.45597,gn:3580215,3580215,希爾斯堡,Q3267362,,city,[]
+GD,gn:3580236,,Grenville,csc:r:3865,12.12278,-61.62498,gn:3580236,3580236,格伦维尔,Q3116519,,city,[]
+GD,gn:3580279,,Gouyave,csc:r:3868,12.16462,-61.72965,gn:3580279,3580279,古亞夫,Q375507,,city,[]
+GF,gf:97301,97301,Régina,,4.0082,-52.4798,register,,雷日纳,Q996195,,municipality,[]
+GF,gf:97302,97302,Cayenne,,4.9464,-52.3319,register,,卡宴,Q44401,,municipality,[]
+GF,gf:97303,97303,Iracoubo,,5.2396,-53.2979,register,,伊拉库博,Q432072,,municipality,[]
+GF,gf:97304,97304,Kourou,,4.9085,-52.7767,register,,库鲁,Q273312,,municipality,[]
+GF,gf:97305,97305,Macouria,,4.9925,-52.4835,register,,马库里亚,Q938040,,municipality,[]
+GF,gf:97306,97306,Mana,,4.9955,-53.6784,register,,马纳,Q202393,,municipality,[]
+GF,gf:97307,97307,Matoury,,4.8281,-52.3498,register,,马图里,Q816739,,municipality,[]
+GF,gf:97308,97308,Saint-Georges,,3.8078,-52.075,register,,聖喬治,Q731606,,municipality,[]
+GF,gf:97309,97309,Remire-Montjoly,,4.8897,-52.2809,register,,雷米尔-蒙若利,Q996222,,municipality,[]
+GF,gf:97310,97310,Roura,,4.4685,-52.5164,register,,鲁拉,Q996422,,municipality,[]
+GF,gf:97311,97311,Saint-Laurent-du-Maroni,,4.9478,-54.0105,register,,马罗尼河畔圣洛朗,Q319959,,municipality,[]
+GF,gf:97312,97312,Sinnamary,,5.2418,-53.0097,register,,锡纳马里,Q948333,,municipality,[]
+GF,gf:97313,97313,Montsinéry-Tonnegrande,,4.8124,-52.5059,register,,蒙西内里-托内格朗德,Q668084,,municipality,[]
+GF,gf:97314,97314,Ouanary,,4.2104,-51.8262,register,,瓦纳里,Q996267,,municipality,[]
+GF,gf:97352,97352,Saül,,3.8181,-53.4333,register,,萨于勒,Q910382,,municipality,[]
+GF,gf:97353,97353,Maripasoula,,3.049,-53.8276,register,,马里帕苏拉,Q846239,,municipality,[]
+GF,gf:97356,97356,Camopi,,2.8679,-52.6916,register,,卡莫皮,Q996153,,municipality,[]
+GF,gf:97357,97357,Grand-Santi,,4.3756,-54.1149,register,,格朗桑蒂,Q948369,,municipality,[]
+GF,gf:97358,97358,Saint-Élie,,4.4853,-53.1108,register,,圣埃利,Q371808,,municipality,[]
+GF,gf:97360,97360,Apatou,,4.9019,-54.2171,register,,阿帕图,Q618086,,municipality,[]
+GF,gf:97361,97361,Awala-Yalimapo,,5.6742,-53.9167,register,,阿瓦拉-亚利马波,Q791602,,municipality,[]
+GF,gf:97362,97362,Papaichton,,4.0165,-54.0463,register,,帕派什通,Q744546,,municipality,[]
+GM,csc:52221,,Banjul,csc:r:2666,13.45274,-16.57803,0.1.7,2413876,班珠尔,Q3726,,capital,[]
+GM,gn:2413106,,Kanifing,,13.44639,-16.67444,gn:2413106,2413106,,,Independent metropolitan municipality; the previous region shard contains no Kanifing unit,municipality,[]
+GU,csc:160269,,Hagåtña,,13.47567,144.74886,0.1.7,4044019,,,,capital,[]
+GU,gn:4038478,,Piti,,13.46256,144.69331,gn:4038473,4038478,皮蒂,Q2482463,,municipality,[]
+GU,gn:4038555,,Sånta Rita-Sumai,,13.38608,144.67226,gn:4038554,4038555,,,,municipality,"[""Santa Rita""]"
+GU,gn:4038590,,Sinajana,,13.46334,144.75406,gn:4038588,4038590,,,,municipality,[]
+GU,gn:4038652,,Talo’fo’fo,,13.35513,144.75835,gn:4038647,4038652,,,,municipality,"[""Talofofo""]"
+GU,gn:4038661,,Tamuning-Tumon-Harmon,,13.48773,144.78138,gn:4038659,4038661,塔穆宁,Q933714,,municipality,[]
+GU,gn:4038739,,Humåtak,,13.29843,144.66314,gn:4038733,4038739,,,,municipality,"[""Umatac""]"
+GU,gn:4038796,,Yigo,,13.53605,144.88855,gn:4038794,4038796,,,,municipality,[]
+GU,gn:4038811,,Yona,,13.40974,144.77697,gn:4038809,4038811,,,,municipality,[]
+GU,gn:4043396,,Malesso’,,13.26584,144.66908,gn:4043399,4043396,马利索,Q2482497,,municipality,"[""Merizo""]"
+GU,gn:4043416,,Mangilao,,13.44761,144.80109,gn:7268049,4043416,曼吉劳,Q2637935,,municipality,[]
+GU,gn:4043524,,Agana Heights,,13.46559,144.74795,gn:4043525,4043524,阿加納高地,Q2714496,,municipality,[]
+GU,gn:4043614,,Chalan Pago-Ordot,,13.44741,144.75902,gn:4043615,4043614,洽蘭帕果渥多特,Q2482483,,municipality,[]
+GU,gn:4043691,,Asan-Maina,,13.47215,144.71654,gn:4043812,4043691,阿桑麥納,Q926116,,municipality,[]
+GU,gn:4043725,,Hågat,,13.383,144.66003,gn:4043804,4043725,亞加特,Q665845,,municipality,"[""Agat""]"
+GU,gn:4043877,,Dededo,,13.51777,144.8391,gn:4043909,4043877,德德多,Q1182147,,municipality,[]
+GU,gn:4043885,,Barrigada,,13.46913,144.79901,gn:4043656,4043885,巴里加達,Q2714489,,municipality,[]
+GU,gn:4044041,,Inalåhan,,13.27363,144.74845,gn:4043499,4044041,,,,municipality,"[""Inarajan""]"
+GU,gn:4044148,,Mongmong-Toto-Maite,,13.46857,144.78214,gn:7873866,4044148,芒芒-圖圖-麥伊特,Q1780393,,municipality,[]
+IM,gn:3042192,,Ramsey,,54.32273,-4.38526,gn:3042192,3042192,拉姆齊,Q150106,,municipality,[]
+IM,gn:3042198,,Peel,,54.22209,-4.69099,gn:3042198,3042198,皮尔 (曼岛),Q147524,,municipality,[]
+IM,gn:3042255,,Castletown,,54.07445,-4.65365,gn:3042255,3042255,卡斯爾敦,Q158530,,municipality,[]
+IM,gn:9782164,,Andreas,,54.36742,-4.44251,gn:9782164,9782164,安德烈亚斯,existing sources,,municipality,[]
+IM,gn:9782166,,Ballaugh,,54.31278,-4.54225,gn:9782166,9782166,巴拉夫,existing sources,,municipality,[]
+IM,gn:9782167,,Braddan,,54.16319,-4.5062,gn:9782167,9782167,布拉丹,existing sources,,municipality,[]
+IM,gn:9782168,,Bride,,54.38311,-4.39088,gn:9782168,9782168,,,,municipality,[]
+IM,gn:9782171,,German,,54.22317,-4.6291,gn:9782171,9782171,,,,municipality,[]
+IM,gn:9782172,,Jurby,,54.36276,-4.51838,gn:9782172,9782172,朱比,existing sources,,municipality,[]
+IM,gn:9782176,,Lezayre,,54.31734,-4.41985,gn:9782176,9782176,莱扎尔,existing sources,,municipality,[]
+IM,gn:9782182,,Malew,,54.10563,-4.63125,gn:9782182,9782182,,,,municipality,[]
+IM,gn:9782183,,Marown,,54.1739,-4.57392,gn:9782183,9782183,马罗恩,existing sources,,municipality,[]
+IM,gn:9782185,,Michael,,54.28326,-4.58993,gn:9782185,9782185,迈克尔,existing sources,,municipality,[]
+IM,gn:9782186,,Onchan,,54.17478,-4.45521,gn:9782186,9782186,昂坎,existing sources,,municipality,[]
+IM,gn:9782187,,Patrick,,54.20486,-4.69314,gn:9782187,9782187,,,,municipality,[]
+IM,gn:9782189,,Port Erin,,54.08523,-4.74987,gn:9782189,9782189,,,,municipality,[]
+IM,gn:9782190,,Port St Mary,,54.07589,-4.7397,gn:9782190,9782190,,,,municipality,[]
+IM,gn:9782193,,Santon,,54.10567,-4.55701,gn:9782193,9782193,桑顿,existing sources,,municipality,[]
+IM,im:arbory-rushen,,Arbory and Rushen,,54.1,-4.68333,gn:3042267,3042267,,,Ballabeg in the merged district,municipality,[]
+IM,im:garff,,Garff,,54.23017,-4.39985,gn:3042217,3042217,,,"Laxey, where the commissioners are based",municipality,[]
+IM,wd:Q18569,,Douglas,,54.15,-4.4775,0.1.7,3042237,道格拉斯,Q18569,,capital,[]
+KN,csc:165144,,Basseterre,csc:r:5348,17.2955,-62.72499,0.1.7,3575551,巴斯特尔,Q41295,,capital,[]
+KN,gn:3575156,,Sandy Point Town,csc:r:3836,17.35908,-62.84858,gn:3575156,3575156,沙角鎮,Q1972542,,city,[]
+KN,gn:3575240,,Old Road Town,csc:r:3842,17.32215,-62.80337,gn:3575240,3575240,舊羅德鎮,Q3395187,,city,[]
+KN,gn:3575441,,Dieppe Bay Town,csc:r:3845,17.41473,-62.8139,gn:3575441,3575441,迪耶普灣鎮,Q1010810,,city,[]
+KN,gn:3575479,,Charlestown,csc:r:3838,17.13333,-62.61667,gn:3575479,3575479,查尔斯敦,Q992311,,city,[]
+LI,csc:66447,LI-11,Vaduz,csc:r:452,47.14151,9.52154,0.1.7,3042031,瓦杜兹,Q1844,,capital,[]
+LI,li:LI-01,LI-01,Balzers,csc:r:458,47.0677,9.50408,gn:3042074,3042074,巴尔策斯,Q49663,,municipality,[]
+LI,li:LI-02,LI-02,Eschen,csc:r:451,47.20178,9.53588,gn:3042069,3042069,埃申,Q4540,,municipality,[]
+LI,li:LI-03,LI-03,Gamprin,csc:r:457,47.21986,9.50995,gn:3042063,3042063,甘普林,Q49662,,municipality,[]
+LI,li:LI-04,LI-04,Mauren,csc:r:455,47.21513,9.55898,gn:3042056,3042056,毛伦,Q49661,,municipality,[]
+LI,li:LI-05,LI-05,Planken,csc:r:454,47.18015,9.55994,gn:3042050,3042050,普兰肯,Q49660,,municipality,[]
+LI,li:LI-06,LI-06,Ruggell,csc:r:453,47.24502,9.53323,gn:3042047,3042047,鲁格尔,Q49659,,municipality,[]
+LI,li:LI-07,LI-07,Schaan,csc:r:450,47.17433,9.52401,gn:3042042,3042042,沙恩,Q49657,,municipality,[]
+LI,li:LI-08,LI-08,Schellenberg,csc:r:449,47.23431,9.55103,gn:3042038,3042038,施伦贝格,Q49655,,municipality,[]
+LI,li:LI-09,LI-09,Triesen,csc:r:459,47.08381,9.55517,gn:3042036,3042036,特里森,Q49654,,municipality,[]
+LI,li:LI-10,LI-10,Triesenberg,csc:r:456,47.12663,9.55962,gn:3042034,3042034,特里森貝格,Q49651,,municipality,[]
+LV,csc:66948,100003003,Rīga,csc:r:4491,56.946,24.10589,0.1.7,456172,里加,Q1773,,capital,"[""Riga""]"
+LV,lv:100003011,100003011,Daugavpils,csc:r:4463,55.88333,26.53333,gn:460413,460413,陶格夫匹尔斯,Q80021,,city,[]
+LV,lv:100003028,100003028,Jelgava,csc:r:4500,56.65,23.71278,gn:459279,459279,叶尔加瓦,Q179830,,city,[]
+LV,lv:100003036,100003036,Jūrmala,csc:r:4446,56.968,23.77038,gn:459201,459201,尤尔马拉,Q178382,,city,[]
+LV,lv:100003044,100003044,Liepāja,csc:r:4460,56.50474,21.01085,gn:457954,457954,利耶帕亚,Q167668,,city,[]
+LV,lv:100003052,100003052,Rēzekne,csc:r:4509,56.51028,27.34,gn:456202,456202,雷泽克内,Q180379,,city,[]
+LV,lv:100003060,100003060,Ventspils,csc:r:4421,57.39485,21.56121,gn:454310,454310,文茨皮尔斯,existing sources,,city,[]
+LV,lv:100003077,100003077,Aizkraukle,csc:r:4472,56.60477,25.25534,gn:461615,461615,艾兹克劳克莱,Q411715,,city,[]
+LV,lv:100003085,100003085,Jaunjelgava,csc:r:4472,56.61319,25.08316,gn:459402,459402,新叶尔加瓦,Q835771,,city,[]
+LV,lv:100003093,100003093,Pļaviņas,csc:r:4472,56.6178,25.72552,gn:456635,456635,普利亚维尼亚斯,Q567747,,city,[]
+LV,lv:100003108,100003108,Alūksne,csc:r:4487,57.4215,27.04672,gn:461528,461528,阿卢克斯内,Q291333,,city,[]
+LV,lv:100003116,100003116,Ape,csc:r:4462,57.53928,26.69291,gn:461442,461442,阿佩,Q618119,,city,[]
+LV,lv:100003124,100003124,Balvi,csc:r:4505,57.1313,27.26583,gn:461163,461163,巴尔维,Q218402,,city,[]
+LV,lv:100003132,100003132,Viļaka,csc:r:4505,57.18458,27.6722,gn:454130,454130,维利亚卡,Q26441,,city,[]
+LV,lv:100003140,100003140,Bauska,csc:r:4465,56.4071,24.18733,gn:461114,461114,包斯卡,Q498256,,city,[]
+LV,lv:100003157,100003157,Cēsis,csc:r:4469,57.31188,25.27456,gn:460570,460570,采西斯,Q107582,,city,[]
+LV,lv:100003165,100003165,Līgatne,csc:r:4469,57.23429,25.04059,gn:457912,457912,利加特内,Q853761,,city,[]
+LV,lv:100003173,100003173,Ilūkste,csc:r:4492,55.97754,26.29655,gn:459586,459586,伊盧克斯泰,Q580373,,city,[]
+LV,lv:100003181,100003181,Subate,csc:r:4492,56.0062,25.90756,gn:455102,455102,苏巴泰,Q60044,,city,[]
+LV,lv:100003198,100003198,Dobele,csc:r:4437,56.62372,23.2751,gn:460312,460312,多贝莱,Q729447,,city,[]
+LV,lv:100003204,100003204,Auce,csc:r:4437,56.45981,22.90169,gn:461336,461336,奥采,Q758578,,city,[]
+LV,lv:100003212,100003212,Gulbene,csc:r:4400,57.17767,26.75291,gn:459668,459668,古尔贝内,Q753010,,city,[]
+LV,lv:100003245,100003245,Aknīste,csc:r:4438,56.16152,25.74783,gn:461566,461566,阿克尼斯泰,Q420333,,city,[]
+LV,lv:100003253,100003253,Viesīte,csc:r:4438,56.34751,25.55514,gn:454216,454216,维耶西泰,Q641220,,city,[]
+LV,lv:100003261,100003261,Krāslava,csc:r:4474,55.89514,27.16799,gn:458623,458623,克拉斯拉瓦,Q638592,,city,[]
+LV,lv:100003278,100003278,Dagda,csc:r:4474,56.09512,27.53723,gn:460474,460474,达格达,Q757101,,city,[]
+LV,lv:100003286,100003286,Kuldīga,csc:r:4490,56.97399,21.95721,gn:458460,458460,库尔迪加,existing sources,,city,[]
+LV,lv:100003294,100003294,Skrunda,csc:r:4490,56.67749,22.01649,gn:455520,455520,斯克伦达,existing sources,,city,[]
+LV,lv:100003300,100003300,Aizpute,csc:r:4508,56.72108,21.60156,gn:461602,461602,艾兹普泰,Q411723,,city,[]
+LV,lv:100003317,100003317,Durbe,csc:r:4508,56.5887,21.36978,gn:460171,460171,杜尔贝,Q840801,,city,[]
+LV,lv:100003325,100003325,Grobiņa,csc:r:4508,56.53521,21.16782,gn:459692,459692,格罗比尼亚,existing sources,,city,[]
+LV,lv:100003333,100003333,Pāvilosta,csc:r:4508,56.88791,21.18593,gn:456827,456827,帕维洛斯塔,Q840717,,city,[]
+LV,lv:100003341,100003341,Priekule,csc:r:4508,56.44679,21.58968,gn:456506,456506,普列库莱,existing sources,,city,[]
+LV,lv:100003358,100003358,Limbaži,csc:r:4418,57.51287,24.71941,gn:457890,457890,林巴日,Q166684,,city,[]
+LV,lv:100003366,100003366,Ainaži,csc:r:4418,57.86348,24.35853,gn:461628,461628,艾纳日,Q405931,,city,[]
+LV,lv:100003374,100003374,Aloja,csc:r:4418,57.76723,24.87743,gn:461539,461539,阿洛亚,Q659019,,city,[]
+LV,lv:100003382,100003382,Salacgrīva,csc:r:4418,57.75312,24.35895,gn:455910,455910,萨拉茨格里瓦,Q659665,,city,[]
+LV,lv:100003390,100003390,Staicele,csc:r:4418,57.83579,24.74706,gn:455298,455298,斯泰采莱,Q844464,,city,[]
+LV,lv:100003405,100003405,Ludza,csc:r:4501,56.53373,27.72155,gn:457776,457776,卢扎,Q744259,,city,[]
+LV,lv:100003413,100003413,Kārsava,csc:r:4501,56.78405,27.68829,gn:458972,458972,卡爾薩瓦市鎮,Q2395952,,city,[]
+LV,lv:100003421,100003421,Zilupe,csc:r:4501,56.38616,28.12165,gn:453850,453850,济卢佩,Q203375,,city,[]
+LV,lv:100003438,100003438,Madona,csc:r:5858,56.85329,26.21698,gn:457714,457714,马多纳,Q586048,,city,[]
+LV,lv:100003446,100003446,Cesvaine,csc:r:5858,56.96754,26.30764,gn:460568,460568,采斯瓦伊内,Q757050,,city,[]
+LV,lv:100003454,100003454,Lubāna,csc:r:5858,56.90425,26.71606,gn:457799,457799,卢巴纳,Q844477,,city,[]
+LV,lv:100003462,100003462,Varakļāni,csc:r:5858,56.60826,26.75377,gn:454530,454530,瓦拉克利亚尼,Q849141,,city,[]
+LV,lv:100003470,100003470,Ogre,csc:r:4416,56.8162,24.61401,gn:457065,457065,奥格雷,Q731915,,city,[]
+LV,lv:100003487,100003487,Ikšķile,csc:r:4416,56.83399,24.49679,gn:459598,459598,伊克斯基莱,existing sources,,city,[]
+LV,lv:100003495,100003495,Ķegums,csc:r:4416,56.7451,24.72439,gn:458892,458892,基耶古姆斯,Q344621,,city,[]
+LV,lv:100003501,100003501,Lielvārde,csc:r:4416,56.72066,24.80743,gn:457965,457965,利耶尔瓦尔代,Q597346,,city,[]
+LV,lv:100003518,100003518,Preiļi,csc:r:4483,56.29444,26.72459,gn:456530,456530,普雷利,Q858476,,city,[]
+LV,lv:100003526,100003526,Līvāni,csc:r:4401,56.35431,26.17579,gn:457860,457860,利瓦尼,Q849156,,city,[]
+LV,lv:100003534,100003534,Viļāni,csc:r:4455,56.55253,26.92449,gn:454178,454178,维利亚尼,Q836513,,city,[]
+LV,lv:100003542,100003542,Baldone,csc:r:4435,56.74451,24.40078,gn:461224,461224,巴尔东埃,Q789351,,city,[]
+LV,lv:100003550,100003550,Baloži,csc:r:4435,56.87643,24.11825,gn:864721,864721,巴洛日,Q757043,,city,[]
+LV,lv:100003567,100003567,Olaine,csc:r:4417,56.79583,23.93726,gn:457052,457052,奥莱内,Q249715,,city,[]
+LV,lv:100003575,100003575,Salaspils,csc:r:4402,56.86014,24.36544,gn:455898,455898,萨拉斯皮尔斯,Q732986,,city,[]
+LV,lv:100003583,100003583,Saulkrasti,csc:r:4443,57.26224,24.41471,gn:455812,455812,绍尔克拉斯蒂,Q840823,,city,[]
+LV,lv:100003591,100003591,Sigulda,csc:r:4476,57.15375,24.85953,gn:455718,455718,锡古尔达,Q465698,,city,[]
+LV,lv:100003606,100003606,Vangaži,csc:r:4493,57.09358,24.54468,gn:454537,454537,万加日,Q849832,,city,[]
+LV,lv:100003614,100003614,Saldus,csc:r:4439,56.66363,22.48807,gn:455890,455890,萨尔杜斯,Q744247,,city,[]
+LV,lv:100003622,100003622,Brocēni,csc:r:4439,56.6789,22.56945,gn:460786,460786,布罗采尼,Q840836,,city,[]
+LV,lv:100003630,100003630,Talsi,csc:r:4459,57.24562,22.58137,gn:454970,454970,塔尔西,Q520405,,city,[]
+LV,lv:100003647,100003647,Sabile,csc:r:4459,57.04577,22.57261,gn:455937,455937,萨比莱,existing sources,,city,[]
+LV,lv:100003655,100003655,Stende,csc:r:4459,57.14497,22.53482,gn:455260,455260,斯滕代,existing sources,,city,[]
+LV,lv:100003663,100003663,Valdemārpils,csc:r:4459,57.37068,22.59188,gn:454584,454584,瓦尔代马尔皮尔斯,existing sources,,city,[]
+LV,lv:100003671,100003671,Tukums,csc:r:4409,56.96764,23.15554,gn:454768,454768,图库姆斯,Q636935,,city,[]
+LV,lv:100003688,100003688,Kandava,csc:r:4409,57.04087,22.77466,gn:459031,459031,坎达瓦,Q849152,,city,[]
+LV,lv:100003696,100003696,Valka,csc:r:4425,57.7752,26.01013,gn:454572,454572,瓦尔卡,Q323774,,city,[]
+LV,lv:100003702,100003702,Seda,csc:r:4473,57.65042,25.75089,gn:455786,455786,塞达,Q578527,,city,[]
+LV,lv:100003710,100003710,Smiltene,csc:r:4462,57.42444,25.90164,gn:455406,455406,斯米尔泰内,Q840806,,city,[]
+LV,lv:100003727,100003727,Strenči,csc:r:4473,57.62574,25.68535,gn:455166,455166,斯特伦奇,Q851399,,city,[]
+LV,lv:100003743,100003743,Mazsalaca,csc:r:4473,57.86329,25.05475,gn:457533,457533,马兹萨拉察,Q844468,,city,[]
+LV,lv:100003751,100003751,Rūjiena,csc:r:4473,57.89752,25.33155,gn:456008,456008,鲁伊耶纳,Q765976,,city,[]
+LV,lv:100003768,100003768,Piltene,csc:r:4403,57.22426,21.67439,gn:456696,456696,皮尔泰内,Q838491,,city,[]
+LV,lv:100003776,100003776,Jēkabpils,csc:r:4438,56.49903,25.85735,gn:459283,459283,叶卡布皮尔斯,Q191120,,city,[]
+LV,lv:100003784,100003784,Iecava,csc:r:4465,56.59766,24.20763,gn:459624,459624,耶察瓦,Q1023764,,city,[]
+LV,lv:100003792,100003792,Koknese,csc:r:4472,56.65163,25.43637,gn:458687,458687,科肯胡森,Q504681,,city,[]
+LV,lv:100003807,100003807,Valmiera,csc:r:4473,57.54108,25.42751,gn:453754,453754,瓦尔米耶拉,Q108037,,city,[]
+LV,lv:100003815,100003815,Mārupe,csc:r:4450,56.90544,24.05113,gn:864723,864723,马鲁佩,Q987175,,city,[]
+LV,lv:100003823,100003823,Ādaži,csc:r:4454,57.0708,24.33678,gn:461650,461650,,,,city,[]
+LV,lv:100003831,100003831,Ķekava,csc:r:4435,56.82662,24.23,gn:458880,458880,凱卡瓦,Q344608,,city,[]
+LV,lv:100003848,100003848,Carnikava,csc:r:4454,57.12935,24.28423,gn:460659,460659,察爾尼卡瓦,Q1044023,,city,[]
+MH,mh:MH01,MH01,Ailinglaplap,,7.283978,168.750079,boundary,,,,,municipality,[]
+MH,mh:MH02,MH02,Ailuk,,10.21972,169.97967,gn:2080970,2080970,艾盧克環礁,Q405378,,municipality,[]
+MH,mh:MH03,MH03,Arno,,7.06691,171.55413,gn:7306514,7306514,阿爾諾環礁,Q694057,,municipality,[]
+MH,mh:MH04,MH04,Aur,,8.1499,171.16869,gn:7306513,7306513,奧爾環礁,Q260549,,municipality,[]
+MH,mh:MH06,MH06,Ebon,,4.58199,168.69636,gn:7306512,7306512,埃邦環礁,Q152754,,municipality,[]
+MH,mh:MH07,,Enewetak/Ujelang,,11.3509,162.34104,gn:7304391,7304391,,,Representative point on Enewetak for the joint local government,municipality,"[""Enewetak""]"
+MH,mh:MH08,MH08,Jabat,,7.75003,168.97513,gn:7306526,7306526,賈布沃特島,Q697805,,municipality,[]
+MH,mh:MH09,MH09,Jaluit,,5.79431,169.59174,gn:7304123,7304123,,,,municipality,[]
+MH,mh:MH10,,Kili/Bikini/Ejit,,5.64387,169.12109,gn:7306525,7306525,,,Representative point on Kili for the joint local government,municipality,"[""Kili""]"
+MH,mh:MH11,MH11,Kwajalein,,9.396218,167.475704,boundary,,,,,municipality,[]
+MH,mh:MH12,MH12,Lae,,8.92217,166.26344,gn:7306517,7306517,萊環礁,Q741121,,municipality,[]
+MH,mh:MH13,MH13,Lib,,8.31221,167.37662,gn:7306524,7306524,利布島,Q376862,,municipality,[]
+MH,mh:MH14,MH14,Likiep,,9.82511,169.31065,gn:2080115,2080115,,,,municipality,[]
+MH,mh:MH15,MH15,Majuro,,7.08971,171.38027,gn:2113779,2113779,马朱罗,Q12919,,municipality,[]
+MH,mh:MH16,MH16,Maloelap,,8.703178,171.230485,boundary,,,,,municipality,[]
+MH,mh:MH17,MH17,Mejit,,10.27531,170.86461,gn:7306523,7306523,梅吉特島,Q703543,,municipality,[]
+MH,mh:MH18,MH18,Mili,,6.0815,171.73502,gn:7306516,7306516,,,,municipality,[]
+MH,mh:MH19,MH19,Namdrik,,5.59944,168.10282,gn:7306522,7306522,納莫里克環礁,Q697819,,municipality,[]
+MH,mh:MH20,MH20,Namu,,8.194098,167.976517,boundary,,,,,municipality,[]
+MH,mh:MH21,MH21,Rongelap,,11.16351,166.89408,gn:7306520,7306520,,,,municipality,[]
+MH,mh:MH22,MH22,Ujae,,8.93218,165.76416,gn:7306519,7306519,,,,municipality,[]
+MH,mh:MH24,MH24,Utirik,,11.22778,169.84739,gn:7306518,7306518,烏蒂里克環礁,Q700015,,municipality,[]
+MH,mh:MH25,MH25,Wotho,,10.16575,166.01022,gn:7306529,7306529,沃托環礁,Q175931,,municipality,[]
+MH,mh:MH26,MH26,Wotje,,9.45429,170.23674,gn:7306528,7306528,,,,municipality,[]
+MT,csc:67815,MT01101,Il-Belt Valletta,csc:r:5845,35.89972,14.51472,0.1.7,2562305,瓦莱塔,Q23800,,capital,"[""Citta' Umilissima"", ""Valletta""]"
+MT,mt:MT01103,MT01103,Il-Birgu,csc:r:5845,35.884759,14.526165,boundary,,比尔古（维托里奥萨）,existing sources,,municipality,"[""Citta' Vittoriosa""]"
+MT,mt:MT01104,MT01104,L-Isla,csc:r:5845,35.88764,14.51732,boundary,,,,,municipality,"[""Citta' Invicta""]"
+MT,mt:MT01105,MT01105,Bormla,csc:r:5845,35.881604,14.520614,boundary,,,,,municipality,"[""Citta' Cospicua""]"
+MT,mt:MT01108,MT01108,Ħaż-Żabbar,csc:r:5845,35.87687,14.53592,gn:2562266,2562266,扎巴尔,existing sources,,municipality,"[""Citta' Hompesch""]"
+MT,mt:MT01117,MT01117,Il-Fgura,csc:r:5845,35.873966,14.520367,boundary,,弗古拉,Q44388,,municipality,"[""Fgura""]"
+MT,mt:MT01118,MT01118,Floriana,csc:r:5845,35.89583,14.50833,gn:2562955,2562955,弗洛里亚纳,Q832807,,municipality,[]
+MT,mt:MT01129,MT01129,Il-Kalkara,csc:r:5845,35.88917,14.53278,gn:2562830,2562830,卡爾卡拉,Q533257,,municipality,"[""Kalkara""]"
+MT,mt:MT01133,MT01133,Ħal Luqa,csc:r:5846,35.85985,14.48895,gn:2562788,2562788,盧加,Q475585,,municipality,"[""Luqa""]"
+MT,mt:MT01134,MT01134,Il-Marsa,csc:r:5846,35.87925,14.49462,gn:2562755,2562755,马尔萨,Q267431,,municipality,"[""Marsa""]"
+MT,mt:MT01145,MT01145,Paola,csc:r:5845,35.874302,14.507257,boundary,,保拉,Q846589,,municipality,"[""Raħal Ġdid""]"
+MT,mt:MT01157,MT01157,Santa Luċija,csc:r:5846,35.860408,14.506946,boundary,,圣卢西亚,Q1087776,,municipality,[]
+MT,mt:MT01162,MT01162,Ħal Tarxien,csc:r:5845,35.8656,14.51506,gn:2562349,2562349,塔爾欣,Q744001,,municipality,"[""Tarxien""]"
+MT,mt:MT01165,MT01165,Ix-Xgħajra,csc:r:5845,35.88556,14.5475,gn:2562273,2562273,沙伊拉,Q520962,,municipality,"[""Xgħajra""]"
+MT,mt:MT01206,MT01206,Ħal Qormi,csc:r:5846,35.87601,14.472,gn:2562629,2562629,戈尔米,existing sources,,municipality,"[""Citta' Pinto""]"
+MT,mt:MT01214,MT01214,Birkirkara,csc:r:5843,35.89706,14.46115,gn:2563191,2563191,比爾基卡拉,Q39583,,municipality,[]
+MT,mt:MT01221,MT01221,Il-Gżira,csc:r:5843,35.90583,14.48806,gn:2562946,2562946,格济拉,Q632097,,municipality,"[""Gżira""]"
+MT,mt:MT01227,MT01227,Il-Ħamrun,csc:r:5846,35.88452,14.48498,gn:2562998,2562998,哈姆倫,Q343001,,municipality,"[""Ħamrun""]"
+MT,mt:MT01241,MT01241,L-Imsida,csc:r:5843,35.89779,14.485277,boundary,,姆西達,Q585187,,municipality,"[""Msida""]"
+MT,mt:MT01246,MT01246,Pembroke,csc:r:5843,35.93024,14.47793,gn:8337353,8337353,彭布罗克,Q775756,,municipality,[]
+MT,mt:MT01247,MT01247,Tal-Pietà,csc:r:5843,35.89297,14.49362,gn:2562664,2562664,皮塔,existing sources,,municipality,"[""Pieta'"", ""Tal-Pieta'""]"
+MT,mt:MT01252,MT01252,San Ġiljan,csc:r:5843,35.91839,14.48977,gn:2562557,2562557,聖朱利安斯,Q669979,,municipality,"[""St. Julian's""]"
+MT,mt:MT01253,MT01253,San Ġwann,csc:r:5842,35.90556,14.47611,gn:2567539,2567539,圣季万,Q39507,,municipality,[]
+MT,mt:MT01258,MT01258,Santa Venera,csc:r:5846,35.88998,14.47291,gn:2562518,2562518,聖韋內拉,Q585420,,municipality,[]
+MT,mt:MT01259,MT01259,Tas-Sliema,csc:r:5843,35.91247,14.50175,gn:2562501,2562501,斯利馬,Q39526,,municipality,"[""Sliema""]"
+MT,mt:MT01260,MT01260,Is-Swieqi,csc:r:5843,35.92154,14.47998,gn:2562850,2562850,斯維吉,Q220667,,municipality,"[""Swieqi""]"
+MT,mt:MT01261,MT01261,Ta' Xbiex,csc:r:5843,35.89907,14.49456,gn:2562320,2562320,塔什比什,Q1017348,,municipality,[]
+MT,mt:MT01310,MT01310,Iż-Żejtun,csc:r:5846,35.85547,14.53341,gn:2562258,2562258,榟橔,existing sources,,municipality,"[""Citta' Beland""]"
+MT,mt:MT01315,MT01315,Birżebbuġa,csc:r:5846,35.82546,14.52685,gn:2563189,2563189,比尔泽布贾,Q258028,,municipality,[]
+MT,mt:MT01320,MT01320,Il-Gudja,csc:r:5846,35.85055,14.50593,gn:2563020,2563020,古迪亚,Q1018153,,municipality,"[""Gudja""]"
+MT,mt:MT01326,MT01326,Ħal Għaxaq,csc:r:5846,35.84931,14.51695,gn:2563046,2563046,阿沙格,Q426385,,municipality,"[""Għaxaq""]"
+MT,mt:MT01331,MT01331,Ħal Kirkop,csc:r:5844,35.84233,14.48557,gn:2562815,2562815,基尔科普,Q597464,,municipality,"[""Kirkop""]"
+MT,mt:MT01335,MT01335,Marsaskala,csc:r:5846,35.8622,14.56701,gn:2562750,2562750,馬爾薩斯卡拉,Q534571,,municipality,[]
+MT,mt:MT01336,MT01336,Marsaxlokk,csc:r:5846,35.84214,14.54296,gn:2562247,2562247,马尔萨什洛克,Q781921,,municipality,[]
+MT,mt:MT01340,MT01340,L-Imqabba,csc:r:5844,35.84763,14.46824,gn:2562701,2562701,姆加巴,Q1017953,,municipality,"[""Mqabba""]"
+MT,mt:MT01349,MT01349,Il-Qrendi,csc:r:5844,35.83446,14.45783,gn:2562622,2562622,格伦迪,Q282203,,municipality,"[""Qrendi""]"
+MT,mt:MT01351,MT01351,Ħal Safi,csc:r:5844,35.83306,14.48486,gn:2562598,2562598,萨菲,Q658903,,municipality,"[""Safi""]"
+MT,mt:MT01367,MT01367,Iż-Żurrieq,csc:r:5844,35.8296,14.47588,gn:2562250,2562250,祖里格,Q44417,,municipality,"[""Żurrieq""]"
+MT,mt:MT01402,MT01402,L-Imdina,csc:r:5844,35.88636,14.40312,gn:2562746,2562746,伊姆迪娜,existing sources,,municipality,"[""Citta' Notabile""]"
+MT,mt:MT01407,MT01407,Ħaż-Żebbuġ (Malta),csc:r:5844,35.87194,14.44111,gn:2562261,2562261,泽布季,existing sources,,municipality,"[""Citta' Rohan"", ""Ħaż-Żebbuġ""]"
+MT,mt:MT01409,MT01409,Is-Siġġiewi,csc:r:5844,35.85547,14.43611,gn:2562504,2562504,西吉耶维,existing sources,,municipality,"[""Citta' Ferdinand""]"
+MT,mt:MT01412,MT01412,Ħ'Attard,csc:r:5842,35.88967,14.4425,gn:2563232,2563232,阿塔爾德,Q44557,,municipality,"[""Attard""]"
+MT,mt:MT01413,MT01413,Ħal Balzan,csc:r:5842,35.898213,14.451688,boundary,,巴尔灿,Q789794,,municipality,"[""Balzan""]"
+MT,mt:MT01416,MT01416,Ħad-Dingli,csc:r:5844,35.8615,14.38213,gn:2563140,2563140,丁利,Q905641,,municipality,"[""Dingli""]"
+MT,mt:MT01428,MT01428,L-Iklin,csc:r:5843,35.90414,14.45415,gn:2562800,2562800,伊克林,Q304589,,municipality,"[""Iklin""]"
+MT,mt:MT01432,MT01432,Ħal Lija,csc:r:5843,35.90048,14.44628,gn:2562801,2562801,利亚,Q782049,,municipality,"[""Lija""]"
+MT,mt:MT01450,MT01450,Ir-Rabat (Malta),csc:r:5844,35.88152,14.39872,gn:2562620,2562620,拉巴特,existing sources,,municipality,"[""Ir-Rabat"", ""Rabat (Malta)""]"
+MT,mt:MT01468,MT01468,L-Imtarfa,csc:r:5842,35.89243,14.39819,gn:2562694,2562694,姆塔尔法,Q656837,,municipality,"[""Mtarfa""]"
+MT,mt:MT01524,MT01524,Ħal Għargħur,csc:r:5843,35.92409,14.45118,gn:2563062,2563062,加尔古尔,Q1018111,,municipality,"[""Għargħur""]"
+MT,mt:MT01537,MT01537,Il-Mellieħa,csc:r:5842,35.95663,14.36259,gn:2562744,2562744,梅利哈,Q755979,,municipality,"[""Mellieħa""]"
+MT,mt:MT01538,MT01538,L-Imġarr,csc:r:5842,35.92148,14.365,gn:2562735,2562735,姆贾尔,Q691220,,municipality,"[""Mġarr""]"
+MT,mt:MT01539,MT01539,Il-Mosta,csc:r:5842,35.90942,14.42566,gn:2562704,2562704,莫斯塔,Q39520,,municipality,"[""Mosta""]"
+MT,mt:MT01544,MT01544,In-Naxxar,csc:r:5842,35.91368,14.44382,gn:2562683,2562683,納沙爾,Q44397,,municipality,"[""Naxxar""]"
+MT,mt:MT01555,MT01555,San Pawl il-Baħar,csc:r:5842,35.95064,14.41561,gn:2562541,2562541,圣保尔·伊尔·巴哈尔,existing sources,,municipality,"[""San Pawl Il-Baħar""]"
+MT,mt:MT02611,MT02611,Ir-Rabat (Għawdex),csc:r:5847,36.04473,14.24118,gn:2562619,2562619,維多利亞,existing sources,,municipality,"[""Citta' Victoria"", ""Ir-Rabat, Għawdex"", ""Rabat (Gozo)"", ""Victoria""]"
+MT,mt:MT02619,MT02619,Il-Fontana,csc:r:5847,36.03804,14.23595,gn:8337342,8337342,丰塔纳,Q1002742,,municipality,"[""Fontana""]"
+MT,mt:MT02622,MT02622,Għajnsielem,csc:r:5847,36.02572,14.2864,gn:2563081,2563081,艾因西莱姆,Q761675,,municipality,"[""Għajnsielem and Comino""]"
+MT,mt:MT02623,MT02623,L-Għarb,csc:r:5847,36.05966,14.20917,gn:2563063,2563063,阿尔卜,Q1026487,,municipality,"[""Għarb""]"
+MT,mt:MT02625,MT02625,L-Għasri,csc:r:5847,36.05778,14.22639,gn:2563052,2563052,阿斯里,Q1017339,,municipality,"[""Għasri""]"
+MT,mt:MT02630,MT02630,Ta' Kerċem,csc:r:5847,36.04162,14.22694,gn:2562816,2562816,凯尔切姆,Q674679,,municipality,"[""Kerċem""]"
+MT,mt:MT02642,MT02642,Il-Munxar,csc:r:5847,36.03048,14.23469,gn:2562693,2562693,蒙沙尔,Q587462,,municipality,"[""Munxar""]"
+MT,mt:MT02643,MT02643,In-Nadur,csc:r:5847,36.0379,14.29382,gn:2562687,2562687,纳杜尔,Q929969,,municipality,"[""Nadur""]"
+MT,mt:MT02648,MT02648,Il-Qala,csc:r:5847,36.03611,14.30944,gn:2562655,2562655,加拉,Q1088033,,municipality,"[""Qala""]"
+MT,mt:MT02654,MT02654,San Lawrenz,csc:r:5847,36.05538,14.20388,gn:2562552,2562552,圣劳伦斯,Q537308,,municipality,[]
+MT,mt:MT02656,MT02656,Ta' Sannat,csc:r:5847,36.02451,14.24283,gn:2562545,2562545,桑纳特,Q602037,,municipality,"[""Sannat""]"
+MT,mt:MT02663,MT02663,Ix-Xagħra,csc:r:5847,36.05003,14.26421,gn:2562280,2562280,沙拉,Q605343,,municipality,"[""Xagħra""]"
+MT,mt:MT02664,MT02664,Ix-Xewkija,csc:r:5847,36.03413,14.25591,gn:2562274,2562274,绍基亚,Q919921,,municipality,"[""Xewkija""]"
+MT,mt:MT02666,MT02666,Iż-Żebbuġ (Għawdex),csc:r:5847,36.07187,14.23705,gn:2562260,2562260,泽布季,Q179243,,municipality,"[""Iż-Żebbuġ"", ""Żebbuġ (Gozo)""]"
+MV,csc:67935,,Malé,csc:r:2609,4.17521,73.50916,0.1.7,1282027,马累,Q9347,,capital,"[""Male""]"
+MV,gn:1282256,,Addu City,csc:r:2594,-0.6,73.08333,gn:1282256,1282256,阿杜市,city-name,,city,"[""Addu"", ""Hithadhoo""]"
+MV,gn:1337610,,Thinadhoo,csc:r:2603,0.5306,72.99969,gn:1337610,1337610,蒂纳杜,existing sources,,city,[]
+MV,gn:1337611,,Fuvahmulah,csc:r:2595,-0.29878,73.42403,gn:1337611,1337611,福阿穆拉环礁,Q2060910,,city,[]
+MV,gn:1337613,,Kulhudhuffushi,csc:r:2597,6.62207,73.06998,gn:1337613,1337613,库卢杜富希岛,Q3185775,,city,[]
+NC,csc:160039,98818,Nouméa,csc:r:5226,-22.2758,166.458,0.1.7,2139520,努美阿,Q9733,,municipality,[]
+NC,nc:98801,98801,Belep,csc:r:5225,-19.73333,163.66667,gn:2140958,2140958,贝莱普,Q33661626,,municipality,[]
+NC,nc:98802,98802,Boulouparis,csc:r:5226,-21.8607,166.05131,gn:2141721,2141721,布卢帕里,Q9707,,municipality,[]
+NC,nc:98803,98803,Bourail,csc:r:5226,-21.56667,165.46667,gn:2141713,2141713,布拉伊,Q9709,,municipality,[]
+NC,nc:98804,98804,Canala,csc:r:5225,-21.51696,165.96291,gn:2141656,2141656,卡纳拉,Q9710,,municipality,[]
+NC,nc:98805,98805,Dumbéa,csc:r:5226,-22.14957,166.44733,gn:2141390,2141390,丹贝阿,Q9712,,municipality,[]
+NC,nc:98806,98806,Farino,csc:r:5226,-21.66509,165.77597,gn:2141314,2141314,法里诺,Q9713,,municipality,[]
+NC,nc:98807,98807,Hienghène,csc:r:5225,-20.6874,164.93774,gn:2141047,2141047,延根,Q9714,,municipality,[]
+NC,nc:98808,98808,Houaïlou,csc:r:5225,-21.2865,165.63435,gn:2141004,2141004,瓦伊卢,Q9716,,municipality,[]
+NC,nc:98809,98809,Île des Pins,csc:r:5226,-22.66645,167.49627,gn:2137773,2137773,利勒德潘,Q9718,,municipality,[]
+NC,nc:98810,98810,Kaala-Gomen,csc:r:5225,-20.66941,164.3977,gn:2140914,2140914,卡拉戈门,Q9719,,municipality,[]
+NC,nc:98811,98811,Koné,csc:r:5225,-21.05695,164.86633,gn:7521417,7521417,科内,Q9721,,municipality,[]
+NC,nc:98812,98812,Koumac,csc:r:5225,-20.55501,164.2717,gn:2140556,2140556,库马克,Q9725,,municipality,[]
+NC,nc:98813,98813,La Foa,csc:r:5226,-21.70791,165.82523,gn:7521418,7521418,拉福阿,Q9727,,municipality,[]
+NC,nc:98814,98814,Lifou,csc:r:5227,-20.96667,167.25,gn:2140391,2140391,利富,Q9728,,municipality,[]
+NC,nc:98815,98815,Maré,csc:r:5227,-21.49109,167.99744,gn:2140297,2140297,马雷,Q11771004,,municipality,[]
+NC,nc:98816,98816,Moindou,csc:r:5226,-21.69858,165.68035,gn:2140108,2140108,莫安杜,Q9731,,municipality,[]
+NC,nc:98817,98817,Le Mont-Dore,csc:r:5226,-22.27988,166.58054,gn:2140065,2140065,勒蒙多尔,Q9732,,municipality,"[""Mont-Dore (Le)""]"
+NC,nc:98819,98819,Ouégoa,csc:r:5225,-20.34849,164.42619,gn:2139258,2139258,韦戈阿,Q9735,,municipality,[]
+NC,nc:98820,98820,Ouvéa,csc:r:5227,-20.6617,166.55308,gn:2139030,2139030,乌韦阿,Q9736,,municipality,[]
+NC,nc:98821,98821,Païta,csc:r:5226,-22.12985,166.36391,gn:2138980,2138980,帕伊塔,Q9737,,municipality,[]
+NC,nc:98822,98822,Poindimié,csc:r:5225,-20.95054,165.34149,gn:2138715,2138715,普安迪米耶,Q9740,,municipality,[]
+NC,nc:98823,98823,Ponérihouen,csc:r:5225,-21.07649,165.40054,gn:2138685,2138685,波内里旺,Q9741,,municipality,[]
+NC,nc:98824,98824,Pouébo,csc:r:5225,-20.39291,164.58275,gn:2138606,2138606,普埃博,Q9742,,municipality,[]
+NC,nc:98825,98825,Pouembout,csc:r:5225,-21.10756,164.98341,gn:2138590,2138590,普恩布特,Q9744,,municipality,[]
+NC,nc:98826,98826,Poum,csc:r:5225,-20.23683,164.02923,gn:7521420,7521420,普姆,Q9745,,municipality,[]
+NC,nc:98827,98827,Poya,csc:r:5225,-21.34487,165.16399,gn:2138519,2138519,波亚,Q9750,Poya spans two provinces; its seat is in North Province,municipality,[]
+NC,nc:98828,98828,Sarraméa,csc:r:5226,-21.64211,165.84515,gn:2138354,2138354,萨拉梅阿,Q9752,,municipality,[]
+NC,nc:98829,98829,Thio,csc:r:5226,-21.60573,166.21456,gn:2138101,2138101,蒂奥,Q9754,,municipality,[]
+NC,nc:98830,98830,Touho,csc:r:5225,-20.78597,165.24227,gn:2137869,2137869,图奥,Q9756,,municipality,[]
+NC,nc:98831,98831,Voh,csc:r:5225,-20.94669,164.6854,gn:2137746,2137746,沃镇,Q9757,,municipality,[]
+NC,nc:98832,98832,Yaté,csc:r:5226,-22.08333,166.75,gn:2137647,2137647,亚泰,Q9758,,municipality,[]
+NC,nc:98833,98833,Kouaoua,csc:r:5225,-21.3957,165.82832,gn:7521419,7521419,夸瓦,Q9723,,municipality,[]
+NI,csc:77213,5525,Managua,csc:r:941,12.13282,-86.2504,0.1.7,3617763,马那瓜,Q131546626,,capital,[]
+NI,ni:0505,0505,Jalapa,csc:r:4964,13.92221,-86.12346,gn:3618954,3618954,哈拉帕,Q31811532,,municipality,[]
+NI,ni:0510,0510,Murra,csc:r:4964,13.7585,-86.01843,gn:3617543,3617543,穆拉,Q31812512,,municipality,[]
+NI,ni:0515,0515,El Jícaro,csc:r:4964,13.7229,-86.13852,gn:3620348,3620348,埃尔希卡罗,Q31545653,,municipality,[]
+NI,ni:0520,0520,San Fernando,csc:r:4964,13.67755,-86.31486,gn:3616871,3616871,圣费南多,Q31503279,,municipality,[]
+NI,ni:0525,0525,Mosonte,csc:r:4964,13.66034,-86.43841,gn:3617565,3617565,莫松特,Q56299325,,municipality,[]
+NI,ni:0530,0530,Dipilto,csc:r:4964,13.72106,-86.50619,gn:3620177,3620177,迪皮尔托,Q31891761,,municipality,[]
+NI,ni:0535,0535,Macuelizo,csc:r:4964,13.65328,-86.61297,gn:3617804,3617804,马库埃利索,Q31812069,,municipality,[]
+NI,ni:0540,0540,Santa María,csc:r:4964,13.74665,-86.70934,gn:3616441,3616441,圣玛利亚,Q31511679,,municipality,[]
+NI,ni:0545,0545,Ocotal,csc:r:4964,13.63222,-86.47399,gn:3617448,3617448,奥科塔尔 (城市),Q31809994,,municipality,[]
+NI,ni:0550,0550,Ciudad Antigua,csc:r:4964,13.6406,-86.30815,gn:3620353,3620353,安蒂瓜市,Q131469193,,municipality,[]
+NI,ni:0555,0555,Quilalí,csc:r:4964,13.56695,-86.026,gn:3617109,3617109,基拉利,Q116145579,,municipality,[]
+NI,ni:0560,0560,Wiwilí de Nueva Segovia,csc:r:4964,13.62679,-85.8254,gn:3615683,3615683,维维利,Q31591537,,municipality,[]
+NI,ni:1005,1005,Wiwilí de Jinotega,csc:r:955,13.61494,-85.81676,gn:11279237,11279237,希诺特加维维利,Q134639370,,municipality,[]
+NI,ni:1010,1010,El Cuá,csc:r:955,13.36844,-85.67335,gn:3617311,3617311,埃尔库阿,Q21053639,,municipality,[]
+NI,ni:1012,1012,San José de Bocay,csc:r:955,13.54204,-85.53942,gn:3616759,3616759,圣何塞德博凯,Q31505238,,municipality,[]
+NI,ni:1015,1015,Santa María de Pantasma,csc:r:955,13.400665,-85.913514,boundary,,,,,municipality,[]
+NI,ni:1020,1020,San Rafael del Norte,csc:r:955,13.21248,-86.11089,gn:3616597,3616597,北圣拉斐尔,Q114034525,,municipality,[]
+NI,ni:1025,1025,San Sebastián de Yalí,csc:r:955,13.3054,-86.18641,gn:3616572,3616572,圣塞瓦斯蒂安德亚利,Q31891575,,municipality,[]
+NI,ni:1030,1030,La Concordia,csc:r:955,13.19528,-86.16659,gn:3618637,3618637,拉孔科迪亚,Q31811691,,municipality,[]
+NI,ni:1035,1035,Jinotega,csc:r:955,13.09103,-86.00234,gn:3618929,3618929,希诺特加,existing sources,,municipality,[]
+NI,ni:2005,2005,Somoto,csc:r:948,13.4841,-86.58229,gn:3616232,3616232,索莫托,existing sources,,municipality,[]
+NI,ni:2010,2010,Totogalpa,csc:r:948,13.56284,-86.49254,gn:3615998,3615998,托托加尔帕,Q31891517,,municipality,[]
+NI,ni:2015,2015,Telpaneca,csc:r:948,13.53151,-86.2871,gn:3616088,3616088,特尔帕内卡,Q137424113,,municipality,[]
+NI,ni:2020,2020,San Juan del Río Coco,csc:r:948,13.54476,-86.16499,gn:3616721,3616721,圣胡安德里奥科科,Q31505692,,municipality,[]
+NI,ni:2025,2025,Palacagüina,csc:r:948,13.45566,-86.40622,gn:3617388,3617388,帕拉卡圭纳,Q31891657,,municipality,[]
+NI,ni:2030,2030,Yalagüina,csc:r:948,13.48383,-86.49305,gn:3615669,3615669,亚拉圭纳,Q31891493,,municipality,[]
+NI,ni:2035,2035,San Lucas,csc:r:948,13.4138,-86.6111,gn:3616700,3616700,圣卢卡斯,Q31505885,,municipality,[]
+NI,ni:2040,2040,Las Sabanas,csc:r:948,13.34302,-86.62184,gn:3618124,3618124,拉斯萨巴纳斯,Q31891702,,municipality,[]
+NI,ni:2045,2045,San José de Cusmapa,csc:r:948,13.28841,-86.65539,gn:3616757,3616757,圣何塞-德库斯马帕,Q137423921,,municipality,[]
+NI,ni:2505,2505,Pueblo Nuevo,csc:r:945,13.37984,-86.48075,gn:3617162,3617162,普韦布洛努埃沃,Q22242805,,municipality,[]
+NI,ni:2510,2510,Condega,csc:r:945,13.36502,-86.39846,gn:3620298,3620298,孔德加,Q131545225,,municipality,[]
+NI,ni:2515,2515,Estelí,csc:r:945,13.09291,-86.35589,gn:3619194,3619194,埃斯特利,Q137660786,,municipality,[]
+NI,ni:2520,2520,San Juan de Limay,csc:r:945,13.17603,-86.61234,gn:3616732,3616732,圣胡安德利迈,Q131545043,,municipality,[]
+NI,ni:2525,2525,La Trinidad,csc:r:945,12.96881,-86.23534,gn:3618087,3618087,拉特立尼达,Q114347825,,municipality,[]
+NI,ni:2530,2530,San Nicolás,csc:r:945,12.93236,-86.34805,gn:3616649,3616649,圣尼古拉斯,Q22237659,,municipality,[]
+NI,ni:3005,3005,San Pedro del Norte,csc:r:954,13.27611,-86.87782,gn:3616611,3616611,北圣佩德罗,Q21053606,,municipality,[]
+NI,ni:3010,3010,San Francisco del Norte,csc:r:954,13.19921,-86.77101,gn:3616852,3616852,北圣弗兰西斯科,Q55848955,,municipality,[]
+NI,ni:3015,3015,Cinco Pinos,csc:r:954,13.22956,-86.86808,gn:3620358,3620358,辛科皮诺斯,Q137431562,,municipality,[]
+NI,ni:3020,3020,Santo Tomás del Norte,csc:r:954,13.1861,-86.92267,gn:3616346,3616346,北圣托马斯,Q31891554,,municipality,[]
+NI,ni:3025,3025,El Viejo,csc:r:954,12.66348,-87.16663,gn:3619267,3619267,埃尔维耶霍市,Q31576423,,municipality,[]
+NI,ni:3030,3030,Puerto Morazán,csc:r:954,12.85079,-87.172,gn:3617146,3617146,莫拉桑港,Q2605034,,municipality,[]
+NI,ni:3035,3035,Somotillo,csc:r:954,13.04387,-86.90506,gn:3616234,3616234,索莫蒂约,Q31526959,,municipality,[]
+NI,ni:3040,3040,Villanueva,csc:r:954,12.96353,-86.81517,gn:3615817,3615817,比亚努埃瓦,Q31573223,,municipality,[]
+NI,ni:3045,3045,Chinandega,csc:r:954,12.62951,-87.13133,gn:3620381,3620381,奇南德加,Q974354,,municipality,[]
+NI,ni:3050,3050,El Realejo,csc:r:954,12.54333,-87.16517,gn:3619451,3619451,埃尔雷阿莱霍,Q137423971,,municipality,[]
+NI,ni:3055,3055,Corinto,csc:r:954,12.4825,-87.17304,gn:3620269,3620269,科林托,Q31553134,,municipality,[]
+NI,ni:3060,3060,Chichigalpa,csc:r:954,12.57039,-87.02802,gn:3620390,3620390,奇奇加尔帕,Q137503076,,municipality,[]
+NI,ni:3065,3065,Posoltega,csc:r:954,12.54422,-86.97982,gn:3617191,3617191,波索尔特加,Q137431656,,municipality,[]
+NI,ni:3505,3505,Achuapa,csc:r:944,13.0537,-86.59004,gn:3620982,3620982,阿丘阿帕,Q22674884,,municipality,[]
+NI,ni:3510,3510,El Sauce,csc:r:944,12.88687,-86.53903,gn:3619382,3619382,埃尔绍塞,Q31576409,,municipality,[]
+NI,ni:3515,3515,Santa Rosa del Peñón,csc:r:944,12.80116,-86.36994,gn:3616387,3616387,圣罗莎-德尔佩尼翁,Q31891560,,municipality,[]
+NI,ni:3520,3520,El Jicaral,csc:r:944,12.72676,-86.38057,gn:3619695,3619695,埃尔希卡拉尔,Q31811702,,municipality,[]
+NI,ni:3525,3525,Larreynaga,csc:r:944,12.67612,-86.57117,gn:3618336,3618336,拉雷纳加,existing sources,,municipality,[]
+NI,ni:3530,3530,Telica,csc:r:944,12.522,-86.85938,gn:3616092,3616092,特利卡,Q31549362,,municipality,[]
+NI,ni:3535,3535,Quezalguaque,csc:r:944,12.50683,-86.90292,gn:3617115,3617115,克萨尔瓜克,Q131350052,,municipality,[]
+NI,ni:3540,3540,León,csc:r:944,12.43527,-86.87862,gn:3618030,3618030,莱昂,Q130253115,,municipality,[]
+NI,ni:3545,3545,La Paz Centro,csc:r:944,12.34,-86.67528,gn:3618411,3618411,拉帕斯-森特罗,Q31810120,,municipality,[]
+NI,ni:3550,3550,Nagarote,csc:r:944,12.26593,-86.56474,gn:3617522,3617522,纳加罗特,Q31891675,,municipality,[]
+NI,ni:4005,4005,Rancho Grande,csc:r:947,13.23695,-85.55817,gn:11911832,11911832,兰乔格兰德,Q114771208,,municipality,[]
+NI,ni:4010,4010,Río Blanco,csc:r:947,12.93435,-85.22354,gn:3617069,3617069,里奥布兰科,Q21053581,,municipality,[]
+NI,ni:4015,4015,Tuma - La Dalia,csc:r:947,13.115895,-85.677319,boundary,,,,,municipality,[]
+NI,ni:4020,4020,San Isidro,csc:r:947,12.92957,-86.19521,gn:3616818,3616818,圣伊西德罗,Q114348122,,municipality,[]
+NI,ni:4025,4025,Sébaco,csc:r:947,12.85321,-86.0963,gn:3616311,3616311,塞瓦科,Q31540229,,municipality,[]
+NI,ni:4030,4030,Matagalpa,csc:r:947,12.92795,-85.91906,gn:3617708,3617708,马塔加尔帕,Q3851689,,municipality,[]
+NI,ni:4035,4035,San Ramón,csc:r:947,12.92344,-85.83898,gn:3616584,3616584,圣拉蒙,Q31507883,,municipality,[]
+NI,ni:4040,4040,Matiguás,csc:r:947,12.83734,-85.46218,gn:3617694,3617694,马蒂瓜斯,Q137659952,,municipality,[]
+NI,ni:4045,4045,Muy Muy,csc:r:947,12.76224,-85.62915,gn:3617532,3617532,穆伊穆伊,Q137437760,,municipality,[]
+NI,ni:4050,4050,Esquipulas,csc:r:947,12.66446,-85.78734,gn:3619204,3619204,埃斯基普拉斯,Q137660243,,municipality,[]
+NI,ni:4055,4055,San Dionisio,csc:r:947,12.76023,-85.85018,gn:3616888,3616888,圣迪奥尼西奥,Q31502868,,municipality,[]
+NI,ni:4060,4060,Terrabona,csc:r:947,12.73028,-85.96474,gn:3616076,3616076,特拉沃纳,Q137659901,,municipality,[]
+NI,ni:4065,4065,Ciudad Darío,csc:r:947,12.73143,-86.12402,gn:3620350,3620350,达里奥市,Q131541473,,municipality,[]
+NI,ni:5005,5005,San José de Los Remates,csc:r:946,12.5975,-85.76174,gn:3616753,3616753,圣何塞-德洛斯雷马特斯,Q31505272,,municipality,[]
+NI,ni:5010,5010,Boaco,csc:r:946,12.47255,-85.65956,gn:3620674,3620674,博阿科,Q124962768,,municipality,[]
+NI,ni:5015,5015,Camoapa,csc:r:946,12.38383,-85.51277,gn:3620544,3620544,卡莫阿帕,Q31530163,,municipality,[]
+NI,ni:5020,5020,Santa Lucía,csc:r:946,12.53262,-85.71074,gn:3616459,3616459,圣卢西亚,Q31511320,,municipality,[]
+NI,ni:5025,5025,Teustepe,csc:r:946,12.4203,-85.79798,gn:3616070,3616070,特乌斯特佩,Q31550581,,municipality,[]
+NI,ni:5030,5030,San Lorenzo,csc:r:946,12.3783,-85.66646,gn:3616708,3616708,圣洛伦索,Q31505818,,municipality,[]
+NI,ni:5505,5505,San Francisco Libre,csc:r:941,12.50497,-86.29942,gn:3616848,3616848,圣弗兰西斯科利伯雷,Q131356473,,municipality,[]
+NI,ni:5510,5510,Tipitapa,csc:r:941,12.19732,-86.09706,gn:3616035,3616035,蒂皮塔帕,Q131573214,,municipality,[]
+NI,ni:5515,5515,Mateare,csc:r:941,12.23512,-86.42809,gn:3617697,3617697,马特阿雷,Q131334237,,municipality,[]
+NI,ni:5520,5520,Villa El Carmen,csc:r:941,11.98009,-86.50571,gn:3620473,3620473,埃尔卡门镇,Q21054975,,municipality,[]
+NI,ni:5522,5522,Ciudad Sandino,csc:r:941,12.15889,-86.34417,gn:3828262,3828262,桑迪诺市,Q137660346,,municipality,[]
+NI,ni:5530,5530,Ticuantepe,csc:r:941,12.02263,-86.20493,gn:3616064,3616064,蒂库安特佩,Q137659772,,municipality,[]
+NI,ni:5532,5532,El Crucero,csc:r:941,11.99008,-86.30954,gn:3619853,3619853,埃尔克鲁塞罗,Q31576199,,municipality,[]
+NI,ni:5535,5535,San Rafael del Sur,csc:r:941,11.84854,-86.43839,gn:3616594,3616594,南圣拉斐尔,Q131561439,,municipality,[]
+NI,ni:6005,6005,Nindirí,csc:r:953,12.00324,-86.12051,gn:3617473,3617473,宁迪里,Q137659916,,municipality,[]
+NI,ni:6010,6010,Masaya,csc:r:953,11.97316,-86.09587,gn:3617723,3617723,马萨亚,Q933439,,municipality,[]
+NI,ni:6015,6015,Tisma,csc:r:953,12.08194,-86.01739,gn:3616028,3616028,蒂斯马,Q28873447,,municipality,[]
+NI,ni:6020,6020,La Concepción,csc:r:953,11.93711,-86.18976,gn:3618648,3618648,拉孔塞普西翁,Q31811690,,municipality,[]
+NI,ni:6025,6025,Masatepe,csc:r:953,11.91445,-86.14458,gn:3617725,3617725,马萨特佩,Q31891699,,municipality,[]
+NI,ni:6030,6030,Nandasmo,csc:r:953,11.92411,-86.12072,gn:3617510,3617510,南达斯莫,Q131404328,,municipality,[]
+NI,ni:6035,6035,Catarina,csc:r:953,11.91197,-86.07383,gn:3620441,3620441,卡塔里娜,Q31537369,,municipality,[]
+NI,ni:6040,6040,San Juan de Oriente,csc:r:953,11.90624,-86.07343,gn:3616723,3616723,圣胡安-德奥里恩特,Q31891602,,municipality,[]
+NI,ni:6045,6045,Niquinohomo,csc:r:953,11.90518,-86.09446,gn:3617470,3617470,尼基诺奥莫,Q31891663,,municipality,[]
+NI,ni:6505,6505,Comalapa,csc:r:940,12.28345,-85.51081,gn:3620318,3620318,科马拉帕,Q31550297,,municipality,[]
+NI,ni:6507,6507,San Francisco de Cuapa,csc:r:940,12.26875,-85.38205,gn:3620243,3620243,夸帕,Q31556557,,municipality,[]
+NI,ni:6510,6510,Juigalpa,csc:r:940,12.10591,-85.36549,gn:3618908,3618908,惠加尔帕,existing sources,,municipality,[]
+NI,ni:6515,6515,La Libertad,csc:r:940,12.21635,-85.16595,gn:3618482,3618482,拉利伯塔德,Q31811703,,municipality,[]
+NI,ni:6520,6520,Santo Domingo,csc:r:940,12.26438,-85.08235,gn:3616356,3616356,圣多明戈,Q31512472,,municipality,[]
+NI,ni:6525,6525,Santo Tomás,csc:r:940,12.06938,-85.09059,gn:3616349,3616349,圣托马斯,Q31513084,,municipality,[]
+NI,ni:6530,6530,San Pedro de Lóvago,csc:r:940,12.12943,-85.11523,gn:3616609,3616609,圣佩德罗德洛瓦戈,Q31891580,,municipality,[]
+NI,ni:6535,6535,Acoyapa,csc:r:940,11.97028,-85.17113,gn:3620978,3620978,阿科亚帕,Q123735607,,municipality,[]
+NI,ni:6540,6540,Villa Sandino,csc:r:940,12.0483,-84.99362,gn:3615813,3615813,桑迪诺镇,Q31891504,,municipality,[]
+NI,ni:6545,6545,El Coral,csc:r:940,11.91781,-84.64827,gn:11911379,11911379,埃尔科拉尔,Q131361236,,municipality,[]
+NI,ni:7005,7005,Diriá,csc:r:943,11.8842,-86.05508,gn:3620172,3620172,迪里亚,Q115762286,,municipality,[]
+NI,ni:7010,7010,Diriomo,csc:r:943,11.87631,-86.05184,gn:3620168,3620168,迪里奥莫,Q31891755,,municipality,[]
+NI,ni:7015,7015,Granada,csc:r:943,11.93062,-85.95368,gn:3619136,3619136,格拉纳达（城市）,Q137454412,,municipality,[]
+NI,ni:7020,7020,Nandaime,csc:r:943,11.75696,-86.05286,gn:3617513,3617513,南达伊梅,Q31891668,,municipality,[]
+NI,ni:7505,7505,San Marcos,csc:r:950,11.90949,-86.20351,gn:3616682,3616682,圣马科斯,Q21054761,,municipality,[]
+NI,ni:7510,7510,Jinotepe,csc:r:950,11.84828,-86.19916,gn:3618926,3618926,Jinotepe (市),Q137660829,,municipality,[]
+NI,ni:7515,7515,Dolores,csc:r:950,11.85624,-86.21582,gn:3620163,3620163,多莱雷斯,Q31569610,,municipality,[]
+NI,ni:7520,7520,Diriamba,csc:r:950,11.85812,-86.23922,gn:3620170,3620170,迪里安巴,Q133698455,,municipality,[]
+NI,ni:7525,7525,El Rosario,csc:r:950,11.8328,-86.16526,gn:3619419,3619419,埃尔罗萨里奥,Q21053683,,municipality,[]
+NI,ni:7530,7530,La Paz de Carazo,csc:r:950,11.82311,-86.12781,gn:3618410,3618410,拉巴斯德卡拉索,Q31811711,,municipality,[]
+NI,ni:7535,7535,Santa Teresa,csc:r:950,11.80299,-86.16312,gn:3616380,3616380,圣特雷莎,Q137424105,,municipality,[]
+NI,ni:7540,7540,La Conquista,csc:r:950,11.73426,-86.19279,gn:3618635,3618635,拉孔基斯塔,Q21052164,,municipality,[]
+NI,ni:8005,8005,Tola,csc:r:942,11.43927,-85.93891,gn:3616019,3616019,托拉,Q131449033,,municipality,[]
+NI,ni:8010,8010,Belén,csc:r:942,11.50299,-85.88935,gn:3620734,3620734,贝伦,Q21052272,,municipality,[]
+NI,ni:8015,8015,Potosí,csc:r:942,11.49416,-85.8568,gn:3617187,3617187,波托西,Q31476611,,municipality,[]
+NI,ni:8020,8020,Buenos Aires,csc:r:942,11.46916,-85.81661,gn:3620603,3620603,布埃诺斯艾雷斯,Q21052380,,municipality,[]
+NI,ni:8025,8025,Moyogalpa,csc:r:942,11.54006,-85.69795,gn:3617569,3617569,莫约加尔帕,Q131565290,,municipality,[]
+NI,ni:8030,8030,Altagracia,csc:r:942,11.56615,-85.5784,gn:3620930,3620930,阿尔塔格拉西亚,Q31464914,,municipality,[]
+NI,ni:8035,8035,San Jorge,csc:r:942,11.45584,-85.80308,gn:3616794,3616794,圣豪尔赫,Q31504830,,municipality,[]
+NI,ni:8040,8040,Rivas,csc:r:942,11.43977,-85.82749,gn:3617052,3617052,里瓦斯,city-name,,municipality,[]
+NI,ni:8045,8045,San Juan del Sur,csc:r:942,11.25292,-85.87049,gn:3616726,3616726,南圣胡安,Q124962150,,municipality,[]
+NI,ni:8050,8050,Cárdenas,csc:r:942,11.19639,-85.5089,gn:3620479,3620479,卡德纳斯,Q131463093,,municipality,[]
+NI,ni:8505,8505,Morrito,csc:r:949,11.62118,-85.08052,gn:3617575,3617575,莫里托,Q31812486,,municipality,[]
+NI,ni:8510,8510,El Almendro,csc:r:949,11.67859,-84.70269,gn:3620106,3620106,埃尔阿尔门德罗,Q31576148,,municipality,[]
+NI,ni:8515,8515,San Miguelito,csc:r:949,11.40255,-84.89991,gn:3616659,3616659,圣米格利托,Q31891590,,municipality,[]
+NI,ni:8520,8520,San Carlos,csc:r:949,11.12711,-84.77794,gn:3616911,3616911,圣卡洛斯（城市）,Q21053651,,municipality,[]
+NI,ni:8525,8525,El Castillo,csc:r:949,11.01888,-84.39702,gn:3619954,3619954,埃尔卡斯蒂略,Q5350957,,municipality,[]
+NI,ni:8530,8530,San Juan de Nicaragua,csc:r:949,10.94684,-83.73467,gn:3616730,3616730,格雷敦,Q8965091,,municipality,[]
+NI,ni:9105,9105,Waspam,csc:r:951,14.74189,-83.9717,gn:3615730,3615730,瓦斯潘,Q137659671,,municipality,[]
+NI,ni:9110,9110,Puerto Cabezas,csc:r:951,14.03507,-83.38882,gn:3617154,3617154,卡贝萨斯港,Q1008456,,municipality,[]
+NI,ni:9115,9115,Rosita,csc:r:951,13.91499,-84.40281,gn:3618337,3618337,罗西塔,Q21053585,,municipality,[]
+NI,ni:9120,9120,Bonanza,csc:r:951,14.03,-84.597,gn:3620645,3620645,博南萨,Q31509037,,municipality,[]
+NI,ni:9125,9125,Mulukukú,csc:r:951,13.17611,-84.95522,gn:3617551,3617551,穆卢库库,Q116037171,,municipality,[]
+NI,ni:9127,9127,Waslala,csc:r:951,13.335,-85.37,gn:3615745,3615745,瓦斯拉拉,Q21053624,,municipality,[]
+NI,ni:9130,9130,Siuna,csc:r:951,13.73321,-84.77725,gn:3616253,3616253,休纳,Q21053615,,municipality,[]
+NI,ni:9135,9135,Prinzapolka,csc:r:951,13.40655,-83.565,gn:3617169,3617169,普林萨波卡,Q31891649,,municipality,[]
+NI,ni:9305,9305,Paiwas,csc:r:952,12.78571,-85.12269,gn:3620661,3620661,博卡纳德派瓦斯,Q21053552,,municipality,[]
+NI,ni:9310,9310,La Cruz de Río Grande,csc:r:952,13.1129,-84.18588,gn:3618618,3618618,拉克鲁斯德里奥格兰德,Q31891714,,municipality,[]
+NI,ni:9312,9312,Desembocadura de Río Grande,csc:r:952,13.031137,-83.780664,boundary,,,,,municipality,[]
+NI,ni:9315,9315,Laguna de Perlas,csc:r:952,12.554033,-83.747132,boundary,,,,,municipality,[]
+NI,ni:9316,9316,El Tortuguero,csc:r:952,12.82247,-84.19629,gn:3617457,3617457,埃尔托尔图格罗,Q21053675,,municipality,[]
+NI,ni:9320,9320,El Rama,csc:r:952,12.191009,-84.229744,boundary,,埃尔拉马,Q1324576,,municipality,[]
+NI,ni:9323,9323,El Ayote,csc:r:952,12.49952,-84.81519,gn:11911820,11911820,埃尔阿约特,Q21053638,,municipality,[]
+NI,ni:9325,9325,Muelle de Los Bueyes,csc:r:952,12.06999,-84.53503,gn:3617562,3617562,穆埃尔莱德洛斯布埃耶斯,Q21053575,,municipality,[]
+NI,ni:9330,9330,Kukrahill,csc:r:952,12.24096,-83.74517,gn:3618791,3618791,库克拉希尔,Q31811680,,municipality,[]
+NI,ni:9335,9335,Corn Island,csc:r:952,12.166394,-83.058575,boundary,,玉米岛,existing sources,,municipality,[]
+NI,ni:9340,9340,Bluefields,csc:r:952,12.01292,-83.76449,gn:3620680,3620680,布卢菲尔兹,Q115471966,,municipality,[]
+NI,ni:9345,9345,Nueva Guinea,csc:r:952,11.68758,-84.45616,gn:3617459,3617459,新几内亚,Q31812672,,municipality,[]
+PM,pm:97501,97501,Miquelon-Langlade,,46.9711,-56.3405,register,,密克隆-朗格拉德,Q570289,,municipality,[]
+PM,pm:97502,97502,Saint-Pierre,,46.788,-56.1805,register,,圣皮埃尔,Q185678,,municipality,[]
+PW,csc:89704,,Koror,csc:r:4532,7.33978,134.47326,0.1.7,1559446,科罗尔,Q527748,,city,[]
+PW,gn:8063361,,Ngerulmud,csc:r:4530,7.50077,134.6238,gn:8063361,8063361,恩吉鲁穆德,city-name,,capital,[]
+QA,csc:89864,QA-DA,Doha,csc:r:3181,25.28545,51.53096,0.1.7,389470,多哈,0.1.7,,capital,"[""Ad Dawḩah"", ""杜哈自治市""]"
+QA,qa:QA-KH,QA-KH,Al Khor,csc:r:3183,25.76667,51.31667,gn:389465,389465,艾科尔,Q1156471,,municipality,"[""Al Khawr wa adh Dhakhīrah"", ""Al Khor and Al Thakhira""]"
+QA,qa:QA-MS,QA-MS,Al Shamal,csc:r:3180,25.98333,51.2,gn:389462,389462,,,,municipality,"[""Ash Shamāl"", ""Madinat ash Shamal""]"
+QA,qa:QA-RA,QA-RA,Al Rayyan,csc:r:3177,24.91667,51.0,gn:389469,389469,,,,municipality,"[""Ar Rayyān""]"
+QA,qa:QA-SH,QA-SH,Al-Shahaniya,csc:r:3178,25.37381,50.98755,gn:11777514,11777514,沙哈尼亚,Q12188815,,municipality,"[""Al Shahaniya"", ""Ash Shīḩānīyah""]"
+QA,qa:QA-US,QA-US,Umm Salal,csc:r:3184,25.46667,51.33333,gn:389467,389467,烏姆錫拉勒,Q990414,,municipality,"[""Umm Şalāl""]"
+QA,qa:QA-WA,QA-WA,Al Wakrah,csc:r:3179,24.85,51.33333,gn:389472,389472,沃克拉,Q22811096,,municipality,"[""Al Wakra""]"
+QA,qa:QA-ZA,QA-ZA,Al Daayen,csc:r:3182,25.51667,51.45,gn:8030540,8030540,宰阿因,Q310786,,municipality,"[""Al Daayen Municipality"", ""Az̧ Z̧a‘āyin""]"
+SM,csc:104700,SM-07,San Marino,csc:r:58,43.93667,12.44639,0.1.7,3345302,圣马力诺,Q1848,,capital,"[""Città di San Marino""]"
+SM,sm:SM-01,SM-01,Acquaviva,csc:r:59,43.95,12.41667,gn:3345303,3345303,阿夸维瓦,Q206363,,municipality,[]
+SM,sm:SM-02,SM-02,Chiesanuova,csc:r:60,43.91667,12.41667,gn:3178807,3178807,基耶萨诺瓦,Q206980,,municipality,[]
+SM,sm:SM-03,SM-03,Domagnano,csc:r:64,43.95417,12.48333,gn:3345305,3345305,多马尼亚诺,Q202202,,municipality,[]
+SM,sm:SM-04,SM-04,Faetano,csc:r:62,43.9251,12.49849,gn:3345306,3345306,法埃塔诺,Q206356,,municipality,[]
+SM,sm:SM-05,SM-05,Fiorentino,csc:r:66,43.91144,12.45652,gn:3345307,3345307,菲奥伦蒂诺,Q206968,,municipality,[]
+SM,sm:SM-06,SM-06,Borgo Maggiore,csc:r:61,43.94092,12.44562,gn:3345304,3345304,博尔戈马焦雷,Q201368,,municipality,[]
+SM,sm:SM-08,SM-08,Montegiardino,csc:r:63,43.91131,12.48442,gn:3345308,3345308,蒙特贾尔迪诺,Q206962,,municipality,[]
+SM,sm:SM-09,SM-09,Serravalle,csc:r:65,43.96667,12.46667,gn:3166650,3166650,塞拉瓦莱,existing sources,,municipality,[]
+SR,csc:104831,,Paramaribo,csc:r:2843,5.86638,-55.16682,0.1.7,3383330,帕拉马里博,Q3001,,capital,[]
+SR,gn:3383427,,Nieuw Nickerie,csc:r:2840,5.92606,-56.97297,gn:3383427,3383427,新尼克里,Q738313,,city,[]
+ST,csc:104838,,São Tomé,csc:r:5728,0.33654,6.72732,0.1.7,2410763,圣多美,Q3932,,capital,[]
+ST,gn:2410737,,Trindade,csc:r:5733,0.29667,6.68139,gn:2410737,2410737,特林达迪,Q1635802,,city,[]
+ST,gn:2410788,,São João dos Angolares,csc:r:5730,0.13417,6.64944,gn:2410788,2410788,圣若昂杜斯安哥拉雷斯,existing sources,,city,[]
+ST,gn:2410805,,Santo António,csc:r:5734,1.63943,7.41951,gn:2410805,2410805,聖安東尼奧,Q973656,,city,[]
+ST,gn:2410821,,Santana,csc:r:5729,0.25423,6.7414,gn:2410821,2410821,圣安娜,Q1552353,,city,[]
+ST,gn:2410972,,Neves,csc:r:5731,0.35671,6.54897,gn:2410972,2410972,内维什,Q612376,,city,[]
+ST,gn:2411102,,Guadalupe,csc:r:5732,0.37917,6.6375,gn:2411102,2411102,瓜达卢佩,existing sources,,city,[]
+TO,csc:107048,,Nuku‘alofa,csc:r:3912,-21.13938,-175.2018,0.1.7,4032402,努库阿洛法,Q38834,,capital,[]
+TO,gn:4032369,,Pangai,csc:r:3913,-19.81468,-174.35423,gn:4032369,4032369,庞艾,Q1027037,,city,[]
+TO,gn:4032420,,Neiafu,csc:r:3911,-18.65144,-173.98354,gn:4032420,4032420,内亚富,Q1025393,,city,[]
+TV,csc:108996,TV-FUN,Funafuti,csc:r:3951,-8.52425,179.19417,0.1.7,2110384,富纳富提,existing sources,,capital,[]
+TV,tv:TV-NIT,TV-NIT,Niutao,csc:r:3946,-6.10717,177.34215,gn:7601979,7601979,纽陶岛,Q475219,,municipality,[]
+TV,tv:TV-NKF,TV-NKF,Nukufetau,csc:r:3952,-8.00025,178.37111,gn:7601982,7601982,努库费陶环礁,Q745924,,municipality,[]
+TV,tv:TV-NKL,TV-NKL,Nukulaelae,csc:r:3953,-9.38412,179.84559,gn:7601983,7601983,努库莱莱环礁,Q128654,,municipality,[]
+TV,tv:TV-NMA,TV-NMA,Nanumea,csc:r:3949,-5.65545,176.08818,gn:2110345,2110345,纳努梅阿环礁,Q174618,,municipality,[]
+TV,tv:TV-NMG,TV-NMG,Nanumanga,csc:r:3947,-6.2897,176.31958,gn:7601980,7601980,纳努芒阿岛,Q367027,,municipality,"[""Nanumaga""]"
+TV,tv:TV-NUI,TV-NUI,Nui,csc:r:3948,-7.23247,177.15205,gn:2110341,2110341,努伊環礁,Q547997,,municipality,[]
+TV,tv:TV-VAI,TV-VAI,Vaitupu,csc:r:3950,-7.4742,178.67456,gn:7601981,7601981,瓦伊圖普,Q632495,,municipality,[]
+VC,csc:130034,,Kingstown,csc:r:3384,13.15527,-61.22742,0.1.7,3577887,金斯敦,Q41474,,capital,[]
+VC,gn:3577879,,Layou,csc:r:3385,13.20175,-61.27014,gn:3577879,3577879,拉尤,Q2630835,,city,[]
+VC,gn:3577900,,Georgetown,csc:r:3389,13.28054,-61.1185,gn:3577900,3577900,乔治敦,Q2495209,,city,[]
+VC,gn:3577933,,Chateaubelair,csc:r:3387,13.29069,-61.24043,gn:3577933,3577933,沙托布莱尔,Q672197,,city,[]
+VC,gn:3577962,,Barrouallie,csc:r:3385,13.23676,-61.27275,gn:3577962,3577962,巴罗列,Q2885705,,city,[]
+VC,gn:3748746,,Calliaqua,csc:r:3384,13.12867,-61.19178,gn:3748746,3748746,卡利亚夸,Q5021973,,city,[]
+VI,csc:149561,,Charlotte Amalie,,18.341276,-64.948387,0.1.7,4795467,夏洛特阿马利亚,Q51681,,capital,[]
+VI,gn:4795479,,Christiansted,,17.74681,-64.70557,gn:4795479,4795479,克里斯琴斯特德,Q994719,,city,[]
+VI,gn:4795761,,Frederiksted,,17.71233,-64.88179,gn:4795761,4795761,,,,city,[]
+VU,csc:130641,,Port-Vila,csc:r:4774,-17.73648,168.31366,0.1.7,2135171,维拉港,Q37806,,capital,[]
+VU,gn:2136150,,Luganville,csc:r:4776,-15.51989,167.16235,gn:2136150,2136150,卢甘维尔,Q876557,,municipality,[]
+VU,gn:2136499,,Lenakel,csc:r:4777,-19.53087,169.2676,gn:2136499,2136499,,,,municipality,[]
+WF,csc:160132,WF-UV,Mata-Utu,csc:r:5707,-13.283333,-176.183333,0.1.7,4034821,马塔乌图,Q31002,,municipality,"[""Uvea""]"
+WF,wf:WF-AL,WF-AL,Alo,csc:r:5709,-14.31096,-178.11094,gn:4034885,4034885,,,,municipality,[]
+WF,wf:WF-SG,WF-SG,Leava,csc:r:5708,-14.29333,-178.15833,gn:4034778,4034778,利瓦,Q1628069,,municipality,"[""Sigave""]"
+XK,csc:160180,,Prishtine,,42.67272,21.16688,0.1.7,786713,普里什蒂纳市镇,Q3625575,,capital,"[""Pristina""]"
+XK,gn:10098790,,Mitrovicë e Veriut,,42.89498,20.8649,gn:10098790,10098790,北米特罗维察市镇,Q12756670,,municipality,[]
+XK,gn:784096,,Vushtrri,,42.82306,20.9675,gn:784097,784096,武契特尔恩市镇,Q3657833,,municipality,[]
+XK,gn:784371,,Viti,,42.32139,21.35833,gn:784372,784371,维蒂纳市镇,Q860303,,municipality,[]
+XK,gn:784758,,Ferizaj,,42.37056,21.15528,gn:784759,784758,乌罗舍瓦茨市镇,Q2048755,,municipality,[]
+XK,gn:785059,,Mitrovicë e Jugut,,42.88333,20.86667,gn:789225,785059,南米特罗维察市镇,Q3657448,,municipality,[]
+XK,gn:785234,,Suharekë,,42.35861,20.825,gn:785238,785234,苏瓦雷卡市镇,Q794044,,municipality,[]
+XK,gn:785641,,Skënderaj,,42.74667,20.78861,gn:785642,785641,斯尔比察市镇,Q2043122,,municipality,[]
+XK,gn:786711,,Prizren,,42.21389,20.73972,gn:786712,786711,普里兹伦市镇,Q2507200,,municipality,[]
+XK,gn:786949,,Podujevë,,42.91056,21.19306,gn:786950,786949,波杜耶沃市镇,Q860399,,municipality,[]
+XK,gn:787156,,Pejë,,42.65913,20.28828,gn:787157,787156,佩奇市镇,Q2507287,,municipality,[]
+XK,gn:787455,,Rahovec,,42.39944,20.65472,gn:787456,787455,奥拉霍瓦茨市镇,Q794039,,municipality,[]
+XK,gn:788651,,Lipjan,,42.52167,21.12583,gn:788652,788651,利普连市镇,Q16036965,,municipality,[]
+XK,gn:788730,,Leposaviq,,43.10389,20.80278,gn:788731,788730,莱波萨维齐市镇,Q2048354,,municipality,[]
+XK,gn:789226,,Kamenicë,,42.57806,21.58028,gn:789227,789226,卡梅尼察市镇,Q2043136,,municipality,[]
+XK,gn:789453,,Klinë,,42.62167,20.57778,gn:789455,789453,克利纳市镇,Q860157,,municipality,[]
+XK,gn:789720,,Kaçanik,,42.23194,21.25944,gn:789721,789720,卡查尼克市镇,Q2043130,,municipality,[]
+XK,gn:789995,,Istog,,42.78083,20.4875,gn:789996,789995,伊斯托克市镇,Q2043104,,municipality,[]
+XK,gn:790673,,Gjilan,,42.46045,21.46986,gn:790674,790673,格尼拉内市镇,Q2513453,,municipality,[]
+XK,gn:790697,,Gllogoc,,42.62833,20.89389,gn:790701,790697,格洛戈瓦茨市镇,Q860365,,municipality,[]
+XK,gn:791121,,Dragash,,42.0265,20.65333,gn:791122,791121,德拉加什市镇,Q3191420,,municipality,[]
+XK,gn:791579,,Deçan,,42.54018,20.28793,gn:791580,791579,代查尼市镇,Q860148,,municipality,[]
+XK,gn:791645,,Gjakovë,,42.38028,20.43083,gn:791646,791645,贾科维察市镇,Q3656386,,municipality,[]
+XK,gn:8299768,,Graçanicë,,42.57389,21.15167,gn:8299768,8299768,格拉查尼察市镇,Q3655958,,municipality,[]
+XK,gn:8299769,,Hani i Elezit,,42.15,21.29667,gn:791539,8299769,埃莱兹汉市镇,Q2347012,,municipality,[]
+XK,gn:8299770,,Junik,,42.47583,20.27722,gn:789739,8299770,尤尼克市镇,Q794068,,municipality,[]
+XK,gn:8299771,,Kllokot,,42.37139,21.37444,gn:789427,8299771,克洛科特市镇,Q860171,,municipality,[]
+XK,gn:8299772,,Mamushë,,42.33083,20.72694,gn:788187,8299772,,,,municipality,[]
+XK,gn:8299773,,Partesh,,42.40194,21.43361,gn:787197,8299773,帕尔泰什市镇,Q2605602,,municipality,[]
+XK,gn:8299774,,Ranillug,,42.49222,21.59889,gn:786478,8299774,拉尼卢格市镇,Q15529552,,municipality,[]
+XK,gn:831099,,Fushë Kosovë,,42.66394,21.09611,gn:789228,831099,科索沃波列市镇,Q2447449,,municipality,[]
+XK,gn:831100,,Shtërpcë,,42.23944,21.02722,gn:785388,831100,什特尔普采市镇,Q2043155,,municipality,[]
+XK,gn:831101,,Shtime,,42.43306,21.03972,gn:785485,831101,什蒂姆列市镇,Q4526883,,municipality,[]
+XK,gn:831102,,Novobërdë,,42.6159,21.43405,gn:787589,831102,新布尔多市镇,Q6081267,,municipality,[]
+XK,gn:831103,,Obiliq,,42.68694,21.07028,gn:787534,831103,奥比利奇市镇,Q4329229,,municipality,[]
+XK,gn:831104,,Malishevë,,42.48222,20.74583,gn:788239,831104,马利舍沃市镇,Q794063,,municipality,[]
+XK,gn:831105,,Zubin Potok,,42.91444,20.68972,gn:783802,831105,祖宾波托克市镇,Q2500688,,municipality,[]
+XK,gn:831106,,Zveçan,,42.9075,20.84028,gn:783770,831106,兹韦钱市镇,Q2048373,,municipality,[]
+YT,csc:160293,97611,Mamoudzou,,-12.7875,45.1964,register,921815,马穆楚,Q132676,,capital,[]
+YT,yt:97601,97601,Acoua,,-12.7249,45.0678,register,922015,阿库阿,Q2086991,,municipality,[]
+YT,yt:97602,97602,Bandraboua,,-12.7176,45.1238,register,1090119,邦德拉布阿,Q691779,,municipality,[]
+YT,yt:97603,97603,Bandrele,,-12.9392,45.1797,register,1090397,邦德雷莱,Q2087100,,municipality,[]
+YT,yt:97604,97604,Bouéni,,-12.9279,45.1021,register,1090467,布埃尼,Q2087082,,municipality,[]
+YT,yt:97605,97605,Chiconi,,-12.8209,45.1125,register,1090322,希科尼,Q2087010,,municipality,[]
+YT,yt:97606,97606,Chirongui,,-12.9179,45.1428,register,1090415,希龙吉,Q2087001,,municipality,[]
+YT,yt:97607,97607,Dembeni,,-12.853,45.1805,register,921917,登贝尼,Q2087041,,municipality,[]
+YT,yt:97608,97608,Dzaoudzi,,-12.7761,45.2769,register,921900,藻德济,Q846048,,municipality,[]
+YT,yt:97609,97609,Kani-Kéli,,-12.9746,45.1207,register,1090476,卡尼凯利,Q2087092,,municipality,[]
+YT,yt:97610,97610,Koungou,,-12.7417,45.1912,register,1090225,昆古,Q770411,,municipality,[]
+YT,yt:97612,97612,Mtsamboro,,-12.6754,45.0601,register,1090126,姆仓博罗,Q745108,,municipality,[]
+YT,yt:97613,97613,M'Tsangamouji,,-12.755,45.0845,register,1090161,姆仓加穆日,Q955825,,municipality,[]
+YT,yt:97614,97614,Ouangani,,-12.8393,45.1384,register,1090311,旺加尼,Q427213,,municipality,[]
+YT,yt:97615,97615,Pamandzi,,-12.801,45.2842,register,921707,帕芒济,Q1010634,,municipality,[]
+YT,yt:97616,97616,Sada,,-12.8642,45.1135,register,1090340,萨达,Q1920630,,municipality,[]
+YT,yt:97617,97617,Tsingoni,,-12.7824,45.1334,register,1090177,钦戈尼,Q2087020,,municipality,[]

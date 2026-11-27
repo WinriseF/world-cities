@@ -1,0 +1,55 @@
+pcode,commune,cod_name,source_prefecture,representative_settlement,region,zh,id,latitude,longitude,point_source
+KM111,Bambao Mtsanga,Bambao Mtsanga,Domoni,Bambao,KM-A,班巴奥姆桑加,km:commune:km111,-12.20325,44.51638,GeoNames 921992
+KM112,Domoni,Domoni,Domoni,Domoni,KM-A,多莫尼,km:commune:km112,-12.26067,44.52947,GeoNames 921906
+KM113,Jimlimé,Jimlimé,Domoni,Jimilimé,KM-A,吉姆利梅,km:commune:km113,-12.09709,44.4642,GeoNames 921851
+KM114,Koni,Koni,Domoni,Koni-Djodjo,KM-A,科尼,km:commune:km114,-12.22972,44.48167,GeoNames 921834
+KM115,Ngandzalé,Ngandzalé,Domoni,Ouzini,KM-A,恩甘扎莱,km:commune:km115,-12.26722,44.47972,GeoNames 921711
+KM121,Adda,Adda,Mrémani,Adda-Douéni,KM-A,阿达,km:commune:km121,-12.2925,44.49722,GeoNames 1091401
+KM122,Chaweni,Chaweni,Mrémani,Chaouéni,KM-A,沙韦尼,km:commune:km122,-12.35342,44.50124,GeoNames 921742
+KM123,Mramani,Mramani,Mrémani,Mramani,KM-A,姆拉马尼,km:commune:km123,-12.34639,44.52861,GeoNames 921763
+KM124,Mrémani,Mrémani,Mrémani,Mrémani,KM-A,姆雷马尼,km:commune:km124,-12.30833,44.49861,GeoNames 921762
+KM125,Ongojou,Ongojou,Mrémani,Ongoujou,KM-A,翁戈茹,km:commune:km125,-12.31,44.51389,GeoNames 921725
+KM131,Bandrani Ya Chironkamba,Bandrani Ya Chironkamba,Mutsamudu,Chironkamba,KM-A,班德拉尼亚希龙坎巴,km:commune:km131,-12.19111,44.3525,GeoNames 921939
+KM132,Bandrani Ya Mtsangani,Bandrani Ya Mtsangani,Mutsamudu,Bandani Mtsangani,KM-A,班德拉尼亚姆桑加尼,km:commune:km132,-12.18944,44.34194,GeoNames 1090976
+KM133,Mirontsy,Mirontsi,Mutsamudu,Mirontsi,KM-A,米龙齐,km:commune:km133,-12.1604,44.40986,GeoNames 1091117
+KM134,Mutsamudu,Mutsamudu,Mutsamudu,Moutsamoudou,KM-A,穆察穆杜,km:commune:km134,-12.16672,44.39944,GeoNames 921753
+KM141,Bambao Mtrouni,Bambao Mtrouni,Ouani,Tsimbeo,KM-A,班巴奥姆特鲁尼,km:commune:km141,-12.20583,44.46472,GeoNames 921664
+KM142,Bazimini,Bazimini,Ouani,Bazimini,KM-A,巴济米尼,km:commune:km142,-12.17917,44.44889,GeoNames 921969
+KM143,Ouani,Ouani,Ouani,Ouani,KM-A,瓦尼,km:commune:km143,-12.13554,44.42493,GeoNames 921721
+KM151,Moya,Moya,Sima,Moya,KM-A,莫亚,km:commune:km151,-12.30967,44.43685,GeoNames 921764
+KM152,Sima,Sima,Sima,Sima,KM-A,西马,km:commune:km152,-12.19556,44.27667,GeoNames 921675
+KM153,Vouani,Vouani,Sima,Vouani,KM-A,武阿尼,km:commune:km153,-12.24417,44.37444,GeoNames 921655
+KM211,Mboinkou,Mboinkou,Hamahamet-Mboinkou,Chezani,KM-G,姆博因库,km:commune:km211,-11.4314,43.39625,GeoNames 921944
+KM212,Nyuma Mro,Nyuma Mro,Hamahamet-Mboinkou,Itsandzéni,KM-G,纽马姆罗,km:commune:km212,-11.47278,43.38444,GeoNames 1091868
+KM213,Nyuma Msiru,Nyuma Msiru,Hamahamet-Mboinkou,Mbéni,KM-G,纽马姆西鲁,km:commune:km213,-11.50139,43.3775,GeoNames 921806
+KM221,Djoumoipangua,Djoumoipangua,Hambou,Singani,KM-G,朱莫伊潘瓜,km:commune:km221,-11.84784,43.31731,GeoNames 921674
+KM222,Tsinimoipangua,Tsinimoipangua,Hambou,Mitsoudjé,KM-G,齐尼莫伊潘瓜,km:commune:km222,-11.81209,43.28043,GeoNames 921785
+KM231,Bangaani,Bangaani,Itsandra-Hamanvou,Itsandra,KM-G,班加阿尼,km:commune:km231,-11.67638,43.26466,GeoNames 921856
+KM232,Djoumoichongo,Djoumoichongo,Itsandra-Hamanvou,Bahani,KM-G,朱莫伊雄戈,km:commune:km232,-11.63972,43.28417,GeoNames 1092065
+KM233,Hamanvou,Hamanvou,Itsandra-Hamanvou,Hahaya,KM-G,哈曼武,km:commune:km233,-11.56223,43.27214,GeoNames 921876
+KM234,Isahari,Isahari,Itsandra-Hamanvou,Ntsoudjini,KM-G,伊萨哈里,km:commune:km234,-11.66077,43.27157,GeoNames 921729
+KM235,Mbadani,Mbadani,Itsandra-Hamanvou,Vanadjou,KM-G,姆巴达尼,km:commune:km235,-11.6075,43.27611,GeoNames 1092041
+KM241,Domba,Domba,Mbadjini Est,Bandamadji-Domba,KM-G,东巴,km:commune:km241,-11.78788,43.45356,GeoNames 921984
+KM242,Itsahidi,Itsahidi,Mbadjini Est,Foumbouni,KM-G,伊察希迪,km:commune:km242,-11.86537,43.49529,GeoNames 921884
+KM243,Pimba,Pimba,Mbadjini Est,Nioumamilima,KM-G,平巴,km:commune:km243,-11.85461,43.44607,GeoNames 1092529
+KM251,Ngouengoe,Ngouengoe,Mbadjini Ouest,Dembéni,KM-G,恩古恩戈埃,csc:65097,-11.87361,43.39778,GeoNames 921918
+KM252,Nioumagama,Nioumagama,Mbadjini Ouest,Famaré,KM-G,纽马加马,km:commune:km252,-11.85861,43.42333,GeoNames 1092553
+KM261,Cembenoi Lac Salé,Cembenoi Lac Salé,Mitsamiouli-Mboudé,Ivouani,KM-G,森贝努瓦拉克萨莱,km:commune:km261,-11.39157,43.39454,GeoNames 921852
+KM262,Cembenoi Sada Djoulamlima,Cembenoi Sada Djoulamlima,Mitsamiouli-Mboudé,Ouellah,KM-G,森贝努瓦萨达朱拉姆利马,km:commune:km262,-11.39028,43.33194,GeoNames 921719
+KM263,Mitsamiouli,Mitsamiouli,Mitsamiouli-Mboudé,,KM-G,米察米乌利,csc:65129,-11.398364,43.2846846,COSEP/OCHA COD-AB v01 commune point
+KM264,Nyuma Komo,Nyuma Komo,Mitsamiouli-Mboudé,Toyifa,KM-G,纽马科莫,km:commune:km264,-11.40528,43.30528,GeoNames 1091678
+KM265,Nyumamro Kiblani,Nyumamro Kiblani,Mitsamiouli-Mboudé,Douniani,KM-G,纽马姆罗基布拉尼,km:commune:km265,-11.42111,43.28889,GeoNames 1091712
+KM266,Nyumamro Souheili,Nyumamro Souheili,Mitsamiouli-Mboudé,Ivembeni,KM-G,纽马姆罗苏海利,km:commune:km266,-11.47778,43.31806,GeoNames 921853
+KM271,Bambao Ya Hari,Bambao Ya Hari,Moroni-Bambao,Séléa,KM-G,班巴奥亚哈里,km:commune:km271,-11.78756,43.27036,GeoNames 1092396
+KM272,Bambao Ya Mboini,Bambao Ya Mboini,Moroni-Bambao,Ikoni,KM-G,班巴奥亚姆博伊尼,km:commune:km272,-11.74487,43.2371,GeoNames 1092369
+KM273,Bambao Yadjou,Bambao Yadjou,Moroni-Bambao,Mavingouni,KM-G,班巴奥亚朱,csc:65126,-11.71953,43.26233,GeoNames 1092343
+KM274,Moroni,Moroni,Moroni-Bambao,Moroni,KM-G,莫洛尼,csc:65135,-11.70216,43.25506,GeoNames 921772
+KM281,Dimani,Dimani,Oichili-Dimani,Ntsoralé,KM-G,迪马尼,km:commune:km281,-11.68667,43.405,GeoNames 1092163
+KM282,Oichili Yadjou,Oichili Yadjou,Oichili-Dimani,Koimbani,KM-G,瓦希利亚朱,km:commune:km282,-11.62306,43.35667,GeoNames 921839
+KM283,Oichili Yaboini,Oichili Yamboini,Oichili-Dimani,Mtsamdou,KM-G,瓦希利亚博伊尼,km:commune:km283,-11.60694,43.38056,GeoNames 921756
+KM311,Djando,Djando,Djando,Ouanani,KM-M,詹多,km:commune:km311,-12.3375,43.7975,GeoNames 921654
+KM321,Fomboni,Fomboni,Fomboni,Fomboni,KM-M,丰博尼,km:commune:km321,-12.28759,43.74344,GeoNames 921889
+KM322,Moili Mdjini,Moili Mdjini,Fomboni,Djoyézi,KM-M,莫伊利姆吉尼,km:commune:km322,-12.30587,43.77425,GeoNames 921913
+KM323,Moimbassa,Moimbassa,Fomboni,,KM-M,莫因巴萨,km:commune:km323,-12.2773855,43.6813785,COSEP/OCHA COD-AB v01 commune point
+KM331,M’Lédjélé,Mlédjélé,Nioumachioi,Nioumachoua,KM-M,姆莱杰莱,km:commune:km331,-12.36139,43.71528,GeoNames 921745
+KM332,Moimbao,Moimbao,Nioumachioi,Miringoni,KM-M,莫因巴奥,km:commune:km332,-12.29667,43.63528,GeoNames 921790

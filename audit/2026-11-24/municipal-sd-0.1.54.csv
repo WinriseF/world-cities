@@ -1,0 +1,189 @@
+id,official_id,region,en,zh,latitude,longitude,roster_source,coordinate_source,notes
+sd:SD07090,SD07090,SD-KS,Abassiya,阿巴斯西亚,12.234464,31.271965,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD16008,SD16008,SD-NR,Abu Hamad,阿布哈马德,19.53333,33.31667,https://tran.sudanembassy-kw.com/state.html,https://www.geonames.org/380858/,GeoNames 同名点在官方辖区边界内；缺少可确认中文名，使用音译
+sd:SD14037,SD14037,SD-SI,Abu Hujar,阿布胡贾尔,12.8542,33.9885,https://tran.sudanembassy-kw.com/state.html,https://www.geonames.org/380803/,GeoNames 同名点在官方辖区边界内；缺少可确认中文名，使用音译
+sd:SD05140,SD05140,SD-DE,Abu Jabrah,阿布贾布拉,10.950397,26.868803,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD07088,SD07088,SD-KS,Abu Jubayhah,阿布朱巴哈,11.002253,31.874989,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD05155,SD05155,SD-DE,Abu Karinka,阿布卡里恩卡,11.58708,26.54357,https://tran.sudanembassy-kw.com/state.html,https://www.geonames.org/380751/,GeoNames 同名点在官方辖区边界内；缺少可确认中文名，使用音译
+sd:SD07104,SD07104,SD-KS,Abu Kershola,阿布克尔绍拉,12.15,30.8,https://tran.sudanembassy-kw.com/state.html,https://www.geonames.org/380746/,GeoNames 同名点在官方辖区边界内；缺少可确认中文名，使用音译
+sd:SD18028,SD18028,SD-GK,Abu Zabad,阿布·扎巴德,12.35,29.25,https://tran.sudanembassy-kw.com/state.html,https://www.geonames.org/380348/,GeoNames 同名点在官方辖区边界内
+sd:SD18087,SD18087,SD-GK,Abyei,阿布耶伊,10.838132,27.621591,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD17019,SD17019,SD-NO,Ad Dabbah,达巴,18.05,30.95,https://tran.sudanembassy-kw.com/state.html,https://www.geonames.org/380186/,GeoNames 同名点在官方辖区边界内
+sd:SD14039,SD14039,SD-SI,Ad Dali,阿德达利,12.8655,33.4128,https://tran.sudanembassy-kw.com/state.html,https://www.geonames.org/7029184/,GeoNames 同名点在官方辖区边界内；缺少可确认中文名，使用音译
+sd:SD16011,SD16011,SD-NR,Ad Damar,阿德达马尔,17.108278,33.942473,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD14040,SD14040,SD-SI,Ad Dinder,阿德迪恩德尔,12.696578,35.011812,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD09044,SD09044,SD-NW,Ad Diwaim,阿德迪瓦伊姆,13.944054,31.999274,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD05142,SD05142,SD-DE,Ad Du'ayn,阿德杜阿恩,11.410514,26.193313,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD05139,SD05139,SD-DE,Adila,阿迪拉,11.427499,26.987324,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD04115,SD04115,SD-DW,Ag Geneina,阿格盖内伊纳,13.368938,22.417614,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD10072,SD10072,SD-RS,Agig,阿吉格,17.867426,38.014966,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD09051,SD09051,SD-NW,Aj Jabalain,阿贾巴拉伊恩,12.717142,32.947591,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD16014,SD16014,SD-NR,Al Buhaira,阿勒布哈伊拉,20.226344,32.577078,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD07099,SD07099,SD-KS,Al Buram,阿勒布拉姆,10.62033,29.96675,https://tran.sudanembassy-kw.com/state.html,https://www.geonames.org/8199079/,GeoNames 同名点在官方辖区边界内；缺少可确认中文名，使用音译
+sd:SD17016,SD17016,SD-NO,Al Burgaig,阿勒布尔加伊格,19.551219,30.61564,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD12073,SD12073,SD-GD,Al Butanah,阿勒布塔纳,15.009338,34.815855,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD18103,SD18103,SD-GK,Al Dibab,阿勒迪巴布,10.328837,28.572073,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD12074,SD12074,SD-GD,Al Fao,阿勒法奥,14.11246,34.08358,https://tran.sudanembassy-kw.com/state.html,https://www.geonames.org/8181667/,GeoNames 同名点在官方辖区边界内；缺少可确认中文名，使用音译
+sd:SD12075,SD12075,SD-GD,Al Fashaga,阿勒法沙加,14.347783,35.736369,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD02114,SD02114,SD-DN,Al Fasher,阿勒法谢尔,13.817319,25.375892,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD05152,SD05152,SD-DE,Al Firdous,阿勒菲尔多乌斯,10.896542,25.882676,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD12078,SD12078,SD-GD,Al Galabat Al Gharbyah - Kassab,阿勒加拉巴特阿勒格哈尔布亚卡斯萨布,13.35503,35.365451,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD10069,SD10069,SD-RS,Al Ganab,阿勒加纳布,19.327282,35.036045,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD09050,SD09050,SD-NW,Al Gitaina,阿勒吉塔伊纳,14.396255,32.285118,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD17018,SD17018,SD-NO,Al Golid,阿勒戈利德,17.694802,28.753085,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD15034,SD15034,SD-GZ,Al Hasahisa,阿勒哈萨希萨,14.812271,32.92227,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD18104,SD18104,SD-GK,Al Idia,阿勒伊迪阿,11.925498,27.786465,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD15035,SD15035,SD-GZ,Al Kamlin,阿勒卡姆利恩,15.0998,33.17493,https://tran.sudanembassy-kw.com/state.html,https://www.geonames.org/379284/,GeoNames 同名点在官方辖区边界内；缺少可确认中文名，使用音译
+sd:SD18105,SD18105,SD-GK,Al Khiwai,阿勒希瓦伊,13.345456,29.030705,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD02116,SD02116,SD-DN,Al Koma,阿勒科马,14.120738,27.254941,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD08106,SD08106,SD-NB,Al Kurmuk,阿勒库尔穆克,10.395092,34.013072,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD18102,SD18102,SD-GK,Al Lagowa,阿尔拉戈瓦,11.4,29.13333,https://tran.sudanembassy-kw.com/state.html,https://www.geonames.org/379198/,GeoNames 同名点在官方辖区边界内
+sd:SD02169,SD02169,SD-DN,Al Lait,阿勒拉伊特,11.97349,26.699826,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD07105,SD07105,SD-KS,Al Leri,阿勒莱里,10.173165,30.713947,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD12082,SD12082,SD-GD,Al Mafaza,阿勒马法扎,13.61029,34.544617,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD02117,SD02117,SD-DN,Al Malha,阿勒马勒哈,17.434707,25.747555,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD15036,SD15036,SD-GZ,Al Manaqil,阿尔马纳基勒,14.2459,32.9891,https://tran.sudanembassy-kw.com/state.html,https://www.geonames.org/379149/,GeoNames 同名点在官方辖区边界内
+sd:SD16009,SD16009,SD-NR,Al Matama,阿勒马塔马,16.700449,32.679595,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD18106,SD18106,SD-GK,Al Meiram,阿勒梅伊拉姆,10.322069,27.80061,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD07094,SD07094,SD-KS,Al Quoz,阿勒乌奥兹,12.455756,29.828937,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD15037,SD15037,SD-GZ,Al Qurashi,阿勒乌拉希,14.293214,32.643198,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD12076,SD12076,SD-GD,Al Qureisha,阿勒乌雷伊沙,13.674775,36.116402,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD03141,SD03141,SD-DS,Al Radoum,阿勒拉多乌姆,9.730303,24.207785,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD03150,SD03150,SD-DS,Al Wihda,阿勒维达,12.869385,24.993571,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+csc:102932,SD18022,SD-GK,An Nuhud,安努胡德,12.7,28.43333,https://tran.sudanembassy-kw.com/state.html,https://github.com/dr5hn/countries-states-cities-database,既有同名点在官方辖区边界内
+sd:SD12084,SD12084,SD-GD,Ar Rahad,阿尔拉哈德,13.193512,34.951797,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD13030,SD13030,SD-KN,Ar Rahad,拉哈德,12.71667,30.65,https://tran.sudanembassy-kw.com/state.html,https://www.geonames.org/378493/,GeoNames 同名点在官方辖区边界内
+sd:SD07093,SD07093,SD-KS,Ar Rashad,阿尔拉沙德,11.808243,31.098757,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD07097,SD07097,SD-KS,Ar Reif Ash Shargi,阿尔雷伊夫阿什沙尔吉,11.186974,29.938252,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD08107,SD08107,SD-NB,Ar Rusayris,阿尔鲁萨里斯,12.162634,34.592941,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD03166,SD03166,SD-DS,As Salam - SD,阿斯萨拉姆斯德,11.735992,24.835715,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD18086,SD18086,SD-GK,As Salam - WK,阿斯萨拉姆克,11.304227,28.157907,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD09049,SD09049,SD-NW,As Salam / Ar Rawat,阿斯萨拉姆阿尔拉瓦特,12.480538,32.260008,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD02118,SD02118,SD-DN,As Serief,阿斯塞里埃夫,13.968776,23.710371,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD14041,SD14041,SD-SI,As Suki,苏基,13.31667,33.88333,https://tran.sudanembassy-kw.com/state.html,https://www.geonames.org/378271/,GeoNames 同名点在官方辖区边界内
+sd:SD03156,SD03156,SD-DS,As Sunta,阿斯苏恩塔,10.678589,25.565182,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD18092,SD18092,SD-GK,As Sunut,阿斯苏努特,12.039678,28.948108,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD05163,SD05163,SD-DE,Assalaya,阿斯萨拉亚,11.696193,26.128094,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD08108,SD08108,SD-NB,At Tadamon - BN,阿特塔达莫恩布恩,11.583971,33.624293,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD07106,SD07106,SD-KS,At Tadamon - SK,阿特塔达莫恩斯克,12.173907,31.6587,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD02119,SD02119,SD-DN,At Tawisha,阿特塔维沙,12.466037,26.595542,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD02171,SD02171,SD-DN,At Tina,阿特蒂纳,15.059443,23.042522,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+csc:102938,SD16012,SD-NR,Atbara,阿特巴拉,17.70217,33.98638,https://tran.sudanembassy-kw.com/state.html,https://github.com/dr5hn/countries-states-cities-database,既有同名点在官方辖区边界内
+sd:SD06110,SD06110,SD-DC,Azum,阿祖姆,12.948205,23.067714,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD18100,SD18100,SD-GK,Babanusa,巴巴努萨,11.376699,27.688769,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD05160,SD05160,SD-DE,Bahr Al Arab,巴尔阿勒阿拉布,10.418818,26.706472,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD01003,SD01003,SD-KH,Bahri,北喀土穆,15.64925,32.53458,https://tran.sudanembassy-kw.com/state.html,https://www.geonames.org/379251/,GeoNames 同名点在官方辖区边界内
+sd:SD13026,SD13026,SD-KN,Bara,巴拉,14.01287,31.279958,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD16013,SD16013,SD-NR,Barbar,巴尔巴尔,18.143005,33.863001,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD12077,SD12077,SD-GD,Basundah,巴苏恩达,12.92299,35.825584,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD08104,SD08104,SD-NB,Baw,巴,11.38333,34.08333,https://tran.sudanembassy-kw.com/state.html,https://www.geonames.org/377560/,GeoNames 同名点在官方辖区边界内；缺少可确认中文名，使用音译
+sd:SD04111,SD04111,SD-DW,Beida,贝伊达,12.71667,21.88333,https://tran.sudanembassy-kw.com/state.html,https://www.geonames.org/377686/,GeoNames 同名点在官方辖区边界内；缺少可确认中文名，使用音译
+sd:SD03162,SD03162,SD-DS,Beliel,贝利埃勒,11.913716,25.104811,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD06112,SD06112,SD-DC,Bendasi,贝恩达西,12.050722,22.93377,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD03161,SD03161,SD-DS,Buram,布拉姆,10.85826,25.15921,https://tran.sudanembassy-kw.com/state.html,https://www.geonames.org/377108/,GeoNames 同名点在官方辖区边界内；缺少可确认中文名，使用音译
+sd:SD03172,SD03172,SD-DS,Damso,达姆索,10.754867,24.472887,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD02113,SD02113,SD-DN,Dar As Salam,达尔阿斯萨拉姆,13.229823,25.33651,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD07107,SD07107,SD-KS,Delami,德拉米,11.647429,30.337287,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD17015,SD17015,SD-NO,Delgo,德勒戈,20.090781,28.670045,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD07095,SD07095,SD-KS,Dilling,迪林,12.05,29.65,https://tran.sudanembassy-kw.com/state.html,https://www.geonames.org/376450/,GeoNames 同名点在官方辖区边界内
+csc:102943,SD17017,SD-NO,Dongola,栋古拉,19.18163,30.47689,https://tran.sudanembassy-kw.com/state.html,https://github.com/dr5hn/countries-states-cities-database,既有同名点在官方辖区边界内
+sd:SD10063,SD10063,SD-RS,Dordieb,多尔迪埃布,17.497406,35.818773,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD03143,SD03143,SD-DS,Ed Al Fursan,埃德阿勒富尔萨恩,11.714532,24.343285,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD08105,SD08105,SD-NB,Ed Damazine,埃德达马齐内,12.051016,34.227147,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD04121,SD04121,SD-DW,Foro Baranga,福罗巴拉恩加,12.244453,22.59958,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD12079,SD12079,SD-GD,Gala'a Al Nahal,加拉阿阿勒纳哈勒,13.35012,35.04766,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD12083,SD12083,SD-GD,Galabat Ash-Shargiah,加拉巴特阿什沙尔吉阿,13.409822,35.785539,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD13027,SD13027,SD-KN,Gebrat Al Sheikh,盖布拉特阿勒谢伊赫,15.361466,30.922157,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD08109,SD08109,SD-NB,Geisan,盖伊萨恩,11.238076,34.773657,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD03153,SD03153,SD-DS,Gereida,盖雷达,11.27543,25.14026,https://tran.sudanembassy-kw.com/state.html,https://www.geonames.org/8504621/,GeoNames 同名点在官方辖区边界内
+sd:SD07108,SD07108,SD-KS,Ghadeer,格哈德埃尔,10.644734,31.036142,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD13029,SD13029,SD-KN,Gharb Bara,格哈尔布巴拉,13.960484,29.599814,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD06131,SD06131,SD-DC,Gharb Jabal Marrah,格哈尔布贾巴勒马尔拉,13.096936,24.010251,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD18021,SD18021,SD-GK,Ghubaish,格胡巴伊什,12.292606,27.50962,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD09052,SD09052,SD-NW,Guli,古利,13.303657,32.364043,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD07103,SD07103,SD-KS,Habila - SK,哈比拉斯克,11.926753,29.957442,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD04122,SD04122,SD-DW,Habila - WD,哈比拉德,12.604334,22.548543,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD10066,SD10066,SD-RS,Hala'ib,哈拉伊布,21.587486,36.517041,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD17014,SD17014,SD-NO,Halfa,哈勒法,21.40835,28.697662,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD11052,SD11052,SD-KA,Halfa Aj Jadeedah,哈勒法阿贾德埃达,15.563791,35.557102,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD10070,SD10070,SD-RS,Haya,哈亚,18.3353,36.3856,https://tran.sudanembassy-kw.com/state.html,https://www.geonames.org/373898/,GeoNames 同名点在官方辖区边界内；缺少可确认中文名，使用音译
+sd:SD07096,SD07096,SD-KS,Heiban,赫伊巴恩,11.14661,30.468989,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD15031,SD15031,SD-GZ,Janub Al Jazirah,贾努布阿勒贾齐拉,14.091953,33.463635,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD01001,SD01001,SD-KH,Jebel Awlia,杰贝勒阿利阿,15.355495,32.590184,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD04123,SD04123,SD-DW,Jebel Moon,杰贝勒莫奥恩,13.99134,22.70407,https://tran.sudanembassy-kw.com/state.html,https://www.geonames.org/8436323/,GeoNames 同名点在官方辖区边界内；缺少可确认中文名，使用音译
+sd:SD10067,SD10067,SD-RS,Jubayt Elma'aadin,朱巴特埃勒马阿阿迪恩,21.156982,34.911432,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+csc:102954,SD07098,SD-KS,Kadugli,卡杜格利,11.01111,29.71833,https://tran.sudanembassy-kw.com/state.html,https://github.com/dr5hn/countries-states-cities-database,既有同名点在官方辖区边界内
+sd:SD01005,SD01005,SD-KH,Karrari,卡尔拉里,16.023746,32.338167,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD03144,SD03144,SD-DS,Kas,卡斯,12.50974,24.28519,https://tran.sudanembassy-kw.com/state.html,https://www.geonames.org/372773/,GeoNames 同名点在官方辖区边界内；缺少可确认中文名，使用音译
+sd:SD03159,SD03159,SD-DS,Kateila,卡特伊拉,11.023285,24.292714,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD02124,SD02124,SD-DN,Kebkabiya,克布卡比亚,13.613186,24.179302,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD18085,SD18085,SD-GK,Keilak,克伊拉克,10.83016,29.3461,https://tran.sudanembassy-kw.com/state.html,https://www.geonames.org/372655/,GeoNames 同名点在官方辖区边界内；缺少可确认中文名，使用音译
+sd:SD02126,SD02126,SD-DN,Kelemando,克莱马恩多,13.124103,25.938585,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD04125,SD04125,SD-DW,Kereneik,克雷内伊克,13.291525,22.842013,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD02168,SD02168,SD-DN,Kernoi,克尔诺伊,14.910514,23.457553,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+csc:102957,SD01007,SD-KH,Khartoum,喀土穆,15.55177,32.53241,https://tran.sudanembassy-kw.com/state.html,https://github.com/dr5hn/countries-states-cities-database,既有同名点在官方辖区边界内
+csc:102959,SD09047,SD-NW,Kosti,库斯提,13.1629,32.66347,https://tran.sudanembassy-kw.com/state.html,https://github.com/dr5hn/countries-states-cities-database,既有同名点在官方辖区边界内
+sd:SD03157,SD03157,SD-DS,Kubum,库布姆,11.741514,23.880279,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD04127,SD04127,SD-DW,Kulbus,库勒布斯,14.607679,22.636474,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD02128,SD02128,SD-DN,Kutum,库特姆,14.2,24.66667,https://tran.sudanembassy-kw.com/state.html,https://www.geonames.org/371745/,GeoNames 同名点在官方辖区边界内
+sd:SD12080,SD12080,SD-GD,Madeinat Al Gedaref,马德伊纳特阿勒盖达雷夫,14.026375,35.367561,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD11053,SD11053,SD-KA,Madeinat Kassala,马德伊纳特卡斯萨拉,15.433638,36.371775,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD15030,SD15030,SD-GZ,Medani Al Kubra,梅达尼阿勒库布拉,14.329742,33.630486,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD02129,SD02129,SD-DN,Melit,梅利特,14.204262,26.195331,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD03145,SD03145,SD-DS,Mershing,梅尔希昂,12.516388,24.979314,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD17020,SD17020,SD-NO,Merwoe,梅尔沃埃,18.374544,31.939657,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD06130,SD06130,SD-DC,Mukjar,穆克贾尔,11.95001,23.28316,https://tran.sudanembassy-kw.com/state.html,https://www.geonames.org/8468704/,GeoNames 同名点在官方辖区边界内；缺少可确认中文名，使用音译
+sd:SD03151,SD03151,SD-DS,Nitega,尼特加,12.603077,25.294363,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD03167,SD03167,SD-DS,Nyala Janoub,恩亚拉贾诺乌布,12.020892,24.826238,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD03164,SD03164,SD-DS,Nyala Shimal,恩亚拉希马勒,12.434224,24.683633,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD10064,SD10064,SD-RS,Port Sudan,苏丹港,19.61745,37.21644,https://tran.sudanembassy-kw.com/state.html,https://www.geonames.org/377039/,GeoNames 同名点在官方辖区边界内
+sd:SD09046,SD09046,SD-NW,Rabak,拉巴克,13.18087,32.73999,https://tran.sudanembassy-kw.com/state.html,https://www.geonames.org/368277/,GeoNames 同名点在官方辖区边界内
+sd:SD03158,SD03158,SD-DS,Rehaid Albirdi,雷哈伊德阿勒比尔迪,10.999173,23.495308,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD11055,SD11055,SD-KA,Reifi Aroma,雷伊菲阿罗马,15.734547,35.961724,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD11054,SD11054,SD-KA,Reifi Gharb Kassala,雷伊菲格哈尔布卡斯萨拉,15.292579,36.11167,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD11058,SD11058,SD-KA,Reifi Hamashkureib,雷伊菲哈马什库雷伊布,16.813069,36.59432,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD11056,SD11056,SD-KA,Reifi Kassla,雷伊菲卡斯斯拉,15.262083,36.428096,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD11060,SD11060,SD-KA,Reifi Khashm Elgirba,雷伊菲哈什姆埃勒吉尔巴,15.581282,34.935394,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD11062,SD11062,SD-KA,Reifi Nahr Atbara,雷伊菲纳尔阿特巴拉,15.723887,35.39765,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD11057,SD11057,SD-KA,Reifi Shamal Ad Delta,雷伊菲沙马勒阿德德勒塔,16.583488,35.969577,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD11059,SD11059,SD-KA,Reifi Telkok,雷伊菲特勒科克,16.154125,36.638843,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD11061,SD11061,SD-KA,Reifi Wad Elhilaiw,雷伊菲瓦德埃勒希拉伊,14.606502,36.193351,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD02133,SD02133,SD-DN,Saraf Omra,萨拉夫奥姆拉,13.4771,23.31169,https://tran.sudanembassy-kw.com/state.html,https://www.geonames.org/8468703/,GeoNames 同名点在官方辖区边界内；缺少可确认中文名，使用音译
+sd:SD10068,SD10068,SD-RS,Sawakin,萨瓦基恩,19.026277,37.240232,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD14038,SD14038,SD-SI,Sennar,塞恩纳尔,13.56907,33.56718,https://tran.sudanembassy-kw.com/state.html,https://www.geonames.org/367644/,GeoNames 同名点在官方辖区边界内；缺少可确认中文名，使用音译
+sd:SD06132,SD06132,SD-DC,Shamal Jabal Marrah,沙马勒贾巴勒马尔拉,13.272936,24.44776,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD03147,SD03147,SD-DS,Sharg Aj Jabal,沙尔格阿贾巴勒,12.908766,24.495046,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD15033,SD15033,SD-GZ,Sharg Al Jazirah,沙尔格阿勒贾齐拉,15.015549,33.667925,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD01004,SD01004,SD-KH,Sharg An Neel,沙尔格阿恩内埃勒,15.691101,33.319932,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD14042,SD14042,SD-SI,Sharg Sennar,沙尔格塞恩纳尔,13.745392,33.865603,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD03154,SD03154,SD-DS,Shattaya,沙特塔亚,12.34769,23.869245,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD13024,SD13024,SD-KN,Sheikan,谢伊卡恩,13.035429,30.032265,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+csc:102971,SD16010,SD-NR,Shendi,沉迪,16.6915,33.4341,https://tran.sudanembassy-kw.com/state.html,https://github.com/dr5hn/countries-states-cities-database,既有同名点在官方辖区边界内
+sd:SD05148,SD05148,SD-DE,Shia'ria,希阿里阿,12.588053,25.700669,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD14043,SD14043,SD-SI,Sinja,西恩贾,13.128838,33.786667,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+csc:165528,SD10071,SD-RS,Sinkat,辛卡特,18.8405,36.8351,https://tran.sudanembassy-kw.com/state.html,https://github.com/dr5hn/countries-states-cities-database,既有同名点在官方辖区边界内
+sd:SD04134,SD04134,SD-DW,Sirba,西尔巴,13.824716,22.423323,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD13025,SD13025,SD-KN,Soudari,索乌达里,15.174099,28.25385,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD07089,SD07089,SD-KS,Talawdi,塔拉迪,10.541814,30.436999,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD02170,SD02170,SD-DN,Tawila,塔维拉,13.31376,24.903115,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD10065,SD10065,SD-RS,Tawkar,塔卡尔,17.936989,37.264966,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD09048,SD09048,SD-NW,Tendalti,特恩达勒蒂,13.119494,32.055792,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD03149,SD03149,SD-DS,Tulus,图卢斯,11.26178,25.003632,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD15032,SD15032,SD-GZ,Um Algura,乌姆阿勒古拉,14.458188,33.865814,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD01002,SD01002,SD-KH,Um Bada,乌姆巴达,16.128221,31.89717,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD02120,SD02120,SD-DN,Um Baru,乌姆巴鲁,15.310113,24.208236,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD03146,SD03146,SD-DS,Um Dafoug,乌姆达福乌格,10.568005,23.74933,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD13028,SD13028,SD-KN,Um Dam Haj Ahmed,乌姆达姆哈阿梅德,13.717683,30.881171,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD06135,SD06135,SD-DC,Um Dukhun,乌姆杜胡恩,11.378204,23.15049,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD07091,SD07091,SD-KS,Um Durein,乌姆杜雷伊恩,10.923865,30.132572,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+csc:102967,SD01006,SD-KH,Um Durman,恩图曼,15.64453,32.47773,https://tran.sudanembassy-kw.com/state.html,https://github.com/dr5hn/countries-states-cities-database,既有同名点在官方辖区边界内
+sd:SD02136,SD02136,SD-DN,Um Kadadah,乌姆卡达达,13.485008,26.924159,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD13023,SD13023,SD-KN,Um Rawaba,乌姆拉瓦巴,13.161285,31.406246,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD09045,SD09045,SD-NW,Um Rimta,乌姆里姆塔,14.869,32.22767,https://tran.sudanembassy-kw.com/state.html,https://www.geonames.org/12493866/,GeoNames 同名点在官方辖区边界内；缺少可确认中文名，使用音译
+sd:SD08110,SD08110,SD-NB,Wad Al Mahi,瓦德阿勒马希,11.59554,34.753461,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD18029,SD18029,SD-GK,Wad Bandah,瓦德巴恩达,13.1,27.95,https://tran.sudanembassy-kw.com/state.html,https://www.geonames.org/364203/,GeoNames 同名点在官方辖区边界内；缺少可确认中文名，使用音译
+sd:SD06137,SD06137,SD-DC,Wadi Salih,瓦迪萨利,12.41614,23.371006,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD12081,SD12081,SD-GD,Wasat Al Gedaref,瓦萨特阿勒盖达雷夫,14.151642,34.994637,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD06139,SD06139,SD-DC,Wasat Jabal Marrah,瓦萨特贾巴勒马尔拉,13.123652,24.313515,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD05165,SD05165,SD-DE,Yassin,亚斯西恩,11.706977,25.586413,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译
+sd:SD06138,SD06138,SD-DC,Zalingi,扎利恩吉,13.044892,23.560549,https://tran.sudanembassy-kw.com/state.html,https://data.humdata.org/dataset/cod-ab-sdn,官方地理名录代表点在辖区边界内；缺少可确认中文名，使用音译

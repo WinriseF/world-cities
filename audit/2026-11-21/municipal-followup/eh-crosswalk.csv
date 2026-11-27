@@ -1,0 +1,32 @@
+hcp2024Code,packageID,name,hcpProvince,pointSource,pointSourceID,latitude,longitude
+100710501,eh:100710501,Al Mahbass,Province d'Assa-Zag,geonames,6546499,27.47276,-8.98753
+111210101,gn:2463029,Boujdour,Province de Boujdour,geonames,2463029,26.13073,-14.48513
+111210301,eh:111210301,Gueltat Zemmour,Province de Boujdour,geonames,6545648,25.25419,-12.89066
+111210303,eh:111210303,Jraifia,Province de Boujdour,wikidata,Q25454468,24.90945,-14.82732
+111210305,eh:111210305,Lamssid,Province de Boujdour,geonames,6545513,26.00324,-13.29071
+112210101,csc:67220,Smara,Province d'Es-Semara,wikidata,Q842810,26.73841,-11.67194
+112210301,eh:112210301,Amgala,Province d'Es-Semara,wikidata,Q109016773,26.1617,-11.413
+112210303,eh:112210303,Haouza,Province d'Es-Semara,geonames,6545651,27.1272,-11.20923
+112210305,eh:112210305,Jdiriya,Province d'Es-Semara,wikidata,Q1656837,27.2486,-10.4132
+112210307,eh:112210307,Sidi Ahmed Laaroussi,Province d'Es-Semara,wikidata,Q27534267,26.822778,-11.773333
+112210309,eh:112210309,Tifariti,Province d'Es-Semara,geonames,6545662,26.33348,-9.82045
+113210101,gn:2461993,El Marsa,Province de Laâyoune,geonames,2461993,27.09611,-13.41583
+113210103,gn:2462881,Laayoune,Province de Laâyoune,geonames,2462881,27.1418,-13.18797
+113210301,eh:113210301,Boukraa,Province de Laâyoune,geonames,2463090,26.35389,-12.78389
+113210303,eh:113210303,Dcheira,Province de Laâyoune,geonames,6546491,26.97639,-12.61965
+113210305,eh:113210305,Foum El Oued,Province de Laâyoune,wikidata,Q25454472,27.1769,-13.3928
+115370303,eh:115370303,Daoura,Province de Tarfaya,geonames,6546494,27.46033,-12.85308
+115370305,eh:115370305,El Hagounia,Province de Tarfaya,wikidata,Q1324202,27.4264,-12.3919
+120660103,gn:2462651,Lagouira,Province d'Aousserd,geonames,2462651,20.83228,-17.08988
+120660303,eh:120660303,Aghouinite,Province d'Aousserd,geonames,6546559,22.47328,-13.62351
+120660305,eh:120660305,Aousserd,Province d'Aousserd,geonames,6545582,22.70937,-14.55998
+120660307,eh:120660307,Tichla,Province d'Aousserd,geonames,6545583,21.78277,-15.11326
+120660309,eh:120660309,Zoug,Province d'Aousserd,geonames,6545584,21.8671,-13.75618
+120660503,eh:120660503,Bir Gandouz,Province d'Aousserd,geonames,6545580,21.61567,-16.46866
+123910101,gn:2463447,Dakhla,Province d'Oued Ed-Dahab,geonames,2463447,23.68477,-15.95798
+123910501,eh:123910501,Bir Anzarane,Province d'Oued Ed-Dahab,geonames,6545634,24.046,-14.66318
+123910503,eh:123910503,Gleibat El Foula,Province d'Oued Ed-Dahab,geonames,6545635,23.44159,-13.78162
+123910505,eh:123910505,Mijik,Province d'Oued Ed-Dahab,geonames,6545665,23.80786,-12.50346
+123910507,eh:123910507,Oum Dreyga,Province d'Oued Ed-Dahab,geonames,6545636,24.15433,-13.50212
+123910901,eh:123910901,El Argoub,Province d'Oued Ed-Dahab,wikidata,Q259477,23.611111,-15.858333
+123910903,eh:123910903,Imlili,Province d'Oued Ed-Dahab,wikidata,Q6004236,23.251807,-16.0814

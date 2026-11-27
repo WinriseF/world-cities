@@ -1,0 +1,35 @@
+official_code,official_name,region,english,chinese,latitude,longitude,point_source,retained_id
+41711000000000,Бишкек,KG-GB,Bishkek,比什凯克,42.87,74.59,Retained previously verified point; GeoNames 1528675 cross-check,csc:64891
+41721000000000,Ош,KG-GO,Osh,奥什,40.52828,72.7985,Retained previously verified point; GeoNames 1527534 cross-check,csc:64920
+41702410000010,Каракол,KG-Y,Karakol,卡拉科尔,42.49068,78.39362,Retained previously verified point; GeoNames 1528121 cross-check,csc:64908
+41702420000010,Балыкчы,KG-Y,Balykchy,巴雷克奇,42.46017,76.18709,Retained previously verified point; GeoNames 1527004 cross-check,csc:64887
+41703410000010,Манас,KG-J,Manas,玛纳斯,40.94498,72.99313,Retained previously verified point; GeoNames 1528249 cross-check,csc:64899
+41703420000010,Таш-Кумыр,KG-J,Tash-Kumyr,塔什库米尔,41.34612,72.21707,Retained previously verified point; GeoNames 1527260 cross-check,csc:64927
+41703430000010,Майлуу-Суу,KG-J,Mailuu-Suu,迈卢苏,41.24916,72.4559,GeoNames 11153720,
+41703440000010,Кара-Куль,KG-J,Kara-Kul,卡拉库尔,41.62828,72.67027,GeoNames 1528124,
+41704400000010,Нарын,KG-N,Naryn,纳伦,41.42866,75.99111,Retained previously verified point; GeoNames 1527592 cross-check,csc:64918
+41705410000010,Баткен,KG-B,Batken,巴特肯,40.0604,70.81929,GeoNames 1528735,
+41705420000010,Сулюкта,KG-B,Suluktu,苏柳克塔,39.93652,69.56779,Retained previously verified point; GeoNames 1222562 cross-check,csc:64923
+41705430000010,Кызыл-Кыя,KG-B,Kyzyl-Kyya,克孜勒基亚,40.25684,72.12793,Retained previously verified point; GeoNames 1527719 cross-check,csc:64915
+41707400000010,Талас,KG-T,Talas,塔拉斯,42.52256,72.2417,GeoNames 1527299,
+41708400000010,Токмок,KG-C,Tokmok,托克马克,42.84194,75.30149,Retained previously verified point; GeoNames 1527199 cross-check,csc:64928
+41708410000010,Кант,KG-C,Kant,坎特,42.89106,74.85077,GeoNames 1528193,
+41708420000010,Кара-Балта,KG-C,Kara-Balta,卡拉巴尔塔,42.81423,73.84813,Retained previously verified point; GeoNames 1528182 cross-check,csc:64906
+41702215600010,Чолпон-Ата,KG-Y,Cholpon-Ata,乔尔蓬阿塔,42.64944,77.08225,Retained previously verified point; GeoNames 1528512 cross-check,csc:64892
+41703207600010,Базар-Коргон,KG-J,Bazar-Korgon,巴扎尔科尔贡,41.0376,72.74586,GeoNames 1528717,
+41703211610010,Кербен,KG-J,Kerben,凯尔本,41.49399,71.75826,GeoNames 1528052,
+41703215600010,Кочкор-Ата,KG-J,Kochkor-Ata,科奇科尔阿塔,41.03709,72.4832,Retained previously verified point; GeoNames 1527903 cross-check,csc:64913
+41703215600020,Шамалдуу-Сай,KG-J,Shamalduu-Say,沙马尔德赛,41.2006,72.17887,GeoNames 1527398,
+41703220600010,Кок-Джангак,KG-J,Kok-Jangak,科克扬加克,41.03026,73.19613,GeoNames 1527873,
+41703225600010,Токтогул,KG-J,Toktogul,托克托古尔,41.87442,72.94192,Retained previously verified point; GeoNames 1538648 cross-check,csc:64929
+41705236610010,Раззаков,KG-B,Razzakov,拉扎科夫,39.83895,69.5276,Retained previously verified point; GeoNames 1222662 cross-check,csc:64897
+41705258600010,Айдаркен,KG-B,Aydarken,艾达肯,39.94319,71.34184,Retained previously verified point; GeoNames 1222635 cross-check,csc:64886
+41705258610020,Кадамджай,KG-B,Kadamjay,卡达姆贾伊,40.12767,71.72351,GeoNames 1528336,
+41706207600010,Гульчо,KG-O,Gulcho,古尔恰,40.3138,73.44418,GeoNames 1528320,
+41706226600010,Кара-Суу,KG-O,Kara-Suu,卡拉苏,40.7046,72.86666,GeoNames 1528091,
+41706255600010,Узген,KG-O,Uzgen,乌兹根,40.76994,73.30068,Retained previously verified point; GeoNames 1527513 cross-check,csc:64932
+41706242600010,Ноокат,KG-O,Nookat,诺奥卡特,40.26597,72.61834,GeoNames 1528339,
+41708213600010,Орловка,KG-C,Orlovka,奥尔洛夫卡,42.74707,75.59225,GeoNames 1527551,
+41708213610020,Кемин,KG-C,Kemin,凯明,42.78611,75.69167,GeoNames 1528606,
+41708219600010,Кайынды,KG-C,Kaindy,卡因德,42.82469,73.67585,GeoNames 1528234,
+41708222600010,Шопоков,KG-C,Shopokov,绍波科夫,42.85474,74.34217,GeoNames 1527370,

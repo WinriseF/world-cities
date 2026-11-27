@@ -1,0 +1,162 @@
+{
+  "bbtowns.pdf": {
+    "url": "https://www.barbadosparliament.com/uploads/sittings/attachments/76f2d5d8bea25a42c0ba99a91dc5fe04.pdf",
+    "sha256": "aaf05f17d659d3c23d916a60ebbe97d877331c19fb648b30e24dda20cd414094"
+  },
+  "bs-2024.pdf": {
+    "url": "https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/2024/2024-0059/2024-0059_1.pdf",
+    "sha256": "c1d6c9e639e64c42bf3995f2ede4cede110c0611d560cd398423ed43d25372c5"
+  },
+  "eh-north.pdf": {
+    "url": "https://www.hcp.ma/region-laayoune/attachment/2800161/",
+    "sha256": "7c27b74f35bce5cf0201d2233ad78738b73c0d5630ff856174bd411a04388c29"
+  },
+  "eh-south.pdf": {
+    "url": "https://www.hcp.ma/region-eddakhla/attachment/2806162/",
+    "sha256": "b77ad939c83177d5a907ff5c859743feb7f13ca842e75e285ef4a810464ba9fc"
+  },
+  "fm-shapes.zip": {
+    "url": "https://data.humdata.org/dataset/dc71c13f-e848-4ddc-9074-17e608464b63/resource/7348d022-6726-438c-9b1c-0b5524b7dbfd/download/fsm_admbnda_shp.zip",
+    "sha256": "26337588762daa60f04c0a92c2f79b6e0a6b8b66095ddbcb343c5ed2a8ef95b8"
+  },
+  "fm-stats.pdf": {
+    "url": "https://stats.gov.fm/wp-content/uploads/2023/12/2010-Summary-Analysis-Key-Indicators.pdf",
+    "sha256": "3e4d6d5c870d22a1af77350dc3a94cdae7f8ee6635d0017aea419fb73de7cf81"
+  },
+  "fm.xls": {
+    "url": "https://data.humdata.org/dataset/dc71c13f-e848-4ddc-9074-17e608464b63/resource/cb470018-7524-4487-9596-3807a83ac9cb/download/fsm_adm_gazeteer.xls",
+    "sha256": "fe007ed4f547008a7e2565459fe34ac277687f24fa8aa7c483155ca4cb06b741"
+  },
+  "fo-councils.html": {
+    "url": "https://www.kommunan.fo/",
+    "sha256": "f42a73603903f0b0e6bdfafa8a97a3f189a67e2f8b24afc51e674ccc51c51dcf"
+  },
+  "fo-govunits.json": {
+    "url": "https://statbank.hagstova.fo/api/v1/en/H2/IB/IB01/fo_midalal.px",
+    "sha256": "ea1118b130c1653d6d0f43fabffcadb79939f4424581d4a0150bab60cc204236"
+  },
+  "gd.pdf": {
+    "url": "https://grenadaparliament.gd/wp-content/uploads/2021/08/Cap323-TOWNS-BOUNDARIES-ACT.pdf",
+    "sha256": "6f3285cfb4530b12f3882ba4fb791fed9b4036779ff4210c5b17aa850db9faf6"
+  },
+  "gf.json": {
+    "url": "https://geo.api.gouv.fr/departements/973/communes?fields=nom,code,centre",
+    "sha256": "e1c5d9c1c69d77c3200bebaee2a4b7c42557e22b9adece4530ce11af56de4483"
+  },
+  "gm-lg.html": {
+    "url": "https://iec.gm/election/local-government-elections/",
+    "sha256": "004ec544f432f6eb2f535368bfad95939238ae42c31eeb60b53b13466d97fb8f"
+  },
+  "gu2025.zip": {
+    "url": "https://www2.census.gov/geo/tiger/TIGER2025/COUSUB/tl_2025_66_cousub.zip",
+    "sha256": "5c4eb200858af0cc131f78b2c2495c44f19c6fef9d1fe0afbb315d8359558f73"
+  },
+  "kn-act.pdf": {
+    "url": "https://lawcommission.gov.kn/wp-content/documents/Revised-Acts-of-St-Kitts-and-Nevis/Revised-Acts-of-St-Kitts-and-Nevis-2020/Ch-02_01-National-Assembly-Elections-Act.pdf",
+    "sha256": "31586a45b3b84441178993c9b607b3b2089800fe19e98ce9481a2b1df550a68d"
+  },
+  "kn-roads.pdf": {
+    "url": "https://lawcommission.gov.kn/wp-content/documents/Act02and09TOC/Ch-15_05-Roads-Act.pdf",
+    "sha256": "9a2e16e63f93d4b5122414696add1b5b8cf9146d6f65fe7005c3a5e531d0c887"
+  },
+  "kwlaw.pdf": {
+    "url": "https://pp.moj.gov.kw/ar/LawsPP/KuwaitMunicipalityLaw.pdf",
+    "sha256": "3bb52f8a1dea0fd7a41b55416ce8d69d2bf18203f7b5982ef60c6cdf424f022c"
+  },
+  "kww.pdf": {
+    "url": "https://unhabitat.org/sites/default/files/documents/2019-08/national-report-asia-pacific-kuwait-final-in-english.pdf",
+    "sha256": "5b682212e7d6b22bbb14de2db0ed8df2453f2411688e748c48b04767ae7d75be"
+  },
+  "ky-law.pdf": {
+    "url": "https://www.constitutionalcommission.ky/upimages/publicationdoc/Enclosure1-ConstitutionalCommissionConclusionsandRecommendationsonAdvisoryDistrictCouncils_151021_1643925864_1643925864.pdf",
+    "sha256": "5406ab878385e06d53afd4519c0485d47f7753275f5ac7fe06fa3fb9c0672809"
+  },
+  "lv-resource.json": {
+    "url": "https://data.gov.lv/dati/api/3/action/resource_show?id=ee02baa4-2bc3-4f77-a6cb-5427a3e9befe",
+    "sha256": "41f14be7bcc1c1449776854458040e0d6f745f2b1d08fcb52fd4ee8dda95589c"
+  },
+  "lv.csv": {
+    "url": "https://data.gov.lv/dati/dataset/6b06a7e8-dedf-4705-a47b-2a7c51177473/resource/ee02baa4-2bc3-4f77-a6cb-5427a3e9befe/download/aw_pilseta.csv",
+    "sha256": "ceee08e463f2aaeb23d2bb1b1d1e9b53c6b155dcc9703fed463d0988ec0be34e"
+  },
+  "mh-shapes.zip": {
+    "url": "https://data.humdata.org/dataset/c215706c-9c22-43ca-8d36-9de4726eb9e0/resource/383a9368-998f-4657-a380-6323bb827296/download/mhl_admbnda_wgs84_ab_shp.zip",
+    "sha256": "92ee6a69280c6ebd9cdca77cbfff0f828bcd1dec823a0d8edfd9ed41130f1e23"
+  },
+  "mh.html": {
+    "url": "https://rmicourts.org/constitutions-of-the-local-governments-of-the-republic-of-the-marshall-islands/",
+    "sha256": "8eb11f13c0babe004fa07d9915c7d320fb05a679196d14038b4cea05efd61bea"
+  },
+  "mh.xls": {
+    "url": "https://data.humdata.org/dataset/c215706c-9c22-43ca-8d36-9de4726eb9e0/resource/f7db4038-975c-4a18-a3aa-0ae5aa6fa6e7/download/mhl_admgz.xls",
+    "sha256": "6d23a81c607f30d7bc04e5a77971540ae26500eea5b451e7d5d8801d1c6c714a"
+  },
+  "mt.html": {
+    "url": "https://address.gov.mt/local-council/",
+    "sha256": "eb8844d41399b953c63a528e41fd2f681bde51c9773b528b15a2a4847c35deac"
+  },
+  "mtgeo.json": {
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/lau/geojson/LAU_RG_01M_2024_4326.geojson",
+    "sha256": "ae07901e0a11cb7891d1a6d6a31cfd833e25672ca318908856b0e34a1acca594"
+  },
+  "nc.json": {
+    "url": "https://nouvelle-caledonie.opendatasoft.com/api/explore/v2.1/catalog/datasets/communes-nc/records?limit=100",
+    "sha256": "f95f75b27bc4caae45ae7e5580a9abd5b9e2009314ff40572f40f28b356773e0"
+  },
+  "ni-wfs.json": {
+    "url": "https://mapserveride.ineter.gob.ni/geoserver/wsINETER-DGGC/wfs?service=WFS&version=1.0.0&request=GetFeature&typeName=wsINETER-DGGC%3ALim_Municipal&outputFormat=application%2Fjson&srsName=EPSG%3A4326",
+    "sha256": "326e60d0a5dcdae4b850d927eb96843b58821c4429e52dd00ad11ee1939b2b4e"
+  },
+  "nih.json": {
+    "url": "https://mapserveride.ineter.gob.ni/geoserver/wsINETER-DGGC/wfs?service=WFS&version=1.0.0&request=GetFeature&typeName=wsINETER-DGGC%3ALim_Departamental&outputFormat=application%2Fjson&srsName=EPSG%3A4326",
+    "sha256": "7724c60f45fa89ef3339f7db57f7a2ffd0c0c6b9261372c2899d1fcb9d2ea4cc"
+  },
+  "pm.json": {
+    "url": "https://geo.api.gouv.fr/communes?codeDepartement=975&fields=nom,code,centre",
+    "sha256": "ad8ce0c3ac1b08720a827e77d0ac4597ffd3a3b52643544e74fc7fc5dde0d081"
+  },
+  "sm.html": {
+    "url": "https://www.interni.sm/pub2/InterniSM/Giunte-di-Castello/Le-Giunte-di-Castello.html",
+    "sha256": "152c6c9a89534d645d5c14e28bc6a8ced9b1ba6a9f9b94a95aa37779acffdbed"
+  },
+  "sr-planning.pdf": {
+    "url": "https://gov.sr/wp-content/uploads/2024/09/Structuurvisie-voor-de-Ruimtelijke-Ontwikkeling-van-Suriname.pdf",
+    "sha256": "75446168de50789406d485ca753b61ae6f21fb4eebe621bf4ce016d0c53d5809"
+  },
+  "st.pdf": {
+    "url": "https://www.ine.st/phocadownload/userupload/Documentos/DADOS_LOCALIDADE_PROJECOES/Publica%C3%A7%C3%A3o%20dos%20Resultados%20sobre%20Localidades%20-%20IV%20RGPH%202012.pdf",
+    "sha256": "c20fb893279d1cbde833f54c9ba9002e02301f964753e3360b8de0f4af166410"
+  },
+  "to.pdf": {
+    "url": "https://faolex.fao.org/docs/pdf/ton74776.pdf",
+    "sha256": "4ff920f9cda098bedcdb2c321b5e2be421ea5f8f10b7d97e1785bcd4052a365c"
+  },
+  "tv.pdf": {
+    "url": "https://www.clgf.org.uk/default/assets/File/Country_profiles/Tuvalu.pdf",
+    "sha256": "d00a0ff718ccc3c5ef9d66e9d9818c0546c559828544f907969d2e5d22e5f22d"
+  },
+  "vc-law.pdf": {
+    "url": "https://ird.gov.vc/images/pdf/Cap438.pdf",
+    "sha256": "63582b08553ab936ce50ab0a2b536db0372c6bbaccbb283e4772492612397940"
+  },
+  "vi-def.html": {
+    "url": "https://www.census.gov/programs-surveys/geography/about/glossary.html",
+    "sha256": "473673610c8a8576f6773d7c68e5e51c960f34fda489b29be06c717cf3f4908b"
+  },
+  "vi-places.zip": {
+    "url": "https://www2.census.gov/geo/tiger/TIGER2025/PLACE/tl_2025_78_place.zip",
+    "sha256": "fa84e8bb32e91802a8268b5d3715e418a3356f7226cc2ce86ebd951593f8f4e4"
+  },
+  "vu.html": {
+    "url": "https://duap.gov.vu/index.php/what-we-do/municipalities",
+    "sha256": "930a24243dc771b0eaa931685f345cc14221af95e1411a527bd9f20e9dbc8727"
+  },
+  "ws.pdf": {
+    "url": "https://www.mnre.gov.ws/wp-content/uploads/2024/09/Final-Samoa-SOE-2023-v39-digital-1.pdf",
+    "sha256": "7d8bfb9f2394b19d88a9ed65c57e705c6b4cf5bb3935a911243133172363e3c8"
+  },
+  "yt.json": {
+    "url": "https://geo.api.gouv.fr/departements/976/communes?fields=nom,code,centre",
+    "sha256": "012d2f80e447cda5e2c4652d55cd283ebf12b44e39e9c474dd7d3b6a4d6ee3a3"
+  }
+}

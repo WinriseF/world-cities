@@ -1,0 +1,334 @@
+id,official_id,region,en,zh,latitude,longitude,roster_source,coordinate_source,notes
+csc:52762,0101,GR-A,Komotini,科莫蒂尼,41.11758,25.40587,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/735640/,ELSTAT 驻地 Κομοτηνή；GeoNames 驻地
+gr:0102,0102,GR-A,Arriana,阿里亚纳,41.11667,25.63333,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/736244/,ELSTAT 驻地 Φιλλύρα；GeoNames 驻地
+gr:0103,0103,GR-A,Iasmos,伊阿斯莫斯,41.12747,25.18573,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/736137/,ELSTAT 驻地 Ίασμος；GeoNames 驻地
+gr:0104,0104,GR-A,Maronia - Sapes,马罗尼阿萨佩斯,41.02861,25.69306,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/734355/,ELSTAT 驻地 Σάπαι；GeoNames 驻地
+csc:52565,0201,GR-A,Drama,兹拉马,41.15283,24.1473,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/736364/,ELSTAT 驻地 Δράμα；GeoNames 驻地
+gr:0202,0202,GR-A,Doxato,多克萨托,41.05,24.18333,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/736082/,ELSTAT 驻地 Καλαμπάκιον；GeoNames 驻地
+gr:0203,0203,GR-A,Kato Nevrokopi,卡托·内夫罗科皮,41.35,23.86667,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/735879/,ELSTAT 驻地 Κάτω Νευροκόπιον；GeoNames 驻地
+gr:0204,0204,GR-A,Paranesti,帕拉内什蒂,41.26667,24.5,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/734753/,ELSTAT 驻地 Παρανέστιον；GeoNames 驻地
+gr:0205,0205,GR-A,Prossotsani,普罗斯索特萨尼,41.15914,23.924055,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://gisco-services.ec.europa.eu/distribution/v2/lau/lau-2024-files.html,ELSTAT 驻地 Προσοτσάνη；GISCO 辖区内代表点
+csc:52440,0301,GR-A,Alexandroupoli,亚历山德鲁波利斯,40.84995,25.87644,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/736928/,ELSTAT 驻地 Αλεξανδρούπολις；GeoNames 驻地
+gr:0302,0302,GR-A,Didymoticho,迪德伊莫蒂科,41.411423,26.396505,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://gisco-services.ec.europa.eu/distribution/v2/lau/lau-2024-files.html,ELSTAT 驻地 Διδυμότειχον；GISCO 辖区内代表点
+gr:0303,0303,GR-A,Orestiada,奥雷斯蒂阿斯,41.50306,26.52972,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/734880/,ELSTAT 驻地 Ορεστιάς；GeoNames 驻地
+gr:0304,0304,GR-A,Samothraki,萨莫色雷斯,40.47333,25.52222,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/734359/,ELSTAT 驻地 Σαμοθράκη；GeoNames 驻地
+gr:0305,0305,GR-A,Soufli,苏夫利翁,41.19194,26.29944,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/734187/,ELSTAT 驻地 Σουφλίον；GeoNames 驻地
+gr:0401,0401,GR-A,Thassos,塔斯索斯,40.77806,24.70944,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/734094/,ELSTAT 驻地 Θάσος；GeoNames 驻地
+csc:52735,0501,GR-A,Kavala,卡瓦拉,40.93959,24.40687,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/735861/,ELSTAT 驻地 Καβάλα；GeoNames 驻地
+gr:0502,0502,GR-A,Nestos,内斯托斯,41.026968,24.632301,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://gisco-services.ec.europa.eu/distribution/v2/lau/lau-2024-files.html,ELSTAT 驻地 Χρυσούπολις；GISCO 辖区内代表点
+gr:0503,0503,GR-A,Pagheo,帕盖奥,40.91389,24.25139,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/736330/,ELSTAT 驻地 Ελευθερούπολις；GeoNames 驻地
+csc:53353,0601,GR-A,Xanthi,克桑西,41.13488,24.888,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/733840/,ELSTAT 驻地 Ξάνθη；GeoNames 驻地
+gr:0602,0602,GR-A,Avdira,阿迪拉,41.06165,24.96248,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/733798/,ELSTAT 驻地 Γενισέα；GeoNames 驻地
+gr:0603,0603,GR-A,Myki,米基,41.23064,24.88,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/734205/,ELSTAT 驻地 Σμίνθη；GeoNames 驻地
+gr:0604,0604,GR-A,Topiros,托皮罗斯,40.98333,24.8,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/736293/,ELSTAT 驻地 Εύλαλον；GeoNames 驻地
+csc:53278,0701,GR-B,Thessaloniki,塞萨洛尼基,40.64072,22.93493,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/734077/,ELSTAT 驻地 Θεσσαλονίκη；GeoNames 驻地
+gr:0702,0702,GR-B,Abelokipi - Menemeni,阿贝洛基皮梅内梅尼,40.657804,22.898889,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://gisco-services.ec.europa.eu/distribution/v2/lau/lau-2024-files.html,ELSTAT 驻地 Αμπελόκηποι；GISCO 辖区内代表点
+gr:0703,0703,GR-B,Volvi,博尔比,40.66498,23.70015,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/734154/,ELSTAT 驻地 Σταυρός；GeoNames 驻地
+gr:0704,0704,GR-B,Delta,德尔塔,40.67045,22.80545,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/734284/,ELSTAT 驻地 Σίνδος；GeoNames 驻地
+gr:0705,0705,GR-B,Thermaikos,特尔马伊科斯,40.431006,22.911001,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://gisco-services.ec.europa.eu/distribution/v2/lau/lau-2024-files.html,ELSTAT 驻地 Περαία；GISCO 辖区内代表点
+csc:53283,0706,GR-B,Thermi,泰尔米,40.54712,23.01967,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/734080/,ELSTAT 驻地 Θέρμη；GeoNames 驻地
+gr:0707,0707,GR-B,Kalamaria,卡拉马里亚,40.5825,22.95028,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/736083/,ELSTAT 驻地 Καλαμαριά；GeoNames 驻地
+gr:0708,0708,GR-B,Kordelio - Evosmos,科尔德利奥埃博斯莫斯,40.67056,22.90833,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/736291/,ELSTAT 驻地 Εύοσμον；GeoNames 驻地
+gr:0709,0709,GR-B,Lagadas,拉加达斯,40.75,23.06667,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/735481/,ELSTAT 驻地 Λαγκαδάς；GeoNames 驻地
+gr:0710,0710,GR-B,Neapoli - Sykees,内阿波利斯伊凯埃斯,40.64944,22.95083,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/734301/,ELSTAT 驻地 Συκέαι；GeoNames 驻地
+gr:0711,0711,GR-B,Pavlos Melas,帕洛斯梅拉斯,40.66944,22.93806,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/734150/,ELSTAT 驻地 Σταυρούπολις；GeoNames 驻地
+gr:0712,0712,GR-B,Pylea - Chortiatis,普伊莱阿科尔蒂阿蒂斯,40.58779,23.0315,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/734771/,ELSTAT 驻地 Πανόραμα；GeoNames 驻地
+gr:0713,0713,GR-B,Chalkidona,哈尔基宗,40.77778,22.57194,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/735588/,ELSTAT 驻地 Κουφάλια；GeoNames 驻地
+gr:0714,0714,GR-B,Oreokastro,奥雷奥卡斯特罗,40.760057,22.905611,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://gisco-services.ec.europa.eu/distribution/v2/lau/lau-2024-files.html,ELSTAT 驻地 Ωραιόκαστρον；GISCO 辖区内代表点
+gr:0801,0801,GR-B,Veria,贝里阿,40.48654,22.31735,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/733901/,ELSTAT 驻地 Βέροια；GeoNames 驻地
+csc:52441,0802,GR-B,Alexandria,阿莱克萨恩德里阿,40.62667,22.44417,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/736929/,ELSTAT 驻地 Αλεξάνδρεια；GeoNames 驻地
+gr:0803,0803,GR-B,Iroiki Poli Naoussas,伊罗伊基波利纳奥乌斯萨斯,40.615253,22.039668,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://gisco-services.ec.europa.eu/distribution/v2/lau/lau-2024-files.html,ELSTAT 驻地 Νάουσα；GISCO 辖区内代表点
+csc:52747,0901,GR-B,Kilkis,基尔基斯,40.99302,22.87433,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/735736/,ELSTAT 驻地 Κιλκίς；GeoNames 驻地
+gr:0902,0902,GR-B,Peonia,佩奥尼阿,40.99444,22.56909,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/734540/,ELSTAT 驻地 Πολύκαστρον；GeoNames 驻地
+csc:53416,1001,GR-B,Edessa,埃泽萨,40.8026,22.04751,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/736357/,ELSTAT 驻地 Έδεσσα；GeoNames 驻地
+gr:1002,1002,GR-B,Almopia,阿尔莫皮阿,40.97306,22.05639,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/736753/,ELSTAT 驻地 Αριδαία；GeoNames 驻地
+gr:1003,1003,GR-B,Pella,培拉,40.76169,22.52637,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/734726/,ELSTAT 驻地 Γιαννιτσά；GeoNames 驻地
+gr:1004,1004,GR-B,Skydra,斯基兹拉,40.76722,22.15194,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/734235/,ELSTAT 驻地 Σκύδρα；GeoNames 驻地
+csc:52730,1101,GR-B,Katerini,卡泰里尼,40.26956,22.50608,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/735914/,ELSTAT 驻地 Κατερίνη；GeoNames 驻地
+gr:1102,1102,GR-B,Dion - Olympos,迪奥恩奥尔伊姆波斯,40.10056,22.49778,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/735399/,ELSTAT 驻地 Λιτόχωρον；GeoNames 驻地
+gr:1103,1103,GR-B,Pydna - Kolindros,普伊德纳科利恩德罗斯,40.438232,22.497822,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://gisco-services.ec.europa.eu/distribution/v2/lau/lau-2024-files.html,ELSTAT 驻地 Αιγίνιον；GISCO 辖区内代表点
+csc:53268,1201,GR-B,Serres,塞雷,41.08499,23.54757,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/734330/,ELSTAT 驻地 Σέρραι；GeoNames 驻地
+gr:1202,1202,GR-B,Amfipoli,阿姆菲波利,40.92055,23.97489,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/734377/,ELSTAT 驻地 Ροδολίβος；GeoNames 驻地
+gr:1203,1203,GR-B,Vissaltia,比斯萨尔蒂阿,40.90528,23.49944,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/734924/,ELSTAT 驻地 Νιγρίτα；GeoNames 驻地
+gr:1204,1204,GR-B,Emmanuel Pappas,埃姆马努埃尔帕普帕斯,41.065978,23.677409,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://gisco-services.ec.europa.eu/distribution/v2/lau/lau-2024-files.html,ELSTAT 驻地 Χρυσόν；GISCO 辖区内代表点
+gr:1205,1205,GR-B,Iraklia,伊拉克利阿,41.18217,23.28243,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/736108/,ELSTAT 驻地 Ηράκλεια；GeoNames 驻地
+gr:1206,1206,GR-B,Nea Zichni,新济赫尼,41.03204,23.8287,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/734977/,ELSTAT 驻地 Νέα Ζίχνη；GeoNames 驻地
+gr:1207,1207,GR-B,Sintiki,西恩蒂基,41.23499,23.38899,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/734310/,ELSTAT 驻地 Σιδηρόκαστρον；GeoNames 驻地
+gr:1301,1301,GR-B,Polygyros,波利伊罗斯,40.37704,23.44135,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/734517/,ELSTAT 驻地 Πολύγυρος；GeoNames 驻地
+gr:1302,1302,GR-B,Aristotelis,阿里斯托特利斯,40.39748,23.87505,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/736130/,ELSTAT 驻地 Ιερισσός；GeoNames 驻地
+gr:1303,1303,GR-B,Kassandra,卡斯萨恩德拉,40.04835,23.41362,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/735948/,ELSTAT 驻地 Κασσάνδρεια；GeoNames 驻地
+gr:1304,1304,GR-B,Nea Propontida,内阿普罗波恩蒂达,40.2439,23.28484,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/734999/,ELSTAT 驻地 Νέα Μουδανιά；GeoNames 驻地
+gr:1305,1305,GR-B,Sithonia,西托尼阿,40.22204,23.66837,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/734916/,ELSTAT 驻地 Νικήτη；GeoNames 驻地
+gr:9901,9901,GR-69,Karyes,卡里埃斯,40.25715,24.24498,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/735972/,ELSTAT 驻地 Καρυαί；GeoNames 驻地
+csc:52780,1401,GR-C,Kozani,科扎尼,40.29931,21.78984,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/735563/,ELSTAT 驻地 Κοζάνη；GeoNames 驻地
+gr:1402,1402,GR-C,Velvendos,贝尔贝恩多斯,40.25532,22.07543,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/733911/,ELSTAT 驻地 Βελβεντός；GeoNames 驻地
+gr:1403,1403,GR-C,Voio,博伊奥,40.26194,21.54417,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/734315/,ELSTAT 驻地 Σιάτιστα；GeoNames 驻地
+gr:1404,1404,GR-C,Eordea,埃奥尔德阿,40.51472,21.67861,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/734426/,ELSTAT 驻地 Πτολεμαΐς；GeoNames 驻地
+gr:1405,1405,GR-C,Servia,塞尔维亚,40.17972,21.99444,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/734328/,ELSTAT 驻地 Σέρβια；GeoNames 驻地
+gr:1501,1501,GR-C,Grevena,格雷韦纳,40.08452,21.42744,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/736151/,ELSTAT 驻地 Γρεβενά；GeoNames 驻地
+gr:1502,1502,GR-C,Deskati,泽斯卡蒂,39.92422,21.81031,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/263166/,ELSTAT 驻地 Δεσκάτη；GeoNames 驻地
+csc:52724,1601,GR-C,Kastoria,卡斯托里亚,40.52165,21.26341,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/735927/,ELSTAT 驻地 Καστοριά；GeoNames 驻地
+gr:1602,1602,GR-C,Arghos Orestiko,阿尔戈斯奥雷斯蒂科,40.45354,21.25889,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/736754/,ELSTAT 驻地 Άργος Ορεστικόν；GeoNames 驻地
+gr:1603,1603,GR-C,Nestorio,奈斯托里翁,40.41278,21.06222,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/734927/,ELSTAT 驻地 Νεστόριον；GeoNames 驻地
+gr:1701,1701,GR-C,Florina,弗洛里纳,40.78197,21.40981,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/736229/,ELSTAT 驻地 Φλώρινα；GeoNames 驻地
+gr:1702,1702,GR-C,Amynteo,阿姆伊恩特奥,40.685435,21.670761,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://gisco-services.ec.europa.eu/distribution/v2/lau/lau-2024-files.html,ELSTAT 驻地 Αμύνταιον；GISCO 辖区内代表点
+gr:1703,1703,GR-C,Prespes,普雷斯佩斯,40.744696,21.114254,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://gisco-services.ec.europa.eu/distribution/v2/lau/lau-2024-files.html,ELSTAT 驻地 Λαιμός；GISCO 辖区内代表点
+csc:52663,1801,GR-D,Ioannina,约阿尼纳,39.66341,20.85187,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/261779/,ELSTAT 驻地 Ιωάννινα；GeoNames 驻地
+gr:1802,1802,GR-D,Voria Tzoumerka,博里阿特索乌梅尔卡,39.52306,21.10139,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/254746/,ELSTAT 驻地 Πράμαντα；GeoNames 驻地
+gr:1803,1803,GR-D,Dodoni,多多尼,39.54336,20.77283,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/263020/,ELSTAT 驻地 Αγία Κυριακή；GeoNames 驻地
+gr:1804,1804,GR-D,Zagori,萨戈里,39.88089,20.87334,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/7522499/,ELSTAT 驻地 Ασπράγγελοι；GeoNames 驻地
+gr:1805,1805,GR-D,Zitsa,西特萨,39.75439,20.65008,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/251197/,ELSTAT 驻地 Ελεούσα；GeoNames 驻地
+gr:1806,1806,GR-D,Konitsa,科尼察,40.04861,20.75667,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/735636/,ELSTAT 驻地 Κόνιτσα；GeoNames 驻地
+gr:1807,1807,GR-D,Metsovo,迈措沃,39.76944,21.18222,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/257083/,ELSTAT 驻地 Μέτσοβον；GeoNames 驻地
+gr:1808,1808,GR-D,Pogonio,波戈尼奥,39.88778,20.62389,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/261298/,ELSTAT 驻地 Καλπάκιον；GeoNames 驻地
+csc:53403,1901,GR-D,Arta,阿尔塔,39.16014,20.98561,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/264559/,ELSTAT 驻地 Άρτα；GeoNames 驻地
+gr:1902,1902,GR-D,Georgios Karaiskakis,赫奥尔希奥斯卡拉伊斯卡基斯,39.25,21.18528,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/264928/,ELSTAT 驻地 Άνω Καλεντίνη；GeoNames 驻地
+gr:1903,1903,GR-D,Kentrika Tzoumerka,凯恩特里卡特索乌梅尔卡,39.37194,21.18333,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/262862/,ELSTAT 驻地 Βουργαρέλι；GeoNames 驻地
+gr:1904,1904,GR-D,Nikolaos Skoufas,尼科拉奥斯斯科乌法斯,39.16667,21.03472,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/255458/,ELSTAT 驻地 Πέτα；GeoNames 驻地
+gr:2001,2001,GR-D,Igoumenitsa,伊古迈尼察,39.50342,20.26728,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/261807/,ELSTAT 驻地 Ηγουμενίτσα；GeoNames 驻地
+gr:2002,2002,GR-D,Souli,索乌利,39.47111,20.51111,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/255760/,ELSTAT 驻地 Παραμυθιά；GeoNames 驻地
+gr:2003,2003,GR-D,Filiates,菲利阿泰斯,39.60111,20.31194,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/262420/,ELSTAT 驻地 Φιλιάτες；GeoNames 驻地
+csc:53149,2101,GR-D,Preveza,普雷韦扎,38.95617,20.7505,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/254698/,ELSTAT 驻地 Πρέβεζα；GeoNames 驻地
+gr:2102,2102,GR-D,Ziros,西罗斯,39.20472,20.88222,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/262411/,ELSTAT 驻地 Φιλιππιάς；GeoNames 驻地
+gr:2103,2103,GR-D,Parga,帕尔加,39.23361,20.6,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/261167/,ELSTAT 驻地 Καναλλάκιον；GeoNames 驻地
+gr:2201,2201,GR-E,Larissa,拉里萨,39.62847,22.42112,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/258576/,ELSTAT 驻地 Λάρισα；GeoNames 驻地
+gr:2202,2202,GR-E,Aghia,阿吉阿,39.719875,22.727097,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://gisco-services.ec.europa.eu/distribution/v2/lau/lau-2024-files.html,ELSTAT 驻地 Αγιά；GISCO 辖区内代表点
+gr:2203,2203,GR-E,Elassona,埃拉索纳,39.89472,22.18861,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/262784/,ELSTAT 驻地 Ελασσών；GeoNames 驻地
+gr:2204,2204,GR-E,Kileler,基莱勒,39.50443,22.63977,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/259746/,ELSTAT 驻地 Νίκαια；GeoNames 驻地
+gr:2205,2205,GR-E,Tempi,节奏,39.8,22.48333,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/257948/,ELSTAT 驻地 Μακρυχώριον；GeoNames 驻地
+gr:2206,2206,GR-E,Tyrnavos,泰尔纳沃斯,39.73778,22.28917,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/252848/,ELSTAT 驻地 Τύρναβος；GeoNames 驻地
+gr:2207,2207,GR-E,Farsala,法尔萨拉,39.29472,22.38472,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/262462/,ELSTAT 驻地 Φάρσαλα；GeoNames 驻地
+csc:52713,2301,GR-E,Karditsa,卡尔季察,39.36485,21.92191,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/260989/,ELSTAT 驻地 Καρδίτσα；GeoNames 驻地
+gr:2302,2302,GR-E,Argithea,阿尔吉忒亚,39.34722,21.45833,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/264792/,ELSTAT 驻地 Ανθηρόν；GeoNames 驻地
+gr:2303,2303,GR-E,Limni Plastira,利姆尼普拉斯蒂拉,39.301313,21.714286,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://gisco-services.ec.europa.eu/distribution/v2/lau/lau-2024-files.html,ELSTAT 驻地 Μορφοβούνιον；GISCO 辖区内代表点
+gr:2304,2304,GR-E,Mouzaki,穆扎基,39.42972,21.66361,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/256662/,ELSTAT 驻地 Μουζάκιον；GeoNames 驻地
+gr:2305,2305,GR-E,Palamas,帕拉马斯,39.46667,22.08333,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/256047/,ELSTAT 驻地 Παλαμάς；GeoNames 驻地
+gr:2306,2306,GR-E,Sofades,索法泽斯,39.33333,22.1,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/253499/,ELSTAT 驻地 Σοφάδες；GeoNames 驻地
+csc:53327,2401,GR-E,Volos,沃洛斯,39.36923,22.94769,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/251833/,ELSTAT 驻地 Βόλος；GeoNames 驻地
+gr:2402,2402,GR-E,Almyros,阿尔米罗斯,39.18222,22.75944,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/265292/,ELSTAT 驻地 Αλμυρός；GeoNames 驻地
+gr:2403,2403,GR-E,Zagora - Mouressio,萨戈拉莫乌雷斯西奥,39.45,23.1,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/251292/,ELSTAT 驻地 Ζαγορά；GeoNames 驻地
+gr:2404,2404,GR-E,Notio Pelio,诺蒂奥佩利奥,39.22627,23.21868,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/264677/,ELSTAT 驻地 Αργαλαστή；GeoNames 驻地
+gr:2405,2405,GR-E,Rigas Fereos,里加斯费雷奥斯,39.38181,22.74616,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/252074/,ELSTAT 驻地 Βελεστίνον；GeoNames 驻地
+gr:2501,2501,GR-E,Skiathos,斯基亚索斯岛,39.16903,23.462166,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://gisco-services.ec.europa.eu/distribution/v2/lau/lau-2024-files.html,ELSTAT 驻地 Σκίαθος；GISCO 辖区内代表点
+gr:2502,2502,GR-E,Alonnissos,阿洛恩尼斯索斯,39.14657,23.86494,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/255689/,ELSTAT 驻地 Πατητήριον；GeoNames 驻地
+gr:2503,2503,GR-E,Skopelos,斯科派洛斯岛,39.12144,23.72686,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/253581/,ELSTAT 驻地 Σκόπελος；GeoNames 驻地
+csc:53291,2601,GR-E,Trikala,特里卡拉,39.55493,21.76837,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/252664/,ELSTAT 驻地 Τρίκαλα；GeoNames 驻地
+gr:2602,2602,GR-E,Meteora,梅特奥拉,39.70444,21.62694,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/261601/,ELSTAT 驻地 Καλαμπάκα；GeoNames 驻地
+gr:2603,2603,GR-E,Pyli,皮利,39.45806,21.61889,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/255305/,ELSTAT 驻地 Πύλη；GeoNames 驻地
+gr:2604,2604,GR-E,Farkadona,法卡多纳,39.6,22.06667,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/262472/,ELSTAT 驻地 Φαρκαδών；GeoNames 驻地
+csc:52837,2701,GR-H,Lamia,拉米亚,38.89947,22.4335,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/258620/,ELSTAT 驻地 Λαμία；GeoNames 驻地
+gr:2702,2702,GR-H,Amfiklia - Elatia,阿姆菲克利阿埃拉蒂阿,38.60751,22.71348,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/260473/,ELSTAT 驻地 Κάτω Τιθορέα；GeoNames 驻地
+gr:2703,2703,GR-H,Domokos,佐莫科斯,39.12722,22.30028,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/263000/,ELSTAT 驻地 Δομοκός；GeoNames 驻地
+gr:2704,2704,GR-H,Kamena Vourla,卡迈纳武尔拉,38.77844,22.78573,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/261211/,ELSTAT 驻地 Καμένα Βούρλα；GeoNames 驻地
+gr:2705,2705,GR-H,Lokri,洛克里,38.65111,22.99917,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/264390/,ELSTAT 驻地 Αταλάντη；GeoNames 驻地
+gr:2706,2706,GR-H,Makrakomi,马克拉科米,38.9415,22.11535,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/257975/,ELSTAT 驻地 Σπερχειάς；GeoNames 驻地
+gr:2707,2707,GR-H,Stylida,斯蒂利斯,38.91667,22.61667,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/253170/,ELSTAT 驻地 Στυλίς；GeoNames 驻地
+gr:2801,2801,GR-H,Levadia,莱巴迪阿,38.43616,22.87665,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/258463/,ELSTAT 驻地 Λεβάδεια；GeoNames 驻地
+gr:2802,2802,GR-H,Aliartos - Thespies,阿利阿尔托斯特斯皮埃斯,38.36667,23.1,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/265342/,ELSTAT 驻地 Αλίαρτος；GeoNames 驻地
+gr:2803,2803,GR-H,Distomo - Arachova - Antikyra,迪斯托莫阿拉科巴阿恩蒂克伊拉,38.42892,22.66728,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/263034/,ELSTAT 驻地 Δίστομον；GeoNames 驻地
+csc:53285,2804,GR-H,Thiva,蒂巴,38.325,23.31889,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/252910/,ELSTAT 驻地 Θήβαι；GeoNames 驻地
+gr:2805,2805,GR-H,Orchomenos,奥尔霍梅诺斯,38.4929,22.97962,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/256268/,ELSTAT 驻地 Ορχομενός；GeoNames 驻地
+gr:2806,2806,GR-H,Tanagra,塔纳格拉,38.35,23.58333,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/253673/,ELSTAT 驻地 Σχηματάριον；GeoNames 驻地
+gr:2901,2901,GR-H,Chalkida,哈尔基达,38.46354,23.60284,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/260133/,ELSTAT 驻地 Χαλκίς；GeoNames 驻地
+gr:2902,2902,GR-H,Dirfys - Messapia,迪尔夫伊斯梅斯萨皮阿,38.57852,23.64326,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/254546/,ELSTAT 驻地 Ψαχνά；GeoNames 驻地
+gr:2903,2903,GR-H,Eretria,埃雷特里亚,38.40097,23.8022,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/262628/,ELSTAT 驻地 Ερέτρια；GeoNames 驻地
+gr:2904,2904,GR-H,Istiea - Aedipsos,伊斯蒂埃阿阿埃迪普索斯,38.9552,23.1521,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/261720/,ELSTAT 驻地 Ιστιαία；GeoNames 驻地
+gr:2905,2905,GR-H,Karystos,卡里斯托斯,38.125763,24.395679,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://gisco-services.ec.europa.eu/distribution/v2/lau/lau-2024-files.html,ELSTAT 驻地 Κάρυστος；GISCO 辖区内代表点
+gr:2906,2906,GR-H,Kymi - Aliveri,克伊米阿利贝里,38.41667,24.03333,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/265309/,ELSTAT 驻地 Αλιβέριον；GeoNames 驻地
+gr:2907,2907,GR-H,Mantoudi - Limni - Aghia Anna,马恩托乌迪利姆尼阿吉阿阿恩纳,38.76667,23.31667,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/258306/,ELSTAT 驻地 Λίμνη；GeoNames 驻地
+csc:53229,2908,GR-H,Skyros,斯基罗斯岛,38.90417,24.56306,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/253614/,ELSTAT 驻地 Σκύρος；GeoNames 驻地
+gr:3001,3001,GR-H,Karpenissi,卡尔佩尼斯西,38.914689,21.764912,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://gisco-services.ec.europa.eu/distribution/v2/lau/lau-2024-files.html,ELSTAT 驻地 Καρπενήσιον；GISCO 辖区内代表点
+gr:3002,3002,GR-H,Agrafa,阿格拉法,39.13689,21.64911,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/265613/,ELSTAT 驻地 Κερασοχώριον；GeoNames 驻地
+csc:53389,3101,GR-H,Delfi,德尔菲,38.52813,22.37713,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/265187/,ELSTAT 驻地 Άμφισσα；GeoNames 驻地
+gr:3102,3102,GR-H,Doris,多里斯,38.52389,22.19972,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/258385/,ELSTAT 驻地 Λιδωρίκιον；GeoNames 驻地
+csc:52545,3201,GR-F,Kerkyra and Diapontii Nissi,凯尔克伊拉阿恩德迪阿波恩蒂伊尼斯西,39.62441,19.92016,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/2463679/,ELSTAT 驻地 Κέρκυρα；GeoNames 驻地
+gr:3202,3202,GR-F,Voria Kerkyra,博里阿凯尔克伊拉,39.7936,19.81736,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/6692637/,ELSTAT 驻地 Αχαράβη；GeoNames 驻地
+gr:3203,3203,GR-F,Notia Kerkyra,诺蒂阿凯尔克伊拉,39.42336,20.07094,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/258427/,ELSTAT 驻地 Λευκίμμη；GeoNames 驻地
+gr:3204,3204,GR-F,Paxi,帕克西,39.19722,20.18556,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/255654/,ELSTAT 驻地 Γάιος；GeoNames 驻地
+gr:3301,3301,GR-F,Zakynthos,扎金索斯,37.78022,20.89555,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/251280/,ELSTAT 驻地 Ζάκυνθος；GeoNames 驻地
+gr:3401,3401,GR-F,Ithaki,伊萨基语,38.36421,20.71848,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/261708/,ELSTAT 驻地 Ιθάκη；GeoNames 驻地
+gr:3501,3501,GR-F,Argostoli,阿尔戈斯托利,38.194264,20.565931,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://gisco-services.ec.europa.eu/distribution/v2/lau/lau-2024-files.html,ELSTAT 驻地 Αργοστόλιον；GISCO 辖区内代表点
+gr:3502,3502,GR-F,Lixouri,利克苏里翁,38.20133,20.43706,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/258175/,ELSTAT 驻地 Ληξούριον；GeoNames 驻地
+gr:3503,3503,GR-F,Sami,萨米,38.25081,20.64686,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/254123/,ELSTAT 驻地 Σάμη；GeoNames 驻地
+gr:3601,3601,GR-F,Lefkada,莱夫卡扎,38.83036,20.70442,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/258438/,ELSTAT 驻地 Λευκάς；GeoNames 驻地
+gr:3602,3602,GR-F,Meganissi,梅加尼斯西,38.65529,20.78922,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/260525/,ELSTAT 驻地 Κατωμέριον；GeoNames 驻地
+csc:53169,3701,GR-G,Patra,帕特雷,38.2462,21.73508,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/255683/,ELSTAT 驻地 Πάτραι；GeoNames 驻地
+gr:3702,3702,GR-G,Aegialia,阿埃希阿利阿,38.140873,22.25201,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://gisco-services.ec.europa.eu/distribution/v2/lau/lau-2024-files.html,ELSTAT 驻地 Αίγιον；GISCO 辖区内代表点
+gr:3703,3703,GR-G,Dytiki Achaia,德伊蒂基阿卡伊阿,38.15,21.55,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/260644/,ELSTAT 驻地 Κάτω Αχαΐα；GeoNames 驻地
+gr:3704,3704,GR-G,Erymanthos,埃尔伊马恩托斯,38.10843,21.78349,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/260171/,ELSTAT 驻地 Χαλανδρίτσα；GeoNames 驻地
+gr:3705,3705,GR-G,Kalavryta,卡拉夫里塔,38.03222,22.1125,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/261537/,ELSTAT 驻地 Καλάβρυτα；GeoNames 驻地
+gr:3801,3801,GR-G,Iera Poli Messologhiou,伊埃拉波利梅斯索洛吉奥乌,38.426272,21.476538,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://gisco-services.ec.europa.eu/distribution/v2/lau/lau-2024-files.html,ELSTAT 驻地 Μεσολόγγιον；GISCO 辖区内代表点
+csc:52414,3802,GR-G,Agrinio,阿格里尼翁,38.62139,21.40778,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/265560/,ELSTAT 驻地 Αγρίνιον；GeoNames 驻地
+gr:3803,3803,GR-G,Aktio - Vonitsa,阿克蒂奥博尼特萨,38.91639,20.88639,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/251823/,ELSTAT 驻地 Βόνιτσα；GeoNames 驻地
+gr:3804,3804,GR-G,Amfilochia,阿姆菲洛希亚,38.85944,21.16639,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/265189/,ELSTAT 驻地 Αμφιλοχία；GeoNames 驻地
+gr:3805,3805,GR-G,Thermo,瑟莫,38.57358,21.66628,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/252946/,ELSTAT 驻地 Θέρμον；GeoNames 驻地
+csc:52994,3806,GR-G,Nafpaktia,纳夫帕克蒂阿,38.39167,21.8275,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/256639/,ELSTAT 驻地 Ναύπακτος；GeoNames 驻地
+gr:3807,3807,GR-G,Xiromero,克西罗梅罗,38.53556,21.08135,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/264416/,ELSTAT 驻地 Αστακός；GeoNames 驻地
+csc:53184,3901,GR-G,Pyrgos,皮尔戈斯,37.67513,21.44102,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/255229/,ELSTAT 驻地 Πύργος；GeoNames 驻地
+gr:3902,3902,GR-G,Andravida - Kyllini,阿恩德拉比达克伊伊尼,37.982664,21.35644,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://gisco-services.ec.europa.eu/distribution/v2/lau/lau-2024-files.html,ELSTAT 驻地 Λεχαινά；GISCO 辖区内代表点
+gr:3903,3903,GR-G,Andritsena - Krestena,阿恩德里特塞纳克雷斯特纳,37.59193,21.62034,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/258842/,ELSTAT 驻地 Κρέστενα；GeoNames 驻地
+csc:52482,3904,GR-G,Olympia,奥林匹亚,37.64788,21.6271,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/264637/,ELSTAT 驻地 Αρχαία Ολυμπία；GeoNames 驻地
+gr:3905,3905,GR-G,Zacharo,扎哈罗,37.48333,21.65,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/251283/,ELSTAT 驻地 Ζαχάρω；GeoNames 驻地
+gr:3906,3906,GR-G,Ilida,伊利达,37.79842,21.35068,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/265252/,ELSTAT 驻地 Αμαλιάς；GeoNames 驻地
+gr:3907,3907,GR-G,Pinios,皮尼奥斯,37.85,21.25,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/262098/,ELSTAT 驻地 Γαστούνη；GeoNames 驻地
+gr:4001,4001,GR-J,Tripoli,硅藻土,37.50959,22.37883,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/252601/,ELSTAT 驻地 Τρίπολις；GeoNames 驻地
+gr:4002,4002,GR-J,Voria Kynouria,博里阿克伊诺乌里阿,37.40395,22.72118,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/264396/,ELSTAT 驻地 Άστρος；GeoNames 驻地
+gr:4003,4003,GR-J,Gortynia,戈尔特伊尼阿,37.59524,22.04025,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/263075/,ELSTAT 驻地 Δημητσάνα；GeoNames 驻地
+gr:4004,4004,GR-J,Megalopoli,大都市,37.40111,22.14222,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/257395/,ELSTAT 驻地 Μεγαλόπολις；GeoNames 驻地
+gr:4005,4005,GR-J,Notia Kynouria,诺蒂阿克伊诺乌里阿,37.16679,22.85773,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/258500/,ELSTAT 驻地 Λεωνίδιον；GeoNames 驻地
+csc:52995,4101,GR-J,Nafplio,纳夫普利翁,37.56863,22.80691,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/256637/,ELSTAT 驻地 Ναύπλιον；GeoNames 驻地
+csc:53399,4102,GR-J,Argos - Mykines,阿尔戈斯姆伊基内斯,37.63333,22.73333,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/264670/,ELSTAT 驻地 Άργος；GeoNames 驻地
+gr:4103,4103,GR-J,Epidavros,埃皮达罗斯,37.63847,23.15609,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/256175/,ELSTAT 驻地 Λυγούριον；GeoNames 驻地
+gr:4104,4104,GR-J,Ermionida,埃尔米奥尼达,37.37974,23.15969,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/258873/,ELSTAT 驻地 Κρανίδιον；GeoNames 驻地
+csc:52826,4201,GR-J,Korinthos,科林索斯,37.94007,22.9513,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/259289/,ELSTAT 驻地 Κόρινθος；GeoNames 驻地
+gr:4202,4202,GR-J,Velo - Vocha,贝洛博卡,37.93333,22.8,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/251220/,ELSTAT 驻地 Ζευγολατείον；GeoNames 驻地
+gr:4203,4203,GR-J,Loutraki - Perachora - Aghii Theodori,洛乌特拉基佩拉科拉阿吉伊特奥多里,37.9783,22.97781,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/258066/,ELSTAT 驻地 Λουτράκιον；GeoNames 驻地
+gr:4204,4204,GR-J,Nemea,尼米亚,37.82068,22.66102,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/256558/,ELSTAT 驻地 Νεμέα；GeoNames 驻地
+gr:4205,4205,GR-J,Xylokastro - Evrostina,克斯伊洛卡斯特罗埃罗斯蒂纳,38.07762,22.63166,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/251525/,ELSTAT 驻地 Ξυλόκαστρον；GeoNames 驻地
+gr:4206,4206,GR-J,Sikyon,西基翁,38.01321,22.74839,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/259830/,ELSTAT 驻地 Κιάτο；GeoNames 驻地
+csc:53241,4301,GR-J,Sparti,斯帕尔蒂,37.07446,22.43009,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/253394/,ELSTAT 驻地 Σπάρτη；GeoNames 驻地
+gr:4302,4302,GR-J,Anatoliki Mani,阿纳托利基马尼,36.755,22.56417,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/251297/,ELSTAT 驻地 Γύθειον；GeoNames 驻地
+gr:4303,4303,GR-J,Elafonissos,埃拉福尼斯索斯,36.50805,22.97885,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/262817/,ELSTAT 驻地 Ελαφόνησος；GeoNames 驻地
+gr:4304,4304,GR-J,Evrotas,埃罗塔斯,36.85,22.66667,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/253739/,ELSTAT 驻地 Σκάλα；GeoNames 驻地
+gr:4305,4305,GR-J,Monemvassia,莫内姆巴斯西阿,36.738203,22.92777,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://gisco-services.ec.europa.eu/distribution/v2/lau/lau-2024-files.html,ELSTAT 驻地 Μολάοι；GISCO 辖区内代表点
+csc:52676,4401,GR-J,Kalamata,卡拉马塔,37.03913,22.11265,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/261604/,ELSTAT 驻地 Καλαμάτα；GeoNames 驻地
+gr:4402,4402,GR-J,Dytiki Mani,德伊蒂基马尼,36.88778,22.23317,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/260999/,ELSTAT 驻地 Καρδαμύλη；GeoNames 驻地
+gr:4403,4403,GR-J,Messini,梅西尼,37.05111,22.00778,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/257152/,ELSTAT 驻地 Μεσσήνη；GeoNames 驻地
+gr:4404,4404,GR-J,Ichalia,伊卡利阿,37.21667,21.96667,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/257322/,ELSTAT 驻地 Μελιγαλάς；GeoNames 驻地
+gr:4405,4405,GR-J,Pylos - Nestor,普伊洛斯内斯托尔,36.91298,21.6965,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/255293/,ELSTAT 驻地 Πύλος；GeoNames 驻地
+gr:4406,4406,GR-J,Trifylia,特里夫伊利阿,37.25111,21.67361,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/259782/,ELSTAT 驻地 Κυπαρισσία；GeoNames 驻地
+csc:52515,4501,GR-I,Athens,雅典,37.98376,23.72784,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/264371/,ELSTAT 驻地 Αθήναι；GeoNames 驻地
+gr:4502,4502,GR-I,Vyron,伊罗恩,37.96105,23.753,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/251948/,ELSTAT 驻地 Βύρων；GeoNames 驻地
+gr:4503,4503,GR-I,Galatsi,加拉齐,38.01667,23.75,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/262135/,ELSTAT 驻地 Γαλάτσιον；GeoNames 驻地
+gr:4504,4504,GR-I,Dafni - Ymittos,达夫尼伊米特托斯,37.95002,23.73437,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/263312/,ELSTAT 驻地 Δάφνη；GeoNames 驻地
+gr:4505,4505,GR-I,Zografos,佐格拉富,37.97574,23.76911,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/8358544/,ELSTAT 驻地 Ζωγράφος；GeoNames 驻地
+gr:4506,4506,GR-I,Ilioupoli,伊利乌波利斯,37.93149,23.76779,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/8310138/,ELSTAT 驻地 Ηλιούπολις；GeoNames 驻地
+gr:4507,4507,GR-I,Kessariani,凯斯萨里阿尼,37.956525,23.803182,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://gisco-services.ec.europa.eu/distribution/v2/lau/lau-2024-files.html,ELSTAT 驻地 Καισαριανή；GISCO 辖区内代表点
+gr:4508,4508,GR-I,Nea Philadelfia - Nea Chalkidona,内阿菲拉德尔菲阿内阿卡尔基多纳,38.042064,23.740232,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://gisco-services.ec.europa.eu/distribution/v2/lau/lau-2024-files.html,ELSTAT 驻地 Νέα Φιλαδέλφεια；GISCO 辖区内代表点
+gr:4601,4601,GR-I,Amaroussio,阿马罗乌斯西奥,38.046619,23.805292,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://gisco-services.ec.europa.eu/distribution/v2/lau/lau-2024-files.html,ELSTAT 驻地 Αμαρούσιον；GISCO 辖区内代表点
+csc:52421,4602,GR-I,Agia Paraskevi,阿吉亚帕拉斯凯维,38.003939,23.822661,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://gisco-services.ec.europa.eu/distribution/v2/lau/lau-2024-files.html,ELSTAT 驻地 Αγία Παρασκευή；GISCO 辖区内代表点
+gr:4603,4603,GR-I,Vrilissia,弗里利夏,38.03381,23.82962,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/6324534/,ELSTAT 驻地 Βριλήσσια；GeoNames 驻地
+gr:4604,4604,GR-I,Iraklio,伊拉克利奥,38.053075,23.772082,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://gisco-services.ec.europa.eu/distribution/v2/lau/lau-2024-files.html,ELSTAT 驻地 Ηράκλειον；GISCO 辖区内代表点
+gr:4605,4605,GR-I,Kifissia,基菲斯西阿,38.07438,23.81106,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/259824/,ELSTAT 驻地 Κηφισιά；GeoNames 驻地
+csc:53171,4606,GR-I,Lykovryssi - Pefki,尔伊科尔伊斯西佩夫基,38.06019,23.79264,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/8358562/,ELSTAT 驻地 Πεύκη；GeoNames 驻地
+gr:4607,4607,GR-I,Metamorfossi,梅塔莫尔福斯西,38.06174,23.759511,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://gisco-services.ec.europa.eu/distribution/v2/lau/lau-2024-files.html,ELSTAT 驻地 Μεταμόρφωσις；GISCO 辖区内代表点
+csc:53009,4608,GR-I,Nea Ionia,新伊奥尼亚,38.0357,23.75733,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/256614/,ELSTAT 驻地 Νέα Ιωνία；GeoNames 驻地
+gr:4609,4609,GR-I,Papagos - Cholargos,帕帕戈斯科拉尔戈斯,38.0,23.8,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/259949/,ELSTAT 驻地 Χολαργός；GeoNames 驻地
+gr:4610,4610,GR-I,Penteli,彭代利,38.05,23.83333,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/257302/,ELSTAT 驻地 Μελίσσια；GeoNames 驻地
+gr:4611,4611,GR-I,Filothei - Psychiko,菲洛特伊普斯伊基科,38.01324,23.77223,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/254505/,ELSTAT 驻地 Ψυχικόν；GeoNames 驻地
+csc:52744,4612,GR-I,Chalandri,卡拉恩德里,38.02369,23.80068,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/260172/,ELSTAT 驻地 Χαλάνδριον；GeoNames 驻地
+csc:53112,4701,GR-I,Peristeri,佩里斯特里,38.01539,23.69187,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/255524/,ELSTAT 驻地 Περιστέριον；GeoNames 驻地
+gr:4702,4702,GR-I,Aghia Varvara,阿吉阿巴尔巴拉,37.988553,23.659938,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://gisco-services.ec.europa.eu/distribution/v2/lau/lau-2024-files.html,ELSTAT 驻地 Αγία Βαρβάρα；GISCO 辖区内代表点
+gr:4703,4703,GR-I,Aghii Anargyri - Kamatero,阿吉伊阿纳尔格伊里卡马特罗,38.039868,23.728911,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://gisco-services.ec.europa.eu/distribution/v2/lau/lau-2024-files.html,ELSTAT 驻地 Άγιοι Ανάργυροι；GISCO 辖区内代表点
+gr:4704,4704,GR-I,Aegaleo,阿埃加莱奥,37.98333,23.68333,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/265533/,ELSTAT 驻地 Αιγάλεω；GeoNames 驻地
+gr:4705,4705,GR-I,Ilio,伊利奥,38.042393,23.710856,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://gisco-services.ec.europa.eu/distribution/v2/lau/lau-2024-files.html,ELSTAT 驻地 Ίλιον；GISCO 辖区内代表点
+gr:4706,4706,GR-I,Petroupoli,佩特罗乌波利,38.04187,23.68494,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/255377/,ELSTAT 驻地 Πετρούπολις；GeoNames 驻地
+gr:4707,4707,GR-I,Chaidari,哈伊扎里,38.01135,23.66597,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/260183/,ELSTAT 驻地 Χαϊδάριον；GeoNames 驻地
+csc:52681,4801,GR-I,Kallithea,卡利塞亚,37.95,23.7,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/261414/,ELSTAT 驻地 Καλλιθέα；GeoNames 驻地
+gr:4802,4802,GR-I,Aghios Dimitrios,阿希奥斯迪米特里奥斯,37.936113,23.732023,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://gisco-services.ec.europa.eu/distribution/v2/lau/lau-2024-files.html,ELSTAT 驻地 Άγιος Δημήτριος；GISCO 辖区内代表点
+gr:4803,4803,GR-I,Alimos,阿里莫斯,37.91033,23.72361,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/261614/,ELSTAT 驻地 Καλαμάκιον；GeoNames 驻地
+csc:52638,4804,GR-I,Glyfada,格利法扎,37.86289,23.75802,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/262036/,ELSTAT 驻地 Γλυφάδα；GeoNames 驻地
+gr:4805,4805,GR-I,Elliniko - Argyroupoli,埃伊尼科阿尔格伊罗乌波利,37.90594,23.75035,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/264516/,ELSTAT 驻地 Αργυρούπολις；GeoNames 驻地
+gr:4806,4806,GR-I,Moschato - Tavros,莫斯卡托塔罗斯,37.94789,23.6788,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/256750/,ELSTAT 驻地 Μοσχάτον；GeoNames 驻地
+gr:4807,4807,GR-I,Nea Smyrni,新斯米尔尼,37.94504,23.71416,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/256575/,ELSTAT 驻地 Νέα Σμύρνη；GeoNames 驻地
+csc:53077,4808,GR-I,Paleo Faliro,帕莱奥法利罗,37.92812,23.70105,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/256075/,ELSTAT 驻地 Παλαιόν Φάληρον；GeoNames 驻地
+gr:4901,4901,GR-I,Acharnes,阿哈尔奈斯,38.08333,23.73333,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/265488/,ELSTAT 驻地 Αχαρναί；GeoNames 驻地
+gr:4902,4902,GR-I,Vari - Voula - Vouliagmeni,巴里博乌拉博乌利阿格梅尼,37.84221,23.77651,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/251780/,ELSTAT 驻地 Βούλα；GeoNames 驻地
+gr:4903,4903,GR-I,Dionyssos,迪奥恩伊斯索斯,38.142756,23.862562,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://gisco-services.ec.europa.eu/distribution/v2/lau/lau-2024-files.html,ELSTAT 驻地 Άγιος Στέφανος；GISCO 辖区内代表点
+gr:4904,4904,GR-I,Koropi,科罗皮,37.89886,23.87181,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/259251/,ELSTAT 驻地 Κορωπίον；GeoNames 驻地
+gr:4905,4905,GR-I,Lavrio,拉夫里翁,37.71445,24.05647,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/258543/,ELSTAT 驻地 Λαύριον；GeoNames 驻地
+gr:4906,4906,GR-I,Marathon,马拉托恩,38.15317,23.96278,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/257717/,ELSTAT 驻地 Μαραθών；GeoNames 驻地
+gr:4907,4907,GR-I,Markopoulo Messogheas,马尔科波乌洛梅斯索盖阿斯,37.88333,23.93333,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/257671/,ELSTAT 驻地 Μαρκόπουλον；GeoNames 驻地
+gr:4908,4908,GR-I,Peania,佩阿尼阿,37.964027,23.85398,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://gisco-services.ec.europa.eu/distribution/v2/lau/lau-2024-files.html,ELSTAT 驻地 Παιανία；GISCO 辖区内代表点
+gr:4909,4909,GR-I,Pallini,帕利尼,38.02277,23.8576,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/8201845/,ELSTAT 驻地 Γέρακας；GeoNames 驻地
+gr:4910,4910,GR-I,Rafina - Pikermi,拉菲纳皮凯尔米,38.01812,24.00599,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/254425/,ELSTAT 驻地 Ραφήνα；GeoNames 驻地
+gr:4911,4911,GR-I,Saronikos,萨罗尼科斯,37.83894,23.92505,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/261445/,ELSTAT 驻地 Καλύβια Θορικού；GeoNames 驻地
+gr:4912,4912,GR-I,Spata - Artemis,斯帕塔阿尔特米斯,37.969515,23.946792,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://gisco-services.ec.europa.eu/distribution/v2/lau/lau-2024-files.html,ELSTAT 驻地 Σπάτα；GISCO 辖区内代表点
+gr:4913,4913,GR-I,Oropos,奥罗波斯,38.30326,23.75549,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/256257/,ELSTAT 驻地 Ωρωπός；GeoNames 驻地
+csc:52577,5001,GR-I,Elefsina,埃莱夫西纳,38.04135,23.54295,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/262752/,ELSTAT 驻地 Ελευσίς；GeoNames 驻地
+gr:5002,5002,GR-I,Aspropyrgos,阿斯普罗皮戈斯,38.06134,23.58971,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/264445/,ELSTAT 驻地 Ασπρόπυργος；GeoNames 驻地
+gr:5003,5003,GR-I,Mandra - Idyllia,马恩德拉伊德伊伊阿,38.06667,23.5,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/257811/,ELSTAT 驻地 Μάνδρα；GeoNames 驻地
+gr:5004,5004,GR-I,Megara,梅加拉,37.99471,23.34324,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/257365/,ELSTAT 驻地 Μέγαρα；GeoNames 驻地
+gr:5005,5005,GR-I,Fyli,菲利,38.10235,23.66901,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/262426/,ELSTAT 驻地 Άνω Λιόσια；GeoNames 驻地
+csc:53123,5101,GR-I,Pireas,皮雷阿斯,37.94203,23.64619,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/255274/,ELSTAT 驻地 Πειραιεύς；GeoNames 驻地
+gr:5102,5102,GR-I,Keratsini - Drapetsona,凯拉特西尼德拉佩特索纳,37.9625,23.61972,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/260204/,ELSTAT 驻地 Κερατσίνιον；GeoNames 驻地
+csc:52770,5103,GR-I,Korydallos,科里达洛斯,37.98468,23.64711,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/8310183/,ELSTAT 驻地 Κορυδαλλός；GeoNames 驻地
+csc:53054,5104,GR-I,Nikea - Aghios Ioannis Rentis,尼凯阿阿希奥斯伊奥阿恩尼斯雷恩蒂斯,37.96667,23.65,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/256429/,ELSTAT 驻地 Νίκαια；GeoNames 驻地
+gr:5105,5105,GR-I,Perama,佩拉马,37.96775,23.5721,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/255588/,ELSTAT 驻地 Πέραμα；GeoNames 驻地
+csc:53204,5201,GR-I,Salamina,萨拉米斯,37.96427,23.49649,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/254144/,ELSTAT 驻地 Σαλαμίς；GeoNames 驻地
+gr:5202,5202,GR-I,Agistri,阿希斯特里,37.71051,23.34659,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/265001/,ELSTAT 驻地 Μεγαλοχώρι；GeoNames 驻地
+gr:5203,5203,GR-I,Aegina,埃伊纳岛,37.74667,23.4275,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/265502/,ELSTAT 驻地 Αίγινα；GeoNames 驻地
+gr:5204,5204,GR-I,Kythira,基西拉,36.14955,22.98979,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/259710/,ELSTAT 驻地 Κύθηρα；GeoNames 驻地
+gr:5205,5205,GR-I,Poros,波罗斯岛,37.49944,23.45361,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/254865/,ELSTAT 驻地 Πόρος；GeoNames 驻地
+gr:5206,5206,GR-I,Spetses,斯派采岛,37.26191,23.15943,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/253356/,ELSTAT 驻地 Σπέτσαι；GeoNames 驻地
+gr:5207,5207,GR-I,Trizina - Methana,特里西纳梅塔纳,37.49618,23.44886,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/262143/,ELSTAT 驻地 Γαλατάς；GeoNames 驻地
+gr:5208,5208,GR-I,Ydra,伊德拉,37.34976,23.4656,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/261822/,ELSTAT 驻地 Ύδρα；GeoNames 驻地
+gr:5301,5301,GR-K,Mytilini,姆伊蒂利尼,39.10772,26.55529,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/256866/,ELSTAT 驻地 Μυτιλήνη；GeoNames 驻地
+gr:5302,5302,GR-K,Dytiki Lesvos,德伊蒂基莱斯博斯,39.23318,26.20724,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/261396/,ELSTAT 驻地 Καλλονή；GeoNames 驻地
+gr:5401,5401,GR-K,Ikaria,伊卡利亚岛,37.597675,26.149451,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://gisco-services.ec.europa.eu/distribution/v2/lau/lau-2024-files.html,ELSTAT 驻地 Άγιος Κήρυκος；GISCO 辖区内代表点
+gr:5402,5402,GR-K,Fourni Korseon,福乌尔尼科尔塞奥恩,37.58473,26.430636,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://gisco-services.ec.europa.eu/distribution/v2/lau/lau-2024-files.html,ELSTAT 驻地 Φούρνοι；GISCO 辖区内代表点
+gr:5501,5501,GR-K,Limnos,利姆诺斯,39.87483,25.06359,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/256930/,ELSTAT 驻地 Μύρινα；GeoNames 驻地
+gr:5502,5502,GR-K,Aghios Efstratios,阿希奥斯埃夫斯特拉蒂奥斯,39.510968,25.005552,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://gisco-services.ec.europa.eu/distribution/v2/lau/lau-2024-files.html,ELSTAT 驻地 Άγιος Ευστράτιος；GISCO 辖区内代表点
+gr:5601,5601,GR-K,Anatoliki Samos,阿纳托利基萨莫斯,37.75427,26.97699,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/254115/,ELSTAT 驻地 Σάμος；GeoNames 驻地
+gr:5602,5602,GR-K,Dytiki Samos,德伊蒂基萨莫斯,37.744313,26.682577,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://gisco-services.ec.europa.eu/distribution/v2/lau/lau-2024-files.html,ELSTAT 驻地 Νέον Καρλοβάσιον；GISCO 辖区内代表点
+csc:154252,5701,GR-K,Chios,希俄斯,38.36875,26.13718,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/259973/,ELSTAT 驻地 Χίος；GeoNames 驻地
+gr:5702,5702,GR-K,Iroiki Nissos Psaron,伊罗伊基尼斯索斯普萨罗恩,38.54097,25.56287,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/256163/,ELSTAT 驻地 Ψαρά；GeoNames 驻地
+gr:5703,5703,GR-K,Inousses,伊诺乌斯塞斯,38.51458,26.22241,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/256329/,ELSTAT 驻地 Οινούσσαι；GeoNames 驻地
+gr:5801,5801,GR-L,Syros - Ermoupoli,斯伊罗斯埃尔莫乌波利,37.44466,24.9429,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/262603/,ELSTAT 驻地 Ερμούπολις；GeoNames 驻地
+gr:5901,5901,GR-L,Andros,安德罗斯,37.8367,24.9367,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/265040/,ELSTAT 驻地 Άνδρος；GeoNames 驻地
+gr:6001,6001,GR-L,Thira,锡拉,36.42107,25.43087,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/252920/,ELSTAT 驻地 Θήρα；GeoNames 驻地
+gr:6002,6002,GR-L,Anafi,阿纳菲,36.35,25.76667,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/265133/,ELSTAT 驻地 Ανάφη；GeoNames 驻地
+gr:6003,6003,GR-L,Ios,伊奥斯,36.72293,25.2817,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/261772/,ELSTAT 驻地 Ίος；GeoNames 驻地
+gr:6004,6004,GR-L,Sikinos,锡基诺斯,36.7,25.11667,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/253880/,ELSTAT 驻地 Σίκινος；GeoNames 驻地
+gr:6005,6005,GR-L,Folegandros,福莱甘兹罗斯,36.62794,24.92021,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/262319/,ELSTAT 驻地 Φολέγανδρος；GeoNames 驻地
+csc:52803,6101,GR-L,Kalymnos,卡利姆诺斯岛,36.9503,26.98388,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/261507/,ELSTAT 驻地 Κάλυμνος；GeoNames 驻地
+gr:6102,6102,GR-L,Agathonissi,阿加托尼斯西,37.4582,26.97272,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/8202413/,ELSTAT 驻地 Μεγάλο Χωριό；GeoNames 驻地
+gr:6103,6103,GR-L,Astypalea,阿斯特伊帕莱阿,36.576578,26.303402,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://gisco-services.ec.europa.eu/distribution/v2/lau/lau-2024-files.html,ELSTAT 驻地 Αστυπάλαια；GISCO 辖区内代表点
+gr:6104,6104,GR-L,Lipsi,利普西,37.300106,26.7617,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://gisco-services.ec.europa.eu/distribution/v2/lau/lau-2024-files.html,ELSTAT 驻地 Λειψοί；GISCO 辖区内代表点
+gr:6105,6105,GR-L,Leros,莱罗斯,37.00642,26.458598,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://gisco-services.ec.europa.eu/distribution/v2/lau/lau-2024-files.html,ELSTAT 驻地 Αγία Μαρίνα；GISCO 辖区内代表点
+gr:6106,6106,GR-L,Patmos,帕特莫斯岛,37.30895,26.54723,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/255688/,ELSTAT 驻地 Πάτμος；GeoNames 驻地
+gr:6201,6201,GR-L,Karpathos,卡尔帕索斯,35.50701,27.21322,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/260895/,ELSTAT 驻地 Κάρπαθος；GeoNames 驻地
+gr:6202,6202,GR-L,Iroiki Nissos Kassou,伊罗伊基尼斯索斯卡斯索乌,35.41623,26.92328,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/262217/,ELSTAT 驻地 Φρύ；GeoNames 驻地
+gr:6301,6301,GR-L,Kea,凯阿,37.63333,24.35,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/260348/,ELSTAT 驻地 Ιουλίδα；GeoNames 驻地
+gr:6302,6302,GR-L,Kythnos,基斯诺斯岛,37.41237,24.43068,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/259707/,ELSTAT 驻地 Κύθνος；GeoNames 驻地
+gr:6401,6401,GR-L,Kos,科斯,36.89295,27.28768,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/259245/,ELSTAT 驻地 Κως；GeoNames 驻地
+gr:6402,6402,GR-L,Nissyros,尼斯斯伊罗斯,36.61139,27.13333,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/257804/,ELSTAT 驻地 Μανδράκιον；GeoNames 驻地
+gr:6501,6501,GR-L,Milos,米洛斯,36.74536,24.4265,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/256952/,ELSTAT 驻地 Μήλος；GeoNames 驻地
+gr:6502,6502,GR-L,Kimolos,基莫洛斯,36.79368,24.57577,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/259802/,ELSTAT 驻地 Κίμωλος；GeoNames 驻地
+gr:6503,6503,GR-L,Serifos,塞里福斯,37.15397,24.50614,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/253996/,ELSTAT 驻地 Σέριφος；GeoNames 驻地
+gr:6504,6504,GR-L,Sifnos,西夫诺斯,36.97336,24.72391,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/264748/,ELSTAT 驻地 Απολλωνία；GeoNames 驻地
+csc:52950,6601,GR-L,Mykonos,米科诺斯,37.44529,25.32872,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/257056/,ELSTAT 驻地 Μύκονος；GeoNames 驻地
+gr:6701,6701,GR-L,Amorgos,阿莫尔戈斯,36.83175,25.89821,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/265142/,ELSTAT 驻地 Αμοργός；GeoNames 驻地
+csc:52998,6702,GR-L,Naxos - Mikres Kyklades,纳克索斯米克雷斯克伊克拉德斯,37.10556,25.37639,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/256632/,ELSTAT 驻地 Νάξος；GeoNames 驻地
+gr:6801,6801,GR-L,Paros,帕罗斯岛,37.08333,25.15,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/255721/,ELSTAT 驻地 Πάρος；GeoNames 驻地
+gr:6802,6802,GR-L,Antiparos,安蒂帕罗斯,37.0394,25.08258,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/265075/,ELSTAT 驻地 Αντίπαρος；GeoNames 驻地
+csc:53203,6901,GR-L,Rhodes,罗得,36.43556,28.22199,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/400666/,ELSTAT 驻地 Ρόδος；GeoNames 驻地
+gr:6902,6902,GR-L,Megisti,梅吉斯蒂,36.14889,29.59361,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/257080/,ELSTAT 驻地 Μεγίστη；GeoNames 驻地
+gr:6903,6903,GR-L,Symi,西米,36.61547,27.83619,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/253858/,ELSTAT 驻地 Σύμη；GeoNames 驻地
+gr:6904,6904,GR-L,Tilos,蒂洛斯,36.45505,27.34563,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/257400/,ELSTAT 驻地 Μεγάλον Χωρίον；GeoNames 驻地
+gr:6905,6905,GR-L,Chalki,哈尔基,36.22243,27.61191,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/260145/,ELSTAT 驻地 Χάλκη；GeoNames 驻地
+gr:7001,7001,GR-L,Tinos,蒂诺斯,37.53753,25.16343,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/252854/,ELSTAT 驻地 Τήνος；GeoNames 驻地
+csc:52666,7101,GR-M,Iraklio,伊拉克利奥,35.32787,25.14341,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/261745/,ELSTAT 驻地 Ηράκλειον；GeoNames 驻地
+gr:7102,7102,GR-M,Archanes - Asteroussii,阿尔卡内斯阿斯特罗乌斯西伊,35.21772,25.19302,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/255352/,ELSTAT 驻地 Πεζά；GeoNames 驻地
+gr:7103,7103,GR-M,Viannos,比阿恩诺斯,35.05368,25.40945,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/264819/,ELSTAT 驻地 Άνω Βιάννος；GeoNames 驻地
+gr:7104,7104,GR-M,Gortyna,戈尔特伊纳,35.064779,25.03698,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://gisco-services.ec.europa.eu/distribution/v2/lau/lau-2024-files.html,ELSTAT 驻地 Άγιοι Δέκα；GISCO 辖区内代表点
+gr:7105,7105,GR-M,Malevizi,马莱比西,35.304936,24.985377,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://gisco-services.ec.europa.eu/distribution/v2/lau/lau-2024-files.html,ELSTAT 驻地 Γάζιον；GISCO 辖区内代表点
+gr:7106,7106,GR-M,Minoa Pediadas,米诺阿佩迪阿达斯,35.1262,25.280852,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://gisco-services.ec.europa.eu/distribution/v2/lau/lau-2024-files.html,ELSTAT 驻地 Ευαγγελισμός；GISCO 辖区内代表点
+gr:7107,7107,GR-M,Faistos,法伊斯托斯,35.05143,24.8733,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/256842/,ELSTAT 驻地 Μοίραι；GeoNames 驻地
+gr:7108,7108,GR-M,Chersonissos,凯尔索尼斯索斯,35.32626,25.2774,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/261935/,ELSTAT 驻地 Γούρναι；GeoNames 驻地
+gr:7201,7201,GR-M,Aghios Nikolaos,阿希奥斯尼科拉奥斯,35.19106,25.71524,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/263824/,ELSTAT 驻地 Άγιος Νικόλαος；GeoNames 驻地
+gr:7202,7202,GR-M,Ierapetra,耶拉彼得拉,35.01186,25.74234,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/261814/,ELSTAT 驻地 Ιεράπετρα；GeoNames 驻地
+gr:7203,7203,GR-M,Oropedio Lassithiou,奥罗佩迪奥拉斯西蒂奥乌,35.19899,25.48862,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/252384/,ELSTAT 驻地 Τζερμιάδον；GeoNames 驻地
+csc:53217,7204,GR-M,Sitia,锡蒂亚,35.20783,26.10467,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/253759/,ELSTAT 驻地 Σητεία；GeoNames 驻地
+csc:53187,7301,GR-M,Rethymno,雷西姆诺,35.36555,24.48232,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/254352/,ELSTAT 驻地 Ρέθυμνον；GeoNames 驻地
+gr:7302,7302,GR-M,Aghios Vassilios,阿希奥斯巴斯西利奥斯,35.187611,24.49915,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://gisco-services.ec.europa.eu/distribution/v2/lau/lau-2024-files.html,ELSTAT 驻地 Σπήλιον；GISCO 辖区内代表点
+gr:7303,7303,GR-M,Amari,阿马里,35.22677,24.65063,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/408637/,ELSTAT 驻地 Αγία Φωτεινή；GeoNames 驻地
+gr:7304,7304,GR-M,Anogia,阿诺希阿,35.29084,24.88412,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/264806/,ELSTAT 驻地 Ανώγεια；GeoNames 驻地
+gr:7305,7305,GR-M,Mylopotamos,姆伊洛波塔莫斯,35.3703,24.70345,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/255589/,ELSTAT 驻地 Πέραμα；GeoNames 驻地
+csc:52530,7401,GR-M,Chania,哈尼亚,35.51124,24.02921,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/260114/,ELSTAT 驻地 Χανία；GeoNames 驻地
+gr:7402,7402,GR-M,Apokoronas,阿波科罗纳斯,35.363085,24.161317,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://gisco-services.ec.europa.eu/distribution/v2/lau/lau-2024-files.html,ELSTAT 驻地 Βρύσες；GISCO 辖区内代表点
+gr:7403,7403,GR-M,Gavdos,加多斯,34.8346,24.08572,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/260764/,ELSTAT 驻地 Καστρίον；GeoNames 驻地
+gr:7404,7404,GR-M,Kandanos - Selinos,卡恩达诺斯塞利诺斯,35.23128,23.68185,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/256131/,ELSTAT 驻地 Παλαιοχώρα；GeoNames 驻地
+gr:7405,7405,GR-M,Kissamos,基萨莫斯,35.49459,23.65375,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/259718/,ELSTAT 驻地 Κίσσαμος；GeoNames 驻地
+gr:7406,7406,GR-M,Platanias,普拉塔尼阿斯,35.51721,23.90891,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/255063/,ELSTAT 驻地 Γεράνι；GeoNames 驻地
+gr:7407,7407,GR-M,Sfakia,斯法基阿,35.20176,24.13711,https://www.statistics.gr/en/statistics/-/publication/SKA01/2021,https://www.geonames.org/259912/,ELSTAT 驻地 Χώρα Σφακίων；GeoNames 驻地

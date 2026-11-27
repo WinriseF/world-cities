@@ -1,0 +1,79 @@
+municipio_geoid,municipio,seat_geoid,seat,subdivision,chinese,latitude,longitude,point_source,id
+72001,Adjuntas Municipio,7200358,Adjuntas zona urbana,csc:r:5134,阿洪塔斯,18.163796,-66.723536,US Census 2026 Gazetteer Places,pr:municipio:72001
+72003,Aguada Municipio,7200616,Aguada zona urbana,csc:r:5135,阿瓜达,18.38032,-67.188345,US Census 2026 Gazetteer Places,pr:municipio:72003
+72005,Aguadilla Municipio,7200745,Aguadilla zona urbana,csc:r:5136,阿瓜迪亚,18.437547,-67.154283,US Census 2026 Gazetteer Places,pr:municipio:72005
+72007,Aguas Buenas Municipio,7200874,Aguas Buenas zona urbana,csc:r:5137,阿瓜斯布埃纳斯,18.25822,-66.104553,US Census 2026 Gazetteer Places,pr:municipio:72007
+72009,Aibonito Municipio,7201218,Aibonito zona urbana,csc:r:5138,艾博尼托,18.13991,-66.266154,US Census 2026 Gazetteer Places,pr:municipio:72009
+72011,Añasco Municipio,7202680,Añasco zona urbana,csc:r:5139,阿尼亚斯科,18.285525,-67.14012,US Census 2026 Gazetteer Places,pr:municipio:72011
+72013,Arecibo Municipio,7203368,Arecibo zona urbana,csc:r:5081,阿雷西博,18.454714,-66.735317,US Census 2026 Gazetteer Places,pr:municipio:72013
+72015,Arroyo Municipio,7203927,Arroyo zona urbana,csc:r:5141,阿罗约,17.969622,-66.059887,US Census 2026 Gazetteer Places,pr:municipio:72015
+72017,Barceloneta Municipio,7205346,Barceloneta zona urbana,csc:r:5142,巴塞罗内塔,18.452591,-66.537964,US Census 2026 Gazetteer Places,pr:municipio:72017
+72019,Barranquitas Municipio,7205690,Barranquitas zona urbana,csc:r:5143,巴兰基塔斯,18.184758,-66.310089,US Census 2026 Gazetteer Places,pr:municipio:72019
+72021,Bayamón Municipio,7206593,Bayamón zona urbana,csc:r:5076,巴亚蒙,18.380055,-66.163253,US Census 2026 Gazetteer Places,pr:municipio:72021
+72023,Cabo Rojo Municipio,7209861,Cabo Rojo zona urbana,csc:r:5145,卡沃罗霍,18.086717,-67.148266,US Census 2026 Gazetteer Places,pr:municipio:72023
+72025,Caguas Municipio,7210334,Caguas zona urbana,csc:r:5079,卡瓜斯,18.232149,-66.039035,US Census 2026 Gazetteer Places,csc:143013
+72027,Camuy Municipio,7211925,Camuy zona urbana,csc:r:5147,卡穆伊,18.481845,-66.848894,US Census 2026 Gazetteer Places,pr:municipio:72027
+72029,Canóvanas Municipio,7212828,Canóvanas zona urbana,csc:r:5148,卡诺瓦纳斯,18.369209,-65.900894,US Census 2026 Gazetteer Places,pr:municipio:72029
+72031,Carolina Municipio,7214290,Carolina zona urbana,csc:r:5077,卡罗莱纳,18.41205,-65.979828,US Census 2026 Gazetteer Places,pr:municipio:72031
+72033,Cataño Municipio,7215193,Cataño zona urbana,csc:r:5150,卡塔尼奥,18.439988,-66.1355,US Census 2026 Gazetteer Places,pr:municipio:72033
+72035,Cayey Municipio,7215494,Cayey zona urbana,csc:r:5151,卡耶伊,18.115296,-66.162877,US Census 2026 Gazetteer Places,pr:municipio:72035
+72037,Ceiba Municipio,7215924,Ceiba zona urbana,csc:r:5152,塞瓦,18.264971,-65.648816,US Census 2026 Gazetteer Places,pr:municipio:72037
+72039,Ciales Municipio,7217773,Ciales zona urbana,csc:r:5153,西亚莱斯,18.335046,-66.471435,US Census 2026 Gazetteer Places,pr:municipio:72039
+72041,Cidra Municipio,7218074,Cidra zona urbana,csc:r:5154,西德拉,18.177564,-66.158455,US Census 2026 Gazetteer Places,pr:municipio:72041
+72043,Coamo Municipio,7218719,Coamo zona urbana,csc:r:5155,科阿莫,18.078303,-66.363159,US Census 2026 Gazetteer Places,pr:municipio:72043
+72045,Comerío Municipio,7219665,Comerío zona urbana,csc:r:5156,科梅里奥,18.21899,-66.225242,US Census 2026 Gazetteer Places,pr:municipio:72045
+72047,Corozal Municipio,7220783,Corozal zona urbana,csc:r:5157,科罗萨尔,18.34095,-66.312449,US Census 2026 Gazetteer Places,pr:municipio:72047
+72049,Culebra Municipio,7222589,Culebra zona urbana,csc:r:5158,库莱布拉岛,18.310331,-65.302701,US Census 2026 Gazetteer Places,pr:municipio:72049
+72051,Dorado Municipio,7224008,Dorado zona urbana,csc:r:5159,多拉多,18.468976,-66.271108,US Census 2026 Gazetteer Places,pr:municipio:72051
+72053,Fajardo Municipio,7227964,Fajardo zona urbana,csc:r:5160,法哈多,18.333339,-65.657626,US Census 2026 Gazetteer Places,pr:municipio:72053
+72054,Florida Municipio,7228824,Florida zona urbana,csc:r:5161,佛罗里达,18.364524,-66.561275,US Census 2026 Gazetteer Places,pr:municipio:72054
+72055,Guánica Municipio,7231189,Guánica zona urbana,csc:r:5162,瓜尼卡,17.968476,-66.929187,US Census 2026 Gazetteer Places,pr:municipio:72055
+72057,Guayama Municipio,7232221,Guayama zona urbana,csc:r:5163,瓜亚马,17.973971,-66.112055,US Census 2026 Gazetteer Places,pr:municipio:72057
+72059,Guayanilla Municipio,7232307,Guayanilla zona urbana,csc:r:5164,瓜亚尼亚,18.022118,-66.789772,US Census 2026 Gazetteer Places,pr:municipio:72059
+72061,Guaynabo Municipio,7232522,Guaynabo zona urbana,csc:r:5080,瓜伊纳沃,18.384299,-66.114998,US Census 2026 Gazetteer Places,pr:municipio:72061
+72063,Gurabo Municipio,7232823,Gurabo zona urbana,csc:r:5166,古拉博,18.252607,-65.978641,US Census 2026 Gazetteer Places,pr:municipio:72063
+72065,Hatillo Municipio,7233296,Hatillo zona urbana,csc:r:5167,阿蒂略,18.484226,-66.821107,US Census 2026 Gazetteer Places,pr:municipio:72065
+72067,Hormigueros Municipio,7235059,Hormigueros zona urbana,csc:r:5168,霍米格罗斯,18.143559,-67.120577,US Census 2026 Gazetteer Places,pr:municipio:72067
+72069,Humacao Municipio,7235532,Humacao zona urbana,csc:r:5169,乌马考,18.149644,-65.818184,US Census 2026 Gazetteer Places,pr:municipio:72069
+72071,Isabela Municipio,7236478,Isabela zona urbana,csc:r:5170,伊莎贝拉,18.501749,-67.023722,US Census 2026 Gazetteer Places,pr:municipio:72071
+72073,Jayuya Municipio,7238370,Jayuya zona urbana,csc:r:5171,贾尤亚,18.219793,-66.598324,US Census 2026 Gazetteer Places,pr:municipio:72073
+72075,Juana Díaz Municipio,7238972,Juana Díaz zona urbana,csc:r:5172,胡安娜·迪亚兹,18.053345,-66.504734,US Census 2026 Gazetteer Places,pr:municipio:72075
+72077,Juncos Municipio,7239574,Juncos zona urbana,csc:r:5173,洪科斯,18.225798,-65.915876,US Census 2026 Gazetteer Places,pr:municipio:72077
+72079,Lajas Municipio,7240950,Lajas zona urbana,csc:r:5174,拉哈斯,18.042876,-67.057126,US Census 2026 Gazetteer Places,pr:municipio:72079
+72081,Lares Municipio,7242498,Lares zona urbana,csc:r:5175,拉雷斯,18.296758,-66.883392,US Census 2026 Gazetteer Places,pr:municipio:72081
+72083,Las Marías Municipio,7243788,Las Marías zona urbana,csc:r:5176,拉斯玛丽亚斯,18.254598,-66.98695,US Census 2026 Gazetteer Places,pr:municipio:72083
+72085,Las Piedras Municipio,7244390,Las Piedras zona urbana,csc:r:5177,拉斯彼德拉斯,18.178667,-65.871081,US Census 2026 Gazetteer Places,pr:municipio:72085
+72087,Loíza Municipio,7246368,Loíza zona urbana,csc:r:5178,洛伊萨,18.433056,-65.878011,US Census 2026 Gazetteer Places,pr:municipio:72087
+72089,Luquillo Municipio,7247787,Luquillo zona urbana,csc:r:5179,卢基约,18.376198,-65.721663,US Census 2026 Gazetteer Places,pr:municipio:72089
+72091,Manatí Municipio,7250152,Manatí zona urbana,csc:r:5180,马纳蒂,18.431295,-66.477145,US Census 2026 Gazetteer Places,pr:municipio:72091
+72093,Maricao Municipio,7251270,Maricao zona urbana,csc:r:5181,马里卡奥,18.183511,-66.980599,US Census 2026 Gazetteer Places,pr:municipio:72093
+72095,Maunabo Municipio,7252345,Maunabo zona urbana,csc:r:5182,毛纳博,18.006261,-65.901216,US Census 2026 Gazetteer Places,pr:municipio:72095
+72097,Mayagüez Municipio,7252431,Mayagüez zona urbana,csc:r:5083,马亚圭斯,18.201221,-67.14178,US Census 2026 Gazetteer Places,pr:municipio:72097
+72099,Moca Municipio,7253807,Moca zona urbana,csc:r:5184,莫卡,18.394248,-67.113821,US Census 2026 Gazetteer Places,pr:municipio:72099
+72101,Morovis Municipio,7255097,Morovis zona urbana,csc:r:5185,莫罗维斯,18.326862,-66.406105,US Census 2026 Gazetteer Places,pr:municipio:72101
+72103,Naguabo Municipio,7255828,Naguabo zona urbana,csc:r:5186,纳瓜博,18.211672,-65.737048,US Census 2026 Gazetteer Places,pr:municipio:72103
+72105,Naranjito Municipio,7256129,Naranjito zona urbana,csc:r:5187,纳兰吉托,18.302815,-66.249614,US Census 2026 Gazetteer Places,pr:municipio:72105
+72107,Orocovis Municipio,7257290,Orocovis zona urbana,csc:r:5188,奥罗科维斯,18.225848,-66.3902,US Census 2026 Gazetteer Places,pr:municipio:72107
+72109,Patillas Municipio,7260472,Patillas zona urbana,csc:r:5189,帕蒂拉斯,18.006914,-66.013453,US Census 2026 Gazetteer Places,pr:municipio:72109
+72111,Peñuelas Municipio,7261074,Peñuelas zona urbana,csc:r:5190,佩纽埃拉斯,18.059634,-66.72114,US Census 2026 Gazetteer Places,pr:municipio:72111
+72113,Ponce Municipio,7263820,Ponce zona urbana,csc:r:5078,庞塞,17.999711,-66.62368,US Census 2026 Gazetteer Places,pr:municipio:72113
+72115,Quebradillas Municipio,7268040,Quebradillas zona urbana,csc:r:5192,克布拉迪亚斯,18.471343,-66.934902,US Census 2026 Gazetteer Places,pr:municipio:72115
+72117,Rincón Municipio,7269588,Rincón zona urbana,csc:r:5193,林孔,18.338819,-67.251631,US Census 2026 Gazetteer Places,pr:municipio:72117
+72119,Río Grande Municipio,7271136,Río Grande zona urbana,csc:r:5194,里奥格兰德,18.3789,-65.838893,US Census 2026 Gazetteer Places,pr:municipio:72119
+72121,Sabana Grande Municipio,7273544,Sabana Grande zona urbana,csc:r:5195,萨瓦纳格兰德,18.082648,-66.964025,US Census 2026 Gazetteer Places,pr:municipio:72121
+72123,Salinas Municipio,7274877,Salinas zona urbana,csc:r:5196,萨利纳斯,17.977847,-66.296186,US Census 2026 Gazetteer Places,pr:municipio:72123
+72125,San Germán Municipio,7276167,San Germán zona urbana,csc:r:5197,圣赫尔曼,18.082963,-67.045999,US Census 2026 Gazetteer Places,pr:municipio:72125
+72127,San Juan Municipio,7276770,San Juan zona urbana,csc:r:5075,圣胡安,18.404559,-66.063746,US Census 2026 Gazetteer Places,csc:153613
+72129,San Lorenzo Municipio,7277027,San Lorenzo zona urbana,csc:r:5199,圣洛伦索,18.187062,-65.967358,US Census 2026 Gazetteer Places,pr:municipio:72129
+72131,San Sebastián Municipio,7277500,San Sebastián zona urbana,csc:r:5200,圣塞瓦斯蒂安,18.335498,-66.994756,US Census 2026 Gazetteer Places,pr:municipio:72131
+72133,Santa Isabel Municipio,7278145,Santa Isabel zona urbana,csc:r:5201,圣伊莎贝尔,17.969149,-66.405051,US Census 2026 Gazetteer Places,pr:municipio:72133
+72135,Toa Alta Municipio,7282488,Toa Alta zona urbana,csc:r:5202,托阿阿尔塔,18.38812,-66.25125,US Census 2026 Gazetteer Places,pr:municipio:72135
+72137,Toa Baja Municipio,7282617,Toa Baja zona urbana,csc:r:5082,托阿巴哈,18.443934,-66.254854,US Census 2026 Gazetteer Places,pr:municipio:72137
+72139,Trujillo Alto Municipio,7283606,Trujillo Alto zona urbana,csc:r:5084,特鲁希略阿尔托,18.35961,-66.012658,US Census 2026 Gazetteer Places,pr:municipio:72139
+72141,Utuado Municipio,7284509,Utuado zona urbana,csc:r:5205,乌图阿多,18.269245,-66.705976,US Census 2026 Gazetteer Places,pr:municipio:72141
+72143,Vega Alta Municipio,7285197,Vega Alta zona urbana,csc:r:5206,维加阿尔塔,18.415208,-66.321147,US Census 2026 Gazetteer Places,pr:municipio:72143
+72145,Vega Baja Municipio,7285326,Vega Baja zona urbana,csc:r:5207,维加巴哈,18.441096,-66.397627,US Census 2026 Gazetteer Places,pr:municipio:72145
+72147,Vieques Municipio,7286014,Vieques zona urbana,csc:r:5208,别克斯岛,18.148142,-65.444306,US Census 2026 Gazetteer Places,pr:municipio:72147
+72149,Villalba Municipio,7286831,Villalba zona urbana,csc:r:5209,比利亚尔瓦,18.127812,-66.481905,US Census 2026 Gazetteer Places,pr:municipio:72149
+72151,Yabucoa Municipio,7287863,Yabucoa zona urbana,csc:r:5210,亚布科阿,18.045555,-65.883032,US Census 2026 Gazetteer Places,pr:municipio:72151
+72153,Yauco Municipio,7288035,Yauco zona urbana,csc:r:5211,姚科,18.034793,-66.86213,US Census 2026 Gazetteer Places,pr:municipio:72153

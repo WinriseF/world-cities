@@ -1,0 +1,40 @@
+id,statistical_code,statistical_name,statistical_point_role,northern_municipality,point_place,region,english,chinese,latitude,longitude,point_source
+csc:22051,41010000,Larnaka,operating municipality,,Larnaca,CY-03,Larnaca,拉纳卡,34.92291,33.6233,Existing coordinate matched to GeoNames 146400
+csc:22055,51010000,Lemesos,operating municipality,,Limassol,CY-02,Limassol,利马索尔,34.68406,33.03794,Existing coordinate matched to GeoNames 146384
+csc:22069,11010000,Lefkosia,operating municipality,,Nicosia,CY-01,Nicosia,尼科西亚,35.17531,33.3642,Existing coordinate matched to GeoNames 146268
+csc:22071,61016000,Pafos,operating municipality,,Paphos,CY-05,Paphos,帕福斯,34.77679,32.42451,Existing coordinate matched to GeoNames 146214
+gn:146054,11021012,Strovolos,operating municipality,,Strovolos,CY-01,Strovolos,斯特罗沃洛斯,35.14867,33.33384,GeoNames 146054
+gn:146523,11030000,Lakatameia,operating municipality,,Lakatamia,CY-01,Lakatamia,拉卡塔米亚,35.11755,33.32539,GeoNames 146523
+gn:146395,11040000,Lakkia (Latsia) - Geri,operating municipality,,Latsia,CY-01,Latsia–Geri,拉齐亚-耶里,35.10168,33.37952,GeoNames 146395
+gn:146666,11050000,Notia Lefkosia - Idalion,operating municipality,,Dali,CY-01,South Nicosia–Idalion,南尼科西亚-伊达利翁,35.02294,33.42195,GeoNames 146666
+gn:146286,11061340,Morfou,registered historical location,Güzelyurt Belediyesi,Morphou,CY-01,Morphou,莫尔富,35.19869,32.99338,GeoNames 146286
+gn:146409,11071139,Kythrea,registered historical location,Değirmenlik–Akıncılar Belediyesi,Değirmenlik,CY-01,Kythrea,基特雷亚,35.25041,33.48059,GeoNames 146409
+gn:146412,21012000,Keryneia,registered historical location,Girne Belediyesi,Kyrenia,CY-06,Kyrenia,凯里尼亚,35.33634,33.31729,GeoNames 146412
+gn:146403,21022222,Lapithos,registered historical location,Lapta–Alsancak–Çamlıbel Belediyesi,Lapta,CY-06,Lapithos,拉皮索斯,35.33823,33.17368,GeoNames 146403
+gn:146545,21032217,Karavas,registered historical location,,Karavas,CY-06,Karavas,卡拉瓦斯,35.34139,33.19593,GeoNames 146545
+gn:146209,31010000,Paralimni - Deryneia,operating municipality,,Paralimni,CY-04,Paralimni–Deryneia,帕拉利姆尼-德里尼亚,35.03945,33.98181,GeoNames 146209
+gn:146748,31020000,Agia Napa,operating municipality,,Ayia Napa,CY-04,Ayia Napa,阿依纳帕,34.98213,34.00183,GeoNames 146748
+gn:146617,31033000,Ammochostos,registered historical location,Gazimağusa Belediyesi,Famagusta,CY-04,Famagusta,法马古斯塔,35.12489,33.94135,GeoNames 146617
+gn:146391,31043221,Lefkonoiko,registered historical location,Geçitkale–Serdarlı Belediyesi,Geçitkale,CY-04,Lefkoniko,莱夫科尼科,35.2598,33.73189,GeoNames 146391
+gn:146846,31053304,Akanthou,registered historical location,Tatlısu Belediyesi,Akanthou,CY-04,Akanthou,阿坎图,35.37394,33.75302,GeoNames 146846
+gn:146361,31063202,Lysi,registered historical location,Mesarya Belediyesi,Akdoğan,CY-04,Lysi,利西,35.10475,33.681,GeoNames 146361
+gn:146796,41020000,Aradippou,operating municipality,,Aradippou,CY-03,Aradippou,阿拉季普,34.94779,33.58813,GeoNames 146796
+gn:146654,41030000,Dromolaxia - Meneou,operating municipality,,Dromolaxia,CY-03,Dromolaxia–Meneou,德罗莫拉克夏-梅内乌,34.87551,33.58684,GeoNames 146654
+gn:146768,41040000,Athienou,operating municipality,,Athienou,CY-03,Athienou,阿西埃努,35.06183,33.54166,GeoNames 146768
+gn:146220,41050000,Lefkara,operating municipality,,Pano Lefkara,CY-03,Lefkara,莱夫卡拉,34.81667,33.28333,GeoNames 146220
+gn:146735,51020000,Amathous,operating municipality,,Agios Athanasios,CY-02,Amathous,阿马苏斯,34.70935,33.04997,GeoNames 146735
+gn:146516,51030000,Polemidia,operating municipality,,Kato Polemidia,CY-02,Polemidia,波莱米迪亚,34.69721,32.99324,GeoNames 146516
+gn:145952,51040000,Kourion,operating municipality,,Ypsonas,CY-02,Kourion,库里翁,34.68797,32.96191,GeoNames 145952
+gn:11919534,61020000,Ierokipia,operating municipality,,Geroskipou,CY-05,Ierokipia,耶罗基皮亚,34.76091,32.44844,GeoNames 11919534
+gn:146175,61030000,Akamas,operating municipality,,Pegeia,CY-05,Akamas,阿卡马斯,34.88385,32.38188,GeoNames 146175
+gn:12110832,61040000,Poli Chrysochous,operating municipality,,Polis,CY-05,Polis Chrysochous,波利斯赫里索胡斯,35.03403,32.4255,GeoNames 12110832
+cy:municipality:north-nicosia,,,,Lefkoşa Türk Belediyesi,Yenişehir,CY-01,North Nicosia,北尼科西亚,35.19002,33.36346,OpenStreetMap way 451331711 (municipal office)
+gn:146600,,,,Gönyeli–Alayköy Belediyesi,Gönyeli,CY-01,Gönyeli,戈涅利,35.21082,33.30949,GeoNames 146600
+gn:146730,,,,Çatalköy–Esentepe Belediyesi,Çatalköy,CY-06,Çatalköy,恰塔尔柯伊,35.32071,33.39034,GeoNames 146730
+gn:146392,,,,Lefke Belediyesi,Lefke,CY-01,Lefke,莱夫凯,35.11199,32.84997,GeoNames 146392
+gn:146027,,,,İskele Belediyesi,Yeni İskele,CY-04,İskele,伊斯凯莱,35.28628,33.89167,GeoNames 146027
+gn:146703,,,,Yeniboğaziçi Belediyesi,Yeniboğaziçi,CY-04,Yeniboğaziçi,耶尼博阿齐奇,35.19639,33.87416,GeoNames 146703
+gn:146189,,,,Beyarmudu Belediyesi,Beyarmudu,CY-03,Beyarmudu,贝亚尔穆杜,35.04167,33.70833,GeoNames 146189
+gn:146528,,,,Dikmen Belediyesi,Dikmen,CY-06,Dikmen,迪克门,35.26745,33.3247,GeoNames 146528
+gn:146610,,,,Mehmetçik–Büyükkonuk Belediyesi,Mehmetçik,CY-04,Mehmetçik,梅赫梅特奇克,35.42271,34.07132,GeoNames 146610
+gn:145955,,,,Erenköy–Karpaz Belediyesi,Yeni Erenköy,CY-04,Yeni Erenköy,耶尼埃伦柯伊,35.53513,34.18944,GeoNames 145955

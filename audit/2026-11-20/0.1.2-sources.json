@@ -1,0 +1,18 @@
+{
+  "pl-prng.gml": {
+    "url": "https://mapy.geoportal.gov.pl/wss/service/PZGiK/PRNG/WFS/GeographicalNames?service=WFS&version=1.1.0&request=GetFeature&typeName=ms%3AM1_UrzedoweNazwyMiejscowosci&srsName=EPSG%3A4326&filter=%3CFilter+xmlns%3D%22http%3A%2F%2Fwww.opengis.net%2Fogc%22%3E%3CPropertyIsEqualTo%3E%3CPropertyName%3ERODZAJOBIEKTU%3C%2FPropertyName%3E%3CLiteral%3Emiasto%3C%2FLiteral%3E%3C%2FPropertyIsEqualTo%3E%3C%2FFilter%3E",
+    "sha256": "61b4a3b34dbf039f9fd50f93222d20dbb7ea5e56989d7c620cc08efa2611d4e0"
+  },
+  "pl-tablica_kts-teryt_2026.xls": {
+    "url": "https://stat.gov.pl/download/gfx/portalinformacyjny/en/defaultstronaopisowa/3464/1/1/tablica_kts-teryt_2026.xls",
+    "sha256": "98eedfde7bed1541623b48c109b8f563e9ab1aed0c6b563ebc3b918b5de364a0"
+  },
+  "id-big-kabkota.json": {
+    "url": "https://geoservices.big.go.id/rbi/rest/services/BATASWILAYAH/BATAS_WILAYAH/MapServer/13/query?where=1%3D1&returnGeometry=false&outFields=%2A&f=json",
+    "sha256": "9a4d6ad26457050d00e2b239fbfefdfe10afa54682d7de191ef4413970c05d95"
+  },
+  "id-geonames.zip": {
+    "url": "https://download.geonames.org/export/dump/ID.zip",
+    "sha256": "7b05bbdd43519fc4f43a8f2212e5fe408e6af935e62518396df440c11b653d6a"
+  }
+}

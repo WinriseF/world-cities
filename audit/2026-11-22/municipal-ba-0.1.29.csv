@@ -1,0 +1,38 @@
+region,name,zh,roster_reference,representative_place,id,latitude,longitude,point_source
+BA-BIH,Bosanska Krupa,波斯尼亚克鲁帕,"FBiH Statistics Bulletin 420, tables 1.1 and 5.1",Bosanska Krupa,gn:3203653,44.8825,16.15139,GeoNames 3203653
+BA-BIH,Bihać,比哈奇,"FBiH Statistics Bulletin 420, tables 1.1 and 5.1",Bihać,gn:3204222,44.81694,15.87083,GeoNames 3204222
+BA-BIH,Cazin,察津,"FBiH Statistics Bulletin 420, tables 1.1 and 5.1",Cazin,gn:3202822,44.96694,15.94306,GeoNames 3202822
+BA-BIH,Orašje,奥拉谢,"FBiH Statistics Bulletin 420, tables 1.1 and 5.1",Orašje,gn:3194035,45.03366,18.69334,GeoNames 3194035
+BA-BIH,Gračanica,格拉查尼察,"FBiH Statistics Bulletin 420, tables 1.1 and 5.1",Gračanica,gn:3199779,44.70307,18.3101,GeoNames 3199779
+BA-BIH,Tuzla,图兹拉,"FBiH Statistics Bulletin 420, tables 1.1 and 5.1",Tuzla,csc:8406,44.53842,18.66709,GeoNames 3188582
+BA-BIH,Gradačac,格拉达查茨,"FBiH Statistics Bulletin 420, tables 1.1 and 5.1",Gradačac,gn:3199744,44.87851,18.42764,GeoNames 3199744
+BA-BIH,Lukavac,卢卡瓦茨,"FBiH Statistics Bulletin 420, tables 1.1 and 5.1",Lukavac,gn:3196079,44.54245,18.52618,GeoNames 3196079
+BA-BIH,Srebrenik,斯雷布雷尼克,"FBiH Statistics Bulletin 420, tables 1.1 and 5.1",Srebrenik,gn:3190158,44.70819,18.48834,GeoNames 3190158
+BA-BIH,Živinice,日维尼采,"FBiH Statistics Bulletin 420, tables 1.1 and 5.1",Živinice,gn:3186423,44.44929,18.64978,GeoNames 3186423
+BA-BIH,Zenica,泽尼察,"FBiH Statistics Bulletin 420, tables 1.1 and 5.1",Zenica,csc:8427,44.20169,17.90397,GeoNames 3186573
+BA-BIH,Visoko,维索科,"FBiH Statistics Bulletin 420, tables 1.1 and 5.1",Visoko,gn:3187609,43.98889,18.17806,GeoNames 3187609
+BA-BIH,Zavidovići,扎维多维奇,"FBiH Statistics Bulletin 420, tables 1.1 and 5.1",Zavidovići,gn:3186717,44.44583,18.14972,GeoNames 3186717
+BA-BIH,Goražde,戈拉日代,"FBiH Statistics Bulletin 420, tables 1.1 and 5.1",Goražde,gn:3200396,43.66795,18.97564,GeoNames 3200396
+BA-BIH,Novi Travnik,新特拉夫尼克,"FBiH Statistics Bulletin 420, tables 1.1 and 5.1",Novi Travnik,gn:3192236,44.17133,17.65816,GeoNames 3192236
+BA-BIH,Čapljina,恰普利纳,"FBiH Statistics Bulletin 420, tables 1.1 and 5.1",Čapljina,gn:3202873,43.12139,17.68444,GeoNames 3202873
+BA-BIH,Mostar,莫斯塔尔,"FBiH Statistics Bulletin 420, tables 1.1 and 5.1",Mostar,gn:3194828,43.34333,17.80806,GeoNames 3194828
+BA-BIH,Konjic,科尼茨,"FBiH Statistics Bulletin 420, tables 1.1 and 5.1",Konjic,gn:3337476,43.65126,17.96082,GeoNames 3337476
+BA-BIH,Stolac,斯托拉茨,"FBiH Statistics Bulletin 420, tables 1.1 and 5.1",Stolac,gn:3189823,43.084,17.95995,GeoNames 3189823
+BA-BIH,Široki Brijeg,希罗基布里耶格,"FBiH Statistics Bulletin 420, tables 1.1 and 5.1",Široki Brijeg,gn:3196428,43.3829,17.59416,GeoNames 3196428
+BA-BIH,Ljubuški,柳布什基,"FBiH Statistics Bulletin 420, tables 1.1 and 5.1",Ljubuški,gn:3196324,43.19694,17.545,GeoNames 3196324
+BA-BIH,Sarajevo,萨拉热窝,"FBiH Statistics Bulletin 420, tables 1.1 and 5.1",Sarajevo,csc:8380,43.84864,18.35644,GeoNames 3191281
+BA-BIH,Livno,利夫诺,"FBiH Statistics Bulletin 420, tables 1.1 and 5.1",Livno,gn:3196410,43.82695,17.00746,GeoNames 3196410
+BA-SRP,Banja Luka,巴尼亚卢卡,"Republika Srpska Institute of Statistics, Cities and Municipalities 2025",Banja Luka,csc:8216,44.77879,17.20629,GeoNames 3204541
+BA-SRP,Bijeljina,比耶利纳,"Republika Srpska Institute of Statistics, Cities and Municipalities 2025",Bijeljina,csc:8221,44.75874,19.21437,GeoNames 3204186
+BA-SRP,Gradiška,格拉迪什卡,"Republika Srpska Institute of Statistics, Cities and Municipalities 2025",Gradiška,gn:3203656,45.14484,17.25453,GeoNames 3203656
+BA-SRP,Derventa,代尔文塔,"Republika Srpska Institute of Statistics, Cities and Municipalities 2025",Derventa,gn:3202081,44.97839,17.90779,GeoNames 3202081
+BA-SRP,Doboj,多博伊,"Republika Srpska Institute of Statistics, Cities and Municipalities 2025",Doboj,gn:3201984,44.73179,18.08698,GeoNames 3201984
+BA-SRP,Zvornik,兹沃尔尼克,"Republika Srpska Institute of Statistics, Cities and Municipalities 2025",Zvornik,gn:3186246,44.38605,19.10247,GeoNames 3186246
+BA-SRP,Istočno Sarajevo,东萨拉热窝,"Republika Srpska Institute of Statistics, Cities and Municipalities 2025",Lukavica,gn:11169977,43.82693,18.38318,GeoNames 3196069
+BA-SRP,Laktaši,拉克塔希,"Republika Srpska Institute of Statistics, Cities and Municipalities 2025",Laktaši,gn:3196792,44.90857,17.30135,GeoNames 3196792
+BA-SRP,Prijedor,普里耶多尔,"Republika Srpska Institute of Statistics, Cities and Municipalities 2025",Prijedor,csc:8369,44.97991,16.71401,GeoNames 3192409
+BA-SRP,Prnjavor,普尔尼亚沃尔,"Republika Srpska Institute of Statistics, Cities and Municipalities 2025",Prnjavor,gn:3192327,44.87021,17.66256,GeoNames 3192327
+BA-SRP,Teslić,泰斯利奇,"Republika Srpska Institute of Statistics, Cities and Municipalities 2025",Teslić,gn:3189143,44.60639,17.85972,GeoNames 3189143
+BA-SRP,Trebinje,特雷比涅,"Republika Srpska Institute of Statistics, Cities and Municipalities 2025",Trebinje,gn:3188893,42.71197,18.34362,GeoNames 3188893
+BA-SRP,Foča,福查,"Official Gazette 49/26, Law on the City of Foča",Foča,gn:3200837,43.50646,18.77854,GeoNames 3200837
+BA-BRC,Brčko,布尔奇科,"Statute of Brčko District, Article 1",Brčko,gn:3203521,44.87162,18.8163,GeoNames 3203521

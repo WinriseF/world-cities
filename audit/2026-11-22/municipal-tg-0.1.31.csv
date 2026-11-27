@@ -1,0 +1,119 @@
+region,prefecture,municipality,seat_in_decree,en,zh,id,latitude,longitude,point_label,point_source
+TG-S,Cinkasse,Cinkassé 1,Cinkassé,Cinkassé,辛卡塞,tg:commune:cinkasse1,11.10389,0.00944,Sinkassé,GeoNames 2367226
+TG-S,Cinkasse,Cinkassé 2,Timbou,Timbou,廷布,tg:commune:cinkasse2,11.03944,0.10944,Timbou,GeoNames 2363741
+TG-S,Tone,Tône 1,Dapaong,Dapaong,达庞,tg:commune:tone1,10.86225,0.20762,Dapaong,GeoNames 2367164
+TG-S,Tone,Tône 2,Naki-Ouest,Naki-Ouest,西纳基,tg:commune:tone2,10.90583,0.09139,Naki-Ouest,GeoNames 2365004
+TG-S,Tone,Tône 3,Tami,Tami,塔米,tg:commune:tone3,10.84583,0.03611,Tami,GeoNames 2363993
+TG-S,Tone,Tône 4,Korbongou,Korbongou,科尔邦古,tg:commune:tone4,10.93722,0.30306,Korbongou,GeoNames 2365827
+TG-S,Kpendjal,Kpendjal 1,Mandouri,Mandouri,曼杜里,tg:commune:kpendjal1,10.85,0.81667,Mandouri,GeoNames 2365195
+TG-S,Kpendjal,Kpendjal 2,Borgou,Borgou,博尔古,tg:commune:kpendjal2,10.76361,0.57694,Borgou,GeoNames 2367352
+TG-S,Naki-Ouest,Kpendjal-Ouest 1,Naki-Est,Naki-Est,东纳基,tg:commune:kpendjalouest1,10.72278,0.36639,Naki-Est,GeoNames 2365002
+TG-S,Naki-Ouest,Kpendjal-Ouest 2,Pogno,Pogno,波尼奥,tg:commune:kpendjalouest2,10.97416,0.50666,Ponio,GeoNames 2364352
+TG-S,Oti,Oti 1,Mango,Mango,曼戈,csc:105172,10.35917,0.47083,Mango,Existing CSC WGS84
+TG-S,Oti,Oti 2,Barkoissi,Barkoissi,巴尔科伊西,tg:commune:oti2,10.55026,0.30308,Barkoissi,GeoNames 2367574
+TG-S,Oti-Sud,Oti-Sud 1,Gando,Gando,甘多,tg:commune:otisud1,10.3325,0.74472,Gando Namoni,GeoNames 2366622
+TG-S,Oti-Sud,Oti-Sud 2,Takpamba,Takpamba,塔潘巴,tg:commune:otisud2,9.96917,0.56528,Takpamba,GeoNames 2364020
+TG-S,Tandjoare,Tandjoaré 1,Tandjoaré,Tandjoaré,坦乔阿雷,tg:commune:tandjoare1,10.65583,0.195,Tandjouaré,GeoNames 2363975
+TG-S,Tandjoare,Tandjoaré 2,Nano,Nano,纳诺,tg:commune:tandjoare2,10.70339,0.11025,Nano,GeoNames 2364910
+TG-K,Keran,Kéran 1,Kantè,Kandé,康代,csc:105164,9.95778,1.04472,Kandé,Existing CSC WGS84
+TG-K,Keran,Kéran 2,Atalotè,Ataloté,阿塔洛泰,tg:commune:keran2,9.93472,0.94139,Ataloté,GeoNames 2367877
+TG-K,Keran,Kéran 3,Nadoba,Nadoba,纳多巴,tg:commune:keran3,10.15222,1.07306,Nadoba,GeoNames 2596739
+TG-K,Bassar,Bassar 1,Bassar,Bassar,巴萨,csc:105162,9.25025,0.78213,Bassar,Existing CSC WGS84
+TG-K,Bassar,Bassar 2,Bandjeli,Bandjeli,班杰利,tg:commune:bassar2,9.42713,0.62255,Bandjal,GeoNames 2367601
+TG-K,Bassar,Bassar 3,Kabou,Kabou,卡布,tg:commune:bassar3,9.46112,0.81045,Kabou,GeoNames 2366298
+TG-K,Bassar,Bassar 4,Sanda-Kagbanda,Sanda-Kagbanda,桑达卡格班达,tg:commune:bassar4,9.490962500000137,0.892755027000021,Sanda-Kagbanda,OCHA/GAUL COD-AB v02 seat canton representative point TG020210
+TG-K,Dankpen,Dankpen 1,Guerin-Kouka,Guerin-Kouka,盖兰库卡,tg:commune:dankpen1,9.69056,0.61139,Guérin-Kouka,GeoNames 2366445
+TG-K,Dankpen,Dankpen 2,Namon,Namon,纳蒙,tg:commune:dankpen2,9.72861,0.81083,Namon,GeoNames 2364955
+TG-K,Dankpen,Dankpen 3,Bapuré,Bapuré,巴普雷,tg:commune:dankpen3,9.52515,0.61646,Bapuré,GeoNames 2367579
+TG-K,Kozah,Kozah 1,Kara,Kara,卡拉,tg:commune:kozah1,9.55111,1.18611,Kara,GeoNames 2366152
+TG-K,Kozah,Kozah 2,Pya,Pya,皮亚,tg:commune:kozah2,9.66667,1.15,Pya,GeoNames 2364371
+TG-K,Kozah,Kozah 3,Awandjelo,Awandjelo,阿万杰洛,tg:commune:kozah3,9.45,1.21667,Awandjélo,GeoNames 2367718
+TG-K,Kozah,Kozah 4,Atchangbadè,Atchangbadè,阿昌巴代,tg:commune:kozah4,9.46667,1.13333,Atchangbadé,GeoNames 2367869
+TG-K,Binah,Binah 1,Pagouda,Pagouda,帕古达,tg:commune:binah1,9.7525,1.32778,Pagouda,GeoNames 2365571
+TG-K,Binah,Binah 2,Kétao,Kétao,凯塔奥,tg:commune:binah2,9.66111,1.31139,Kétao,GeoNames 2366049
+TG-K,Doufelgou,Doufelgou 1,Niamtougou,Niamtougou,尼亚姆图古,csc:105168,9.76806,1.10528,Niamtougou,Existing CSC WGS84
+TG-K,Doufelgou,Doufelgou 2,Défalé,Défalé,德法莱,tg:commune:doufelgou2,9.87611,1.08639,Défalé,GeoNames 2367140
+TG-K,Doufelgou,Doufelgou 3,Alloum,Alloum,阿卢姆,tg:commune:doufelgou3,9.73889,0.98889,Aloum,GeoNames 2368078
+TG-K,Assoli,Assoli 1,Bafilo,Bafilo,巴菲洛,csc:105161,9.35,1.26667,Bafilo,Existing CSC WGS84
+TG-K,Assoli,Assoli 2,Alédjo,Alédjo,阿莱乔,tg:commune:assoli2,9.279933500000027,1.166001812000047,Aledjo,OCHA/GAUL COD-AB v02 seat canton representative point TG020101
+TG-K,Assoli,Assoli 3,Soudou,Soudou,苏杜,tg:commune:assoli3,9.35,1.35,Soudou,GeoNames 2364073
+TG-C,Tchaoudjo,Tchaoudjo 1,Sokodè,Sokodé,索科德,csc:105173,8.98333,1.13333,Sokodé,Existing CSC WGS84
+TG-C,Tchaoudjo,Tchaoudjo 2,Lama-Tessi,Lama-Tessi,拉马泰西,tg:commune:tchaoudjo2,8.83333,1.08333,Lama Tessi,GeoNames 2365381
+TG-C,Tchaoudjo,Tchaoudjo 3,Aléhéridé,Aléhéridé,阿莱埃里代,tg:commune:tchaoudjo3,9.21667,1.2,Aléhéridé,GeoNames 2368105
+TG-C,Tchaoudjo,Tchaoudjo 4,Agouloudè,Agouloudè,阿古卢代,tg:commune:tchaoudjo4,9.192209500000104,1.364805931000035,Agoulou,OCHA/GAUL COD-AB v02 seat canton representative point TG010501
+TG-C,Sotouboua,Sotouboua 1,Sotouboua,Sotouboua,索图布阿,csc:105174,8.5634,0.98399,Sotouboua,Existing CSC WGS84
+TG-C,Sotouboua,Sotouboua 2,Adjengré,Adjengré,阿真格雷,tg:commune:sotouboua2,8.688721,0.941754242000115,Adjengere,OCHA/GAUL COD-AB v02 seat canton representative point TG010301
+TG-C,Sotouboua,Sotouboua 3,Tchébébé,Tchébébé,切贝贝,tg:commune:sotouboua3,8.43333,0.98333,Tchébébé,GeoNames 2363877
+TG-C,Plaine du Mo,Mô 1,Djarkpanga,Djarkpanga,贾尔潘加,tg:commune:mo1,8.779051000000152,0.521688980000135,Djarkpanga,OCHA/GAUL COD-AB v02 seat canton representative point TG010202
+TG-C,Plaine du Mo,Mô 2,Tindjassi,Tindjassi,廷贾西,tg:commune:mo2,8.6576895,0.513785213000176,Tindjassi,OCHA/GAUL COD-AB v02 seat canton representative point TG010205
+TG-C,Tchamba,Tchamba 1,Tchamba,Tchamba,钱巴,tg:commune:tchamba1,9.03333,1.41667,Tchamba,GeoNames 2363908
+TG-C,Tchamba,Tchamba 2,Koussountou,Koussountou,库孙图,tg:commune:tchamba2,8.83333,1.51667,Koussountou,GeoNames 2365628
+TG-C,Tchamba,Tchamba 3,Kaboli,Kaboli,卡博利,tg:commune:tchamba3,8.75,1.6,Kambolé,GeoNames 2366216
+TG-C,Blitta,Blitta 1,Blitta-Gare,Blitta-Gare,布利塔车站,tg:commune:blitta1,8.32335,0.98595,Blitta,GeoNames 2367423
+TG-C,Blitta,Blitta 2,Agbandi,Agbandi,阿格班迪,tg:commune:blitta2,8.21667,1.13333,Agbandi,GeoNames 2368424
+TG-C,Blitta,Blitta 3,M’Poti,M’Poti,姆波蒂,tg:commune:blitta3,8.23333,0.76667,Mpoti,GeoNames 2365071
+TG-P,Anie,Anié 1,Anié,Anié,阿涅,tg:commune:anie1,7.75,1.2,Anié,GeoNames 2367981
+TG-P,Anie,Anié 2,Adogbénou,Adogbénou,阿多贝努,tg:commune:anie2,7.81311050000005,1.519402126000102,Adogbenou,OCHA/GAUL COD-AB v02 seat canton representative point TG041101
+TG-P,Est-Mono,Est-Mono 1,Elavagnon,Elavagnon,埃拉瓦尼翁,tg:commune:estmono1,8.0,1.3,Elavagnon,GeoNames 2366774
+TG-P,Est-Mono,Est-Mono 2,Morétan,Morétan,莫雷坦,tg:commune:estmono2,8.1,1.35,Morita,GeoNames 2365080
+TG-P,Est-Mono,Est-Mono 3,Nyamassila,Nyamassila,尼亚马西拉,tg:commune:estmono3,7.98333,1.2,Nyamassila,GeoNames 2364727
+TG-P,Moyen-Mono,Moyen-Mono 1,Tohun,Tohoun,托洪,tg:commune:moyenmono1,7.03333,1.61667,Tohoun,GeoNames 2363669
+TG-P,Moyen-Mono,Moyen-Mono 2,Kpékplémé,Kpékplémé,佩普莱梅,tg:commune:moyenmono2,7.33333,1.61667,Kpékplémé,GeoNames 2365521
+TG-P,Agou,Agou 1,Agou-Gadzépé,Agou-Gadzépé,阿古加泽佩,tg:commune:agou1,6.88333,0.73333,Agou Gadzépé,GeoNames 2368301
+TG-P,Agou,Agou 2,Amoussoukopé,Amoussoukopé,阿穆苏科佩,tg:commune:agou2,6.66667,0.85,Amoussokopé,GeoNames 2368010
+TG-P,Danyi,Danyi 1,Danyi-Apéyémé,Danyi-Apéyémé,达尼阿佩耶梅,tg:commune:danyi1,7.20365,0.69563,Danyi-Apéyémé,GeoNames 13132463
+TG-P,Danyi,Danyi 2,Danyi-Elavagnon,Danyi-Elavagnon,达尼埃拉瓦尼翁,tg:commune:danyi2,7.28333,0.71667,Elavagnon,GeoNames 2366775
+TG-P,Akebou,Akébou 1,Kougnouhou,Kougnouhou,库纽乌,tg:commune:akebou1,7.6911035,0.810624511000128,Kougnohou,OCHA/GAUL COD-AB v02 seat canton representative point TG041004
+TG-P,Akebou,Akébou 2,Kamina-Akébou,Kamina-Akébou,卡米纳阿凯布,tg:commune:akebou2,7.93551,0.915095877,Kamina,OCHA/GAUL COD-AB v02 seat canton representative point TG041003
+TG-P,Kpele,Kpélé 1,Adéta,Adéta,阿代塔,tg:commune:kpele1,7.13333,0.73333,Adéta,GeoNames 2368574
+TG-P,Kpele,Kpélé 2,Kpélé-Elé,Kpélé-Elé,佩莱埃莱,tg:commune:kpele2,7.28333,0.8,Elé,GeoNames 2366772
+TG-P,Kloto,Kloto 1,Kpalimé,Kpalimé,帕利梅,csc:105166,6.9,0.63333,Kpalimé,Existing CSC WGS84
+TG-P,Kloto,Kloto 2,Lavié,Lavié,拉维耶,tg:commune:kloto2,7.032039,0.650569444000098,Lavie/ Apedome,OCHA/GAUL COD-AB v02 seat canton representative point TG041208
+TG-P,Kloto,Kloto 3,Kuma,Kuma,库马,tg:commune:kloto3,6.985020000000134,0.579937317000088,Kouma,OCHA/GAUL COD-AB v02 seat canton representative point TG041205
+TG-P,Ogou,Ogou 1,Atakpamé,Atakpamé,阿塔克帕梅,tg:commune:ogou1,7.53333,1.13333,Atakpamé,GeoNames 2367886
+TG-P,Ogou,Ogou 2,Datcha,Datcha,达恰,tg:commune:ogou2,7.40699950000004,1.185725719000175,Datcha,OCHA/GAUL COD-AB v02 seat canton representative point TG040902
+TG-P,Ogou,Ogou 3,Gléi,Gléi,格莱,tg:commune:ogou3,7.31667,1.16667,Gleï,GeoNames 2366533
+TG-P,Ogou,Ogou 4,Ountivou,Ountivou,翁蒂武,tg:commune:ogou4,7.35,1.56667,Ountivou,GeoNames 2364526
+TG-P,Amou,Amou 1,Amlamé (Ouma),Amlamé,阿姆拉梅,tg:commune:amou1,7.46667,0.9,Amlamé,GeoNames 2368035
+TG-P,Amou,Amou 2,Amou Oblo,Amou Oblo,阿穆奥布洛,tg:commune:amou2,7.38333,0.86667,Amou Oblo,GeoNames 2368014
+TG-P,Amou,Amou 3,Hihéatro,Hihéatro,伊埃阿特罗,tg:commune:amou3,7.581222000000139,1.04808401300005,Hiheatro,OCHA/GAUL COD-AB v02 seat canton representative point TG040107
+TG-P,Wawa,Wawa 1,Badou,Badou,巴杜,csc:105160,7.58333,0.6,Badou,Existing CSC WGS84
+TG-P,Wawa,Wawa 2,Gbadi-N’kougna,Gbadi-N’kougna,格巴迪恩库尼亚,tg:commune:wawa2,7.46667,0.71667,Gbadi Kougna,GeoNames 2366594
+TG-P,Wawa,Wawa 3,Okou,Okou,奥库,tg:commune:wawa3,7.56667,0.85,Okou,GeoNames 2364641
+TG-P,Haho,Haho 1,Notsé,Notsé,诺策,csc:105169,6.95,1.16667,Notsé,Existing CSC WGS84
+TG-P,Haho,Haho 2,Asrama,Asrama,阿斯拉马,tg:commune:haho2,7.0,1.41667,Asrama,GeoNames 2367920
+TG-P,Haho,Haho 3,Kpédomé,Kpédomé,佩多梅,tg:commune:haho3,6.96667,1.16667,Kpédomé,GeoNames 2365533
+TG-P,Haho,Haho 4,Wahala,Wahala,瓦哈拉,tg:commune:haho4,7.2075155,1.289730915,Wahala,OCHA/GAUL COD-AB v02 seat canton representative point TG040608
+TG-M,Ave,Avé 1,Kévé,Kévé,凯韦,tg:commune:ave1,6.43333,0.93333,Kévé,GeoNames 2366041
+TG-M,Ave,Avé 2,Noépé,Noépé,诺埃佩,tg:commune:ave2,6.26048,1.03611,Noepe,GeoNames 2364761
+TG-M,Bas-Mono,Bas-Mono 1,Afanangan,Afagnan,阿法尼昂,tg:commune:basmono1,6.48333,1.65,Afanyangan,GeoNames 2368490
+TG-M,Bas-Mono,Bas-Mono 2,Attitogon,Attitogon,阿蒂托贡,tg:commune:basmono2,6.41667,1.66667,Attitogon,GeoNames 2367776
+TG-M,Yoto,Yoto 1,Tabligbo,Tabligbo,塔布利博,csc:105175,6.58333,1.5,Tabligbo,Existing CSC WGS84
+TG-M,Yoto,Yoto 2,Ahépé,Ahépé,阿埃佩,tg:commune:yoto2,6.6,1.4,Ahépé,GeoNames 2368254
+TG-M,Yoto,Yoto 3,Tokpli,Tokpli,托普利,tg:commune:yoto3,6.66667,1.6,Tokpli,GeoNames 2363654
+TG-M,Vo,Vo 1,Vogan,Vogan,沃冈,tg:commune:vo1,6.33333,1.53333,Vogan,GeoNames 2363490
+TG-M,Vo,Vo 2,Togoville,Togoville,多哥维尔,tg:commune:vo2,6.22806,1.47806,Togoville,GeoNames 2363674
+TG-M,Vo,Vo 3,Dzrékpo,Dzrékpo,泽雷波,tg:commune:vo3,6.440251500000102,1.568892036000022,Dzrekpo,OCHA/GAUL COD-AB v02 seat canton representative point TG030604
+TG-M,Vo,Vo 4,Akoumapé,Akoumapé,阿库马佩,tg:commune:vo4,6.38722,1.44972,Akoumapé,GeoNames 2368163
+TG-M,Lacs,Lacs 1,Aného,Aného,阿内霍,csc:105158,6.22798,1.5919,Aného,Existing CSC WGS84
+TG-M,Lacs,Lacs 2,Aklakou,Aklakou,阿克拉库,tg:commune:lacs2,6.33333,1.71667,Aklakou,GeoNames 2368190
+TG-M,Lacs,Lacs 3,Agbodrafo,Agbodrafo,阿格博德拉福,tg:commune:lacs3,6.20139,1.47889,Agbodrafo,GeoNames 2368378
+TG-M,Lacs,Lacs 4,Anfoin,Anfoin,安富安,tg:commune:lacs4,6.31667,1.61667,Anfouin,GeoNames 2367987
+TG-M,Zio,Zio 1,Tsévié,Tsévié,策维耶,tg:commune:zio1,6.42611,1.21333,Tsévié,GeoNames 2363534
+TG-M,Zio,Zio 2,Kovié,Kovié,科维耶,tg:commune:zio2,6.34222,1.11167,Kovié,GeoNames 2368155
+TG-M,Zio,Zio 3,Agbélouvé,Agbélouvé,阿格贝卢韦,tg:commune:zio3,6.66667,1.16667,Agbélouvé,GeoNames 2368397
+TG-M,Zio,Zio 4,Gapé-Centre,Gapé-Centre,加佩中心,tg:commune:zio4,6.6,1.1,Gapé,GeoNames 2366612
+TG-M,Agoe-Nyive,Agoé-Nyivé 1,Agoé-Nyivé,Agoé-Nyivé,阿戈埃尼维耶,tg:commune:agoenyive1,6.23602,1.19991,Agouenyive,GeoNames 11205313
+TG-M,Agoe-Nyive,Agoé-Nyivé 2,Légbassito,Légbassito,莱巴西托,tg:commune:agoenyive2,6.266788,1.14797175800004,Legbassito,OCHA/GAUL COD-AB v02 seat canton representative point TG030903
+TG-M,Agoe-Nyive,Agoé-Nyivé 3,Vakpossito,Vakpossito,瓦波西托,tg:commune:agoenyive3,6.214873,1.16336620300001,Vakpossito,OCHA/GAUL COD-AB v02 seat canton representative point TG030905
+TG-M,Agoe-Nyive,Agoé-Nyivé 4,Togblé,Togblé,托格布莱,tg:commune:agoenyive4,6.27333,1.21361,Togblé Kopé,GeoNames 2363691
+TG-M,Agoe-Nyive,Agoé-Nyivé 5,Zanguéra,Zanguéra,赞盖拉,tg:commune:agoenyive5,6.22861,1.11194,Sanguéra,GeoNames 2364247
+TG-M,Agoe-Nyive,Agoé-Nyivé 6,Adétikopé,Adétikopé,阿代蒂科佩,tg:commune:agoenyive6,6.32306,1.21583,Adéti-Kopé,GeoNames 2368573
+TG-M,Golfe,Golfe 1,Bè-Afedomé,Bè-Afedomé,贝阿费多梅,tg:commune:golfe1,6.14111,1.2475,Bé,GeoNames 2367534
+TG-M,Golfe,Golfe 2,Hédzranawoe,Hédzranawoé,埃兹拉纳沃埃,tg:commune:golfe2,6.18109,1.24158,Hedzranawoe,GeoNames 11237731
+TG-M,Golfe,Golfe 3,Doumasséssé,Doumasséssé,杜马塞塞,tg:commune:golfe3,6.1619242,1.2217553,Doumasséssé,Municipality of Golfe 3 contact map https://www.golfe3.mairie.tg/
+TG-M,Golfe,Golfe 4,Amoutivé,Amoutivé,阿穆蒂韦,tg:commune:golfe4,6.14361,1.2425,Amoutivé,GeoNames 2589840
+TG-M,Golfe,Golfe 5,Aflao-Gakli,Aflao-Gakli,阿弗拉奥加克利,tg:commune:golfe5,6.17972,1.1988,Aflao Gakli,GeoNames 7909855
+TG-M,Golfe,Golfe 6,Baguida,Baguida,巴吉达,tg:commune:golfe6,6.1675,1.325,Baguida,GeoNames 2367642
+TG-M,Golfe,Golfe 7,Aflao-Sagbado,Aflao-Sagbado,阿弗拉奥萨格巴多,tg:commune:golfe7,6.18694,1.13528,Sagbado,GeoNames 2364289
+TG-M,,,,Lomé,洛美,csc:105167,6.12874,1.22154,Lomé,Existing CSC national capital

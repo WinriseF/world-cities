@@ -1,0 +1,60 @@
+official_code,official_name,division,english,chinese,latitude,longitude,point_source,record_id,authority_type,secondary_boundary_name
+,LÜDERITZ,NA-KA,Lüderitz,吕德里茨,-26.64807,15.15383,GeoNames 3355672,csc:76642,municipal or town council,Karas
+,BERSEBA,NA-KA,Berseba,贝尔塞巴,-25.9969,17.76817,GeoNames 3358422,gn:3358422,village council,Karas
+,BETHANIE,NA-KA,Bethanie,贝塔尼,-26.49958,17.1599,GeoNames 3358416,gn:3358416,village council,Karas
+,TSES,NA-KA,Tses,采斯,-25.88489,18.12469,GeoNames 3352609,gn:3352609,village council,Karas
+,KARASBURG,NA-KA,Karasburg,卡拉斯堡,-28.01658,18.74797,GeoNames 3356343,csc:76635,municipal or town council,Karas
+,AROAB,NA-KA,Aroab,阿罗阿布,-26.79744,19.6527,GeoNames 3358610,gn:3358610,village council,Karas
+,KEETMANSHOOP,NA-KA,Keetmanshoop,基特曼斯胡普,-26.57654,18.13359,GeoNames 3356264,csc:76639,municipal or town council,Karas
+,KOËS,NA-KA,Koës,科厄斯,-25.93091,19.12814,GeoNames 3356049,gn:3356049,village council,Karas
+,ORANJEMUND,NA-KA,Oranjemund,奥兰治蒙德,-28.55153,16.42728,GeoNames 3354071,csc:76655,municipal or town council,Karas
+,ARANDIS,NA-ER,Arandis,阿兰迪斯,-22.41749,14.97385,GeoNames 3358670,gn:3358670,municipal or town council,Erongo
+,HENTIES BAY,NA-ER,Henties Bay,亨蒂斯湾,-22.11609,14.28394,GeoNames 3356832,gn:3356832,municipal or town council,Erongo
+,KARIBIB,NA-ER,Karibib,卡里比布,-21.93554,15.85654,GeoNames 3356332,gn:3356332,municipal or town council,Erongo
+,USAKOS,NA-ER,Usakos,乌萨科斯,-22.00219,15.58601,GeoNames 3352461,csc:76670,municipal or town council,Erongo
+,OMARURU,NA-ER,Omaruru,奥马鲁鲁,-21.42403,15.94611,GeoNames 3354540,csc:76648,municipal or town council,Erongo
+,SWAKOPMUND,NA-ER,Swakopmund,斯瓦科普蒙德,-22.67842,14.52663,GeoNames 3352844,csc:76666,municipal or town council,Erongo
+,WALVIS BAY,NA-ER,Walvis Bay,鲸湾港,-22.9575,14.50528,GeoNames 3359638,csc:76671,municipal or town council,Erongo
+,UIS,NA-ER,Uis,乌伊斯,-21.2177,14.86569,GeoNames 3352523,gn:3352523,village council,Erongo
+,ARANOS,NA-HA,Aranos,阿拉诺斯,-24.14126,19.11754,GeoNames 3358666,gn:3358666,municipal or town council,Hardap
+,GOCHAS,NA-HA,Gochas,戈查斯,-24.85762,18.80137,GeoNames 3357234,gn:3357234,village council,Hardap
+,MALTAHÖHE,NA-HA,Maltahöhe,马尔塔赫厄,-24.83923,16.9859,GeoNames 3355624,gn:3355624,village council,Hardap
+,GIBEON,NA-HA,Gibeon,吉贝翁,-25.12213,17.76935,GeoNames 3357293,gn:3357293,village council,Hardap
+,STAMPRIET,NA-HA,Stampriet,斯坦普里特,-24.34494,18.40464,GeoNames 3352934,gn:3352934,village council,Hardap
+,MARIENTAL,NA-HA,Mariental,马林塔尔,-24.62705,17.96471,GeoNames 3355595,csc:76644,municipal or town council,Hardap
+,KALKRAND,NA-HA,Kalkrand,卡尔克兰德,-24.07367,17.58635,GeoNames 3356477,gn:3356477,village council,Hardap
+,REHOBOTH,NA-HA,Rehoboth,里霍博斯,-23.317,17.09,GeoNames 3353540,csc:76663,municipal or town council,Hardap
+,DIVUNDU,NA-KE,Divundu,迪文杜,-18.08894,21.51736,GeoNames 13455698,gn:13455698,village council,Kavango East
+,RUNDU,NA-KE,Rundu,龙杜,-17.91796,19.77314,GeoNames 3353383,gn:3353383,municipal or town council,Kavango East
+,NKURENKURU,NA-KW,Nkurenkuru,恩库雷恩库鲁,-17.64182,18.61966,GeoNames 3355137,csc:165930,municipal or town council,Kavango West
+,WINDHOEK,NA-KH,Windhoek,温得和克,-22.55941,17.08323,GeoNames 3352136,csc:76673,municipal or town council,Khomas
+,KAMANJAB,NA-KU,Kamanjab,卡曼贾布,-19.62882,14.8452,GeoNames 3356469,gn:3356469,village council,Kunene
+,KHORIXAS,NA-KU,Khorixas,霍里克萨斯,-20.37711,14.96203,GeoNames 3356213,csc:76640,municipal or town council,Kunene
+,OPUWO,NA-KU,Opuwo,奥普沃,-18.06068,13.83998,GeoNames 3354077,csc:76653,municipal or town council,Kunene
+,OUTJO,NA-KU,Outjo,奥乔,-20.10691,16.15415,GeoNames 3353715,csc:76662,municipal or town council,Kunene
+,EENHANA,NA-OW,Eenhana,恩哈纳,-17.48535,16.3294,GeoNames 3357804,gn:3357804,municipal or town council,Ohangwena
+,HELAO NAFIDI,NA-OW,Helao Nafidi,赫劳纳菲迪,-17.39321,15.89107,GeoNames 12718704,gn:12718704,municipal or town council,Ohangwena
+,OKONGO,NA-OW,Okongo,奥孔戈,-17.56667,17.21667,GeoNames 3354650,gn:3354650,village council,Ohangwena
+,LEONARDVILLE,NA-OH,Leonardville,伦纳德维尔,-23.50462,18.7912,GeoNames 3355748,gn:3355748,village council,Omaheke
+,GOBABIS,NA-OH,Gobabis,戈巴比斯,-22.45338,18.97159,GeoNames 3357247,csc:76631,municipal or town council,Omaheke
+,WITVLEI,NA-OH,Witvlei,维特弗莱,-22.41039,18.49359,GeoNames 3352083,gn:3352083,village council,Omaheke
+,OTJINENE,NA-OH,Otjinene,奥奇内内,-21.13889,18.7836,GeoNames 3353863,gn:3353863,municipal or town council,Omaheke
+,OUTAPI,NA-OS,Outapi,奥塔皮,-17.50375,14.98383,GeoNames 3371197,gn:3371197,municipal or town council,Omusati
+,OKAHAO,NA-OS,Okahao,奥卡豪,-17.88758,15.06677,GeoNames 3354897,gn:3354897,municipal or town council,Omusati
+,OSHIKUKU,NA-OS,Oshikuku,奥希库库,-17.63584,15.48173,GeoNames 3353989,gn:3353989,municipal or town council,Omusati
+,RUACANA,NA-OS,Ruacana,鲁阿卡纳,-17.42817,14.41504,GeoNames 3353400,gn:3353400,municipal or town council,Omusati
+,TSANDI,NA-OS,Tsandi,灿迪,-17.74292,14.88575,GeoNames 3352636,gn:3352636,village council,Omusati
+,ONANDJABA,NA-OS,Onandjaba,奥南贾巴,-17.42169,15.3341,GeoNames 12908079,gn:12908079,village council,Omusati
+,ONDANGWA,NA-ON,Ondangwa,翁丹瓜,-17.90824,15.98037,GeoNames 3354247,csc:76650,municipal or town council,Oshana
+,ONGWEDIVA,NA-ON,Ongwediva,翁圭迪瓦,-17.77198,15.76564,GeoNames 3354147,csc:76652,municipal or town council,Oshana
+,OSHAKATI,NA-ON,Oshakati,奥沙卡蒂,-17.78833,15.70436,GeoNames 3354021,gn:3354021,municipal or town council,Oshana
+,ONIIPA,NA-OT,Oniipa,奥尼帕,-17.91667,16.03333,GeoNames 3354130,gn:3354130,municipal or town council,Oshikoto
+,OMUTHIYA,NA-OT,Omuthiya,奥穆蒂亚,-18.36463,16.58146,GeoNames 3354367,gn:3354367,municipal or town council,Oshikoto
+,TSUMEB,NA-OT,Tsumeb,楚梅布,-19.24842,17.71345,GeoNames 3352593,csc:76669,municipal or town council,Oshikoto
+,GROOTFONTEIN,NA-OD,Grootfontein,赫鲁特方丹,-19.57328,18.1003,GeoNames 3357114,csc:76632,municipal or town council,Otjozondjupa
+,OKAHANDJA,NA-OD,Okahandja,奥卡汉贾,-21.98141,16.9029,GeoNames 3354898,gn:3354898,municipal or town council,Otjozondjupa
+,OKAKARARA,NA-OD,Okakarara,奥卡卡拉拉,-20.58755,17.45942,GeoNames 3354876,gn:3354876,municipal or town council,Otjozondjupa
+,OTAVI,NA-OD,Otavi,奥塔维,-19.63805,17.33986,GeoNames 3353934,csc:76658,municipal or town council,Otjozondjupa
+,OTJIWARONGO,NA-OD,Otjiwarongo,奥奇瓦龙戈,-20.46369,16.64772,GeoNames 3353811,csc:76660,municipal or town council,Otjozondjupa
+,BUKALO,NA-CA,Bukalo,布卡洛,-17.71799,24.53049,GeoNames 877338,gn:877338,village council,Zambezi
+,KATIMA MULILO,NA-CA,Katima Mulilo,卡蒂马穆利洛,-17.50467,24.27574,GeoNames 877178,csc:76637,municipal or town council,Zambezi

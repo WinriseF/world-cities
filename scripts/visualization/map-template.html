@@ -1,0 +1,269 @@
+<!doctype html>
+<html lang="zh-CN">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>世界城市逐国核查地图</title>
+<style>
+:root{color-scheme:dark;--ink:#e8f5f6;--muted:#9eafb5;--panel:#112630;--line:#2a414b;--green:#5bd7ad}
+*{box-sizing:border-box}body{margin:0;background:#091921;color:var(--ink);font:15px/1.5 system-ui,sans-serif}main{max-width:1480px;margin:auto;padding:20px clamp(15px,4vw,45px)}h1{font-size:clamp(22px,4vw,33px);margin:8px 0}.brand{display:flex;justify-content:space-between;align-items:center;gap:16px;flex-wrap:wrap}.meta,footer,#stats,#location,#reference{color:var(--muted)}#rate{font-weight:750;color:var(--green);font-size:1.45rem}.map-wrap{position:relative;margin:16px 0;border:1px solid var(--line);border-radius:12px;overflow:hidden;background:#0a1d26}canvas{width:100%;height:clamp(280px,60vh,680px);display:block;touch-action:none;cursor:grab;outline:none}canvas.dragging{cursor:grabbing}canvas.pointing{cursor:pointer}canvas:focus-visible{outline:2px solid var(--green);outline-offset:-3px}.map-tools{position:absolute;right:12px;top:12px;display:grid;gap:6px;justify-items:stretch}.map-tools button{min-width:38px;box-shadow:0 2px 8px #06141966;font-size:20px;font-weight:650;padding:2px 9px}.map-tools #fit{font-size:16px}.map-tools #zoom-level{font-size:12px;text-align:center;background:#112630dd;border-radius:5px;padding:3px}.map-note{position:absolute;left:12px;top:12px;color:#c5d7da;font-size:12px;background:#091921dd;padding:5px 8px;border-radius:5px;pointer-events:none}.map-tooltip,.map-selection{position:absolute;pointer-events:none;background:#112630f5;border:1px solid #44636a;box-shadow:0 4px 18px #06141999;border-radius:7px;padding:6px 10px;white-space:nowrap;font-size:13px}.map-tooltip{z-index:3;max-width:calc(100% - 20px);overflow:hidden;text-overflow:ellipsis}.map-selection{left:12px;bottom:12px;white-space:normal;max-width:calc(100% - 24px);color:#fff}.map-selection strong{color:var(--green)}#city-table tr.selected{background:#1c4146}#city-table tr.selected button{color:var(--green)}[hidden]{display:none!important}.controls{display:flex;flex-wrap:wrap;gap:8px}label{display:flex;align-items:center;gap:6px}select,input,button{min-height:38px;border:1px solid var(--line);border-radius:7px;background:var(--panel);color:var(--ink);font:inherit;padding:5px 10px}input{min-width:14rem}button{cursor:pointer}button:hover{border-color:var(--green)}a{color:var(--green)}table{width:100%;border-collapse:collapse}th,td{padding:6px 8px;text-align:left;border-top:1px solid var(--line)}#city-table button{border:none;background:transparent;padding:2px;min-height:30px;text-align:left}footer{font-size:.85rem;padding:20px 0;overflow-wrap:anywhere}
+</style>
+<main>
+<header class="brand"><h1>世界城市逐国核查地图</h1><div><span id="rate">载入中</span> <span id="count"></span></div></header>
+<p class="meta" id="stats"></p>
+<div class="map-wrap" id="map-wrap">
+  <canvas id="map" tabindex="0" aria-label="可交互地点分布地图，拖动平移、滚轮缩放，点击地点查看详情"></canvas>
+  <div class="map-note">滚轮 / 双指缩放 · 拖动平移 · 点击地点</div>
+  <div class="map-tools" aria-label="地图缩放">
+    <button id="zoom-in" type="button" title="放大" aria-label="放大地图">+</button>
+    <button id="zoom-out" type="button" title="缩小" aria-label="缩小地图">−</button>
+    <button id="fit" type="button" title="适应当前筛选范围" aria-label="适应当前范围">⌖</button>
+    <span id="zoom-level">1.00×</span>
+  </div>
+  <div class="map-tooltip" id="map-tooltip" hidden></div>
+  <div class="map-selection" id="map-selection" aria-live="polite" hidden></div>
+</div>
+<div class="controls"><label>国家或地区 <select id="country"></select></label><label>行政区 <select id="region"></select></label><label>地点 <input id="search" type="search" placeholder="中文、英文、拼音或官方代码"></label><button id="overview">返回世界视图</button></div>
+<p id="reference"></p><p id="location" aria-live="polite"></p>
+<table id="city-table"><thead><tr><th>地点</th><th>行政区</th><th>官方代码</th></tr></thead><tbody></tbody></table>
+<button id="more">显示更多</button>
+<footer>底图为 Natural Earth 陆地轮廓。<br><span id="digest"></span></footer>
+</main>
+<script id="data" type="text/plain">%PAYLOAD%</script>
+<script type="module">
+const byId = id => document.getElementById(id)
+const b64 = byId('data').textContent
+const bytes = Uint8Array.from(atob(b64), c => c.charCodeAt(0))
+const {land,groups,version,sha} = await new Response(new Blob([bytes]).stream().pipeThrough(new DecompressionStream('gzip'))).json()
+const states = {'reference-checked':'已核验','major-cities':'主要城市（非全量）','partial':'部分核验','pending':'待核验','not-applicable':'不适用'}
+const palette = {'reference-checked':'#5cd4af','major-cities':'#f0bb62','partial':'#f0bb62','pending':'#83a4f2','not-applicable':'#8e9ca1'}
+const applicable = groups.filter(g=>g.stats.cityReference.status!=='not-applicable').length
+const complete = groups.filter(g=>g.stats.cityReference.status==='reference-checked').length
+const major = groups.filter(g=>g.stats.cityReference.status==='major-cities').length
+const cityCount = groups.reduce((sum,g)=>sum+g.places.length,0)
+byId('rate').textContent = (100 * complete / applicable).toFixed(1) + '%'
+byId('count').textContent = complete + '／' + applicable + ' 完整名录核验 · ' + major + ' 国主要城市优先'
+byId('stats').textContent = '版本 ' + version + ' · ' + cityCount.toLocaleString('en-US') + ' 个地点'
+byId('digest').textContent = '本地包 SHA-256 ' + sha
+const country = byId('country'), region = byId('region'), search = byId('search')
+const canvas = byId('map'), ctx = canvas.getContext('2d')
+const body = document.querySelector('#city-table tbody')
+const lookup = new Map(groups.map(g=>[g.id,g]))
+const all = groups.flatMap(g=>g.places)
+const world = [-180,180,-63,85]
+let selected, current, matching = [], cap = 80
+let view, frame = 0
+const grid = new Map(), gridSize = 2
+const tooltip = byId('map-tooltip'), selection = byId('map-selection')
+const pointers = new Map()
+let gesture = null, moved = false
+const clamp = (n,min,max) => Math.min(max,Math.max(min,n))
+function element(tag, text) {const e = document.createElement(tag); e.textContent = text; return e}
+country.add(new Option('全部国家和地区',''))
+for (const g of groups.toSorted((a,b)=>(a.zh||a.en).localeCompare(b.zh||b.en,'zh-CN'))) {
+  country.add(new Option((g.zh||g.en)+' / '+g.id+' · '+states[g.stats.cityReference.status],g.id))
+}
+function norm(t) {return String(t||'').toLowerCase().normalize('NFD').replace(/\p{M}/gu,'').replace(/[\s'-]+/g,'')}
+function filter() {
+  const token = norm(search.value)
+  return (selected?.places || all).filter(r=>(!region.value||r.region===region.value||r.subregion===region.value) &&
+    (!token || [r.zh,r.en,r.pinyin,r.officialId,...(r.aliases||[])].some(s=>norm(s).includes(token))))
+}
+function viewBox(places) {
+  if (!places.length || (!selected && !search.value.trim())) return world
+  let a=180,b=-180,c=90,d=-90
+  for (const p of places) { a=Math.min(a,p.lon); b=Math.max(b,p.lon); c=Math.min(c,p.lat); d=Math.max(d,p.lat) }
+  if (b-a>180 || d-c>125) return world
+  const x = Math.max(1.25,(b-a)*.14), y = Math.max(.85,(d-c)*.14)
+  return [a-x,b+x,c-y,d+y]
+}
+function dimensions() {return [canvas.clientWidth,canvas.clientHeight]}
+function fitView() {
+  const [w,h]=dimensions(), [a,b,c,d]=viewBox(matching)
+  const x=(a+b)/2,y=(c+d)/2,ratio=Math.max(.12,Math.cos(y*Math.PI/180))
+  const scale=Math.min(w/((b-a)*ratio),h/(d-c))*.96
+  const min=Math.min(w/360,h/180)*.7
+  view={x,y,ratio,scale,fitScale:scale,min, max:Math.max(12000,scale)}
+  scheduleDraw()
+}
+function project(lon,lat) {
+  const [w,h]=dimensions()
+  return [w/2+(lon-view.x)*view.ratio*view.scale,h/2-(lat-view.y)*view.scale]
+}
+function unproject(x,y) {
+  const [w,h]=dimensions()
+  return [view.x+(x-w/2)/(view.ratio*view.scale),view.y-(y-h/2)/view.scale]
+}
+function constrain() {view.x=clamp(view.x,-180,180);view.y=clamp(view.y,-90,90)}
+function pan(dx,dy) {view.x-=dx/(view.ratio*view.scale);view.y+=dy/view.scale;constrain();scheduleDraw()}
+function zoom(factor,x,y) {
+  const [w,h]=dimensions()
+  x??=w/2;y??=h/2
+  const [lon,lat]=unproject(x,y)
+  const next=clamp(view.scale*factor,view.min,view.max)
+  view.scale=next
+  view.x=lon-(x-w/2)/(view.ratio*next)
+  view.y=lat+(y-h/2)/next
+  constrain();hideTooltip();scheduleDraw()
+}
+function scheduleDraw() {if (!frame) frame=requestAnimationFrame(()=>{frame=0;draw()})}
+function gridKey(x,y) {return x+':'+y}
+function rebuildGrid() {
+  grid.clear()
+  for (const p of matching) {
+    const key=gridKey(Math.floor(p.lon/gridSize),Math.floor(p.lat/gridSize))
+    if (!grid.has(key)) grid.set(key,[])
+    grid.get(key).push(p)
+  }
+}
+function visiblePlaces(left,right,bottom,top,visit) {
+  const x0=Math.floor(Math.max(-180,left)/gridSize),x1=Math.floor(Math.min(180,right)/gridSize)
+  const y0=Math.floor(Math.max(-90,bottom)/gridSize),y1=Math.floor(Math.min(90,top)/gridSize)
+  for(let x=x0;x<=x1;x++) for(let y=y0;y<=y1;y++) {
+    for(const p of grid.get(gridKey(x,y))||[]) if(p.lon>=left&&p.lon<=right&&p.lat>=bottom&&p.lat<=top) visit(p)
+  }
+}
+function draw() {
+  if(!view)return
+  const [w,h]=dimensions(),dpr=devicePixelRatio||1
+  const pw=Math.round(w*dpr),ph=Math.round(h*dpr)
+  if(canvas.width!==pw||canvas.height!==ph){canvas.width=pw;canvas.height=ph}
+  ctx.setTransform(dpr,0,0,dpr,0,0)
+  ctx.clearRect(0,0,w,h)
+  const sx=view.ratio*view.scale,sy=view.scale, ox=w/2-view.x*sx,oy=h/2+view.y*sy
+  ctx.fillStyle='#23434b';ctx.strokeStyle='#45666c';ctx.lineWidth=.65
+  for(const polygon of land) {
+    ctx.beginPath()
+    for(let i=0;i<polygon.length;i++){const [x,y]=polygon[i];ctx[i?'lineTo':'moveTo'](ox+x*sx,oy-y*sy)}
+    ctx.closePath();ctx.fill();ctx.stroke()
+  }
+  const [left,top]=unproject(-5,-5),[right,bottom]=unproject(w+5,h+5)
+  const r=clamp(.85+Math.log2(Math.max(1,view.scale)/2.5)*.55,.85,3.5)
+  ctx.globalAlpha=view.scale<6?.58:.87
+  let color=''
+  visiblePlaces(left,right,bottom,top,p=>{
+    const next=palette[lookup.get(p.country)?.stats.cityReference.status]||palette.pending
+    if(next!==color){ctx.fillStyle=next;color=next}
+    const x=ox+p.lon*sx,y=oy-p.lat*sy
+    ctx.fillRect(x-r,y-r,r*2,r*2)
+  })
+  ctx.globalAlpha=1
+  if(current){
+    const x=ox+current.lon*sx,y=oy-current.lat*sy
+    if(x>=-10&&x<=w+10&&y>=-10&&y<=h+10){
+      ctx.beginPath();ctx.fillStyle='#fff';ctx.arc(x,y,3.5,0,Math.PI*2);ctx.fill()
+      ctx.beginPath();ctx.strokeStyle='#fff';ctx.lineWidth=2;ctx.arc(x,y,8,0,Math.PI*2);ctx.stroke()
+    }
+  }
+  byId('zoom-level').textContent=(view.scale/view.fitScale).toFixed(2)+'×'
+}
+function pick(x,y,radius=11) {
+  if(!view)return null
+  const [left,top]=unproject(x-radius,y-radius),[right,bottom]=unproject(x+radius,y+radius)
+  const [w,h]=dimensions(),sx=view.ratio*view.scale,sy=view.scale
+  let hit=null,best=radius*radius
+  visiblePlaces(left,right,bottom,top,p=>{
+    const dx=w/2+(p.lon-view.x)*sx-x,dy=h/2-(p.lat-view.y)*sy-y,d=dx*dx+dy*dy
+    if(d<best){hit=p;best=d}
+  })
+  return hit
+}
+function hideTooltip() {tooltip.hidden=true;canvas.classList.remove('pointing')}
+function localPoint(e) {const rect=canvas.getBoundingClientRect();return {x:e.clientX-rect.left,y:e.clientY-rect.top}}
+function hover(e) {
+  const {x,y}=localPoint(e),p=pick(x,y)
+  if(!p){hideTooltip();return}
+  tooltip.textContent=[p.zh,p.en,lookup.get(p.country)?.zh].filter(Boolean).join(' / ')
+  tooltip.hidden=false
+  const [w,h]=dimensions()
+  tooltip.style.left=clamp(x+13,8,Math.max(8,w-tooltip.offsetWidth-8))+'px'
+  tooltip.style.top=clamp(y+13,8,Math.max(8,h-tooltip.offsetHeight-8))+'px'
+  canvas.classList.add('pointing')
+}
+function showLocation(r,recenter=false) {
+  current=r
+  const g=lookup.get(r.country),division=g?.divisions[r.subregion]||[g?.divisions[r.region],r.subregion].filter(Boolean).join(' / ')
+  const label=[r.zh,r.en].filter(Boolean).join(' / '),where=[g?.zh||g?.en,division].filter(Boolean).join(' · ')
+  byId('location').textContent=[label,where,r.pinyin,'纬度 '+r.lat+'°','经度 '+r.lon+'°',r.officialId&&'官方代码 '+r.officialId].filter(Boolean).join(' · ')
+  selection.replaceChildren(element('strong',label),element('div',where+'　'+r.lat+'°, '+r.lon+'°'))
+  selection.hidden=false
+  for(const tr of body.rows)tr.classList.toggle('selected',tr.dataset.id===r.id)
+  if(recenter){view.x=r.lon;view.y=r.lat;constrain()}
+  hideTooltip();scheduleDraw()
+}
+function clearLocation() {current=null;selection.hidden=true;byId('location').textContent='';for(const tr of body.rows)tr.classList.remove('selected');hideTooltip()}
+function gestureState() {
+  const ps=[...pointers.values()]
+  if(ps.length>=2)return {x:(ps[0].x+ps[1].x)/2,y:(ps[0].y+ps[1].y)/2,d:Math.max(1,Math.hypot(ps[0].x-ps[1].x,ps[0].y-ps[1].y))}
+  return ps[0]?{...ps[0],d:0}:null
+}
+canvas.addEventListener('wheel',e=>{
+  e.preventDefault();const {x,y}=localPoint(e)
+  zoom(Math.exp(-clamp(e.deltaY*(e.deltaMode===1?16:e.deltaMode===2?canvas.clientHeight:1),-300,300)*.002),x,y)
+},{passive:false})
+canvas.addEventListener('pointerdown',e=>{
+  if(e.button!==0&&e.pointerType==='mouse')return
+  if(!view)return
+  canvas.setPointerCapture(e.pointerId);pointers.set(e.pointerId,localPoint(e))
+  if(pointers.size===1)moved=false;else moved=true
+  gesture=gestureState();hideTooltip()
+})
+canvas.addEventListener('pointermove',e=>{
+  if(!pointers.has(e.pointerId)){if(e.pointerType==='mouse')hover(e);return}
+  pointers.set(e.pointerId,localPoint(e))
+  const next=gestureState()
+  if(!gesture)return
+  const dx=next.x-gesture.x,dy=next.y-gesture.y
+  if(pointers.size>=2||moved||Math.hypot(dx,dy)>4){
+    moved=true;canvas.classList.add('dragging')
+    pan(dx,dy)
+    if(next.d&&gesture.d)zoom(next.d/gesture.d,next.x,next.y)
+    gesture=next
+  }
+})
+function endPointer(e,cancelled=false) {
+  if(!pointers.has(e.pointerId))return
+  const {x,y}=localPoint(e),click=!cancelled&&pointers.size===1&&!moved
+  pointers.delete(e.pointerId);gesture=gestureState()
+  if(!pointers.size){canvas.classList.remove('dragging');if(click){const hit=pick(x,y,e.pointerType==='touch'?20:11);if(hit)showLocation(hit);else{clearLocation();scheduleDraw()}}}
+}
+canvas.addEventListener('pointerup',e=>endPointer(e))
+canvas.addEventListener('pointercancel',e=>endPointer(e,true))
+canvas.addEventListener('lostpointercapture',e=>endPointer(e,true))
+canvas.addEventListener('pointerleave',hideTooltip)
+canvas.addEventListener('dblclick',e=>{const {x,y}=localPoint(e);zoom(1.8,x,y)})
+canvas.addEventListener('keydown',e=>{
+  const steps={ArrowLeft:[70,0],ArrowRight:[-70,0],ArrowUp:[0,70],ArrowDown:[0,-70]}
+  if(steps[e.key]){e.preventDefault();pan(...steps[e.key])}
+  else if(['+','=','-'].includes(e.key)){e.preventDefault();zoom(e.key==='-'?1/1.6:1.6)}
+})
+byId('zoom-in').onclick=()=>zoom(1.6)
+byId('zoom-out').onclick=()=>zoom(1/1.6)
+byId('fit').onclick=()=>{hideTooltip();fitView()}
+function update(reset=true) {
+  if(reset){clearLocation();matching=filter();rebuildGrid();fitView()}
+  const ref=selected?.stats.cityReference
+  byId('reference').textContent=[matching.length.toLocaleString('en-US')+' 个匹配地点',ref&&states[ref.status],ref?.scope].filter(Boolean).join(' · ')
+  if(ref?.source) {const a=element('a',' 来源');a.href=ref.source; a.target='_blank';a.rel='noreferrer';byId('reference').append(' · ',a)}
+  body.replaceChildren(...matching.slice(0,cap).map(r=>{
+    const tr=element('tr',''), where=lookup.get(r.country)
+    const td=element('td',''), button=element('button',[r.zh,r.en].filter(Boolean).join(' / '))
+    tr.dataset.id=r.id;tr.classList.toggle('selected',current?.id===r.id);button.onclick=()=>showLocation(r,true);td.append(button);tr.append(td,element('td',where?.divisions[r.subregion]||[where?.divisions[r.region],r.subregion].filter(Boolean).join(' / ')||where?.zh||''),element('td',r.officialId||''));return tr
+  }))
+  byId('more').hidden=cap>=matching.length
+  scheduleDraw()
+}
+function changeCountry() {
+  selected=lookup.get(country.value)
+  region.replaceChildren(new Option('全部行政区',''))
+  for(const [code,name] of Object.entries(selected?.divisions||{}))region.add(new Option(name,code))
+  cap=80;update()
+}
+country.onchange=changeCountry
+region.onchange=()=>{cap=80;update()}
+search.oninput=()=>{cap=80;update()}
+byId('overview').onclick=()=>{country.value='';search.value='';changeCountry()}
+byId('more').onclick=()=>{cap+=80;update(false)}
+window.addEventListener('resize', scheduleDraw)
+changeCountry()
+</script>
+</html>

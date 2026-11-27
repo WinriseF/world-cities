@@ -1,0 +1,6 @@
+id,official_id,region,en,zh,latitude,longitude,roster_source,coordinate_source,notes
+overture:0b06fcab-0671-424b-a5e5-215950d5b2e0,,,Cockburn Town,科伯恩城,21.46122,-71.14188,https://agc.gov.tc/agc/component/edocman/30-of-2024-district-administration-ordinance-2024/fdocument?Itemid=9999,https://www.geonames.org/3576994/,首都中心
+tc:district:middle-caicos,,,Middle Caicos,中凯科斯,21.82965,-71.80095,https://agc.gov.tc/agc/component/edocman/30-of-2024-district-administration-ordinance-2024/fdocument?Itemid=9999,https://www.geonames.org/3577025/,法定区内的主要镇区代表点
+tc:district:north-caicos,,,North Caicos,北凯科斯,21.88362,-71.9223,https://agc.gov.tc/agc/component/edocman/30-of-2024-district-administration-ordinance-2024/fdocument?Itemid=9999,https://www.geonames.org/3577039/,法定区内的主要镇区代表点
+tc:district:salt-cay,,,Salt Cay,盐岛,21.32406,-71.21548,https://agc.gov.tc/agc/component/edocman/30-of-2024-district-administration-ordinance-2024/fdocument?Itemid=9999,https://www.geonames.org/3577054/,法定区内的主要镇区代表点
+tc:district:south-caicos,,,South Caicos,南凯科斯,21.49293,-71.53304,https://agc.gov.tc/agc/component/edocman/30-of-2024-district-administration-ordinance-2024/fdocument?Itemid=9999,https://www.geonames.org/3577027/,法定区内的主要镇区代表点

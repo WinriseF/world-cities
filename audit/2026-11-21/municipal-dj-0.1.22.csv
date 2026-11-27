@@ -1,0 +1,7 @@
+official_name,display_name,chinese,region,latitude,longitude,point_source,boundary_source,boundary_match,record_id
+Ali-Sabieh,Ali Sabieh,阿里萨比耶,DJ-AS,11.15583,42.7125,GeoNames 225284,geoBoundaries ADM1,DJ-AS,csc:30561
+Arta,Arta,阿尔塔,DJ-AR,11.52639,42.85194,GeoNames 225037,geoBoundaries ADM1,DJ-AR,csc:30563
+Dikhil,Dikhil,迪基勒,DJ-DI,11.10454,42.36971,GeoNames 223890,geoBoundaries ADM1,DJ-DI,csc:30564
+Ville de Djibouti,Djibouti,吉布提市,DJ-DJ,11.58901,43.14503,GeoNames 223817,geoBoundaries ADM1,DJ-DJ,csc:30565
+Obock,Obock,奥博克,DJ-OB,11.96693,43.28835,GeoNames 221527,OCHA COD-AB detailed ADM1 coastline,DJ-OB,csc:30571
+Tadjourah,Tadjourah,塔朱拉,DJ-TA,11.78778,42.88222,GeoNames 220782,geoBoundaries ADM1,DJ-TA,csc:30572

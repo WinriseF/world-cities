@@ -1,0 +1,38 @@
+{
+  "name": "@winrisef/world-cities",
+  "version": "0.1.134",
+  "description": "World cities and regions with Chinese names, English names, pinyin and WGS84 coordinates.",
+  "type": "module",
+  "license": "ODbL-1.0",
+  "main": "./index.js",
+  "types": "./index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./index.d.ts",
+      "default": "./index.js"
+    },
+    "./data/*": "./data/*",
+    "./coverage.json": "./data/coverage.json",
+    "./package.json": "./package.json"
+  },
+  "files": [
+    "data",
+    "index.js",
+    "index.d.ts",
+    "LICENSE",
+    "licenses",
+    "NOTICE.md",
+    "COVERAGE.md",
+    "sources.lock.json"
+  ],
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "test": "node --test",
+    "prepack": "npm run build && npm test",
+    "pack:local": "npm pack --pack-destination artifacts",
+    "prepack:local": "node --input-type=module -e \"import { mkdirSync } from 'node:fs'; mkdirSync('artifacts', { recursive: true })\""
+  },
+  "devDependencies": {
+    "pinyin-pro": "3.29.5"
+  }
+}

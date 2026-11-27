@@ -1,0 +1,334 @@
+{
+  "regions": {
+    "AO": [
+      [
+        "ao:icolo-e-bengo",
+        "Icolo e Bengo",
+        "伊科洛-本戈省"
+      ],
+      [
+        "ao:moxico-leste",
+        "Moxico Leste",
+        "东莫希科省"
+      ]
+    ],
+    "AS": [
+      [
+        "as:r:60010",
+        "Eastern District",
+        "东区"
+      ],
+      [
+        "as:r:60020",
+        "Manuʻa District",
+        "马努阿区"
+      ],
+      [
+        "as:r:60030",
+        "Rose Island",
+        "罗斯岛"
+      ],
+      [
+        "as:r:60040",
+        "Swains Island",
+        "斯温斯岛"
+      ],
+      [
+        "as:r:60050",
+        "Western District",
+        "西区"
+      ]
+    ],
+    "BI": [
+      [
+        "bi:bujumbura",
+        "Bujumbura",
+        "布琼布拉省"
+      ],
+      [
+        "bi:gitega",
+        "Gitega",
+        "基特加省"
+      ],
+      [
+        "bi:butanyerera",
+        "Butanyerera",
+        "布塔尼耶拉省"
+      ],
+      [
+        "bi:buhumuza",
+        "Buhumuza",
+        "布胡穆扎省"
+      ],
+      [
+        "bi:burunga",
+        "Burunga",
+        "布隆加省"
+      ]
+    ],
+    "MS": [
+      [
+        "ms:r:saint-anthony",
+        "Saint Anthony",
+        "圣安东尼堂区"
+      ],
+      [
+        "ms:r:saint-george",
+        "Saint George",
+        "圣乔治堂区"
+      ],
+      [
+        "ms:r:saint-peter",
+        "Saint Peter",
+        "圣彼得堂区"
+      ]
+    ],
+    "PF": [
+      [
+        "pf:r:austral",
+        "Austral Islands",
+        "南方群岛"
+      ],
+      [
+        "pf:r:windward",
+        "Windward Islands",
+        "向风群岛"
+      ],
+      [
+        "pf:r:leeward",
+        "Leeward Islands",
+        "背风群岛"
+      ],
+      [
+        "pf:r:marquesas",
+        "Marquesas Islands",
+        "马克萨斯群岛"
+      ],
+      [
+        "pf:r:tuamotu-gambier",
+        "Tuamotu-Gambier Islands",
+        "土阿莫土-甘比尔群岛"
+      ]
+    ]
+  },
+  "burundiCities": {
+    "Bubanza": "bi:bujumbura",
+    "Bujumbura": "bi:bujumbura",
+    "Gitega": "bi:gitega",
+    "Muramvya": "bi:gitega",
+    "Kayanza": "bi:butanyerera",
+    "Ngozi": "bi:butanyerera",
+    "Muyinga": "bi:buhumuza",
+    "Ruyigi": "bi:buhumuza",
+    "Rutana": "bi:burunga"
+  },
+  "franceOutsideRegions": [
+    "FR-CP",
+    "FR-PF",
+    "FR-TF",
+    "FR-NC",
+    "FR-PM",
+    "FR-BL",
+    "FR-MF",
+    "FR-WF"
+  ],
+  "cities": [
+    {
+      "country": "IM",
+      "id": "wd:Q18569",
+      "region": null,
+      "en": "Douglas",
+      "zh": "道格拉斯",
+      "lat": 54.15,
+      "lon": -4.4775,
+      "kind": "capital"
+    },
+    {
+      "country": "FK",
+      "id": "wd:Q12245",
+      "region": null,
+      "en": "Stanley",
+      "zh": "斯坦利",
+      "lat": -51.693861,
+      "lon": -57.849556,
+      "kind": "capital"
+    },
+    {
+      "country": "GI",
+      "id": "wd:Q1410",
+      "region": null,
+      "en": "Gibraltar",
+      "zh": "直布罗陀",
+      "lat": 36.14,
+      "lon": -5.35,
+      "kind": "city"
+    },
+    {
+      "country": "SH",
+      "id": "wd:Q30970",
+      "region": "csc:r:5838",
+      "en": "Jamestown",
+      "zh": "詹姆斯敦",
+      "lat": -15.925139,
+      "lon": -5.717917,
+      "kind": "capital"
+    },
+    {
+      "country": "AO",
+      "id": "wd:Q1050728",
+      "region": "ao:icolo-e-bengo",
+      "en": "Catete",
+      "zh": "卡特蒂",
+      "lat": -9.111389,
+      "lon": 13.6875,
+      "kind": "city"
+    },
+    {
+      "country": "AO",
+      "id": "wd:Q17122629",
+      "region": "ao:moxico-leste",
+      "en": "Cazombo",
+      "zh": "卡宗博",
+      "lat": -11.905833,
+      "lon": 22.921667,
+      "kind": "city"
+    },
+    {
+      "country": "BI",
+      "id": "csc:9765",
+      "region": "bi:buhumuza",
+      "en": "Cankuzo",
+      "zh": "坎库佐",
+      "lat": -3.2186,
+      "lon": 30.5528,
+      "kind": "city"
+    },
+    {
+      "country": "BI",
+      "id": "csc:9771",
+      "region": "bi:burunga",
+      "en": "Makamba",
+      "zh": "马坎巴",
+      "lat": -4.1348,
+      "lon": 29.804,
+      "kind": "city"
+    },
+    {
+      "country": "FR",
+      "id": "csc:45894",
+      "region": "csc:r:4796",
+      "en": "Saint-Denis",
+      "zh": "圣但尼",
+      "lat": 48.935556,
+      "lon": 2.353889,
+      "kind": "city"
+    },
+    {
+      "country": "FR",
+      "id": "wd:Q193370",
+      "region": "csc:r:4796",
+      "en": "Montreuil",
+      "zh": "蒙特勒伊",
+      "lat": 48.860278,
+      "lon": 2.443056,
+      "kind": "city"
+    },
+    {
+      "country": "FR",
+      "id": "csc:39481",
+      "region": "csc:r:4796",
+      "en": "Argenteuil",
+      "zh": "阿让特伊",
+      "lat": 48.947778,
+      "lon": 2.248889,
+      "kind": "city"
+    },
+    {
+      "country": "IN",
+      "id": "csc:57610",
+      "region": "csc:r:4036",
+      "en": "Aizawl",
+      "zh": "艾藻尔",
+      "lat": 23.733333,
+      "lon": 92.716667,
+      "kind": "city"
+    },
+    {
+      "country": "PR",
+      "id": "csc:143013",
+      "region": "csc:r:5079",
+      "en": "Caguas",
+      "zh": "卡瓜斯",
+      "lat": 18.23412,
+      "lon": -66.0485,
+      "kind": "city"
+    }
+  ],
+  "cityUpdates": {
+    "AR": {
+      "wd:Q1486": {
+        "region": "csc:r:4880"
+      }
+    },
+    "BD": {
+      "csc:153887": {
+        "lat": 24.91965,
+        "lon": 89.94812
+      }
+    },
+    "BW": {
+      "wd:Q3919": {
+        "region": "csc:r:5712"
+      }
+    },
+    "IE": {
+      "csc:57279": {
+        "region": "csc:r:1090"
+      }
+    },
+    "MN": {
+      "csc:153783": {
+        "region": "csc:r:5453"
+      }
+    },
+    "NP": {
+      "wd:Q3037": {
+        "region": "csc:r:2073"
+      }
+    },
+    "UG": {
+      "csc:110960": {
+        "region": "csc:r:359"
+      },
+      "csc:110910": {
+        "region": "csc:r:440"
+      }
+    },
+    "BR": {
+      "csc:12058": {
+        "lat": -22.817101,
+        "lon": -45.192402
+      },
+      "csc:13340": {
+        "lat": -10.0783,
+        "lon": -37.057301
+      },
+      "csc:10774": {
+        "lat": -11.0154,
+        "lon": -68.75
+      },
+      "csc:10489": {
+        "lat": -26.765301,
+        "lon": -48.671398
+      },
+      "csc:12212": {
+        "lat": -23.8144,
+        "lon": -45.365501
+      },
+      "csc:11336": {
+        "lat": -8.9106,
+        "lon": -35.7234
+      }
+    }
+  }
+}

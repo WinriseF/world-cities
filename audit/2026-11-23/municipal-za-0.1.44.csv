@@ -1,0 +1,214 @@
+id,official_id,region,en,zh,latitude,longitude,roster_source,coordinate_source,notes
+csc:131093,BUF,ZA-EC,East London,东伦敦,-33.01529,27.91162,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/1006984/,Buffalo City；名录同名或驻地居民点 East London
+csc:131059,CPT,ZA-WC,Cape Town,开普敦,-33.92584,18.42322,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/3369157/,Cape Town；名录同名或驻地居民点 Cape Town
+za:EC101,EC101,ZA-EC,Dr Beyers Naude,博士贝耶尔斯纳乌德,-32.25215,24.53075,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/1000543/,Dr Beyers Naude；辖内居民点代表点 Graaff Reinet
+za:EC102,EC102,ZA-EC,Blue Crane Route,布卢埃克拉内罗乌特,-32.72173,25.58804,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/954161/,Blue Crane Route；名录同名或驻地居民点 Somerset East
+za:EC104,EC104,ZA-EC,Makana,马卡纳,-33.30422,26.53276,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/1000501/,Makana；名录同名或驻地居民点 Grahamstown
+za:EC105,EC105,ZA-EC,Ndlambe,恩德拉姆贝,-33.58601,26.88329,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/964432/,Ndlambe；名录同名或驻地居民点 Port Alfred
+za:EC106,EC106,ZA-EC,Sundays River Valley,苏恩达伊斯河谷,-33.39829,25.44279,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/990802/,Sundays River Valley；辖内居民点代表点 Kirkwood
+za:EC108,EC108,ZA-EC,Kouga,科乌加,-34.04526,24.92146,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/993910/,Kouga；名录同名或驻地居民点 Jeffreys Bay
+za:EC109,EC109,ZA-EC,Kou-Kamma,科乌卡姆马,-33.9528,24.29053,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/992071/,Kou-Kamma；名录同名或驻地居民点 Kareedouw
+za:EC121,EC121,ZA-EC,Mbhashe,姆巴塞,-32.09618,28.30489,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/994978/,Mbhashe；辖内居民点代表点 Dutywa
+za:EC122,EC122,ZA-EC,Mnquma,姆恩库马,-32.33083,28.14981,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/1014489/,Mnquma；辖内居民点代表点 Butterworth
+za:EC123,EC123,ZA-EC,Great Kei,格雷阿特凯伊,-32.57704,27.892,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/988265/,Great Kei；辖内居民点代表点 Komga
+za:EC124,EC124,ZA-EC,Amahlathi,阿马拉蒂,-32.57076,27.42396,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/951650/,Amahlathi；辖内居民点代表点 Stutterheim
+za:EC126,EC126,ZA-EC,Ngqushwa,恩格库斯瓦,-33.20059,27.11385,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/966007/,Ngqushwa；辖内居民点代表点 Peddie
+za:EC129,EC129,ZA-EC,Raymond Mhlaba,拉伊莫恩德姆拉巴,-32.77477,26.63376,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/1003953/,Raymond Mhlaba；辖内居民点代表点 Fort Beaufort
+za:EC131,EC131,ZA-EC,Inxuba Yethemba,伊恩克苏巴耶特姆巴,-32.16422,25.61918,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/1012600/,Inxuba Yethemba；名录同名或驻地居民点 Cradock
+za:EC135,EC135,ZA-EC,Vuyisile Mini,武伊西莱米尼,-32.00115,27.58045,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/1013125/,Vuyisile Mini；名录同名或驻地居民点 Cofimvaba
+za:EC136,EC136,ZA-EC,Emalahleni,埃马拉莱尼,-31.70312,27.2329,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/985011/,Emalahleni (EC)；辖内居民点代表点 Lady Frere
+za:EC137,EC137,ZA-EC,Dr. A.B. Xuma,阿贝祖马博士,-31.6754,27.99664,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/1005470/,Dr. A.B. Xuma；名录同名或驻地居民点 Ngcobo
+za:EC138,EC138,ZA-EC,Sakhisizwe,萨基西斯韦,-31.52356,27.6952,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/1014322/,Sakhisizwe；辖内居民点代表点 Cala
+csc:131234,EC139,ZA-EC,Enoch Mgijima,以诺姆吉吉马,-31.89756,26.87533,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/963516/,Enoch Mgijima；名录同名或驻地居民点 Queenstown
+za:EC141,EC141,ZA-EC,Elundini,埃卢恩迪尼,-31.07104,28.35183,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/980798/,Elundini；辖内居民点代表点 Maclear
+za:EC142,EC142,ZA-EC,Senqu,塞恩库,-30.9683,27.59567,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/1021046/,Senqu；辖内居民点代表点 Barkly East
+za:EC145,EC145,ZA-EC,Walter Sisulu,瓦尔特尔西苏卢,-30.69366,26.71141,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/1023309/,Walter Sisulu；辖内居民点代表点 Aliwal North
+za:EC153,EC153,ZA-EC,Ngquza Hills,恩格库萨伊伊斯,-31.08042,29.49522,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/1004210/,Ngquza Hills；辖内居民点代表点 Flagstaff
+za:EC154,EC154,ZA-EC,Port St Johns,波尔特斯特霍恩斯,-31.62291,29.54477,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/964408/,Port St Johns；名录同名或驻地居民点 Port Saint John’s
+za:EC155,EC155,ZA-EC,Nyandeni,尼亚恩德尼,-31.45024,28.97163,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/968739/,Nyandeni；名录同名或驻地居民点 Nyandeni
+za:EC156,EC156,ZA-EC,Kumkani Mhlontlo,姆隆特洛王,-31.16304,28.87056,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/963488/,Kumkani Mhlontlo；名录同名或驻地居民点 Qumbu
+csc:131191,EC157,ZA-EC,King Sabata Dalindyebo,萨巴塔达林迪耶博,-31.58893,28.78443,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/946058/,King Sabata Dalindyebo；名录同名或驻地居民点 Mthatha
+za:EC441,EC441,ZA-EC,Matatiele,马塔蒂埃莱,-30.34357,28.81161,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/978327/,Matatiele；名录同名或驻地居民点 Matatiele
+za:EC442,EC442,ZA-EC,Umzimvubu,乌姆西姆布布,-30.90173,28.99238,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/973525/,Umzimvubu；辖内居民点代表点 Mount Frere
+za:EC443,EC443,ZA-EC,Winnie Madikizela-Mandela,温妮·马迪基泽拉-曼德拉,-30.85907,29.85384,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/1019264/,Winnie Madikizela-Mandela；名录同名或驻地居民点 Bizana
+za:EC444,EC444,ZA-EC,Ntabankulu,恩塔巴恩库卢,-30.95901,29.30297,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/950468/,Ntabankulu；名录同名或驻地居民点 Ntabankulu
+csc:165866,EKU,ZA-GP,Germiston,杰米斯顿,-26.215,28.164,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/1002108/,City of Ekurhuleni；名录同名或驻地居民点 Germiston
+csc:131092,ETH,ZA-KZN,Durban,德班,-29.8579,31.0292,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/1007311/,eThekwini；名录同名或驻地居民点 Durban
+za:FS161,FS161,ZA-FS,Letsemeng,莱特塞梅恩格,-29.40661,25.00309,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/988429/,Letsemeng；辖内居民点代表点 Koffiefontein
+za:FS162,FS162,ZA-FS,Kopanong,科帕诺恩格,-30.03363,25.78041,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/948099/,Kopanong；名录同名或驻地居民点 Trompsburg
+za:FS163,FS163,ZA-FS,Mohokare,莫奥卡雷,-30.30225,27.08395,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/937246/,Mohokare；辖内居民点代表点 Zastron
+za:FS181,FS181,ZA-FS,Masilonyana,马西洛尼亚纳,-28.41098,26.70107,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/949282/,Masilonyana；辖内居民点代表点 Theunissen
+za:FS182,FS182,ZA-FS,Tokologo,托科洛戈,-28.53914,25.23965,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/1017048/,Tokologo；辖内居民点代表点 Boshof
+za:FS183,FS183,ZA-FS,Tswelopele,特斯韦洛佩莱,-28.28756,26.14996,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/1014747/,Tswelopele；辖内居民点代表点 Bultfontein
+csc:131301,FS184,ZA-FS,Matjhabeng,韦尔科姆,-27.97742,26.73506,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/940909/,Matjhabeng；名录同名或驻地居民点 Welkom
+za:FS185,FS185,ZA-FS,Nala,纳拉,-27.3887,26.61701,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/1016698/,Nala；辖内居民点代表点 Bothaville
+za:FS191,FS191,ZA-FS,Setsoto,塞特索托,-28.872,27.87506,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/1004303/,Setsoto；辖内居民点代表点 Ficksburg
+csc:131036,FS192,ZA-FS,Dihlabeng,迪赫拉本,-28.23078,28.30707,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/1019704/,Dihlabeng；名录同名或驻地居民点 Bethlehem
+za:FS193,FS193,ZA-FS,Nketoana,恩凯托阿纳,-27.80138,28.42726,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/962847/,Nketoana；辖内居民点代表点 Reitz
+za:FS194,FS194,ZA-FS,Maluti-a-Phofung,马卢蒂阿福富恩格,-28.52423,28.81582,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/965401/,Maluti-a-Phofung；辖内居民点代表点 Phuthaditjhaba
+za:FS195,FS195,ZA-FS,Phumelela,富梅莱拉,-27.42573,29.16585,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/942701/,Phumelela；辖内居民点代表点 Vrede
+za:FS196,FS196,ZA-FS,Mantsopa,马恩特索帕,-29.19448,27.45739,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/985015/,Mantsopa；辖内居民点代表点 Ladybrand
+za:FS201,FS201,ZA-FS,Moqhaka,莫卡卡,-27.65036,27.23488,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/986846/,Moqhaka；辖内居民点代表点 Kroonstad
+za:FS203,FS203,ZA-FS,Ngwathe,恩格瓦特,-26.9033,27.45727,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/966166/,Ngwathe；辖内居民点代表点 Parys
+za:FS204,FS204,ZA-FS,Metsimaholo,梅特西马奥洛,-26.81358,27.81695,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/957487/,Metsimaholo；名录同名或驻地居民点 Sasolburg
+za:FS205,FS205,ZA-FS,Mafube,马富贝,-27.27888,28.49696,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/1003763/,Mafube；辖内居民点代表点 Frankfort
+za:GT421,GT421,ZA-GP,Emfuleni,埃姆富莱尼,-26.71171,27.83795,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/944986/,Emfuleni；名录同名或驻地居民点 Vanderbijlpark
+za:GT422,GT422,ZA-GP,Midvaal,米德巴阿尔,-26.55987,28.0195,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/976764/,Midvaal；名录同名或驻地居民点 Meyerton
+za:GT423,GT423,ZA-GP,Lesedi,莱塞迪,-26.50476,28.35921,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/997151/,Lesedi；名录同名或驻地居民点 Heidelberg
+za:GT481,GT481,ZA-GP,Mogale City,莫加莱市,-26.08577,27.77515,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/986822/,Mogale City；名录同名或驻地居民点 Krugersdorp
+za:GT484,GT484,ZA-GP,Merafong City,梅拉福恩格市,-26.36094,27.39767,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/1014073/,Merafong City；名录同名或驻地居民点 Carletonville
+za:GT485,GT485,ZA-GP,Rand West City,拉恩德西市,-26.31905,27.6486,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/940316/,Rand West City；辖内居民点代表点 Westonaria
+csc:131136,JHB,ZA-GP,Johannesburg,约翰内斯堡,-26.20227,28.04363,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/993800/,City of Johannesburg；名录同名或驻地居民点 Johannesburg
+za:KZN212,KZN212,ZA-KZN,Umdoni,乌姆多尼,-30.28666,30.75316,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/956878/,Umdoni；名录同名或驻地居民点 Scottburgh
+za:KZN213,KZN213,ZA-KZN,Umzumbe,乌姆苏姆贝,-30.5082,30.52934,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/997270/,Umzumbe；辖内居民点代表点 Hazeldene
+za:KZN214,KZN214,ZA-KZN,uMuziwabantu,乌穆西瓦巴恩图,-30.57643,29.88401,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/997861/,uMuziwabantu；辖内居民点代表点 Harding
+csc:131227,KZN216,ZA-KZN,Ray Nkonyeni,谢普斯敦港,-30.74137,30.45499,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/964406/,Ray Nkonyeni；名录同名或驻地居民点 Port Shepstone
+za:KZN221,KZN221,ZA-KZN,uMshwathi,乌姆斯瓦蒂,-29.39967,30.54276,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/11204578/,uMshwathi；辖内居民点代表点 Trust Feed
+za:KZN222,KZN222,ZA-KZN,uMngeni,乌姆恩赫尼,-29.47795,30.23057,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/995202/,uMngeni；辖内居民点代表点 Howick
+za:KZN223,KZN223,ZA-KZN,Mpofana,姆波法纳,-29.20824,29.9946,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/974222/,Mpofana；辖内居民点代表点 Mooi River
+za:KZN224,KZN224,ZA-KZN,Impendle,伊姆佩恩德莱,-29.60049,29.86561,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/994883/,Impendle；名录同名或驻地居民点 Impendle
+csc:131218,KZN225,ZA-KZN,Msunduzi,姆孙杜齐,-29.61679,30.39278,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/965301/,Msunduzi；名录同名或驻地居民点 Pietermaritzburg
+za:KZN226,KZN226,ZA-KZN,Mkhambathini,姆卡姆巴蒂尼,-29.72868,30.54256,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/1014180/,Mkhambathini；辖内居民点代表点 Camperdown
+za:KZN227,KZN227,ZA-KZN,Richmond,里士满,-29.87196,30.27235,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/962330/,Richmond；名录同名或驻地居民点 Richmond
+za:KZN235,KZN235,ZA-KZN,Okhahlamba,奥卡拉姆巴,-28.73122,29.35187,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/1019933/,Okhahlamba；辖内居民点代表点 Bergville
+za:KZN237,KZN237,ZA-KZN,Inkosi Langalibalele,伊恩科西拉恩加利巴莱莱,-29.01269,29.86619,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/1004962/,Inkosi Langalibalele；辖内居民点代表点 Estcourt
+za:KZN238,KZN238,ZA-KZN,Alfred Duma,阿尔夫雷德杜马,-28.55874,29.77896,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/984998/,Alfred Duma；辖内居民点代表点 Ladysmith
+za:KZN241,KZN241,ZA-KZN,Endumeni,埃恩杜梅尼,-28.16678,30.23371,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/1007400/,Endumeni；辖内居民点代表点 Dundee
+za:KZN242,KZN242,ZA-KZN,Nquthu,恩库图,-28.21216,30.67542,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/969454/,Nquthu；名录同名或驻地居民点 Nqutu
+za:KZN244,KZN244,ZA-KZN,Msinga,姆西恩加,-28.55393,30.42642,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/964599/,Msinga；辖内居民点代表点 Solomon Linda
+za:KZN245,KZN245,ZA-KZN,Umvoti,乌姆博蒂,-29.15,30.75,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/946038/,Umvoti；名录同名或驻地居民点 Umvoti
+za:KZN252,KZN252,ZA-KZN,Newcastle,纽卡斯尔,-27.75796,29.9318,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/971421/,Newcastle；名录同名或驻地居民点 Newcastle
+za:KZN253,KZN253,ZA-KZN,Emadlangeni,埃马德拉恩赫尼,-27.65862,30.32166,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/945813/,Emadlangeni；辖内居民点代表点 Utrecht
+za:KZN254,KZN254,ZA-KZN,Dannhauser,达恩纳乌塞尔,-28.0151,30.05658,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/1011881/,Dannhauser；名录同名或驻地居民点 Dannhauser
+za:KZN261,KZN261,ZA-KZN,eDumbe,埃杜姆贝,-27.42426,30.81689,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/966060/,eDumbe；辖内居民点代表点 Paulpietersburg
+za:KZN262,KZN262,ZA-KZN,uPhongolo,乌福恩戈洛,-27.37808,31.61904,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/964574/,uPhongolo；辖内居民点代表点 Pongola
+za:KZN263,KZN263,ZA-KZN,Abaqulusi,阿巴库卢西,-27.76952,30.79165,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/942470/,Abaqulusi；辖内居民点代表点 Vryheid
+za:KZN265,KZN265,ZA-KZN,Nongoma,诺恩戈马,-27.90968,31.64817,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/970133/,Nongoma；名录同名或驻地居民点 Nongoma
+za:KZN266,KZN266,ZA-KZN,Ulundi,乌伦迪,-28.33523,31.41617,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/946257/,Ulundi；名录同名或驻地居民点 Ulundi
+za:KZN271,KZN271,ZA-KZN,Umhlabuyalingana,乌姆拉布亚利恩加纳,-26.99096,32.75102,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/979405/,Umhlabuyalingana；辖内居民点代表点 Manguzi
+za:KZN272,KZN272,ZA-KZN,Jozini,霍西尼,-27.4296,32.06658,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/993568/,Jozini；名录同名或驻地居民点 Jozini
+za:KZN275,KZN275,ZA-KZN,Mtubatuba,姆图巴图巴,-28.41789,32.18483,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/972803/,Mtubatuba；名录同名或驻地居民点 Mtubatuba
+za:KZN276,KZN276,ZA-KZN,Hlabisa Big Five,拉比萨比格菲贝,-28.01895,32.26762,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/996256/,Hlabisa Big Five；辖内居民点代表点 Hluhluwe
+za:KZN281,KZN281,ZA-KZN,Mfolozi,姆福洛西,-28.48805,32.16919,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/976718/,Mfolozi；名录同名或驻地居民点 Mfolozi
+za:KZN282,KZN282,ZA-KZN,uMhlathuze,乌姆拉图塞,-28.78301,32.03768,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/962367/,uMhlathuze；辖内居民点代表点 Richards Bay
+za:KZN284,KZN284,ZA-KZN,uMlalazi,乌姆拉拉西,-28.95657,31.75431,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/972787/,uMlalazi；名录同名或驻地居民点 Mtunzini
+za:KZN285,KZN285,ZA-KZN,Mthonjaneni,姆托恩哈内尼,-28.58664,31.39783,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/977135/,Mthonjaneni；辖内居民点代表点 Melmoth
+za:KZN286,KZN286,ZA-KZN,Nkandla,恩卡恩德拉,-28.6207,31.09067,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/970480/,Nkandla；名录同名或驻地居民点 Nkandla
+za:KZN291,KZN291,ZA-KZN,Mandeni,马恩德尼,-29.14691,31.41403,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/8063456/,Mandeni；名录同名或驻地居民点 Mandeni
+za:KZN292,KZN292,ZA-KZN,KwaDukuza,斯坦格,-29.32816,31.28954,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/952734/,KwaDukuza；名录同名或驻地居民点 KwaDukuza
+za:KZN293,KZN293,ZA-KZN,Ndwedwe,恩德韦德韦,-29.51686,30.92687,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/971669/,Ndwedwe；名录同名或驻地居民点 Ndwedwe
+za:KZN294,KZN294,ZA-KZN,Maphumulo,马富穆洛,-29.15878,31.06705,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/979089/,Maphumulo；辖内居民点代表点 Mapumulo
+za:KZN433,KZN433,ZA-KZN,Greater Kokstad,大科克斯塔德,-30.54723,29.42412,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/988356/,Greater Kokstad；辖内居民点代表点 Kokstad
+za:KZN434,KZN434,ZA-KZN,Johannes Phumani Phungula,约翰内斯·普马尼·蓬古拉,-30.15,30.08333,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/994418/,Johannes Phumani Phungula；名录同名或驻地居民点 Ixopo
+za:KZN435,KZN435,ZA-KZN,Umzimkhulu,乌姆西姆库卢,-30.29831,29.93772,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/1013199/,Umzimkhulu；辖内居民点代表点 Clydesdale
+za:KZN436,KZN436,ZA-KZN,Dr Nkosazana Dlamini Zuma,博士恩科萨萨纳德拉米尼苏马,-29.74675,29.51361,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/996409/,Dr Nkosazana Dlamini Zuma；辖内居民点代表点 Himeville
+za:LIM331,LIM331,ZA-LP,Greater Giyani,大希亚尼,-23.30246,30.71868,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/1001860/,Greater Giyani；辖内居民点代表点 Giyani
+za:LIM332,LIM332,ZA-LP,Greater Letaba,大莱塔巴,-23.69339,30.14002,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/1007514/,Greater Letaba；辖内居民点代表点 Duiwelskloof
+za:LIM333,LIM333,ZA-LP,Greater Tzaneen,大特萨内埃恩,-23.83322,30.16351,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/946973/,Greater Tzaneen；辖内居民点代表点 Tzaneen
+za:LIM334,LIM334,ZA-LP,Ba-Phalaborwa,巴法拉博尔瓦,-23.94299,31.14107,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/965528/,Ba-Phalaborwa；辖内居民点代表点 Phalaborwa
+za:LIM335,LIM335,ZA-LP,Maruleng,马鲁莱恩格,-24.35122,30.95332,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/996195/,Maruleng；辖内居民点代表点 Hoedspruit
+za:LIM341,LIM341,ZA-LP,Musina,穆西纳,-22.34881,30.04074,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/8030223/,Musina；名录同名或驻地居民点 Musina
+za:LIM343,LIM343,ZA-LP,Thulamela,图拉梅拉,-22.94564,30.48497,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/949224/,Thulamela；辖内居民点代表点 Thohoyandou
+za:LIM344,LIM344,ZA-LP,Makhado,马卡多,-23.04385,29.90319,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/981827/,Makhado；名录同名或驻地居民点 Louis Trichardt
+za:LIM345,LIM345,ZA-LP,Collins Chabane,科伊恩斯卡巴内,-22.97111,30.67361,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/11282157/,Collins Chabane；辖内居民点代表点 Malamulele
+za:LIM351,LIM351,ZA-LP,Blouberg,布洛乌贝尔格,-23.13944,28.99797,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/1018560/,Blouberg；名录同名或驻地居民点 Blouberg
+za:LIM353,LIM353,ZA-LP,Molemole,莫莱莫莱,-23.36669,29.32371,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/1010967/,Molemole；辖内居民点代表点 Dendron
+csc:131223,LIM354,ZA-LP,Polokwane,波洛夸内,-23.90449,29.46885,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/965289/,Polokwane；名录同名或驻地居民点 Polokwane
+za:LIM355,LIM355,ZA-LP,Lepelle-Nkumpi,莱佩耶恩库姆皮,-24.31457,29.50078,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/12718813/,Lepelle-Nkumpi；辖内居民点代表点 Lebowakgomo
+za:LIM361,LIM361,ZA-LP,Thabazimbi,塔巴津比,-24.59165,27.41155,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/949683/,Thabazimbi；名录同名或驻地居民点 Thabazimbi
+za:LIM362,LIM362,ZA-LP,Lephalale,莱法拉莱,-23.66607,27.74477,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/7730334/,Lephalale；名录同名或驻地居民点 Lephalale
+za:LIM366,LIM366,ZA-LP,Bela Bela,贝拉贝拉,-24.885,28.29417,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/7576313/,Bela Bela；名录同名或驻地居民点 Bela-Bela
+za:LIM367,LIM367,ZA-LP,Mogalakwena,莫加拉奎纳,-23.87422,28.6957,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/974981/,Mogalakwena；名录同名或驻地居民点 Mogalakwena
+za:LIM368,LIM368,ZA-LP,Modimolle-Mookgopong,莫迪莫耶莫奥克戈波恩格,-24.7,28.4,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/968665/,Modimolle-Mookgopong；辖内居民点代表点 Modimolle
+za:LIM471,LIM471,ZA-LP,Ephraim Mogale,埃夫拉伊姆莫加莱,-24.96627,29.29068,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/978944/,Ephraim Mogale；辖内居民点代表点 Marble Hall
+za:LIM472,LIM472,ZA-LP,Elias Motsoaledi,埃利阿斯莫特索阿莱迪,-25.16843,29.39412,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/999964/,Elias Motsoaledi；辖内居民点代表点 Groblersdal
+za:LIM473,LIM473,ZA-LP,Makhuduthamaga,马库杜塔马加,-24.76021,29.86993,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/994037/,Makhuduthamaga；辖内居民点代表点 Jane Furse
+za:LIM476,LIM476,ZA-LP,Tubatse Fetakgomo,图巴特塞费塔克戈莫,-24.67554,30.32877,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/1014650/,Tubatse Fetakgomo；辖内居民点代表点 Burgersfort
+csc:131038,MAN,ZA-FS,Bloemfontein,布隆方丹,-29.12107,26.214,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/1018725/,Mangaung；名录同名或驻地居民点 Bloemfontein
+za:MP301,MP301,ZA-MP,Albert Luthuli,阿尔贝尔特卢图利,-26.06927,30.11489,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/1014012/,Albert Luthuli；辖内居民点代表点 Carolina
+za:MP302,MP302,ZA-MP,Msukaligwa,姆苏卡利格瓦,-26.53333,29.98333,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/1005125/,Msukaligwa；辖内居民点代表点 Ermelo
+za:MP303,MP303,ZA-MP,Mkhondo,姆科恩多,-27.00706,30.81323,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/965241/,Mkhondo；名录同名或驻地居民点 Piet Retief
+za:MP304,MP304,ZA-MP,Pixley Ka Seme,皮克斯利卡塞梅区政府,-27.36541,29.88175,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/943032/,Pixley Ka Seme (MP)；辖内居民点代表点 Volksrust
+csc:131263,MP305,ZA-MP,Lekwa,斯坦德顿,-26.93366,29.24152,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/952747/,Lekwa；名录同名或驻地居民点 Standerton
+za:MP306,MP306,ZA-MP,Dipaleseng,迪帕莱塞恩格,-26.66331,28.59016,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/1021396/,Dipaleseng；辖内居民点代表点 Balfour
+za:MP307,MP307,ZA-MP,Govan Mbeki,戈巴恩姆贝基,-26.55,29.16667,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/956767/,Govan Mbeki；名录同名或驻地居民点 Secunda
+za:MP311,MP311,ZA-MP,Victor Khanye,比克托尔卡涅,-26.1466,28.68322,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/1011031/,Victor Khanye；名录同名或驻地居民点 Delmas
+za:MP312,MP312,ZA-MP,Emalahleni,埃马拉莱尼,-25.87133,29.23323,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/939270/,Emalahleni (MP)；名录同名或驻地居民点 Emalahleni
+csc:131175,MP313,ZA-MP,Steve Tshwete,米德尔堡,-25.77507,29.46482,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/976361/,Steve Tshwete；名录同名或驻地居民点 Middelburg
+za:MP314,MP314,ZA-MP,Emakhazeni,贝尔法斯特,-25.68991,30.03504,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/1020340/,Emakhazeni；辖内居民点代表点 Belfast
+za:MP315,MP315,ZA-MP,Thembisile Hani,特姆比西莱阿尼,-25.32729,28.94224,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/985885/,Thembisile Hani；名录同名或驻地居民点 Kwaggafontein
+za:MP316,MP316,ZA-MP,Dr J.S. Moroka,博士斯莫罗卡,-25.11319,29.04454,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/955313/,Dr J.S. Moroka；辖内居民点代表点 Siyabuswa
+za:MP321,MP321,ZA-MP,Thaba Chweu,塔巴奎乌,-25.09598,30.44393,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/981158/,Thaba Chweu；辖内居民点代表点 Lydenburg
+za:MP324,MP324,ZA-MP,Nkomazi,恩科马西,-25.67031,31.86288,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/11204695/,Nkomazi；辖内居民点代表点 Kamaqhekeza
+za:MP325,MP325,ZA-MP,Bushbuckridge,布斯布克克里德赫,-24.83599,31.06718,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/1017354/,Bushbuckridge；名录同名或驻地居民点 Bosbokrand
+csc:131198,MP326,ZA-MP,City of Mbombela,姆博贝拉市,-25.47512,30.96935,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/971534/,City of Mbombela；名录同名或驻地居民点 Mbombela
+za:NC061,NC061,ZA-NC,Richtersveld,里克特尔斯贝尔德,-28.59608,16.48535,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/3370511/,Richtersveld；辖内居民点代表点 Alexander Bay
+za:NC062,NC062,ZA-NC,Nama Khoi,纳马科伊,-29.66434,17.8865,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/3361142/,Nama Khoi；辖内居民点代表点 Springbok
+za:NC064,NC064,ZA-NC,Kamiesberg,卡米埃斯贝尔格,-30.56223,17.98905,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/3367786/,Kamiesberg；辖内居民点代表点 Garies
+za:NC065,NC065,ZA-NC,Hantam,阿恩塔姆,-31.47069,19.77601,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/3369174/,Hantam；辖内居民点代表点 Calvinia
+za:NC066,NC066,ZA-NC,Karoo Hoogland,卡罗奥奥奥格拉恩德,-31.34048,20.91544,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/939702/,Karoo Hoogland；辖内居民点代表点 Williston
+za:NC067,NC067,ZA-NC,Khai-Ma,卡伊马,-29.1283,19.39492,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/3362755/,Khai-Ma；辖内居民点代表点 Pofadder
+za:NC071,NC071,ZA-NC,Ubuntu,乌布恩图,-31.40364,23.11461,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/944024/,Ubuntu；辖内居民点代表点 Victoria West
+za:NC072,NC072,ZA-NC,Umsobomvu,乌姆索博姆布,-30.71999,25.09718,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/1013076/,Umsobomvu；辖内居民点代表点 Colesberg
+za:NC073,NC073,ZA-NC,Emthanjeni,埃姆塔恩赫尼,-30.64966,24.0123,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/1011632/,Emthanjeni；辖内居民点代表点 De Aar
+za:NC074,NC074,ZA-NC,Kareeberg,卡雷埃贝尔格,-30.96827,22.13303,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/1014034/,Kareeberg；辖内居民点代表点 Carnarvon
+za:NC075,NC075,ZA-NC,Renosterberg,雷诺斯特尔贝尔格,-30.43733,24.47261,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/965471/,Renosterberg；辖内居民点代表点 Philipstown
+za:NC076,NC076,ZA-NC,Thembelihle,特姆贝利莱,-29.81381,24.41205,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/967542/,Thembelihle；辖内居民点代表点 Orania
+za:NC077,NC077,ZA-NC,Siyathemba,西亚特姆巴,-29.66803,22.74251,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/964090/,Siyathemba；名录同名或驻地居民点 Prieska
+za:NC078,NC078,ZA-NC,Siyancuma,西亚恩库马,-29.05531,23.7743,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/1008612/,Siyancuma；辖内居民点代表点 Douglas
+za:NC082,NC082,ZA-NC,!Kai! Garib,卡伊加里布,-28.77341,20.6147,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/993014/,!Kai! Garib；辖内居民点代表点 Kakamas
+za:NC084,NC084,ZA-NC,!Kheis,凯伊斯,-28.56402,21.74656,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/12718853/,!Kheis；辖内居民点代表点 Grootdrink
+za:NC085,NC085,ZA-NC,Tsantsabane,特萨恩特萨巴内,-28.33392,23.06541,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/964363/,Tsantsabane；辖内居民点代表点 Postmasburg
+za:NC086,NC086,ZA-NC,Kgatelopele,克加特洛佩莱,-28.18873,23.53951,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/1011918/,Kgatelopele；辖内居民点代表点 Daniëlskuil
+csc:131281,NC087,ZA-NC,Dawid Kruiper,乌平通,-28.44776,21.25612,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/945945/,Dawid Kruiper；名录同名或驻地居民点 Upington
+csc:131140,NC091,ZA-NC,Sol Plaatje,索尔普拉特耶,-28.73226,24.76232,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/990930/,Sol Plaatje；名录同名或驻地居民点 Kimberley
+za:NC092,NC092,ZA-NC,Dikgatlong,迪克加特洛恩格,-28.53537,24.52151,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/1021040/,Dikgatlong；辖内居民点代表点 Barkly West
+za:NC093,NC093,ZA-NC,Magareng,马加雷恩格,-28.11396,24.84753,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/941931/,Magareng；辖内居民点代表点 Warrenton
+za:NC094,NC094,ZA-NC,Phokwane,福夸内,-27.78324,24.68768,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/966380/,Phokwane；辖内居民点代表点 Pampierstad
+za:NC451,NC451,ZA-NC,Joe Morolong,霍埃莫罗洛恩格,-26.49494,22.27877,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/999532/,Joe Morolong；辖内居民点代表点 Grootdrink
+za:NC452,NC452,ZA-NC,Ga-Segonyana,加塞戈尼亚纳,-27.46353,23.43552,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/986134/,Ga-Segonyana；辖内居民点代表点 Kuruman
+za:NC453,NC453,ZA-NC,Gamagara,加马加拉,-27.69569,23.04929,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/991664/,Gamagara；辖内居民点代表点 Kathu
+csc:131225,NMA,ZA-EC,Gqeberha,格贝哈,-33.96109,25.61494,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/964420/,Nelson Mandela Bay；名录同名或驻地居民点 Gqeberha
+za:NW371,NW371,ZA-NW,Moretele,莫雷特莱,-25.32264,28.28964,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/12718845/,Moretele；辖内居民点代表点 Carousel View
+csc:131050,NW372,ZA-NW,Madibeng,布里茨,-25.63473,27.78022,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/1015621/,Madibeng；名录同名或驻地居民点 Brits
+csc:131247,NW373,ZA-NW,Rustenburg,勒斯滕堡,-25.66756,27.24208,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/958724/,Rustenburg；名录同名或驻地居民点 Rustenburg
+za:NW374,NW374,ZA-NW,Kgetlengrivier,克赫特莱恩格里比埃尔,-25.86301,26.89756,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/987648/,Kgetlengrivier；辖内居民点代表点 Koster
+za:NW375,NW375,ZA-NW,Moses Kotane,莫塞斯科塔内,-25.27748,27.21605,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/974932/,Moses Kotane；名录同名或驻地居民点 Mogwase
+za:NW381,NW381,ZA-NW,Ratlou,拉特洛乌,-26.5,25.15,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/998483/,Ratlou；辖内居民点代表点 Madibogo Pan
+za:NW382,NW382,ZA-NW,Tswaing,特斯瓦伊恩格,-26.68638,25.45907,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/1011062/,Tswaing；辖内居民点代表点 Delareyville
+za:NW383,NW383,ZA-NW,Mafikeng,马菲凯恩格,-25.86522,25.64421,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/980595/,Mafikeng；名录同名或驻地居民点 Mafikeng
+za:NW384,NW384,ZA-NW,Ditsobotla,迪特索博特拉,-26.152,26.15968,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/982899/,Ditsobotla；辖内居民点代表点 Lichtenburg
+za:NW385,NW385,ZA-NW,Ramotshere Moiloa,拉莫特塞雷莫伊洛阿,-25.53695,26.07512,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/937136/,Ramotshere Moiloa；辖内居民点代表点 Zeerust
+za:NW392,NW392,ZA-NW,Naledi,纳莱迪,-26.95659,24.7284,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/942511/,Naledi (NW)；辖内居民点代表点 Vryburg
+za:NW393,NW393,ZA-NW,Mamusa,马穆萨,-27.18871,25.32931,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/956907/,Mamusa；辖内居民点代表点 Schweizer-Reneke
+za:NW394,NW394,ZA-NW,Greater Taung,大塔乌恩格,-27.56543,24.18493,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/12718842/,Greater Taung；辖内居民点代表点 Boipelo
+za:NW396,NW396,ZA-NW,Lekwa-Teemane,莱夸特埃马内,-27.91402,25.16111,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/1013550/,Lekwa-Teemane；辖内居民点代表点 Christiana
+za:NW397,NW397,ZA-NW,Kagisano-Molopo,卡希萨诺莫洛波,-25.8156,23.52442,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/964596/,Kagisano-Molopo；辖内居民点代表点 Pomfret
+csc:131142,NW403,ZA-NW,City of Matlosana,马特洛萨纳市,-26.85213,26.66672,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/989921/,City of Matlosana；名录同名或驻地居民点 Klerksdorp
+za:NW404,NW404,ZA-NW,Maquassi Hills,马库阿斯西伊伊斯,-27.1974,25.98311,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/938457/,Maquassi Hills；辖内居民点代表点 Wolmaransstad
+za:NW405,NW405,ZA-NW,J B Marks,布马尔克斯,-26.71667,27.1,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/964349/,J B Marks；名录同名或驻地居民点 Potchefstroom
+csc:131230,TSH,ZA-GP,Pretoria,比勒陀利亚,-25.74486,28.18783,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/964137/,City of Tshwane；名录同名或驻地居民点 Pretoria
+za:WC011,WC011,ZA-WC,Matzikama,马特西卡马,-31.66833,18.50119,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/3359736/,Matzikama；辖内居民点代表点 Vredendal
+za:WC012,WC012,ZA-WC,Cederberg,塞德尔贝尔格,-32.18173,18.89217,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/3369100/,Cederberg；名录同名或驻地居民点 Clanwilliam
+za:WC013,WC013,ZA-WC,Bergrivier,贝尔格里比埃尔,-32.90323,18.75704,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/3362870/,Bergrivier；名录同名或驻地居民点 Piketberg
+za:WC014,WC014,ZA-WC,Saldanha Bay,萨尔达纳湾,-32.90719,17.98997,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/3359741/,Saldanha Bay；名录同名或驻地居民点 Vredenburg
+za:WC015,WC015,ZA-WC,Swartland,斯瓦尔特拉恩德,-33.4608,18.72714,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/3364346/,Swartland；名录同名或驻地居民点 Malmesbury
+za:WC022,WC022,ZA-WC,Witzenberg,维特塞恩贝尔格,-33.36889,19.31095,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/3369129/,Witzenberg；名录同名或驻地居民点 Ceres
+csc:131212,WC023,ZA-WC,Drakenstein,德拉肯斯坦,-33.73378,18.97523,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/3363094/,Drakenstein；名录同名或驻地居民点 Paarl
+csc:131264,WC024,ZA-WC,Stellenbosch,斯泰伦博斯,-33.93462,18.86676,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/3361025/,Stellenbosch；名录同名或驻地居民点 Stellenbosch
+csc:131313,WC025,ZA-WC,Breede Valley,伍斯特,-33.64651,19.44852,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/3359041/,Breede Valley；名录同名或驻地居民点 Worcester
+za:WC026,WC026,ZA-WC,Langeberg,拉恩赫贝尔格,-33.80342,19.88537,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/3362349/,Langeberg；名录同名或驻地居民点 Robertson
+za:WC031,WC031,ZA-WC,Theewaterskloof,特埃瓦特尔斯克洛奥夫,-34.22997,19.4265,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/3369179/,Theewaterskloof；名录同名或驻地居民点 Caledon
+za:WC032,WC032,ZA-WC,Overstrand,奥贝尔斯特拉恩德,-34.4187,19.23446,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/3366880/,Overstrand；名录同名或驻地居民点 Hermanus
+za:WC033,WC033,ZA-WC,Cape Agulhas,角阿古拉斯,-34.53215,20.04031,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/1015776/,Cape Agulhas；名录同名或驻地居民点 Bredasdorp
+za:WC034,WC034,ZA-WC,Swellendam,斯韦伦丹,-34.02262,20.44171,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/950709/,Swellendam；名录同名或驻地居民点 Swellendam
+za:WC041,WC041,ZA-WC,Kannaland,卡恩纳拉恩德,-33.49331,21.26755,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/985020/,Kannaland；辖内居民点代表点 Ladismith
+za:WC042,WC042,ZA-WC,Hessequa,埃斯塞库阿,-34.09345,21.25725,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/961152/,Hessequa；名录同名或驻地居民点 Riversdale
+za:WC043,WC043,ZA-WC,Mossel Bay,莫塞尔湾,-34.18307,22.14605,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/973709/,Mossel Bay；名录同名或驻地居民点 Mossel Bay
+csc:131115,WC044,ZA-WC,George,乔治,-33.963,22.46173,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/1002145/,George；名录同名或驻地居民点 George
+csc:131210,WC045,ZA-WC,Oudtshoorn,奥茨胡恩,-33.60047,22.19955,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/967106/,Oudtshoorn；名录同名或驻地居民点 Oudtshoorn
+za:WC047,WC047,ZA-WC,Bitou,比托乌,-34.05274,23.3716,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/964712/,Bitou；名录同名或驻地居民点 Plettenberg Bay
+csc:131143,WC048,ZA-WC,Knysna,克尼斯纳,-34.03627,23.04713,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/988698/,Knysna；名录同名或驻地居民点 Knysna
+za:WC051,WC051,ZA-WC,Laingsburg,拉伊恩格斯布尔格,-33.19495,20.85872,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/984962/,Laingsburg；名录同名或驻地居民点 Laingsburg
+za:WC052,WC052,ZA-WC,Prince Albert,艾伯特亲王镇,-33.22476,22.02673,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/964078/,Prince Albert；名录同名或驻地居民点 Prince Albert
+za:WC053,WC053,ZA-WC,Beaufort West,西博福特,-32.35671,22.58295,https://municipaldata.treasury.gov.za/api/cubes/incexp/members/demarcation,https://www.geonames.org/1020641/,Beaufort West；名录同名或驻地居民点 Beaufort West

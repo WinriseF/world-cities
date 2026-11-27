@@ -1,0 +1,10 @@
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+SELECT DISTINCT ?city ?zh WHERE {
+  VALUES ?type { wd:Q104157 wd:Q110076100 wd:Q110390579 wd:Q110571169 wd:Q117214267 wd:Q11870638 wd:Q12131624 wd:Q123440126 wd:Q130626256 wd:Q132172722 wd:Q133283077 wd:Q13455645 wd:Q1381899 wd:Q15141632 wd:Q15273785 wd:Q1549591 wd:Q15647906 wd:Q200250 wd:Q208511 wd:Q22865 wd:Q25412763 wd:Q262882 wd:Q28659128 wd:Q29045252 wd:Q29556224 wd:Q3199141 wd:Q34986717 wd:Q3559227 wd:Q37800986 wd:Q5119 wd:Q515 wd:Q54935504 wd:Q5770918 wd:Q63208468 wd:Q63208555 wd:Q63209072 wd:Q828658 }
+  ?city wdt:P31 ?type .
+  FILTER NOT EXISTS { ?city wdt:P576 ?dissolved }
+  OPTIONAL { ?city rdfs:label ?zh FILTER(LANG(?zh) = "zh") }
+}
+ORDER BY ?city

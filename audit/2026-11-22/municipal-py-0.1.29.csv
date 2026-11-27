@@ -1,0 +1,264 @@
+district_code,department_source_code,region,inec_name,source_point_name,en,zh,id,latitude,longitude,point_source
+PY0000,PY00,PY-ASU,Asunción,Asunción,Asunción,亚松森,wd:Q2933,-25.2857021,-57.6005554,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0101,PY01,PY-1,Concepción,Concepción,Concepción,康塞普西翁,csc:89755,-23.419787,-57.4379765,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0102,PY01,PY-1,Belén,Belén,Belén,贝伦,py:district:0102,-23.4698457,-57.2614128,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0103,PY01,PY-1,Horqueta,Horqueta,Horqueta,奥尔克塔,py:district:0103,-23.3427872,-57.0523997,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0104,PY01,PY-1,Loreto,Loreto,Loreto,洛雷托,py:district:0104,-23.2753414,-57.3275086,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0105,PY01,PY-1,San Carlos del Apa,San Carlos del Apa,San Carlos del Apa,阿帕河畔圣卡洛斯,py:district:0105,-22.2456904,-57.2895778,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0106,PY01,PY-1,San Lázaro,San Lázaro,San Lázaro,圣拉萨罗,py:district:0106,-22.1081917,-57.9624055,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0107,PY01,PY-1,Yby Yaú,Yby Yaú,Yby Yaú,伊比亚乌,py:district:0107,-22.9701462,-56.5370188,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0108,PY01,PY-1,Azote'y,Azote'y,Azote'y,阿索特伊,py:district:0108,-23.3124135,-56.4870042,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0109,PY01,PY-1,Sargento José Félix López,Sargento José Félix López,Sargento José Félix López,何塞费利克斯洛佩斯中士镇,py:district:0109,-22.382886,-56.9292259,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0110,PY01,PY-1,San Alfredo,San Alfredo,San Alfredo,圣阿尔弗雷多,py:district:0110,-22.8833142,-57.4042829,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0111,PY01,PY-1,Paso Barreto,Paso Barreto,Paso Barreto,帕索瓦雷托,py:district:0111,-23.046731,-57.1201336,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0112,PY01,PY-1,Arroyito,Arroyito,Arroyito,阿罗约伊托,py:district:0112,-23.1744266,-56.7753632,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0113,PY01,PY-1,Paso Horqueta,Paso Horqueta,Paso Horqueta,帕索奥尔克塔,py:district:0113,-23.0831554,-57.3816185,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0114,PY01,PY-1,Itacuá,Itacuá,Itacuá,伊塔夸,py:district:0114,-22.4855232,-57.8393272,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0201,PY02,PY-2,San Pedro del Ycuamandyyú,San Pedro del Ycuamandyyú,San Pedro de Ycuamandiyú,伊夸曼迪尤圣佩德罗,csc:89831,-24.0898221,-57.0798399,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0202,PY02,PY-2,Antequera,Antequera,Antequera,安特克拉,py:district:0202,-24.0831128,-57.2007771,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0203,PY02,PY-2,Choré,Choré,Choré,乔雷,py:district:0203,-24.1865782,-56.5853182,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0204,PY02,PY-2,General Elizardo Aquino,General Elizardo Aquino,General Elizardo Aquino,埃利萨尔多阿基诺将军镇,py:district:0204,-24.4465596,-56.8992647,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0205,PY02,PY-2,Itacurubí del Rosario,Itacurubí del Rosario,Itacurubí del Rosario,罗萨里奥伊塔库鲁比,py:district:0205,-24.534225,-56.8234605,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0206,PY02,PY-2,Lima,Lima,Lima,利马,py:district:0206,-23.8849802,-56.4788531,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0207,PY02,PY-2,Nueva Germania,Nueva Germania,Nueva Germania,新赫尔马尼亚,py:district:0207,-23.916991,-56.7020512,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0208,PY02,PY-2,San Estanislao,San Estanislao,San Estanislao,圣埃斯塔尼斯劳,py:district:0208,-24.6648084,-56.4476623,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0209,PY02,PY-2,San Pablo,San Pablo,San Pablo,圣巴勃罗,py:district:0209,-24.1054756,-56.8648613,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0210,PY02,PY-2,Tacuatí,Tacuatí,Tacuatí,塔夸蒂,py:district:0210,-23.4639713,-56.7380794,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0211,PY02,PY-2,Unión,Unión,Unión,乌尼翁,py:district:0211,-24.8091215,-56.5210779,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0212,PY02,PY-2,25 de Diciembre,25 de Diciembre,25 de Diciembre,十二月二十五日镇,py:district:0212,-24.8131844,-56.7264326,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0213,PY02,PY-2,Villa del Rosario,Villa del Rosario,Villa del Rosario,比利亚德尔罗萨里奥,py:district:0213,-24.4275988,-57.1258835,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0214,PY02,PY-2,General Francisco Isidoro Resquín,General Francisco Isidoro Resquín,General Francisco Isidoro Resquín,弗朗西斯科伊西多罗雷斯金将军镇,py:district:0214,-24.0661246,-56.4443422,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0215,PY02,PY-2,Yataity del Norte,Yataity del Norte,Yataity del Norte,北亚泰蒂,py:district:0215,-24.8469564,-56.3545817,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0216,PY02,PY-2,Guajayvi,Guajayvi,Guajayvi,瓜哈伊维,py:district:0216,-24.53492,-56.4035875,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0217,PY02,PY-2,Capiibary,Capiibary,Capiibary,卡皮伊瓦里,py:district:0217,-24.7299325,-56.0212742,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0218,PY02,PY-2,Santa Rosa del Aguaray,Santa Rosa del Aguaray,Santa Rosa del Aguaray,阿瓜赖河畔圣罗萨,py:district:0218,-23.8272899,-56.5215574,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0219,PY02,PY-2,Yrybucua,Yrybucua,Yrybucua,伊里武夸,py:district:0219,-24.4803413,-56.0845994,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0220,PY02,PY-2,Liberación,Liberación,Liberación,利韦拉西翁,py:district:0220,-24.1983549,-56.4352676,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0221,PY02,PY-2,San Vicente Pancholo,San Vicente Pancholo,San Vicente Pancholo,圣比森特潘乔洛,py:district:0221,-24.0054246,-56.1328767,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0222,PY02,PY-2,San José del Rosario,San José del Rosario,San José del Rosario,罗萨里奥圣何塞,py:district:0222,-24.2680388,-56.9053139,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0301,PY03,PY-3,Caacupé,Caacupé,Caacupé,卡阿库佩,py:district:0301,-25.3877074,-57.1471245,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0302,PY03,PY-3,Altos,Altos,Altos,阿尔托斯,py:district:0302,-25.2642723,-57.2491024,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0303,PY03,PY-3,Arroyos y Esteros,Arroyos y Esteros,Arroyos y Esteros,阿罗约斯和埃斯特罗斯,py:district:0303,-25.0544593,-57.0960102,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0304,PY03,PY-3,Atyrá,Atyrá,Atyrá,阿蒂拉,py:district:0304,-25.2901607,-57.1732163,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0305,PY03,PY-3,Caraguatay,Caraguatay,Caraguatay,卡拉瓜泰,py:district:0305,-25.2387474,-56.8285131,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0306,PY03,PY-3,Emboscada,Emboscada,Emboscada,恩沃斯卡达,py:district:0306,-25.1241954,-57.3478904,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0307,PY03,PY-3,Eusebio Ayala,Eusebio Ayala,Eusebio Ayala,欧塞维奥阿亚拉,py:district:0307,-25.3904187,-56.9597451,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0308,PY03,PY-3,Isla Pucú,Isla Pucú,Isla Pucú,伊斯拉普库,py:district:0308,-25.3144026,-56.9015719,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0309,PY03,PY-3,Itacurubí de la Cordillera,Itacurubí de la Cordillera,Itacurubí de la Cordillera,科迪勒拉伊塔库鲁比,py:district:0309,-25.4626716,-56.8512251,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0310,PY03,PY-3,Juan de Mena,Juan de Mena,Juan de Mena,胡安德梅纳,py:district:0310,-24.9548798,-56.7680956,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0311,PY03,PY-3,Loma Grande,Loma Grande,Loma Grande,洛马格兰德,py:district:0311,-25.1773987,-57.2333067,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0312,PY03,PY-3,Mbocayaty del Yhaguy,Mbocayaty del Yhaguy,Mbocayaty del Yhaguy,伊阿圭河畔姆沃卡亚蒂,py:district:0312,-25.3457749,-56.7264738,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0313,PY03,PY-3,Nueva Colombia,Nueva Colombia,Nueva Colombia,新哥伦比亚,py:district:0313,-25.1893689,-57.3040632,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0314,PY03,PY-3,Piribebuy,Piribebuy,Piribebuy,皮里韦武伊,py:district:0314,-25.4639559,-57.0457244,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0315,PY03,PY-3,Primero de Marzo,Primero de Marzo,Primero de Marzo,三月一日镇,py:district:0315,-25.1532976,-56.9285197,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0316,PY03,PY-3,San Bernardino,San Bernardino,San Bernardino,圣贝纳迪诺,py:district:0316,-25.3145835,-57.2992198,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0317,PY03,PY-3,Santa Elena,Santa Elena,Santa Elena,圣埃莱娜,py:district:0317,-25.4152159,-56.7980294,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0318,PY03,PY-3,Tobatí,Tobatí,Tobatí,托瓦蒂,py:district:0318,-25.2628041,-57.0840779,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0319,PY03,PY-3,Valenzuela,Valenzuela,Valenzuela,巴伦苏埃拉,py:district:0319,-25.5932987,-56.8717077,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0320,PY03,PY-3,San José Obrero,San José Obrero,San José Obrero,圣何塞奥夫雷罗,py:district:0320,-25.1778244,-56.9158154,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0401,PY04,PY-4,Villarrica,Villarrica,Villarrica,比利亚里卡,py:district:0401,-25.7824792,-56.4484922,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0402,PY04,PY-4,Borja,Borja,Borja,博尔哈,py:district:0402,-25.9513332,-56.4961301,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0403,PY04,PY-4,Capitán Mauricio José Troche,Capitán Mauricio José Troche,Capitán Mauricio José Troche,毛里西奥何塞特罗切上尉镇,py:district:0403,-25.6188494,-56.2775298,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0404,PY04,PY-4,Coronel Martínez,Coronel Martínez,Coronel Martínez,马丁内斯上校镇,py:district:0404,-25.7647815,-56.6214857,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0405,PY04,PY-4,Félix Pérez Cardozo,Félix Pérez Cardozo,Félix Pérez Cardozo,费利克斯佩雷斯卡多索,py:district:0405,-25.7460873,-56.5221694,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0406,PY04,PY-4,Gral. Eugenio A. Garay,Gral. Eugenio A. Garay,Gral. Eugenio A. Garay,欧亨尼奥加赖将军镇,py:district:0406,-25.9663225,-56.1874462,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0407,PY04,PY-4,Independencia,Independencia,Independencia,因德彭登西亚,py:district:0407,-25.7179401,-56.2267773,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0408,PY04,PY-4,Itapé,Itapé,Itapé,伊塔佩,py:district:0408,-25.8511524,-56.6172459,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0409,PY04,PY-4,Iturbe,Iturbe,Iturbe,伊图尔韦,py:district:0409,-26.0539049,-56.4854616,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0410,PY04,PY-4,José Fassardi,José Fassardi,José Fassardi,何塞法萨尔迪,py:district:0410,-25.979319,-56.1226906,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0411,PY04,PY-4,Mbocayaty,Mbocayaty,Mbocayaty,姆沃卡亚蒂,py:district:0411,-25.7139459,-56.4061082,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0412,PY04,PY-4,Natalicio Talavera,Natalicio Talavera,Natalicio Talavera,纳塔利西奥塔拉韦拉,py:district:0412,-25.6535773,-56.3107548,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0413,PY04,PY-4,Ñumí,Ñumí,Ñumí,纽米,py:district:0413,-25.9497291,-56.3295222,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0414,PY04,PY-4,San Salvador,San Salvador,San Salvador,圣萨尔瓦多,py:district:0414,-25.9422963,-56.4719471,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0415,PY04,PY-4,Yataity,Yataity,Yataity,亚泰蒂,py:district:0415,-25.6882017,-56.4671002,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0416,PY04,PY-4,Doctor Bottrell,Doctor Bottrell,Doctor Bottrell,博特雷尔博士镇,py:district:0416,-25.6149334,-56.3398406,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0417,PY04,PY-4,Paso Yobai,Paso Yobai,Paso Yobai,帕索约瓦伊,py:district:0417,-25.7185974,-56.0052208,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0418,PY04,PY-4,Tebicuary,Tebicuary,Tebicuary,特维夸里,py:district:0418,-25.7721769,-56.6507505,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0501,PY05,PY-5,Coronel Oviedo,Coronel Oviedo,Coronel Oviedo,奥维耶多上校镇,py:district:0501,-25.4495046,-56.4436245,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0502,PY05,PY-5,Caaguazú,Caaguazú,Caaguazú,卡瓜苏,csc:89730,-25.4738026,-56.0103755,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0503,PY05,PY-5,Carayaó,Carayaó,Carayaó,卡拉亚奥,py:district:0503,-25.2002582,-56.4011869,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0504,PY05,PY-5,Dr. Cecilio Báez,Dr. Cecilio Báez,Dr. Cecilio Báez,塞西利奥巴埃斯博士镇,py:district:0504,-25.0682587,-56.2436,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0505,PY05,PY-5,Santa Rosa del Mbutuy,Santa Rosa del Mbutuy,Santa Rosa del Mbutuy,姆武图伊圣罗萨,py:district:0505,-24.9784808,-56.254673,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0506,PY05,PY-5,Dr. Juan Manuel Frutos,Dr. Juan Manuel Frutos,Dr. Juan Manuel Frutos,胡安曼努埃尔弗鲁托斯博士镇,py:district:0506,-25.3830186,-55.8334354,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0507,PY05,PY-5,Repatriación,Repatriación,Repatriación,雷帕特里亚西翁,py:district:0507,-25.5309761,-55.9946773,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0508,PY05,PY-5,Nueva Londres,Nueva Londres,Nueva Londres,新伦敦,py:district:0508,-25.4063284,-56.5492497,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0509,PY05,PY-5,San Joaquín,San Joaquín,San Joaquín,圣华金,py:district:0509,-25.0273379,-56.04529,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0510,PY05,PY-5,San José de los Arroyos,San José de los Arroyos,San José de los Arroyos,阿罗约斯圣何塞,py:district:0510,-25.5409693,-56.7318406,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0511,PY05,PY-5,Yhú,Yhú,Yhú,伊乌,py:district:0511,-25.0569388,-55.9208594,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0512,PY05,PY-5,Dr. J. Eulogio Estigarribia,Dr. J. Eulogio Estigarribia,Dr. J. Eulogio Estigarribia,欧洛希奥埃斯蒂加里维亚博士镇,py:district:0512,-25.3724678,-55.7079823,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0513,PY05,PY-5,R.i. 3 Corrales,R.i. 3 Corrales,R.I. 3 Corrales,科拉莱斯第三步兵团镇,py:district:0513,-25.343102,-56.1943775,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0514,PY05,PY-5,Raúl Arsenio Oviedo,Raúl Arsenio Oviedo,Raúl Arsenio Oviedo,劳尔阿尔塞尼奥奥维耶多,py:district:0514,-25.1949658,-55.6071949,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0515,PY05,PY-5,José Domingo Ocampos,José Domingo Ocampos,José Domingo Ocampos,何塞多明戈奥坎波斯,py:district:0515,-25.4120384,-55.42844,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0516,PY05,PY-5,Mariscal Francisco Solano López,Mariscal Francisco Solano López,Mariscal Francisco Solano López,弗朗西斯科索拉诺洛佩斯元帅镇,py:district:0516,-25.2388928,-55.0754317,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0517,PY05,PY-5,La Pastora,La Pastora,La Pastora,拉帕斯托拉,py:district:0517,-25.2467894,-56.5377656,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0518,PY05,PY-5,3 de Febrero,3 de Febrero,3 de Febrero,二月三日镇,py:district:0518,-25.2478381,-55.7789303,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0519,PY05,PY-5,Simón Bolivar,Simón Bolivar,Simón Bolívar,西蒙玻利瓦尔,py:district:0519,-25.0528617,-56.3269409,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0520,PY05,PY-5,Vaquería,Vaquería,Vaquería,巴克里亚,py:district:0520,-24.9986296,-55.8220359,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0521,PY05,PY-5,Tembiaporá,Tembiaporá,Tembiaporá,滕维亚波拉,py:district:0521,-25.3260258,-55.3799285,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0522,PY05,PY-5,Nueva Toledo,Nueva Toledo,Nueva Toledo,新托莱多,py:district:0522,-24.9727578,-55.6213618,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0601,PY06,PY-6,Caazapá,Caazapá,Caazapá,卡阿萨帕,py:district:0601,-26.1954384,-56.3695691,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0602,PY06,PY-6,Abaí,Abaí,Abaí,阿瓦伊,py:district:0602,-26.0397996,-55.9465076,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0603,PY06,PY-6,Buena Vista,Buena Vista,Buena Vista,布埃纳维斯塔,py:district:0603,-26.1870892,-56.0837215,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0604,PY06,PY-6,Dr. Moisés S. Bertoni,Dr. Moisés S. Bertoni,Dr. Moisés S. Bertoni,莫伊塞斯贝尔托尼博士镇,py:district:0604,-26.3579653,-56.4865442,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0605,PY06,PY-6,Gral. Higinio Morinigo,Gral. Higinio Morinigo,Gral. Higinio Morinigo,伊希尼奥莫里尼戈将军镇,py:district:0605,-26.0272333,-56.0853842,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0606,PY06,PY-6,Maciel,Maciel,Maciel,马谢尔,py:district:0606,-26.1822928,-56.4726792,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0607,PY06,PY-6,San Juan Nepomuceno,San Juan Nepomuceno,San Juan Nepomuceno,圣胡安内波穆塞诺,py:district:0607,-26.1104161,-55.9342243,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0608,PY06,PY-6,Tavaí,Tavaí,Tavaí,塔瓦伊,py:district:0608,-26.1798068,-55.4980188,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0609,PY06,PY-6,Yegros,Yegros,Yegros,耶格罗斯,py:district:0609,-26.4556487,-56.4036511,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0610,PY06,PY-6,Yuty,Yuty,Yuty,尤蒂,py:district:0610,-26.6139296,-56.2502452,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0611,PY06,PY-6,3 de Mayo,3 de Mayo,3 de Mayo,五月三日镇,py:district:0611,-26.4810571,-56.0961548,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0701,PY07,PY-7,Encarnación,Encarnación,Encarnación,恩卡纳西翁,csc:89763,-27.3313913,-55.8658818,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0702,PY07,PY-7,Bella Vista,Bella Vista,Bella Vista,贝利亚维斯塔,py:district:0702,-27.0490168,-55.571893,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0703,PY07,PY-7,Cambyretá,Cambyretá,Cambyretá,坎比雷塔,py:district:0703,-27.34521,-55.8301821,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0704,PY07,PY-7,Capitán Meza,Capitán Meza,Capitán Meza,梅萨上尉镇,py:district:0704,-26.8284158,-55.3352143,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0705,PY07,PY-7,Capitán Miranda,Capitán Miranda,Capitán Miranda,米兰达上尉镇,py:district:0705,-27.2188237,-55.7982127,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0706,PY07,PY-7,Nueva Alborada,Nueva Alborada,Nueva Alborada,新阿尔沃拉达,py:district:0706,-27.269203,-55.6924955,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0707,PY07,PY-7,Carmen del Paraná,Carmen del Paraná,Carmen del Paraná,巴拉那河畔卡门,py:district:0707,-27.2220835,-56.1520807,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0708,PY07,PY-7,Coronel Bogado,Coronel Bogado,Coronel Bogado,沃加多上校镇,py:district:0708,-27.1612104,-56.2408826,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0709,PY07,PY-7,Carlos Antonio López,Carlos Antonio López,Carlos Antonio López,卡洛斯安东尼奥洛佩斯,py:district:0709,-26.3991436,-54.7567918,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0710,PY07,PY-7,Natalio,Natalio,Natalio,纳塔利奥,py:district:0710,-26.7574682,-55.1296283,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0711,PY07,PY-7,Fram,Fram,Fram,弗拉姆,py:district:0711,-27.0932625,-56.0138467,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0712,PY07,PY-7,General Artigas,General Artigas,General Artigas,阿蒂加斯将军镇,py:district:0712,-26.933823,-56.2224603,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0713,PY07,PY-7,General Delgado,General Delgado,General Delgado,德尔加多将军镇,py:district:0713,-27.0907309,-56.523564,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0714,PY07,PY-7,Hohenau,Hohenau,Hohenau,霍厄瑙,py:district:0714,-27.0870105,-55.650401,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0715,PY07,PY-7,Jesús,Jesús,Jesús,赫苏斯,py:district:0715,-27.0564377,-55.7388497,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0716,PY07,PY-7,José Leandro Oviedo,José Leandro Oviedo,José Leandro Oviedo,何塞莱安德罗奥维耶多,py:district:0716,-26.7447351,-56.2790737,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0717,PY07,PY-7,Obligado,Obligado,Obligado,奥夫利加多,py:district:0717,-27.0566964,-55.6265414,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0718,PY07,PY-7,Mayor Julio Dionisio Otaño,Mayor Julio Dionisio Otaño,Mayor Julio Dionisio Otaño,胡利奥迪奥尼西奥奥塔尼奥少校镇,py:district:0718,-26.3533662,-54.7206933,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0719,PY07,PY-7,San Cosme y Damián,San Cosme y Damián,San Cosme y Damián,圣科斯梅和达米安,py:district:0719,-27.3230182,-56.3323965,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0720,PY07,PY-7,San Pedro del Paraná,San Pedro del Paraná,San Pedro del Paraná,巴拉那河畔圣佩德罗,py:district:0720,-26.8346658,-56.2081456,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0721,PY07,PY-7,San Rafael del Paraná,San Rafael del Paraná,San Rafael del Paraná,巴拉那河畔圣拉斐尔,py:district:0721,-26.5966423,-54.9953753,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0722,PY07,PY-7,Trinidad,Trinidad,Trinidad,特立尼达,py:district:0722,-27.1323591,-55.7066678,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0723,PY07,PY-7,Edelira,Edelira,Edelira,埃德利拉,py:district:0723,-26.7678085,-55.2795841,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0724,PY07,PY-7,Tomás Romero Pereira,Tomás Romero Pereira,Tomás Romero Pereira,托马斯罗梅罗佩雷拉,py:district:0724,-26.5312326,-55.2605944,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0725,PY07,PY-7,Alto Verá,Alto Verá,Alto Verá,上韦拉,py:district:0725,-26.7517549,-55.7685806,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0726,PY07,PY-7,La Paz,La Paz,La Paz,拉巴斯,py:district:0726,-26.994385,-55.8899659,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0727,PY07,PY-7,Yatytay,Yatytay,Yatytay,亚蒂泰,py:district:0727,-26.6770212,-55.0823435,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0728,PY07,PY-7,San Juan del Paraná,San Juan del Paraná,San Juan del Paraná,巴拉那河畔圣胡安,py:district:0728,-27.3027218,-55.9637578,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0729,PY07,PY-7,Pirapó,Pirapó,Pirapó,皮拉波,py:district:0729,-26.875232,-55.5430153,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0730,PY07,PY-7,Itapúa Poty,Itapúa Poty,Itapúa Poty,伊塔普阿波蒂,py:district:0730,-26.6298354,-55.5213303,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0801,PY08,PY-8,San Juan Bautista de las Misiones,Misiones,San Juan Bautista de las Misiones,米西奥内斯圣胡安包蒂斯塔,py:district:0801,-26.6693813,-57.1400037,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0802,PY08,PY-8,Ayolas,Ayolas,Ayolas,阿约拉斯,py:district:0802,-27.3771672,-56.8298195,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0803,PY08,PY-8,San Ignacio,San Ignacio,San Ignacio,圣伊格纳西奥,py:district:0803,-26.8852589,-57.0235091,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0804,PY08,PY-8,San Miguel,San Miguel,San Miguel,圣米格尔,py:district:0804,-26.5360831,-57.0393184,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0805,PY08,PY-8,San Patricio,San Patricio,San Patricio,圣帕特里西奥,py:district:0805,-26.9757048,-56.8269693,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0806,PY08,PY-8,Santa María,Santa María,Santa María,圣玛丽亚,py:district:0806,-26.7836388,-56.943632,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0807,PY08,PY-8,Santa Rosa,Santa Rosa,Santa Rosa,圣罗萨,py:district:0807,-26.8875809,-56.8532535,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0808,PY08,PY-8,Santiago,Santiago,Santiago,圣地亚哥,py:district:0808,-27.1400155,-56.7651866,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0809,PY08,PY-8,Villa Florida,Villa Florida,Villa Florida,比利亚弗洛里达,py:district:0809,-26.4110912,-57.1229918,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0810,PY08,PY-8,Yabebyry,Yabebyry,Yabebyry,亚韦维里,py:district:0810,-27.3809674,-57.1659584,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0901,PY09,PY-9,Paraguarí,Paraguarí,Paraguarí,巴拉瓜里,py:district:0901,-25.6242933,-57.1513397,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0902,PY09,PY-9,Acahay,Acahay,Acahay,阿卡艾,py:district:0902,-25.9132029,-57.1134325,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0903,PY09,PY-9,Caapucú,Caapucú,Caapucú,卡阿普库,py:district:0903,-26.232124,-57.1834457,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0904,PY09,PY-9,Caballero,Caballero,Caballero,卡瓦列罗,py:district:0904,-25.6924186,-56.8637178,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0905,PY09,PY-9,Carapeguá,Carapeguá,Carapeguá,卡拉佩瓜,py:district:0905,-25.7616395,-57.2470279,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0906,PY09,PY-9,Escobar,Escobar,Escobar,埃斯科瓦尔,py:district:0906,-25.6468424,-57.038765,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0907,PY09,PY-9,La Colmena,La Colmena,La Colmena,拉科尔梅纳,py:district:0907,-25.8853357,-56.840853,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0908,PY09,PY-9,Mbuyapey,Mbuyapey,Mbuyapey,姆武亚佩伊,py:district:0908,-26.2217139,-56.7562281,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0909,PY09,PY-9,Pirayú,Pirayú,Pirayú,皮拉尤,py:district:0909,-25.4838596,-57.2371881,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0910,PY09,PY-9,Quiindy,Quiindy,Quiindy,金迪,py:district:0910,-25.9706537,-57.2393046,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0911,PY09,PY-9,Quyquyhó,Quyquyhó,Quyquyhó,基基奥,py:district:0911,-26.2309388,-56.986313,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0912,PY09,PY-9,Roque Gonzalez de Santa Cruz,Roque Gonzalez de Santa Cruz,Roque González de Santa Cruz,罗克冈萨雷斯德圣克鲁斯,py:district:0912,-25.881283,-57.2914546,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0913,PY09,PY-9,Sapucái,Sapucái,Sapucái,萨普凯,py:district:0913,-25.6677736,-56.9567728,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0914,PY09,PY-9,Tebicuary-mí,Tebicuary-mí,Tebicuary-mí,特维夸里米,py:district:0914,-25.9142059,-56.6740816,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0915,PY09,PY-9,Yaguarón,Yaguarón,Yaguarón,亚瓜龙,csc:89847,-25.5621021,-57.2870029,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0916,PY09,PY-9,Ybycuí,Ybycuí,Ybycuí,伊维奎,py:district:0916,-26.0216918,-57.0182321,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0917,PY09,PY-9,Ybytymí,Ybytymí,Ybytymí,伊维蒂米,py:district:0917,-25.7668079,-56.7994209,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY0918,PY09,PY-9,María Antonia,María Antonia,María Antonia,玛丽亚安东尼娅,py:district:0918,-26.4346356,-56.8973439,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1001,PY10,PY-10,Ciudad del Este,Ciudad del Este,Ciudad del Este,东方市,csc:89745,-25.505118,-54.6419606,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1002,PY10,PY-10,Presidente Franco,Presidente Franco,Presidente Franco,佛朗哥总统城,py:district:1002,-25.5612928,-54.6129435,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1003,PY10,PY-10,Domingo Martínez de Irala,Domingo Martínez de Irala,Domingo Martínez de Irala,多明戈马丁内斯德伊拉拉,py:district:1003,-25.9109337,-54.6277189,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1004,PY10,PY-10,Dr. Juan León Mallorquín,Dr. Juan León Mallorquín,Dr. Juan León Mallorquín,胡安莱昂马略尔金博士镇,py:district:1004,-25.4294884,-55.253042,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1005,PY10,PY-10,Hernandarias,Hernandarias,Hernandarias,埃尔南达里亚斯,py:district:1005,-25.4036282,-54.6402696,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1006,PY10,PY-10,Itakyry,Itakyry,Itakyry,伊塔基里,py:district:1006,-24.9835986,-55.147576,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1007,PY10,PY-10,Juan E. O'leary,Juan E. O'leary,Juan E. O’Leary,胡安奥利里,py:district:1007,-25.4190466,-55.3748161,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1008,PY10,PY-10,Ñacunday,Ñacunday,Ñacunday,尼亚昆代,py:district:1008,-25.9813133,-54.6794502,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1009,PY10,PY-10,Yguazú,Yguazú,Yguazú,伊瓜苏,py:district:1009,-25.4601402,-55.0070194,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1010,PY10,PY-10,Los Cedrales,Los Cedrales,Los Cedrales,洛斯塞德拉莱斯,py:district:1010,-25.6599795,-54.721258,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1011,PY10,PY-10,Minga Guazú,Minga Guazú,Minga Guazú,明加瓜苏,py:district:1011,-25.4911064,-54.7491674,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1012,PY10,PY-10,San Cristóbal,San Cristóbal,San Cristóbal,圣克里斯托瓦尔,py:district:1012,-25.8849519,-55.5141765,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1013,PY10,PY-10,Santa Rita,Santa Rita,Santa Rita,圣丽塔,py:district:1013,-25.7949246,-55.0883215,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1014,PY10,PY-10,Naranjal,Naranjal,Naranjal,纳兰哈尔,py:district:1014,-25.9742286,-55.1866093,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1015,PY10,PY-10,Santa Rosa del Monday,Santa Rosa del Monday,Santa Rosa del Monday,蒙代河畔圣罗萨,py:district:1015,-25.8128083,-54.9043106,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1016,PY10,PY-10,Minga Porá,Minga Porá,Minga Porá,明加波拉,py:district:1016,-24.8750382,-54.9342524,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1017,PY10,PY-10,Mbaracayú,Mbaracayú,Mbaracayú,姆巴拉卡尤,py:district:1017,-24.9853186,-54.7256463,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1018,PY10,PY-10,San Alberto,San Alberto,San Alberto,圣阿尔韦托,py:district:1018,-24.9742683,-54.913133,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1019,PY10,PY-10,Iruña,Iruña,Iruña,伊鲁尼亚,py:district:1019,-26.1123986,-55.0587412,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1020,PY10,PY-10,Santa Fe del Paraná,Santa Fe del Paraná,Santa Fe del Paraná,巴拉那河畔圣菲,py:district:1020,-25.2233117,-54.7033418,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1021,PY10,PY-10,Tavapy,Tavapy,Tavapy,塔瓦皮,py:district:1021,-25.6651942,-54.9955279,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1022,PY10,PY-10,Dr. Raúl Peña,Dr. Raúl Peña,Dr. Raúl Peña,劳尔佩尼亚博士镇,py:district:1022,-26.1583566,-55.2720229,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1101,PY11,PY-11,Areguá,Areguá,Areguá,阿雷瓜,py:district:1101,-25.319146,-57.377846,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1102,PY11,PY-11,Capiatá,Capiatá,Capiatá,卡皮亚塔,py:district:1102,-25.3696677,-57.4573763,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1103,PY11,PY-11,Fernando de la Mora,Fernando de la Mora,Fernando de la Mora,费尔南多德拉莫拉,py:district:1103,-25.3280502,-57.5506695,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1104,PY11,PY-11,Guarambaré,Guarambaré,Guarambaré,瓜兰瓦雷,py:district:1104,-25.4909168,-57.4550236,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1105,PY11,PY-11,Itá,Itá,Itá,伊塔,py:district:1105,-25.5066522,-57.3685728,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1106,PY11,PY-11,Itauguá,Itauguá,Itauguá,伊陶瓜,py:district:1106,-25.3941485,-57.3554474,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1107,PY11,PY-11,Lambaré,Lambaré,Lambaré,兰瓦雷,py:district:1107,-25.3512015,-57.6140536,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1108,PY11,PY-11,Limpio,Limpio,Limpio,林皮奥,py:district:1108,-25.1679472,-57.4697933,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1109,PY11,PY-11,Luque,Luque,Luque,卢克,py:district:1109,-25.265634,-57.4807668,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1110,PY11,PY-11,Mariano Roque Alonso,Mariano Roque Alonso,Mariano Roque Alonso,马里亚诺罗克阿隆索,py:district:1110,-25.2095017,-57.5364688,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1111,PY11,PY-11,Nueva Italia,Nueva Italia,Nueva Italia,新意大利,py:district:1111,-25.6109163,-57.4657565,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1112,PY11,PY-11,Ñemby,Ñemby,Ñemby,涅姆比,py:district:1112,-25.3925802,-57.5392744,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1113,PY11,PY-11,San Antonio,San Antonio,San Antonio,圣安东尼奥,py:district:1113,-25.41298,-57.5660956,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1114,PY11,PY-11,San Lorenzo,San Lorenzo,San Lorenzo,圣洛伦索,csc:89828,-25.3551133,-57.5171398,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1115,PY11,PY-11,Villa Elisa,Villa Elisa,Villa Elisa,比利亚埃利萨,py:district:1115,-25.3724246,-57.5902599,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1116,PY11,PY-11,Villeta,Villeta,Villeta,比列塔,py:district:1116,-25.5131925,-57.5648214,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1117,PY11,PY-11,Ypacaraí,Ypacaraí,Ypacaraí,伊帕卡赖,py:district:1117,-25.4007975,-57.2901064,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1118,PY11,PY-11,Ypané,Ypané,Ypané,伊帕内,csc:157025,-25.4565671,-57.506414,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1119,PY11,PY-11,J. Augusto Saldívar,J. Augusto Saldívar,J. Augusto Saldívar,奥古斯托萨尔迪瓦尔,py:district:1119,-25.4426914,-57.4412891,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1201,PY12,PY-12,Pilar,Pilar,Pilar,皮拉尔,csc:89808,-26.8713195,-58.3002484,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1202,PY12,PY-12,Alberdi,Alberdi,Alberdi,阿尔韦迪,py:district:1202,-26.1882806,-58.1428305,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1203,PY12,PY-12,Cerrito,Cerrito,Cerrito,塞里托,py:district:1203,-27.3332243,-57.6417071,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1204,PY12,PY-12,Desmochados,Desmochados,Desmochados,德斯莫查多斯,py:district:1204,-27.121176,-58.0868482,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1205,PY12,PY-12,Gral. José Eduvigis Díaz,Gral. José Eduvigis Díaz,Gral. José Eduvigis Díaz,何塞埃杜维希斯迪亚斯将军镇,py:district:1205,-27.2018705,-58.3701416,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1206,PY12,PY-12,Guazú-cuá,Guazú-cuá,Guazú-cuá,瓜苏夸,py:district:1206,-26.8823711,-57.9679625,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1207,PY12,PY-12,Humaitá,Humaitá,Humaitá,乌迈塔,py:district:1207,-27.068399,-58.5059382,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1208,PY12,PY-12,Isla Umbú,Isla Umbú,Isla Umbú,伊斯拉翁布,py:district:1208,-26.9827766,-58.2714929,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1209,PY12,PY-12,Laureles,Laureles,Laureles,劳雷莱斯,py:district:1209,-27.2484097,-57.461401,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1210,PY12,PY-12,Mayor José Dejesús Martínez,Mayor José Dejesús Martínez,Mayor José Dejesús Martínez,何塞德赫苏斯马丁内斯少校镇,py:district:1210,-27.1470039,-58.2294935,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1211,PY12,PY-12,Paso de Patria,Paso de Patria,Paso de Patria,帕索德帕特里亚,py:district:1211,-27.2425685,-58.5464684,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1212,PY12,PY-12,San Juan Bautista de Ñeembucú,San Juan Bautista de Ñeembucú,San Juan Bautista de Ñeembucú,涅恩布库圣胡安包蒂斯塔,py:district:1212,-26.6706439,-57.9043013,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1213,PY12,PY-12,Tacuaras,Tacuaras,Tacuaras,塔夸拉斯,py:district:1213,-26.8185576,-57.9832961,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1214,PY12,PY-12,Villa Franca,Villa Franca,Villa Franca,比利亚弗兰卡,py:district:1214,-26.314821,-58.1474497,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1215,PY12,PY-12,Villa Oliva,Villa Oliva,Villa Oliva,比利亚奥利瓦,py:district:1215,-26.0233879,-57.8589237,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1216,PY12,PY-12,Villalbín,Villalbín,Villalbín,比利亚尔温,py:district:1216,-27.1390761,-57.9293087,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1301,PY13,PY-13,Pedro Juan Caballero,Amambay,Pedro Juan Caballero,佩德罗胡安卡瓦列罗,csc:89807,-22.5548027,-55.7393174,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1302,PY13,PY-13,Bella Vista,Bella Vista,Bella Vista,贝利亚维斯塔,py:district:1302,-22.1219913,-56.5131532,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1303,PY13,PY-13,Capitán Bado,Capitán Bado,Capitán Bado,瓦多上尉镇,py:district:1303,-23.2670287,-55.5411972,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1304,PY13,PY-13,Zanja Pyta,Zanja Pyta,Zanja Pyta,桑哈皮塔,py:district:1304,-22.6365528,-55.6314715,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1305,PY13,PY-13,Karapaí,Karapaí,Karapaí,卡拉帕伊,py:district:1305,-23.5993152,-55.9862194,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1306,PY13,PY-13,Cerro Corá,Cerro Corá,Cerro Corá,塞罗科拉,py:district:1306,-22.6254652,-55.8524427,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1401,PY14,PY-14,Salto del Guairá,Salto del Guairá,Salto del Guairá,萨尔托德尔瓜伊拉,py:district:1401,-24.0655274,-54.3081951,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1402,PY14,PY-14,Corpus Christi,Corpus Christi,Corpus Christi,科尔普斯克里斯蒂,py:district:1402,-24.0820768,-54.9386356,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1403,PY14,PY-14,Villa Curuguaty,Villa Curuguaty,Curuguaty,比利亚库鲁瓜蒂,py:district:1403,-24.4722552,-55.6927168,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1404,PY14,PY-14,Villa Ygatimí,Villa Ygatimí,Villa Ygatimí,比利亚伊加蒂米,py:district:1404,-24.1249025,-55.6436138,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1405,PY14,PY-14,Itanará,Itanará,Itanará,伊塔纳拉,py:district:1405,-23.7512111,-55.4639178,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1406,PY14,PY-14,Ypejhú,Ypejhú,Ypehú,伊佩胡,py:district:1406,-23.8893194,-55.4426047,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1407,PY14,PY-14,Francisco Caballero Alvarez,Francisco Caballero Alvarez,General Francisco Caballero Álvarez,弗朗西斯科卡瓦列罗阿尔瓦雷斯,py:district:1407,-24.1524823,-54.6669336,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1408,PY14,PY-14,Katueté,Katueté,Katueté,卡图埃特,py:district:1408,-24.2482121,-54.7596582,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1409,PY14,PY-14,La Paloma del Espíritu Santo,La Paloma del Espíritu Santo,La Paloma del Espíritu Santo,拉帕洛马德尔埃斯皮里图桑托,py:district:1409,-24.1299581,-54.6121896,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1410,PY14,PY-14,Nueva Esperanza,Nueva Esperanza,Nueva Esperanza,新埃斯佩兰萨,py:district:1410,-24.505639,-54.858955,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1411,PY14,PY-14,Yasy Cañy,Yasy Cañy,Yasy Kañý,亚西卡尼,py:district:1411,-24.5273645,-55.8837677,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1412,PY14,PY-14,Ybyrarobaná,Ybyrarobaná,Ybyrarovaná,伊比拉罗瓦纳,py:district:1412,-24.3120926,-55.0526358,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1413,PY14,PY-14,Yby Pytá,Yby Pytá,Yby Pytá,伊比皮塔,py:district:1413,-24.3489521,-55.3876227,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1414,PY14,PY-14,Maracaná,Maracaná,Maracaná,马拉卡纳,py:district:1414,-24.1890638,-56.0838924,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1415,PY14,PY-14,Puerto Adela,Puerto Adela,Puerto Adela,阿德拉港,py:district:1415,-24.4860364,-54.3843034,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1416,PY14,PY-14,Laurel,Laurel,Laurel,劳雷尔,py:district:1416,-24.5629745,-54.9551235,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1502,PY15,PY-15,Benjamín Aceval,Benjamín Aceval,Benjamín Aceval,本哈明阿塞瓦尔,py:district:1502,-24.9984621,-57.5567922,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1503,PY15,PY-15,Puerto Pinasco,Puerto Pinasco,Puerto Pinasco,皮纳斯科港,py:district:1503,-22.6456754,-57.8408176,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1504,PY15,PY-15,Villa Hayes,Presidente Hayes,Villa Hayes,比利亚海斯,py:district:1504,-25.0893347,-57.5308237,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1505,PY15,PY-15,Nanawa,Nanawa,Nanawa,纳纳瓦,py:district:1505,-25.2960954,-57.701712,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1506,PY15,PY-15,José Falcón,José Falcón,José Falcón,何塞法尔孔,py:district:1506,-25.2183977,-57.7131459,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1507,PY15,PY-15,Tte. 1° Manuel Irala Fernández,Tte. 1° Manuel Irala Fernández,Tte. 1° Manuel Irala Fernández,曼努埃尔伊拉拉费尔南德斯中尉镇,py:district:1507,-22.8143289,-59.5848754,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1508,PY15,PY-15,Teniente Esteban Martínez,Teniente Esteban Martínez,Teniente Esteban Martínez,埃斯特万马丁内斯中尉镇,py:district:1508,-24.0833999,-59.8003346,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1509,PY15,PY-15,General José María Bruguez,General José María Bruguez,General José María Bruguez,何塞玛丽亚布鲁格斯将军镇,py:district:1509,-24.7528648,-58.8207899,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1510,PY15,PY-15,Campo Aceval,Campo Aceval,Campo Aceval,坎波阿塞瓦尔,py:district:1510,-23.2006396,-59.766298,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1511,PY15,PY-15,Nueva Asunción,Nueva Asunción,Nueva Asunción,新亚松森,py:district:1511,-25.2513243,-57.6419146,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1602,PY16,PY-19,Mariscal José Félix Estigarribia,Mariscal José Félix Estigarribia,Mariscal José Félix Estigarribia,何塞费利克斯埃斯蒂加里维亚元帅镇,py:district:1602,-22.0237957,-60.5989362,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1604,PY16,PY-19,Filadelfia,Filadelfia,Filadelfia,菲拉德尔菲亚,py:district:1604,-22.3545193,-60.0320621,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1605,PY16,PY-19,Loma Plata,Loma Plata,Loma Plata,洛马普拉塔,py:district:1605,-22.3814977,-59.831846,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1606,PY16,PY-19,Boquerón,Boquerón,Boquerón,博克龙,py:district:1606,-22.6458492,-60.1199248,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1701,PY17,PY-16,Fuerte Olimpo,Alto Paraguay,Fuerte Olimpo,富埃尔特奥林波,py:district:1701,-21.0452247,-57.8732808,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1702,PY17,PY-16,Puerto Casado,Puerto Casado,Puerto Casado,卡萨多港,py:district:1702,-22.2846793,-57.9455909,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1704,PY17,PY-16,Bahía Negra,Bahía Negra,Bahía Negra,内格拉湾,py:district:1704,-20.2350373,-58.1677243,INE/DGEEC OCHA COD-AB v01 admincapitals
+PY1705,PY17,PY-16,Carmelo Peralta,Carmelo Peralta,Carmelo Peralta,卡梅洛佩拉尔塔,py:district:1705,-21.6724064,-57.9142436,INE/DGEEC OCHA COD-AB v01 admincapitals

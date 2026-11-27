@@ -1,0 +1,334 @@
+{
+  "EH": {
+    "cities": [
+      {
+        "id": "eh:100710501",
+        "kind": "municipality",
+        "region": null,
+        "en": "Al Mahbass",
+        "zh": null,
+        "lon": -8.98753,
+        "lat": 27.47276,
+        "officialId": "100710501"
+      },
+      {
+        "en": "Boujdour",
+        "id": "gn:2463029",
+        "kind": "municipality",
+        "lat": 26.13073,
+        "lon": -14.48513,
+        "region": null,
+        "zh": "布伊杜尔",
+        "officialId": "111210101"
+      },
+      {
+        "id": "eh:111210301",
+        "kind": "municipality",
+        "region": null,
+        "en": "Gueltat Zemmour",
+        "zh": "格尔塔泽穆尔",
+        "lon": -12.89066,
+        "lat": 25.25419,
+        "officialId": "111210301"
+      },
+      {
+        "id": "eh:111210303",
+        "kind": "municipality",
+        "region": null,
+        "en": "Jraifia",
+        "zh": null,
+        "lon": -14.82732,
+        "lat": 24.90945,
+        "officialId": "111210303"
+      },
+      {
+        "id": "eh:111210305",
+        "kind": "municipality",
+        "region": null,
+        "en": "Lamssid",
+        "zh": null,
+        "lon": -13.29071,
+        "lat": 26.00324,
+        "officialId": "111210305"
+      },
+      {
+        "id": "csc:67220",
+        "region": null,
+        "kind": "municipality",
+        "zh": "斯马拉",
+        "en": "Smara",
+        "lat": 26.73841,
+        "lon": -11.67194,
+        "officialId": "112210101",
+        "aliases": [
+          "Es-Semara"
+        ]
+      },
+      {
+        "id": "eh:112210301",
+        "kind": "municipality",
+        "region": null,
+        "en": "Amgala",
+        "zh": null,
+        "lon": -11.413,
+        "lat": 26.1617,
+        "officialId": "112210301"
+      },
+      {
+        "id": "eh:112210303",
+        "kind": "municipality",
+        "region": null,
+        "en": "Haouza",
+        "zh": "奥扎",
+        "lon": -11.20923,
+        "lat": 27.1272,
+        "officialId": "112210303"
+      },
+      {
+        "id": "eh:112210305",
+        "kind": "municipality",
+        "region": null,
+        "en": "Jdiriya",
+        "zh": "吉迪里亚",
+        "lon": -10.4132,
+        "lat": 27.2486,
+        "officialId": "112210305"
+      },
+      {
+        "id": "eh:112210307",
+        "kind": "municipality",
+        "region": null,
+        "en": "Sidi Ahmed Laaroussi",
+        "zh": null,
+        "lon": -11.773333,
+        "lat": 26.822778,
+        "officialId": "112210307"
+      },
+      {
+        "id": "eh:112210309",
+        "kind": "municipality",
+        "region": null,
+        "en": "Tifariti",
+        "zh": null,
+        "lon": -9.82045,
+        "lat": 26.33348,
+        "officialId": "112210309"
+      },
+      {
+        "en": "El Marsa",
+        "id": "gn:2461993",
+        "kind": "municipality",
+        "lat": 27.09611,
+        "lon": -13.41583,
+        "region": null,
+        "zh": null,
+        "officialId": "113210101"
+      },
+      {
+        "aliases": [
+          "El Aaiún",
+          "Laâyoune"
+        ],
+        "en": "Laayoune",
+        "id": "gn:2462881",
+        "kind": "municipality",
+        "lat": 27.1418,
+        "lon": -13.18797,
+        "region": null,
+        "zh": "阿尤恩",
+        "officialId": "113210103"
+      },
+      {
+        "id": "eh:113210301",
+        "kind": "municipality",
+        "region": null,
+        "en": "Boukraa",
+        "zh": null,
+        "lon": -12.78389,
+        "lat": 26.35389,
+        "officialId": "113210301"
+      },
+      {
+        "id": "eh:113210303",
+        "kind": "municipality",
+        "region": null,
+        "en": "Dcheira",
+        "zh": null,
+        "lon": -12.61965,
+        "lat": 26.97639,
+        "officialId": "113210303"
+      },
+      {
+        "id": "eh:113210305",
+        "kind": "municipality",
+        "region": null,
+        "en": "Foum El Oued",
+        "zh": null,
+        "lon": -13.3928,
+        "lat": 27.1769,
+        "officialId": "113210305"
+      },
+      {
+        "id": "eh:115370303",
+        "kind": "municipality",
+        "region": null,
+        "en": "Daoura",
+        "zh": null,
+        "lon": -12.85308,
+        "lat": 27.46033,
+        "officialId": "115370303"
+      },
+      {
+        "id": "eh:115370305",
+        "kind": "municipality",
+        "region": null,
+        "en": "El Hagounia",
+        "zh": "哈古尼亚",
+        "lon": -12.3919,
+        "lat": 27.4264,
+        "officialId": "115370305"
+      },
+      {
+        "aliases": [
+          "La Güera",
+          "Lagouera"
+        ],
+        "en": "Lagouira",
+        "id": "gn:2462651",
+        "kind": "municipality",
+        "lat": 20.83228,
+        "lon": -17.08988,
+        "region": null,
+        "zh": "拉圭拉",
+        "officialId": "120660103"
+      },
+      {
+        "id": "eh:120660303",
+        "kind": "municipality",
+        "region": null,
+        "en": "Aghouinite",
+        "zh": null,
+        "lon": -13.62351,
+        "lat": 22.47328,
+        "officialId": "120660303"
+      },
+      {
+        "id": "eh:120660305",
+        "kind": "municipality",
+        "region": null,
+        "en": "Aousserd",
+        "zh": "奧塞爾德",
+        "lon": -14.55998,
+        "lat": 22.70937,
+        "officialId": "120660305"
+      },
+      {
+        "id": "eh:120660307",
+        "kind": "municipality",
+        "region": null,
+        "en": "Tichla",
+        "zh": "蒂奇拉",
+        "lon": -15.11326,
+        "lat": 21.78277,
+        "officialId": "120660307"
+      },
+      {
+        "id": "eh:120660309",
+        "kind": "municipality",
+        "region": null,
+        "en": "Zoug",
+        "zh": "楚格",
+        "lon": -13.75618,
+        "lat": 21.8671,
+        "officialId": "120660309"
+      },
+      {
+        "id": "eh:120660503",
+        "kind": "municipality",
+        "region": null,
+        "en": "Bir Gandouz",
+        "zh": "比尔甘杜斯",
+        "lon": -16.46866,
+        "lat": 21.61567,
+        "officialId": "120660503"
+      },
+      {
+        "en": "Dakhla",
+        "id": "gn:2463447",
+        "kind": "municipality",
+        "lat": 23.68477,
+        "lon": -15.95798,
+        "region": null,
+        "zh": "达克拉",
+        "officialId": "123910101"
+      },
+      {
+        "id": "eh:123910501",
+        "kind": "municipality",
+        "region": null,
+        "en": "Bir Anzarane",
+        "zh": "比尔恩扎兰",
+        "lon": -14.66318,
+        "lat": 24.046,
+        "officialId": "123910501"
+      },
+      {
+        "id": "eh:123910503",
+        "kind": "municipality",
+        "region": null,
+        "en": "Gleibat El Foula",
+        "zh": null,
+        "lon": -13.78162,
+        "lat": 23.44159,
+        "officialId": "123910503"
+      },
+      {
+        "id": "eh:123910505",
+        "kind": "municipality",
+        "region": null,
+        "en": "Mijik",
+        "zh": null,
+        "lon": -12.50346,
+        "lat": 23.80786,
+        "officialId": "123910505"
+      },
+      {
+        "id": "eh:123910507",
+        "kind": "municipality",
+        "region": null,
+        "en": "Oum Dreyga",
+        "zh": null,
+        "lon": -13.50212,
+        "lat": 24.15433,
+        "officialId": "123910507"
+      },
+      {
+        "id": "eh:123910901",
+        "kind": "municipality",
+        "region": null,
+        "en": "El Argoub",
+        "zh": "阿尔古卜",
+        "lon": -15.858333,
+        "lat": 23.611111,
+        "officialId": "123910901"
+      },
+      {
+        "id": "eh:123910903",
+        "kind": "municipality",
+        "region": null,
+        "en": "Imlili",
+        "zh": null,
+        "lon": -16.0814,
+        "lat": 23.251807,
+        "officialId": "123910903"
+      }
+    ],
+    "retired": []
+  },
+  "KN": {
+    "cities": [],
+    "retired": [
+      "gn:3575441"
+    ]
+  }
+}

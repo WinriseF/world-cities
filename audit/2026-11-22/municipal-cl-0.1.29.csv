@@ -1,0 +1,346 @@
+cut,region,province_code,official_name,name,zh,id,latitude,longitude,point_source
+01101,CL-TA,011,Iquique,Iquique,伊基克,csc:18989,-20.213025,-70.154071,SUBDERE/SINIM municipal building v0301
+01107,CL-TA,011,Alto Hospicio,Alto Hospicio,阿尔托奥斯皮西奥,cl:01107,-20.26883331,-70.1019419,SUBDERE/SINIM municipal building v0301
+01401,CL-TA,014,Pozo Almonte,Pozo Almonte,波索阿尔蒙特,csc:148417,-20.2593852,-69.7866933,SUBDERE/SINIM municipal building v0301
+01402,CL-TA,014,Camiña,Camiña,卡米尼亚,cl:01402,-19.312635,-69.426754,SUBDERE/SINIM municipal building v0301
+01403,CL-TA,014,Colchane,Colchane,科尔查内,cl:01403,-19.276294,-68.639757,SUBDERE/SINIM municipal building v0301
+01404,CL-TA,014,Huara,Huara,瓦拉,cl:01404,-19.994782,-69.771598,SUBDERE/SINIM municipal building v0301
+01405,CL-TA,014,Pica,Pica,皮卡,cl:01405,-20.49097726,-69.32886224,SUBDERE/SINIM municipal building v0301
+02101,CL-AN,021,Antofagasta,Antofagasta,安托法加斯塔,csc:18946,-23.6389192,-70.39613669,SUBDERE/SINIM municipal building v0301
+02102,CL-AN,021,Mejillones,Mejillones,梅希约内斯,csc:19033,-23.10101792,-70.45252555,SUBDERE/SINIM municipal building v0301
+02103,CL-AN,021,Sierra Gorda,Sierra Gorda,谢拉戈尔达,cl:02103,-23.332353,-69.839927,SUBDERE/SINIM municipal building v0301
+02104,CL-AN,021,Taltal,Taltal,塔尔塔尔,csc:19115,-25.407602,-70.486658,SUBDERE/SINIM municipal building v0301
+02201,CL-AN,022,Calama,Calama,卡拉马,csc:18952,-22.4633583,-68.9257158,SUBDERE/SINIM municipal building v0301
+02202,CL-AN,022,Ollague,Ollague,奥亚圭,cl:02202,-21.225502,-68.256098,SUBDERE/SINIM municipal building v0301
+02203,CL-AN,022,San Pedro De Atacama,San Pedro de Atacama,圣佩德罗德阿塔卡马,csc:19107,-22.91050486,-68.20033896,SUBDERE/SINIM municipal building v0301
+02301,CL-AN,023,Tocopilla,Tocopilla,托科皮亚,csc:19118,-22.09340966,-70.20083918,SUBDERE/SINIM municipal building v0301
+02302,CL-AN,023,María Elena,María Elena,玛丽亚埃莱娜,cl:02302,-22.34273679,-69.66609556,SUBDERE/SINIM municipal building v0301
+03101,CL-AT,031,Copiapó,Copiapó,科皮亚波,csc:18972,-27.36061756,-70.3286101,SUBDERE/SINIM municipal building v0301
+03102,CL-AT,031,Caldera,Caldera,卡尔德拉,csc:148328,-27.067455,-70.821584,SUBDERE/SINIM municipal building v0301
+03103,CL-AT,031,Tierra Amarilla,Tierra Amarilla,蒂拉阿马里利亚,csc:148329,-27.481612,-70.266403,SUBDERE/SINIM municipal building v0301
+03201,CL-AT,032,Chañaral,Chañaral,查尼亚拉尔,csc:19042,-26.34570286,-70.62116507,SUBDERE/SINIM municipal building v0301
+03202,CL-AT,032,Diego De Almagro,Diego de Almagro,迭戈德阿尔马格罗,csc:18981,-26.391929,-70.047684,SUBDERE/SINIM municipal building v0301
+03301,CL-AT,033,Vallenar,Vallenar,巴耶纳尔,csc:19122,-28.574573,-70.761527,SUBDERE/SINIM municipal building v0301
+03302,CL-AT,033,Alto Del Carmen,Alto del Carmen,阿尔托德尔卡门,cl:03302,-28.75978222,-70.48656565,SUBDERE/SINIM municipal building v0301
+03303,CL-AT,033,Freirina,Freirina,弗雷里纳,csc:148331,-28.50855991,-71.07800805,SUBDERE/SINIM municipal building v0301
+03304,CL-AT,033,Huasco,Huasco,瓦斯科,csc:19053,-28.46415618,-71.22197704,SUBDERE/SINIM municipal building v0301
+04101,CL-CO,041,La Serena,La Serena,拉塞雷纳,csc:18994,-29.9022912,-71.2508603,SUBDERE/SINIM municipal building v0301
+04102,CL-CO,041,Coquimbo,Coquimbo,科金博,cl:04102,-29.95388954,-71.33810048,SUBDERE/SINIM municipal building v0301
+04103,CL-CO,041,Andacollo,Andacollo,安达科约,csc:148352,-30.232633,-71.084839,SUBDERE/SINIM municipal building v0301
+04104,CL-CO,041,La Higuera,La Higuera,拉伊格拉,cl:04104,-29.51183883,-71.2010154,SUBDERE/SINIM municipal building v0301
+04105,CL-CO,041,Paiguano,Paiguano,派瓜诺,cl:04105,-30.028977,-70.516574,SUBDERE/SINIM municipal building v0301
+04106,CL-CO,041,Vicuña,Vicuña,维库尼亚,csc:19125,-30.0334907,-70.7135707,SUBDERE/SINIM municipal building v0301
+04201,CL-CO,042,Illapel,Illapel,伊亚佩尔,csc:18988,-31.63345233,-71.16824056,SUBDERE/SINIM municipal building v0301
+04202,CL-CO,042,Canela,Canela,卡内拉,cl:04202,-31.3981704,-71.4580963,SUBDERE/SINIM municipal building v0301
+04203,CL-CO,042,Los Vilos,Los Vilos,洛斯比洛斯,csc:148356,-31.91126836,-71.51278851,SUBDERE/SINIM municipal building v0301
+04204,CL-CO,042,Salamanca,Salamanca,萨拉曼卡,csc:19099,-31.7810492,-70.9658751,SUBDERE/SINIM municipal building v0301
+04301,CL-CO,043,Ovalle,Ovalle,奥瓦列,csc:19019,-30.6038616,-71.2037971,SUBDERE/SINIM municipal building v0301
+04302,CL-CO,043,Combarbalá,Combarbalá,孔巴尔瓦拉,csc:148354,-31.17784803,-71.00208813,SUBDERE/SINIM municipal building v0301
+04303,CL-CO,043,Monte Patria,Monte Patria,蒙特帕特里亚,csc:19014,-30.7717222,-70.9464059,SUBDERE/SINIM municipal building v0301
+04304,CL-CO,043,Punitaqui,Punitaqui,普尼塔基,cl:04304,-30.83382132,-71.25786725,SUBDERE/SINIM municipal building v0301
+04305,CL-CO,043,Río Hurtado,Río Hurtado,里奥乌尔塔多,cl:04305,-30.40909,-70.946822,SUBDERE/SINIM municipal building v0301
+05101,CL-VS,051,Valparaíso,Valparaíso,瓦尔帕莱索,csc:19123,-33.04619947,-71.62195109,SUBDERE/SINIM municipal building v0301
+05102,CL-VS,051,Casablanca,Casablanca,卡萨布兰卡,csc:148455,-33.319758,-71.4105737,SUBDERE/SINIM municipal building v0301
+05103,CL-VS,051,Concón,Concón,康孔,csc:148457,-32.92083173,-71.51531386,SUBDERE/SINIM municipal building v0301
+05104,CL-VS,051,Juan Fernández,Juan Fernández,胡安费尔南德斯,cl:05104,-33.636076,-78.831942,SUBDERE/SINIM municipal building v0301
+05105,CL-VS,051,Puchuncaví,Puchuncaví,普春卡维,cl:05105,-32.72566812,-71.41596625,SUBDERE/SINIM municipal building v0301
+05107,CL-VS,051,Quintero,Quintero,金特罗,csc:148472,-32.7856263,-71.5277434,SUBDERE/SINIM municipal building v0301
+05109,CL-VS,051,Viña Del Mar,Viña del Mar,比尼亚德尔马,csc:19130,-33.0234625,-71.5535527,SUBDERE/SINIM municipal building v0301
+05201,CL-VS,052,Isla De Pascua,Isla de Pascua,复活节岛,cl:05201,-27.148327,-109.428017,SUBDERE/SINIM municipal building v0301
+05301,CL-VS,053,Los Andes,Los Andes,洛斯安第斯,csc:19008,-32.8328646,-70.6001912,SUBDERE/SINIM municipal building v0301
+05302,CL-VS,053,Calle Larga,Calle Larga,卡莱拉尔加,csc:148454,-32.8554624,-70.6264403,SUBDERE/SINIM municipal building v0301
+05303,CL-VS,053,Rinconada,Rinconada,林科纳达,csc:148473,-32.832977,-70.688588,SUBDERE/SINIM municipal building v0301
+05304,CL-VS,053,San Esteban,San Esteban,圣埃斯特万,csc:148474,-32.799855,-70.579936,SUBDERE/SINIM municipal building v0301
+05401,CL-VS,054,La Ligua,La Ligua,拉利瓜,csc:18992,-32.4499923,-71.2314121,SUBDERE/SINIM municipal building v0301
+05402,CL-VS,054,Cabildo,Cabildo,卡维尔多,cl:05402,-32.4260408,-71.065305,SUBDERE/SINIM municipal building v0301
+05403,CL-VS,054,Papudo,Papudo,帕普多,cl:05403,-32.5087608,-71.44547546,SUBDERE/SINIM municipal building v0301
+05404,CL-VS,054,Petorca,Petorca,佩托尔卡,cl:05404,-32.250814,-70.930492,SUBDERE/SINIM municipal building v0301
+05405,CL-VS,054,Zapallar,Zapallar,萨帕利亚尔,cl:05405,-32.551439,-71.457856,SUBDERE/SINIM municipal building v0301
+05501,CL-VS,055,Quillota,Quillota,基约塔,csc:19092,-32.87933514,-71.2470082,SUBDERE/SINIM municipal building v0301
+05502,CL-VS,055,Calera,Calera,卡莱拉,cl:05502,-32.78891352,-71.20106956,SUBDERE/SINIM municipal building v0301
+05503,CL-VS,055,Hijuelas,Hijuelas,伊胡埃拉斯,csc:148460,-32.80121802,-71.14472946,SUBDERE/SINIM municipal building v0301
+05504,CL-VS,055,La Cruz,La Cruz,拉克鲁斯,csc:148464,-32.82800574,-71.22657398,SUBDERE/SINIM municipal building v0301
+05506,CL-VS,055,Nogales,Nogales,诺加莱斯,csc:148465,-32.73417136,-71.20131483,SUBDERE/SINIM municipal building v0301
+05601,CL-VS,056,San Antonio,San Antonio,圣安东尼奥,csc:19100,-33.60163124,-71.61404071,SUBDERE/SINIM municipal building v0301
+05602,CL-VS,056,Algarrobo,Algarrobo,阿尔加罗沃,csc:148452,-33.36696421,-71.67328855,SUBDERE/SINIM municipal building v0301
+05603,CL-VS,056,Cartagena,Cartagena,卡塔赫纳,cl:05603,-33.546934,-71.6043288,SUBDERE/SINIM municipal building v0301
+05604,CL-VS,056,El Quisco,El Quisco,埃尔基斯科,csc:148458,-33.399914,-71.694031,SUBDERE/SINIM municipal building v0301
+05605,CL-VS,056,El Tabo,El Tabo,埃尔塔沃,cl:05605,-33.491641,-71.619222,SUBDERE/SINIM municipal building v0301
+05606,CL-VS,056,Santo Domingo,Santo Domingo,圣多明戈,csc:148462,-33.63354621,-71.6114718,SUBDERE/SINIM municipal building v0301
+05701,CL-VS,057,San Felipe,San Felipe,圣费利佩,csc:19105,-32.7501693,-70.7258252,SUBDERE/SINIM municipal building v0301
+05702,CL-VS,057,Catemu,Catemu,卡特穆,csc:148456,-32.78015125,-70.96844746,SUBDERE/SINIM municipal building v0301
+05703,CL-VS,057,Llaillay,Llaillay,利亚伊利亚伊,cl:05703,-32.84166,-70.953869,SUBDERE/SINIM municipal building v0301
+05704,CL-VS,057,Panquehue,Panquehue,潘克韦,cl:05704,-32.77036531,-70.83462072,SUBDERE/SINIM municipal building v0301
+05705,CL-VS,057,Putaendo,Putaendo,普塔恩多,csc:148471,-32.626327,-70.716259,SUBDERE/SINIM municipal building v0301
+05706,CL-VS,057,Santa María,Santa María,圣玛利亚,csc:148475,-32.74842939,-70.65731798,SUBDERE/SINIM municipal building v0301
+05801,CL-VS,058,Quilpué,Quilpué,基尔普埃,cl:05801,-33.04601612,-71.44480196,SUBDERE/SINIM municipal building v0301
+05802,CL-VS,058,Limache,Limache,利马切,cl:05802,-33.000896,-71.269096,SUBDERE/SINIM municipal building v0301
+05803,CL-VS,058,Olmué,Olmué,奥尔穆埃,cl:05803,-32.9952329,-71.1852577,SUBDERE/SINIM municipal building v0301
+05804,CL-VS,058,Villa Alemana,Villa Alemana,阿莱马纳镇,csc:19127,-33.043926,-71.3714247,SUBDERE/SINIM municipal building v0301
+06101,CL-LI,061,Rancagua,Rancagua,兰卡瓜,csc:19095,-34.170482,-70.741411,SUBDERE/SINIM municipal building v0301
+06102,CL-LI,061,Codegua,Codegua,科德瓜,csc:148379,-34.03889933,-70.66760521,SUBDERE/SINIM municipal building v0301
+06103,CL-LI,061,Coinco,Coinco,科因科,cl:06103,-34.26977267,-70.95192297,SUBDERE/SINIM municipal building v0301
+06104,CL-LI,061,Coltauco,Coltauco,科尔陶科,cl:06104,-34.28805856,-71.08353476,SUBDERE/SINIM municipal building v0301
+06105,CL-LI,061,Doñihue,Doñihue,多尼韦,csc:148382,-34.22636783,-70.96438402,SUBDERE/SINIM municipal building v0301
+06106,CL-LI,061,Graneros,Graneros,格拉内罗斯,csc:18985,-34.064606,-70.725979,SUBDERE/SINIM municipal building v0301
+06107,CL-LI,061,Las Cabras,Las Cabras,拉斯卡布拉斯,csc:148384,-34.291927,-71.309243,SUBDERE/SINIM municipal building v0301
+06108,CL-LI,061,Machali,Machalí,马查利,csc:19011,-34.182637,-70.650655,SUBDERE/SINIM municipal building v0301
+06109,CL-LI,061,Malloa,Malloa,马约阿,cl:06109,-34.44664605,-70.94646576,SUBDERE/SINIM municipal building v0301
+06110,CL-LI,061,Mostazal,Mostazal,莫斯塔萨尔,cl:06110,-33.97998808,-70.71192545,SUBDERE/SINIM municipal building v0301
+06111,CL-LI,061,El Olivar,El Olivar,埃尔奥利瓦尔,cl:06111,-34.20889307,-70.81719176,SUBDERE/SINIM municipal building v0301
+06112,CL-LI,061,Peumo,Peumo,佩乌莫,csc:148396,-34.39596836,-71.16878549,SUBDERE/SINIM municipal building v0301
+06113,CL-LI,061,Pichidegua,Pichidegua,皮奇德瓜,cl:06113,-34.358317,-71.283359,SUBDERE/SINIM municipal building v0301
+06114,CL-LI,061,Quinta De Tilcoco,Quinta de Tilcoco,昆塔德蒂尔科科,csc:148401,-34.35456205,-70.96453903,SUBDERE/SINIM municipal building v0301
+06115,CL-LI,061,Rengo,Rengo,伦戈,csc:19097,-34.4089053,-70.8600972,SUBDERE/SINIM municipal building v0301
+06116,CL-LI,061,Requinoa,Requínoa,雷基诺阿,csc:148402,-34.2865615,-70.8162853,SUBDERE/SINIM municipal building v0301
+06117,CL-LI,061,San Vicente,San Vicente,圣维森特,csc:19109,-34.43932076,-71.07623854,SUBDERE/SINIM municipal building v0301
+06201,CL-LI,062,Pichilemu,Pichilemu,皮奇莱穆,csc:148398,-34.38726231,-72.00440881,SUBDERE/SINIM municipal building v0301
+06202,CL-LI,062,La Estrella,La Estrella,拉埃斯特雷利亚,cl:06202,-34.206088,-71.654931,SUBDERE/SINIM municipal building v0301
+06203,CL-LI,062,Litueche,Litueche,利图埃切,cl:06203,-34.116736,-71.729268,SUBDERE/SINIM municipal building v0301
+06204,CL-LI,062,Marchihue,Marchihue,马尔奇韦,cl:06204,-34.396663,-71.618861,SUBDERE/SINIM municipal building v0301
+06205,CL-LI,062,Navidad,Navidad,纳维达德,cl:06205,-33.953237,-71.830317,SUBDERE/SINIM municipal building v0301
+06206,CL-LI,062,Paredones,Paredones,帕雷多内斯,cl:06206,-34.65031759,-71.8995467,SUBDERE/SINIM municipal building v0301
+06301,CL-LI,063,San Fernando,San Fernando,圣费尔南多,cl:06301,-34.5836002,-70.98992709,SUBDERE/SINIM municipal building v0301
+06302,CL-LI,063,Chépica,Chépica,切皮卡,cl:06302,-34.727943,-71.273418,SUBDERE/SINIM municipal building v0301
+06303,CL-LI,063,Chimbarongo,Chimbarongo,钦巴龙戈,csc:18964,-34.708432,-71.041263,SUBDERE/SINIM municipal building v0301
+06304,CL-LI,063,Lolol,Lolol,洛洛尔,cl:06304,-34.728742,-71.643957,SUBDERE/SINIM municipal building v0301
+06305,CL-LI,063,Nancagua,Nancagua,南卡瓜,csc:148390,-34.651778,-71.206185,SUBDERE/SINIM municipal building v0301
+06306,CL-LI,063,Palmilla,Palmilla,帕米拉,csc:148393,-34.60717351,-71.35804844,SUBDERE/SINIM municipal building v0301
+06307,CL-LI,063,Peralillo,Peralillo,佩拉利约,cl:06307,-34.47842651,-71.4785558,SUBDERE/SINIM municipal building v0301
+06308,CL-LI,063,Placilla,Placilla,普拉西利亚,cl:06308,-34.638309,-71.118243,SUBDERE/SINIM municipal building v0301
+06309,CL-LI,063,Pumanque,Pumanque,普曼克,cl:06309,-34.60366468,-71.6532594,SUBDERE/SINIM municipal building v0301
+06310,CL-LI,063,Santa Cruz,Santa Cruz,圣克鲁斯,csc:19110,-34.64034027,-71.36602319,SUBDERE/SINIM municipal building v0301
+07101,CL-ML,071,Talca,Talca,塔尔卡,csc:19113,-35.425897,-71.6653572,SUBDERE/SINIM municipal building v0301
+07102,CL-ML,071,Constitución,Constitución,孔斯蒂图西翁,csc:18971,-35.33054458,-72.41277473,SUBDERE/SINIM municipal building v0301
+07103,CL-ML,071,Curepto,Curepto,库雷普托,cl:07103,-35.093357,-72.017913,SUBDERE/SINIM municipal building v0301
+07104,CL-ML,071,Empedrado,Empedrado,恩佩德拉多,cl:07104,-35.59021777,-72.2772088,SUBDERE/SINIM municipal building v0301
+07105,CL-ML,071,Maule,Maule,马乌莱,cl:07105,-35.524455,-71.691967,SUBDERE/SINIM municipal building v0301
+07106,CL-ML,071,Pelarco,Pelarco,佩拉尔科,cl:07106,-35.38312665,-71.44661177,SUBDERE/SINIM municipal building v0301
+07107,CL-ML,071,Pencahue,Pencahue,彭卡韦,cl:07107,-35.396606,-71.799,SUBDERE/SINIM municipal building v0301
+07108,CL-ML,071,Río Claro,Río Claro,里奥克拉罗,cl:07108,-35.280943,-71.259,SUBDERE/SINIM municipal building v0301
+07109,CL-ML,071,San Clemente,San Clemente,圣克莱门特,csc:19104,-35.536937,-71.486,SUBDERE/SINIM municipal building v0301
+07110,CL-ML,071,San Rafael,San Rafael,圣拉斐尔,cl:07110,-35.304563,-71.517,SUBDERE/SINIM municipal building v0301
+07201,CL-ML,072,Cauquenes,Cauquenes,考克内斯,csc:18957,-35.96606867,-72.33169448,SUBDERE/SINIM municipal building v0301
+07202,CL-ML,072,Chanco,Chanco,昌科,cl:07202,-35.73472,-72.534,SUBDERE/SINIM municipal building v0301
+07203,CL-ML,072,Pelluhue,Pelluhue,佩尤韦,cl:07203,-35.815241,-72.577,SUBDERE/SINIM municipal building v0301
+07301,CL-ML,073,Curicó,Curicó,库里科,csc:18978,-34.9856328,-71.2382663,SUBDERE/SINIM municipal building v0301
+07302,CL-ML,073,Hualañe,Hualañe,瓦拉涅,cl:07302,-34.977528,-71.801,SUBDERE/SINIM municipal building v0301
+07303,CL-ML,073,Licantén,Licantén,利坎滕,cl:07303,-34.987887,-71.984,SUBDERE/SINIM municipal building v0301
+07304,CL-ML,073,Molina,Molina,莫利纳,csc:19013,-35.11321389,-71.27999817,SUBDERE/SINIM municipal building v0301
+07305,CL-ML,073,Rauco,Rauco,劳科,cl:07305,-34.924954,-71.316,SUBDERE/SINIM municipal building v0301
+07306,CL-ML,073,Romeral,Romeral,罗梅拉尔,cl:07306,-34.960352,-71.126,SUBDERE/SINIM municipal building v0301
+07307,CL-ML,073,Sagrada Familia,Sagrada Familia,萨格拉达法米利亚,cl:07307,-34.999712,-71.38,SUBDERE/SINIM municipal building v0301
+07308,CL-ML,073,Teno,Teno,特诺,csc:19117,-34.8676342,-71.16082315,SUBDERE/SINIM municipal building v0301
+07309,CL-ML,073,Vichuquén,Vichuquén,比丘肯,cl:07309,-34.884266,-71.9925851,SUBDERE/SINIM municipal building v0301
+07401,CL-ML,074,Linares,Linares,利纳雷斯,csc:19003,-35.84492205,-71.59717588,SUBDERE/SINIM municipal building v0301
+07402,CL-ML,074,Colbún,Colbún,科尔本,cl:07402,-35.696301,-71.406,SUBDERE/SINIM municipal building v0301
+07403,CL-ML,074,Longaví,Longaví,隆加维,csc:19007,-35.96642602,-71.68417382,SUBDERE/SINIM municipal building v0301
+07404,CL-ML,074,Parral,Parral,帕拉尔,csc:19023,-36.14211589,-71.82275671,SUBDERE/SINIM municipal building v0301
+07405,CL-ML,074,Retiro,Retiro,雷蒂罗,cl:07405,-36.057663,-71.766,SUBDERE/SINIM municipal building v0301
+07406,CL-ML,074,San Javier,San Javier,圣哈维尔,csc:19106,-35.59527772,-71.73232391,SUBDERE/SINIM municipal building v0301
+07407,CL-ML,074,Villa Alegre,Villa Alegre,阿莱格雷镇,csc:148450,-35.676092,-71.744108,SUBDERE/SINIM municipal building v0301
+07408,CL-ML,074,Yerbas Buenas,Yerbas Buenas,耶尔瓦斯布埃纳斯,cl:07408,-35.747699,-71.582851,SUBDERE/SINIM municipal building v0301
+08101,CL-BI,081,Concepción,Concepción,康塞普西翁,csc:18970,-36.8281558,-73.05155,SUBDERE/SINIM municipal building v0301
+08102,CL-BI,081,Coronel,Coronel,科罗内尔,csc:18974,-36.9861987,-73.15724284,SUBDERE/SINIM municipal building v0301
+08103,CL-BI,081,Chiguayante,Chiguayante,奇瓜扬特,csc:18961,-36.9168687,-73.03573831,SUBDERE/SINIM municipal building v0301
+08104,CL-BI,081,Florida,Florida,佛罗里达,cl:08104,-36.82384656,-72.66071097,SUBDERE/SINIM municipal building v0301
+08105,CL-BI,081,Hualqui,Hualqui,瓦尔基,csc:148341,-36.975255,-72.9383358,SUBDERE/SINIM municipal building v0301
+08106,CL-BI,081,Lota,Lota,洛塔,csc:19010,-37.09441064,-73.15553009,SUBDERE/SINIM municipal building v0301
+08107,CL-BI,081,Penco,Penco,彭科,csc:19024,-36.7393852,-72.9928408,SUBDERE/SINIM municipal building v0301
+08108,CL-BI,081,San Pedro de la Paz,San Pedro de la Paz,圣佩德罗-德拉巴斯,csc:148346,-36.84144747,-73.10369712,SUBDERE/SINIM municipal building v0301
+08109,CL-BI,081,Santa Juana,Santa Juana,圣胡阿纳,csc:148349,-37.174532,-72.936787,SUBDERE/SINIM municipal building v0301
+08110,CL-BI,081,Talcahuano,Talcahuano,塔尔卡瓦诺,csc:19114,-36.71466632,-73.11549661,SUBDERE/SINIM municipal building v0301
+08111,CL-BI,081,Tomé,Tomé,托梅,csc:19119,-36.61601786,-72.95946535,SUBDERE/SINIM municipal building v0301
+08112,CL-BI,081,Hualpén,Hualpén,瓦尔彭,csc:148340,-36.78739439,-73.08824077,SUBDERE/SINIM municipal building v0301
+08201,CL-BI,082,Lebu,Lebu,莱布,csc:19001,-37.61089803,-73.65631437,SUBDERE/SINIM municipal building v0301
+08202,CL-BI,082,Arauco,Arauco,阿劳科,csc:18947,-37.2470411,-73.31672682,SUBDERE/SINIM municipal building v0301
+08203,CL-BI,082,Cañete,Cañete,卡涅特,cl:08203,-37.79978932,-73.39902868,SUBDERE/SINIM municipal building v0301
+08204,CL-BI,082,Contulmo,Contulmo,孔图尔莫,cl:08204,-38.01550927,-73.22961245,SUBDERE/SINIM municipal building v0301
+08205,CL-BI,082,Curanilahue,Curanilahue,库拉尼拉韦,csc:18977,-37.47790514,-73.34298586,SUBDERE/SINIM municipal building v0301
+08206,CL-BI,082,Los Alamos,Los Álamos,洛斯阿拉莫斯,csc:148342,-37.62535899,-73.45921054,SUBDERE/SINIM municipal building v0301
+08207,CL-BI,082,Tirua,Tirua,蒂鲁阿,cl:08207,-38.344428,-73.493965,SUBDERE/SINIM municipal building v0301
+08301,CL-BI,083,Los Angeles,Los Ángeles,洛桑赫莱斯,csc:19009,-37.47116041,-72.35047766,SUBDERE/SINIM municipal building v0301
+08302,CL-BI,083,Antuco,Antuco,安图科,cl:08302,-37.330029,-71.679986,SUBDERE/SINIM municipal building v0301
+08303,CL-BI,083,Cabrero,Cabrero,卡布雷罗,csc:18951,-37.03745034,-72.40563004,SUBDERE/SINIM municipal building v0301
+08304,CL-BI,083,Laja,Laja,拉哈,csc:18996,-37.28001103,-72.71556492,SUBDERE/SINIM municipal building v0301
+08305,CL-BI,083,Mulchén,Mulchén,穆尔琴,csc:19015,-37.71841526,-72.24577385,SUBDERE/SINIM municipal building v0301
+08306,CL-BI,083,Nacimiento,Nacimiento,纳西缅托,csc:19016,-37.5021088,-72.6742097,SUBDERE/SINIM municipal building v0301
+08307,CL-BI,083,Negrete,Negrete,内格雷特,cl:08307,-37.58530254,-72.52851206,SUBDERE/SINIM municipal building v0301
+08308,CL-BI,083,Quilaco,Quilaco,基拉科,cl:08308,-37.684775,-72.007,SUBDERE/SINIM municipal building v0301
+08309,CL-BI,083,Quilleco,Quilleco,基列科,cl:08309,-37.470297,-71.980467,SUBDERE/SINIM municipal building v0301
+08310,CL-BI,083,San Rosendo,San Rosendo,圣罗森多,csc:148347,-37.263952,-72.726503,SUBDERE/SINIM municipal building v0301
+08311,CL-BI,083,Santa Bárbara,Santa Bárbara,圣巴巴拉,csc:148348,-37.66599437,-72.02124614,SUBDERE/SINIM municipal building v0301
+08312,CL-BI,083,Tucapel,Tucapel,图卡佩尔,cl:08312,-37.2404264,-71.94036955,SUBDERE/SINIM municipal building v0301
+08313,CL-BI,083,Yumbel,Yumbel,云贝尔,csc:19131,-37.09792086,-72.56131292,SUBDERE/SINIM municipal building v0301
+08314,CL-BI,083,Alto Biobío,Alto Biobío,上比奥比奥,cl:08314,-37.87854886,-71.64046535,SUBDERE/SINIM municipal building v0301
+09101,CL-AR,091,Temuco,Temuco,特木科,csc:19116,-38.74492053,-72.59204653,SUBDERE/SINIM municipal building v0301
+09102,CL-AR,091,Carahue,Carahue,卡拉韦,csc:18954,-38.711869,-73.164,SUBDERE/SINIM municipal building v0301
+09103,CL-AR,091,Cunco,Cunco,昆科,csc:148361,-38.9322364,-72.03270972,SUBDERE/SINIM municipal building v0301
+09104,CL-AR,091,Curarrehue,Curarrehue,库拉雷韦,cl:09104,-39.35740686,-71.58813935,SUBDERE/SINIM municipal building v0301
+09105,CL-AR,091,Freire,Freire,弗雷雷,cl:09105,-38.95155413,-72.62745424,SUBDERE/SINIM municipal building v0301
+09106,CL-AR,091,Galvarino,Galvarino,加尔瓦里诺,cl:09106,-38.4152243,-72.781375,SUBDERE/SINIM municipal building v0301
+09107,CL-AR,091,Gorbea,Gorbea,戈尔比亚,csc:148366,-39.10228844,-72.67585741,SUBDERE/SINIM municipal building v0301
+09108,CL-AR,091,Lautaro,Lautaro,劳塔罗,csc:19000,-38.533838,-72.435824,SUBDERE/SINIM municipal building v0301
+09109,CL-AR,091,Loncoche,Loncoche,伦科切,csc:19006,-39.37139132,-72.63062149,SUBDERE/SINIM municipal building v0301
+09110,CL-AR,091,Melipeuco,Melipeuco,梅利佩乌科,cl:09110,-38.85487377,-71.69791462,SUBDERE/SINIM municipal building v0301
+09111,CL-AR,091,Nueva Imperial,Nueva Imperial,新因佩里亚尔,cl:09111,-38.7421644,-72.9532051,SUBDERE/SINIM municipal building v0301
+09112,CL-AR,091,Padre Las Casas,Padre Las Casas,帕德雷拉斯卡萨斯,csc:148371,-38.7731745,-72.5971798,SUBDERE/SINIM municipal building v0301
+09113,CL-AR,091,Perquenco,Perquenco,佩尔肯科,cl:09113,-38.42053186,-72.38010135,SUBDERE/SINIM municipal building v0301
+09114,CL-AR,091,Pitrufquén,Pitrufquén,皮特鲁夫肯,csc:19027,-38.98706812,-72.63747157,SUBDERE/SINIM municipal building v0301
+09115,CL-AR,091,Pucón,Pucón,普孔,csc:19080,-39.276178,-71.973633,SUBDERE/SINIM municipal building v0301
+09116,CL-AR,091,Saavedra,Saavedra,萨韦德拉,cl:09116,-38.79232,-73.3960318,SUBDERE/SINIM municipal building v0301
+09117,CL-AR,091,Teodoro Schmidt,Teodoro Schmidt,特奥多罗施密特,cl:09117,-38.99691875,-73.08972457,SUBDERE/SINIM municipal building v0301
+09118,CL-AR,091,Toltén,Toltén,托尔滕,cl:09118,-39.178989,-73.165585,SUBDERE/SINIM municipal building v0301
+09119,CL-AR,091,Vilcún,Vilcún,比尔昆,cl:09119,-38.67062308,-72.22483203,SUBDERE/SINIM municipal building v0301
+09120,CL-AR,091,Villarrica,Villarrica,比亚里卡,csc:19129,-39.2848246,-72.22524742,SUBDERE/SINIM municipal building v0301
+09121,CL-AR,091,Cholchol,Cholchol,乔尔乔尔,cl:09121,-38.602481,-72.848822,SUBDERE/SINIM municipal building v0301
+09201,CL-AR,092,Angol,Angol,安戈尔,csc:18945,-37.797185,-72.711101,SUBDERE/SINIM municipal building v0301
+09202,CL-AR,092,Collipulli,Collipulli,科利普利,csc:18969,-37.95822097,-72.43109876,SUBDERE/SINIM municipal building v0301
+09203,CL-AR,092,Curacautín,Curacautín,库拉考廷,csc:148362,-38.43803,-71.888,SUBDERE/SINIM municipal building v0301
+09204,CL-AR,092,Ercilla,Ercilla,埃尔西利亚,cl:09204,-38.0624514,-72.37876821,SUBDERE/SINIM municipal building v0301
+09205,CL-AR,092,Lonquimay,Lonquimay,隆基迈,cl:09205,-38.45192189,-71.3701757,SUBDERE/SINIM municipal building v0301
+09206,CL-AR,092,Los Sauces,Los Sauces,洛斯绍塞斯,cl:09206,-37.98321455,-72.83158817,SUBDERE/SINIM municipal building v0301
+09207,CL-AR,092,Lumaco,Lumaco,卢马科,cl:09207,-38.1652346,-72.9070635,SUBDERE/SINIM municipal building v0301
+09208,CL-AR,092,Puren,Purén,普伦,csc:148373,-38.032296,-73.073009,SUBDERE/SINIM municipal building v0301
+09209,CL-AR,092,Renaico,Renaico,雷奈科,csc:148374,-37.67129611,-72.58518786,SUBDERE/SINIM municipal building v0301
+09210,CL-AR,092,Traiguén,Traiguén,特赖根,csc:19120,-38.250675,-72.665702,SUBDERE/SINIM municipal building v0301
+09211,CL-AR,092,Victoria,Victoria,维多利亚,csc:19124,-38.234709,-72.331086,SUBDERE/SINIM municipal building v0301
+10101,CL-LL,101,Puerto Montt,Puerto Montt,蒙特港,csc:19085,-41.47199501,-72.93726762,SUBDERE/SINIM municipal building v0301
+10102,CL-LL,101,Calbuco,Calbuco,卡尔布科,csc:18953,-41.77250898,-73.12755126,SUBDERE/SINIM municipal building v0301
+10103,CL-LL,101,Cochamó,Cochamó,科查莫,cl:10103,-41.66371,-72.296,SUBDERE/SINIM municipal building v0301
+10104,CL-LL,101,Fresia,Fresia,弗雷西亚,csc:148480,-41.1530374,-73.421373,SUBDERE/SINIM municipal building v0301
+10105,CL-LL,101,Frutillar,Frutillar,弗鲁蒂利亚尔,cl:10105,-41.135927,-73.027915,SUBDERE/SINIM municipal building v0301
+10106,CL-LL,101,Los Muermos,Los Muermos,洛斯穆埃尔莫斯,csc:148483,-41.39640211,-73.46276542,SUBDERE/SINIM municipal building v0301
+10107,CL-LL,101,Llanquihue,Llanquihue,兰基胡亚,csc:19058,-41.2564519,-73.0055639,SUBDERE/SINIM municipal building v0301
+10108,CL-LL,101,Maullín,Maullín,毛林,cl:10108,-41.623449,-73.594724,SUBDERE/SINIM municipal building v0301
+10109,CL-LL,101,Puerto Varas,Puerto Varas,巴拉斯港,csc:19087,-41.3174434,-72.9847344,SUBDERE/SINIM municipal building v0301
+10201,CL-LL,102,Castro,Castro,卡斯特罗市,csc:18956,-42.482842,-73.7629902,SUBDERE/SINIM municipal building v0301
+10202,CL-LL,102,Ancud,Ancud,安库德,csc:18944,-41.86822616,-73.82829639,SUBDERE/SINIM municipal building v0301
+10203,CL-LL,102,Chonchi,Chonchi,琼奇,csc:18965,-42.623878,-73.772305,SUBDERE/SINIM municipal building v0301
+10204,CL-LL,102,Curaco de Velez,Curaco de Velez,库拉科德贝莱斯,cl:10204,-42.439475,-73.6,SUBDERE/SINIM municipal building v0301
+10205,CL-LL,102,Dalcahue,Dalcahue,达卡卫,csc:18980,-42.380512,-73.647411,SUBDERE/SINIM municipal building v0301
+10206,CL-LL,102,Puqueldón,Puqueldón,普克尔东,cl:10206,-42.599354,-73.675,SUBDERE/SINIM municipal building v0301
+10207,CL-LL,102,Queilén,Queilén,克伊伦,cl:10207,-42.889256,-73.474,SUBDERE/SINIM municipal building v0301
+10208,CL-LL,102,Quellón,Quellón,克利翁,csc:19091,-43.1182072,-73.6177277,SUBDERE/SINIM municipal building v0301
+10209,CL-LL,102,Quemchi,Quemchi,克姆奇,cl:10209,-42.144238,-73.473,SUBDERE/SINIM municipal building v0301
+10210,CL-LL,102,Quinchao,Quinchao,金查奥,cl:10210,-42.4710364,-73.4886323,SUBDERE/SINIM municipal building v0301
+10301,CL-LL,103,Osorno,Osorno,奥索尔诺,csc:19018,-40.5746287,-73.1358173,SUBDERE/SINIM municipal building v0301
+10302,CL-LL,103,Puerto Octay,Puerto Octay,奥克泰港,cl:10302,-40.972975,-72.884,SUBDERE/SINIM municipal building v0301
+10303,CL-LL,103,Purranque,Purranque,普兰克,csc:19089,-40.91293346,-73.15820934,SUBDERE/SINIM municipal building v0301
+10304,CL-LL,103,Puyehue,Puyehue,普耶韦,cl:10304,-40.683624,-72.604,SUBDERE/SINIM municipal building v0301
+10305,CL-LL,103,Río Negro,Río Negro,内格罗河,csc:148490,-40.7955921,-73.21683291,SUBDERE/SINIM municipal building v0301
+10306,CL-LL,103,San Juan de la Costa,San Juan de la Costa,滨海圣胡安,cl:10306,-40.607505,-73.468,SUBDERE/SINIM municipal building v0301
+10307,CL-LL,103,San Pablo,San Pablo,圣巴勃罗,cl:10307,-40.4122256,-73.0122787,SUBDERE/SINIM municipal building v0301
+10401,CL-LL,104,Chaitén,Chaitén,柴滕,cl:10401,-42.91718374,-72.70640438,SUBDERE/SINIM municipal building v0301
+10402,CL-LL,104,Futaleufú,Futaleufú,富塔莱乌富,cl:10402,-43.186586,-71.866292,SUBDERE/SINIM municipal building v0301
+10403,CL-LL,104,Hualaihue,Hualaihue,瓦莱韦,cl:10403,-41.966331,-72.47,SUBDERE/SINIM municipal building v0301
+10404,CL-LL,104,Palena,Palena,帕莱纳,cl:10404,-43.617283,-71.804,SUBDERE/SINIM municipal building v0301
+11101,CL-AI,111,Coihayque,Coyhaique,科伊艾克,csc:18976,-45.572731,-72.069933,SUBDERE/SINIM municipal building v0301
+11102,CL-AI,111,Lago Verde,Lago Verde,拉戈韦尔德,cl:11102,-44.240416,-71.85,SUBDERE/SINIM municipal building v0301
+11201,CL-AI,112,Aisén,Aisén,艾森,cl:11201,-45.406244,-72.698697,SUBDERE/SINIM municipal building v0301
+11202,CL-AI,112,Cisnes,Cisnes,西斯内斯,cl:11202,-44.727786,-72.681337,SUBDERE/SINIM municipal building v0301
+11203,CL-AI,112,Guaitecas,Guaitecas,瓜伊特卡斯,cl:11203,-43.896644,-73.745,SUBDERE/SINIM municipal building v0301
+11301,CL-AI,113,Cochrane,Cochrane,科克拉内,csc:18966,-47.254745,-72.572351,SUBDERE/SINIM municipal building v0301
+11302,CL-AI,113,O'Higgins,O'Higgins,奥希金斯,cl:11302,-48.468383,-72.558,SUBDERE/SINIM municipal building v0301
+11303,CL-AI,113,Tortel,Tortel,托尔特尔,cl:11303,-47.803312,-73.538,SUBDERE/SINIM municipal building v0301
+11401,CL-AI,114,Chile Chico,Chile Chico,小智利,cl:11401,-46.538877,-71.727,SUBDERE/SINIM municipal building v0301
+11402,CL-AI,114,Río Ibáñez,Río Ibáñez,里奥伊瓦涅斯,cl:11402,-46.290741,-71.937,SUBDERE/SINIM municipal building v0301
+12101,CL-MA,121,Punta Arenas,Punta Arenas,蓬塔阿雷纳斯,csc:19088,-53.1633374,-70.9089087,SUBDERE/SINIM municipal building v0301
+12102,CL-MA,121,Laguna Blanca,Laguna Blanca,拉古纳布兰卡,cl:12102,-52.455532,-71.339,SUBDERE/SINIM municipal building v0301
+12103,CL-MA,121,Río Verde,Río Verde,里奥韦尔德,cl:12103,-52.650685,-71.464,SUBDERE/SINIM municipal building v0301
+12104,CL-MA,121,San Gregorio,San Gregorio,圣格雷戈里奥,cl:12104,-52.313083,-69.693,SUBDERE/SINIM municipal building v0301
+12201,CL-MA,122,Cabo de Hornos,Cabo de Hornos,合恩角,csc:164571,-54.93525047,-67.60389771,SUBDERE/SINIM municipal building v0301
+12301,CL-MA,123,Porvenir,Porvenir,波韦尼尔,cl:12301,-53.2949471,-70.368486,SUBDERE/SINIM municipal building v0301
+12302,CL-MA,123,Primavera,Primavera,普里马韦拉,cl:12302,-52.774096,-69.287,SUBDERE/SINIM municipal building v0301
+12303,CL-MA,123,Timaukel,Timaukel,蒂毛克尔,cl:12303,-53.640197,-69.646217,SUBDERE/SINIM municipal building v0301
+12401,CL-MA,124,Natales,Natales,纳塔莱斯,cl:12401,-51.7257818,-72.50762896,SUBDERE/SINIM municipal building v0301
+12402,CL-MA,124,Torres del Paine,Torres del Paine,百内,cl:12402,-51.254906,-72.346,SUBDERE/SINIM municipal building v0301
+13101,CL-RM,131,Santiago,Santiago,圣地亚哥,csc:19111,-33.436927,-70.650272,SUBDERE/SINIM municipal building v0301
+13102,CL-RM,131,Cerrillos,Cerrillos,塞里约斯,cl:13102,-33.4882087,-70.7030894,SUBDERE/SINIM municipal building v0301
+13103,CL-RM,131,Cerro Navia,Cerro Navia,塞罗纳维亚,cl:13103,-33.43475957,-70.72913803,SUBDERE/SINIM municipal building v0301
+13104,CL-RM,131,Conchalí,Conchalí,孔查利,cl:13104,-33.396376,-70.6710939,SUBDERE/SINIM municipal building v0301
+13105,CL-RM,131,El Bosque,El Bosque,埃尔博斯克,cl:13105,-33.55596115,-70.66538928,SUBDERE/SINIM municipal building v0301
+13106,CL-RM,131,Estación Central,Estación Central,中央车站区,cl:13106,-33.454125,-70.689888,SUBDERE/SINIM municipal building v0301
+13107,CL-RM,131,Huechuraba,Huechuraba,韦丘拉瓦,cl:13107,-33.3747247,-70.6346427,SUBDERE/SINIM municipal building v0301
+13108,CL-RM,131,Independencia,Independencia,独立区,cl:13108,-33.422302,-70.6552373,SUBDERE/SINIM municipal building v0301
+13109,CL-RM,131,La Cisterna,La Cisterna,拉西斯特尔纳,cl:13109,-33.534918,-70.663956,SUBDERE/SINIM municipal building v0301
+13110,CL-RM,131,La Florida,La Florida,拉佛罗里达,cl:13110,-33.5206,-70.60136,SUBDERE/SINIM municipal building v0301
+13111,CL-RM,131,La Granja,La Granja,拉格兰哈,cl:13111,-33.543205,-70.631576,SUBDERE/SINIM municipal building v0301
+13112,CL-RM,131,La Pintana,La Pintana,拉平塔纳,cl:13112,-33.58496353,-70.62966705,SUBDERE/SINIM municipal building v0301
+13113,CL-RM,131,La Reina,La Reina,拉雷纳,cl:13113,-33.453469,-70.530598,SUBDERE/SINIM municipal building v0301
+13114,CL-RM,131,Las Condes,Las Condes,拉斯孔德斯,cl:13114,-33.4161109,-70.5947522,SUBDERE/SINIM municipal building v0301
+13115,CL-RM,131,Lo Barnechea,Lo Barnechea,洛巴尔内切阿,cl:13115,-33.36381814,-70.49393256,SUBDERE/SINIM municipal building v0301
+13116,CL-RM,131,Lo Espejo,Lo Espejo,洛埃斯佩霍,cl:13116,-33.522761,-70.698235,SUBDERE/SINIM municipal building v0301
+13117,CL-RM,131,Lo Prado,Lo Prado,洛普拉多,cl:13117,-33.4427794,-70.7182734,SUBDERE/SINIM municipal building v0301
+13118,CL-RM,131,Macul,Macul,马库尔,cl:13118,-33.48201335,-70.5997877,SUBDERE/SINIM municipal building v0301
+13119,CL-RM,131,Maipú,Maipú,迈普,cl:13119,-33.51028009,-70.75386135,SUBDERE/SINIM municipal building v0301
+13120,CL-RM,131,Ñuñoa,Ñuñoa,纽尼奥阿,cl:13120,-33.45423001,-70.59367001,SUBDERE/SINIM municipal building v0301
+13121,CL-RM,131,Pedro Aguirre Cerda,Pedro Aguirre Cerda,佩德罗阿吉雷塞尔达,cl:13121,-33.488756,-70.664301,SUBDERE/SINIM municipal building v0301
+13122,CL-RM,131,Peñalolén,Peñalolén,佩尼亚洛伦,cl:13122,-33.47664179,-70.5415151,SUBDERE/SINIM municipal building v0301
+13123,CL-RM,131,Providencia,Providencia,普罗维登西亚,cl:13123,-33.43198583,-70.60951012,SUBDERE/SINIM municipal building v0301
+13124,CL-RM,131,Pudahuel,Pudahuel,普达韦尔,cl:13124,-33.44502556,-70.74346617,SUBDERE/SINIM municipal building v0301
+13125,CL-RM,131,Quilicura,Quilicura,基利库拉,cl:13125,-33.3685406,-70.7320134,SUBDERE/SINIM municipal building v0301
+13126,CL-RM,131,Quinta Normal,Quinta Normal,金塔诺尔马尔,cl:13126,-33.42229801,-70.69580524,SUBDERE/SINIM municipal building v0301
+13127,CL-RM,131,Recoleta,Recoleta,雷科莱塔,cl:13127,-33.4015339,-70.6438044,SUBDERE/SINIM municipal building v0301
+13128,CL-RM,131,Renca,Renca,伦卡,cl:13128,-33.40446885,-70.70421177,SUBDERE/SINIM municipal building v0301
+13129,CL-RM,131,San Joaquín,San Joaquín,圣华金,cl:13129,-33.47921044,-70.64152201,SUBDERE/SINIM municipal building v0301
+13130,CL-RM,131,San Miguel,San Miguel,圣米格尔,cl:13130,-33.48599,-70.649757,SUBDERE/SINIM municipal building v0301
+13131,CL-RM,131,San Ramón,San Ramón,圣拉蒙,cl:13131,-33.54268999,-70.64367001,SUBDERE/SINIM municipal building v0301
+13132,CL-RM,131,Vitacura,Vitacura,比塔库拉,cl:13132,-33.398799,-70.601815,SUBDERE/SINIM municipal building v0301
+13201,CL-RM,132,Puente Alto,Puente Alto,上普恩特,cl:13201,-33.5947623,-70.5793326,SUBDERE/SINIM municipal building v0301
+13202,CL-RM,132,Pirque,Pirque,皮尔克,cl:13202,-33.63480585,-70.57299367,SUBDERE/SINIM municipal building v0301
+13203,CL-RM,132,San José De Maipo,San José de Maipo,迈波圣何塞,cl:13203,-33.64026999,-70.35347001,SUBDERE/SINIM municipal building v0301
+13301,CL-RM,133,Colina,Colina,科利納,csc:148502,-33.205188,-70.684177,SUBDERE/SINIM municipal building v0301
+13302,CL-RM,133,Lampa,Lampa,兰帕,csc:164565,-33.2850253,-70.8779391,SUBDERE/SINIM municipal building v0301
+13303,CL-RM,133,Tiltil,Tiltil,蒂尔蒂尔,cl:13303,-33.085265,-70.929789,SUBDERE/SINIM municipal building v0301
+13401,CL-RM,134,San Bernardo,San Bernardo,圣贝尔纳多,csc:19102,-33.59224805,-70.70564775,SUBDERE/SINIM municipal building v0301
+13402,CL-RM,134,Buin,Buin,布因,csc:164568,-33.7313416,-70.7414491,SUBDERE/SINIM municipal building v0301
+13403,CL-RM,134,Calera De Tango,Calera de Tango,卡莱拉德坦戈,cl:13403,-33.63026419,-70.76193785,SUBDERE/SINIM municipal building v0301
+13404,CL-RM,134,Paine,Paine,派內,csc:164567,-33.8077188,-70.7420879,SUBDERE/SINIM municipal building v0301
+13501,CL-RM,135,Melipilla,Melipilla,梅利皮亞,csc:19012,-33.685663,-71.216949,SUBDERE/SINIM municipal building v0301
+13502,CL-RM,135,Alhué,Alhué,阿卢埃,cl:13502,-34.03226981,-71.09845444,SUBDERE/SINIM municipal building v0301
+13503,CL-RM,135,Curacaví,Curacaví,库拉卡维,cl:13503,-33.404882,-71.13691,SUBDERE/SINIM municipal building v0301
+13504,CL-RM,135,María Pinto,María Pinto,玛丽亚平托,cl:13504,-33.51690927,-71.12376454,SUBDERE/SINIM municipal building v0301
+13505,CL-RM,135,San Pedro,San Pedro,圣佩德罗,cl:13505,-33.894329,-71.45631,SUBDERE/SINIM municipal building v0301
+13601,CL-RM,136,Talagante,Talagante,塔拉甘特,cl:13601,-33.66541132,-70.93009237,SUBDERE/SINIM municipal building v0301
+13602,CL-RM,136,El Monte,El Monte,埃尔蒙特,cl:13602,-33.67894387,-70.97920184,SUBDERE/SINIM municipal building v0301
+13603,CL-RM,136,Isla De Maipo,Isla de Maipo,迈波岛,cl:13603,-33.75536999,-70.89726999,SUBDERE/SINIM municipal building v0301
+13604,CL-RM,136,Padre Hurtado,Padre Hurtado,帕德雷乌尔塔多,cl:13604,-33.57775753,-70.82402657,SUBDERE/SINIM municipal building v0301
+13605,CL-RM,136,Peñaflor,Peñaflor,佩尼亞弗洛爾,csc:164566,-33.6077212,-70.9009287,SUBDERE/SINIM municipal building v0301
+14101,CL-LR,141,Valdivia,Valdivia,瓦尔迪维亚,csc:19121,-39.8128777,-73.2466269,SUBDERE/SINIM municipal building v0301
+14102,CL-LR,141,Corral,Corral,科拉尔,cl:14102,-39.88807527,-73.42718547,SUBDERE/SINIM municipal building v0301
+14103,CL-LR,141,Lanco,Lanco,兰科,csc:148495,-39.4520496,-72.7746542,SUBDERE/SINIM municipal building v0301
+14104,CL-LR,141,Los Lagos,Los Lagos,洛斯拉戈斯,csc:148496,-39.86320221,-72.81658625,SUBDERE/SINIM municipal building v0301
+14105,CL-LR,141,Máfil,Máfil,马菲尔,cl:14105,-39.66497686,-72.95325035,SUBDERE/SINIM municipal building v0301
+14106,CL-LR,141,Mariquina,Mariquina,马里基纳,cl:14106,-39.5387798,-72.9619674,SUBDERE/SINIM municipal building v0301
+14107,CL-LR,141,Paillaco,Paillaco,派亚科,csc:148499,-40.0699159,-72.8731074,SUBDERE/SINIM municipal building v0301
+14108,CL-LR,141,Panguipulli,Panguipulli,潘吉普伊,csc:19022,-39.641688,-72.332273,SUBDERE/SINIM municipal building v0301
+14201,CL-LR,142,La Unión,La Unión,拉乌尼翁,csc:18995,-40.2945164,-73.082575,SUBDERE/SINIM municipal building v0301
+14202,CL-LR,142,Futrono,Futrono,富特罗诺,csc:148493,-40.131053,-72.390424,SUBDERE/SINIM municipal building v0301
+14203,CL-LR,142,Lago Ranco,Lago Ranco,兰科湖,cl:14203,-40.32044841,-72.480227,SUBDERE/SINIM municipal building v0301
+14204,CL-LR,142,Río Bueno,Río Bueno,里奥布埃诺,csc:19098,-40.33422669,-72.95569848,SUBDERE/SINIM municipal building v0301
+15101,CL-AP,151,Arica,Arica,阿里卡,csc:18948,-18.479984,-70.318602,SUBDERE/SINIM municipal building v0301
+15102,CL-AP,151,Camarones,Camarones,卡马罗内斯,csc:19035,-19.160017,-70.18,SUBDERE/SINIM municipal building v0301
+15201,CL-AP,152,Putre,Putre,普特雷,cl:15201,-18.196528,-69.55975,SUBDERE/SINIM municipal building v0301
+15202,CL-AP,152,General Lagos,General Lagos,拉戈斯将军镇,cl:15202,-17.594262,-69.481,SUBDERE/SINIM municipal building v0301
+16101,CL-NB,161,Chillán,Chillán,奇廉,csc:18963,-36.60616435,-72.10433302,SUBDERE/SINIM municipal building v0301
+16102,CL-NB,161,Bulnes,Bulnes,布尔内斯,csc:18950,-36.74333284,-72.29841649,SUBDERE/SINIM municipal building v0301
+16103,CL-NB,161,Chillán Viejo,Chillán Viejo,奇良维耶霍,csc:148419,-36.6212351,-72.1338962,SUBDERE/SINIM municipal building v0301
+16104,CL-NB,161,El Carmen,El Carmen,埃尔卡门,cl:16104,-36.89715727,-72.0268322,SUBDERE/SINIM municipal building v0301
+16105,CL-NB,161,Pemuco,Pemuco,佩穆科,csc:148425,-36.97815739,-72.10013707,SUBDERE/SINIM municipal building v0301
+16106,CL-NB,161,Pinto,Pinto,平托,cl:16106,-36.7027,-71.893,SUBDERE/SINIM municipal building v0301
+16107,CL-NB,161,Quillón,Quillón,基利翁,csc:148428,-36.74753672,-72.47780872,SUBDERE/SINIM municipal building v0301
+16108,CL-NB,161,San Ignacio,San Ignacio,圣伊格纳西奥,cl:16108,-36.79865803,-72.03219041,SUBDERE/SINIM municipal building v0301
+16109,CL-NB,161,Yungay,Yungay,云盖,cl:16109,-37.12026122,-72.0194663,SUBDERE/SINIM municipal building v0301
+16201,CL-NB,162,Quirihue,Quirihue,基里韦,csc:19094,-36.283,-72.54,SUBDERE/SINIM municipal building v0301
+16202,CL-NB,162,Cobquecura,Cobquecura,科夫克库拉,cl:16202,-36.131674,-72.792541,SUBDERE/SINIM municipal building v0301
+16203,CL-NB,162,Coelemu,Coelemu,科埃莱穆,csc:148421,-36.487745,-72.703331,SUBDERE/SINIM municipal building v0301
+16204,CL-NB,162,Ninhue,Ninhue,尼努埃,cl:16204,-36.39263,-72.399,SUBDERE/SINIM municipal building v0301
+16205,CL-NB,162,Portezuelo,Portezuelo,波尔特苏埃洛,cl:16205,-36.528204,-72.429,SUBDERE/SINIM municipal building v0301
+16206,CL-NB,162,Ranquil,Ranquil,兰基尔,cl:16206,-36.60473,-72.534426,SUBDERE/SINIM municipal building v0301
+16207,CL-NB,162,Treguaco,Treguaco,特雷瓜科,csc:148433,-36.430207,-72.666,SUBDERE/SINIM municipal building v0301
+16301,CL-NB,163,San Carlos,San Carlos,圣卡洛斯,csc:19103,-36.42414271,-71.9580837,SUBDERE/SINIM municipal building v0301
+16302,CL-NB,163,Coihueco,Coihueco,科伊韦科,csc:18967,-36.628275,-71.831595,SUBDERE/SINIM municipal building v0301
+16303,CL-NB,163,Ñiquén,Ñiquén,尼肯,cl:16303,-36.282026,-71.815,SUBDERE/SINIM municipal building v0301
+16304,CL-NB,163,San Fabián,San Fabián,圣法维安,cl:16304,-36.556968,-71.551,SUBDERE/SINIM municipal building v0301
+16305,CL-NB,163,San Nicolás,San Nicolás,圣尼古拉斯,cl:16305,-36.503078,-72.213,SUBDERE/SINIM municipal building v0301

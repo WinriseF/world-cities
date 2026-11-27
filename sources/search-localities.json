@@ -1,0 +1,2612 @@
+{
+  "AI": {
+    "cities": [
+      {
+        "id": "overture:24213396-42ec-4949-b9e2-d608501ea105",
+        "en": "The Valley",
+        "zh": "瓦利",
+        "lat": 18.214586,
+        "lon": -63.051776,
+        "region": null,
+        "kind": "capital"
+      }
+    ],
+    "retired": []
+  },
+  "AS": {
+    "cities": [
+      {
+        "id": "overture:19b61a55-fe71-497c-853b-9e8393a0b0f4",
+        "en": "Pago Pago",
+        "zh": "帕果帕果",
+        "lat": -14.275479,
+        "lon": -170.70483,
+        "region": "as:r:60010",
+        "kind": "capital",
+        "aliases": [
+          "帕戈帕戈"
+        ]
+      }
+    ],
+    "retired": []
+  },
+  "BL": {
+    "cities": [
+      {
+        "id": "overture:2d2139e7-f65b-4fa8-95b0-657a89b4019f",
+        "en": "Gustavia",
+        "zh": "古斯塔维亚",
+        "lat": 17.895704,
+        "lon": -62.850837,
+        "region": null,
+        "kind": "capital",
+        "aliases": [
+          "古斯塔維亞",
+          "居斯塔维亚"
+        ]
+      }
+    ],
+    "retired": []
+  },
+  "BZ": {
+    "cities": [
+      {
+        "id": "csc:16133",
+        "en": "Belize City",
+        "zh": "伯利兹市",
+        "lat": 17.49952,
+        "lon": -88.19756,
+        "region": "csc:r:264",
+        "kind": "city"
+      },
+      {
+        "id": "csc:16134",
+        "en": "Belmopan",
+        "zh": "贝尔墨邦",
+        "lat": 17.25,
+        "lon": -88.76667,
+        "region": "csc:r:269",
+        "kind": "capital"
+      },
+      {
+        "id": "csc:16135",
+        "en": "Benque Viejo el Carmen",
+        "zh": "本克维耶霍埃尔卡门",
+        "lat": 17.075,
+        "lon": -89.13917,
+        "region": "csc:r:269",
+        "kind": "municipality"
+      },
+      {
+        "id": "csc:16136",
+        "en": "Corozal",
+        "zh": "科罗萨尔镇",
+        "lat": 18.39375,
+        "lon": -88.38849,
+        "region": "csc:r:266",
+        "kind": "municipality"
+      },
+      {
+        "id": "csc:16137",
+        "en": "Dangriga",
+        "zh": "丹格里加",
+        "lat": 16.9697,
+        "lon": -88.23313,
+        "region": "csc:r:265",
+        "kind": "municipality"
+      },
+      {
+        "id": "csc:16139",
+        "en": "Orange Walk Town",
+        "zh": "奥兰治沃克镇",
+        "lat": 18.08124,
+        "lon": -88.56328,
+        "region": "csc:r:268",
+        "kind": "municipality",
+        "aliases": [
+          "Orange Walk",
+          "奥兰治沃克"
+        ]
+      },
+      {
+        "id": "csc:16141",
+        "en": "Punta Gorda",
+        "zh": "蓬塔戈尔达",
+        "lat": 16.09835,
+        "lon": -88.8097,
+        "region": "csc:r:267",
+        "kind": "municipality"
+      },
+      {
+        "id": "csc:16142",
+        "en": "San Ignacio and Santa Elena",
+        "zh": "圣伊格纳西奥",
+        "lat": 17.1588,
+        "lon": -89.0696,
+        "region": "csc:r:269",
+        "kind": "municipality",
+        "aliases": [
+          "San Ignacio",
+          "Santa Elena",
+          "圣伊格纳西奥与圣埃莱娜",
+          "圣埃莱娜"
+        ]
+      },
+      {
+        "id": "csc:16143",
+        "en": "San Pedro",
+        "zh": "圣佩德罗",
+        "lat": 17.91598,
+        "lon": -87.9659,
+        "region": "csc:r:264",
+        "kind": "municipality"
+      }
+    ],
+    "retired": []
+  },
+  "CC": {
+    "cities": [
+      {
+        "id": "wikidata:Q48675",
+        "en": "West Island",
+        "zh": "西岛",
+        "lat": -12.186944,
+        "lon": 96.828333,
+        "region": null,
+        "kind": "locality",
+        "aliases": [
+          "西島",
+          "West Island Settlement"
+        ]
+      }
+    ],
+    "retired": []
+  },
+  "CK": {
+    "cities": [
+      {
+        "id": "ck:local:aitutaki",
+        "en": "Aitutaki",
+        "zh": "艾图塔基",
+        "lat": -18.864083,
+        "lon": -159.797824,
+        "region": null,
+        "kind": "municipality",
+        "aliases": [
+          "Arutanga",
+          "阿伊图塔基"
+        ]
+      },
+      {
+        "id": "ck:local:atiu",
+        "en": "Atiu",
+        "zh": "阿蒂乌",
+        "lat": -19.990084,
+        "lon": -158.119446,
+        "region": null,
+        "kind": "municipality",
+        "aliases": [
+          "Mapumai"
+        ]
+      },
+      {
+        "id": "overture:c893c7ec-791b-4d86-9091-a86aac274ee8",
+        "en": "Avarua",
+        "zh": "阿瓦鲁阿",
+        "lat": -21.207474,
+        "lon": -159.770815,
+        "region": null,
+        "kind": "capital",
+        "aliases": [
+          "阿瓦魯阿"
+        ]
+      },
+      {
+        "id": "ck:local:mangaia",
+        "en": "Mangaia",
+        "zh": "曼加伊亚",
+        "lat": -21.92499,
+        "lon": -157.951685,
+        "region": null,
+        "kind": "municipality",
+        "aliases": [
+          "Oneroa",
+          "Oneroa Village"
+        ]
+      },
+      {
+        "id": "ck:local:manihiki",
+        "en": "Manihiki",
+        "zh": "马尼希基",
+        "lat": -10.374904,
+        "lon": -161.010125,
+        "region": null,
+        "kind": "municipality",
+        "aliases": [
+          "Tukao",
+          "马尼西基"
+        ]
+      },
+      {
+        "id": "ck:local:mauke",
+        "en": "Mauke",
+        "zh": "毛克",
+        "lat": -20.153796,
+        "lon": -157.344209,
+        "region": null,
+        "kind": "municipality",
+        "aliases": [
+          "Oiretumu",
+          "茂开"
+        ]
+      },
+      {
+        "id": "ck:local:mitiaro",
+        "en": "Mitiaro",
+        "zh": "米蒂亚罗",
+        "lat": -19.860238,
+        "lon": -157.718411,
+        "region": null,
+        "kind": "municipality",
+        "aliases": [
+          "Takaue"
+        ]
+      },
+      {
+        "id": "ck:local:palmerston",
+        "en": "Palmerston",
+        "zh": "帕默斯顿",
+        "lat": -18.05442,
+        "lon": -163.18947,
+        "region": null,
+        "kind": "municipality",
+        "aliases": [
+          "Home Island",
+          "Palmerston Island Village"
+        ]
+      },
+      {
+        "id": "ck:local:penrhyn",
+        "en": "Penrhyn",
+        "zh": "彭林",
+        "lat": -8.976388,
+        "lon": -158.054036,
+        "region": null,
+        "kind": "municipality",
+        "aliases": [
+          "Omoka",
+          "Tongareva",
+          "通加雷瓦"
+        ]
+      },
+      {
+        "id": "ck:local:pukapukaandnassau",
+        "en": "Pukapuka and Nassau",
+        "zh": "普卡普卡和拿骚",
+        "lat": -10.852078,
+        "lon": -165.842036,
+        "region": null,
+        "kind": "municipality",
+        "aliases": [
+          "Loto",
+          "Nassau",
+          "Pukapuka",
+          "Roto"
+        ]
+      },
+      {
+        "id": "ck:local:rakahanga",
+        "en": "Rakahanga",
+        "zh": "拉卡汉加",
+        "lat": -10.03145,
+        "lon": -161.10129,
+        "region": null,
+        "kind": "municipality",
+        "aliases": [
+          "Matara",
+          "拉卡汉格斯"
+        ]
+      }
+    ],
+    "retired": []
+  },
+  "CW": {
+    "cities": [
+      {
+        "id": "overture:d82ca597-2490-4287-902a-2b4a70f1d826",
+        "en": "Willemstad",
+        "zh": "威廉斯塔德",
+        "lat": 12.10667,
+        "lon": -68.935131,
+        "region": null,
+        "kind": "capital"
+      }
+    ],
+    "retired": []
+  },
+  "CX": {
+    "cities": [
+      {
+        "id": "overture:6e2a4373-7fe4-42db-9694-deb395c53523",
+        "en": "Flying Fish Cove",
+        "zh": "飞鱼湾",
+        "lat": -10.421334,
+        "lon": 105.674413,
+        "region": null,
+        "kind": "locality",
+        "aliases": [
+          "飛魚灣",
+          "The Settlement"
+        ]
+      }
+    ],
+    "retired": []
+  },
+  "FJ": {
+    "cities": [
+      {
+        "id": "overture:c48854ce-13a7-4d19-87cb-fe26f98437b6",
+        "en": "Ba",
+        "zh": "巴镇",
+        "lat": -17.54571,
+        "lon": 177.684073,
+        "region": "csc:r:1923",
+        "kind": "municipality",
+        "aliases": [
+          "Ba Town Council",
+          "巴鎮"
+        ]
+      },
+      {
+        "id": "overture:0f064c4c-0340-49e9-982e-c9737d85ff6b",
+        "en": "Labasa",
+        "zh": "拉巴萨",
+        "lat": -16.433275,
+        "lon": 179.366485,
+        "region": "csc:r:1921",
+        "kind": "municipality",
+        "aliases": [
+          "Labasa Town Council",
+          "兰巴萨"
+        ]
+      },
+      {
+        "id": "overture:83423bf0-1204-4000-bd65-5f8e2cf4c5cb",
+        "en": "Lami",
+        "zh": "拉米",
+        "lat": -18.113295,
+        "lon": 178.406745,
+        "region": "csc:r:1929",
+        "kind": "municipality",
+        "aliases": [
+          "Lami Town Council"
+        ]
+      },
+      {
+        "id": "csc:39140",
+        "en": "Lautoka",
+        "zh": "劳托卡",
+        "lat": -17.604606,
+        "lon": 177.448277,
+        "region": "csc:r:1923",
+        "kind": "city",
+        "aliases": [
+          "Lautoka City Council"
+        ]
+      },
+      {
+        "id": "overture:b919e1b5-a3df-4b25-b554-564fe964bdbf",
+        "en": "Levuka",
+        "zh": "莱武卡",
+        "lat": -17.68069,
+        "lon": 178.833399,
+        "region": "csc:r:1932",
+        "kind": "municipality",
+        "aliases": [
+          "Levuka Town Council"
+        ]
+      },
+      {
+        "id": "overture:af690def-0d0a-4a62-9747-2fad6931fd51",
+        "en": "Nadi",
+        "zh": "楠迪",
+        "lat": -17.799273,
+        "lon": 177.417855,
+        "region": "csc:r:1923",
+        "kind": "municipality",
+        "aliases": [
+          "Nadi Town Council"
+        ]
+      },
+      {
+        "id": "overture:2f58d587-0039-43e8-b6ed-5c323f073a13",
+        "en": "Nasinu",
+        "zh": "纳西努",
+        "lat": -18.09644,
+        "lon": 178.480757,
+        "region": "csc:r:1929",
+        "kind": "municipality",
+        "aliases": [
+          "Nasinu Town Council"
+        ]
+      },
+      {
+        "id": "overture:899f8aa5-ff4b-468e-976d-0f7916856199",
+        "en": "Nausori",
+        "zh": "瑙索里",
+        "lat": -18.028719,
+        "lon": 178.528999,
+        "region": "csc:r:1929",
+        "kind": "municipality",
+        "aliases": [
+          "Nausori Town Council"
+        ]
+      },
+      {
+        "id": "overture:c14d57fc-4eae-4dd9-8af1-0585814705c6",
+        "en": "Rakiraki",
+        "zh": "拉基拉基",
+        "lat": -17.378074,
+        "lon": 178.1531,
+        "region": "csc:r:1923",
+        "kind": "municipality",
+        "aliases": [
+          "Rakiraki Town Council"
+        ]
+      },
+      {
+        "id": "overture:ff562996-8187-4b30-8e62-c810159991f7",
+        "en": "Savusavu",
+        "zh": "萨武萨武",
+        "lat": -16.780218,
+        "lon": 179.332896,
+        "region": "csc:r:1921",
+        "kind": "municipality",
+        "aliases": [
+          "Savusavu Town Council"
+        ]
+      },
+      {
+        "id": "overture:b0c40e1a-9d28-4d91-bd14-b328cab7c554",
+        "en": "Sigatoka",
+        "zh": "辛加东卡",
+        "lat": -18.138161,
+        "lon": 177.507779,
+        "region": "csc:r:1923",
+        "kind": "municipality",
+        "aliases": [
+          "Sigatoka Town Council",
+          "辛加東卡",
+          "辛阿托卡"
+        ]
+      },
+      {
+        "id": "csc:39151",
+        "en": "Suva",
+        "zh": "苏瓦",
+        "lat": -18.141588,
+        "lon": 178.442166,
+        "region": "csc:r:1929",
+        "kind": "capital",
+        "aliases": [
+          "Suva City Council"
+        ]
+      },
+      {
+        "id": "geonames:2197895",
+        "en": "Tavua",
+        "zh": "塔武阿",
+        "lat": -17.44221,
+        "lon": 177.86221,
+        "region": "csc:r:1923",
+        "kind": "municipality",
+        "aliases": [
+          "Tavua Town Council"
+        ]
+      }
+    ],
+    "retired": []
+  },
+  "GG": {
+    "cities": [
+      {
+        "id": "overture:047e8436-2d61-4de9-81b2-fda758cfd7b2",
+        "en": "Saint Peter Port",
+        "zh": "圣彼得港",
+        "lat": 49.456814,
+        "lon": -2.538998,
+        "region": null,
+        "kind": "capital",
+        "aliases": [
+          "St Peter Port",
+          "St. Peter Port",
+          "聖彼得港"
+        ]
+      }
+    ],
+    "retired": []
+  },
+  "GP": {
+    "cities": [
+      {
+        "id": "csc:154966",
+        "en": "Les Abymes",
+        "zh": "莱萨比姆",
+        "lat": 16.2712,
+        "lon": -61.5053,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97101"
+      },
+      {
+        "id": "csc:154967",
+        "en": "Anse-Bertrand",
+        "zh": "昂斯贝特朗",
+        "lat": 16.4721,
+        "lon": -61.5088,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97102"
+      },
+      {
+        "id": "csc:154948",
+        "en": "Baie-Mahault",
+        "zh": "拜马欧",
+        "lat": 16.2678,
+        "lon": -61.587,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97103"
+      },
+      {
+        "id": "csc:154949",
+        "en": "Baillif",
+        "zh": "巴伊夫",
+        "lat": 16.021,
+        "lon": -61.7467,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97104"
+      },
+      {
+        "id": "csc:154950",
+        "en": "Basse-Terre",
+        "zh": "巴斯特尔",
+        "lat": 15.997,
+        "lon": -61.7323,
+        "region": null,
+        "kind": "capital",
+        "officialId": "97105"
+      },
+      {
+        "id": "csc:154951",
+        "en": "Bouillante",
+        "zh": "布扬特",
+        "lat": 16.1324,
+        "lon": -61.7698,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97106"
+      },
+      {
+        "id": "csc:154952",
+        "en": "Capesterre-Belle-Eau",
+        "zh": "卡佩斯泰尔贝洛",
+        "lat": 16.0424,
+        "lon": -61.5647,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97107"
+      },
+      {
+        "id": "csc:154968",
+        "en": "Capesterre-de-Marie-Galante",
+        "zh": "卡佩斯泰尔德玛丽-加朗特",
+        "lat": 15.8923,
+        "lon": -61.2211,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97108"
+      },
+      {
+        "id": "csc:154954",
+        "en": "Gourbeyre",
+        "zh": "古贝尔",
+        "lat": 15.9946,
+        "lon": -61.6924,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97109"
+      },
+      {
+        "id": "csc:154969",
+        "en": "La Désirade",
+        "zh": "拉代西拉德",
+        "lat": 16.3036,
+        "lon": -61.0756,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97110"
+      },
+      {
+        "id": "csc:154953",
+        "en": "Deshaies",
+        "zh": "德赛",
+        "lat": 16.307,
+        "lon": -61.7943,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97111"
+      },
+      {
+        "id": "csc:154971",
+        "en": "Grand-Bourg",
+        "zh": "格朗堡",
+        "lat": 15.8827,
+        "lon": -61.3164,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97112"
+      },
+      {
+        "id": "csc:154970",
+        "en": "Le Gosier",
+        "zh": "勒戈西耶",
+        "lat": 16.2059,
+        "lon": -61.4921,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97113"
+      },
+      {
+        "id": "csc:154955",
+        "en": "Goyave",
+        "zh": "瓜亚沃",
+        "lat": 16.1328,
+        "lon": -61.5749,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97114"
+      },
+      {
+        "id": "csc:154956",
+        "en": "Lamentin",
+        "zh": "拉芒坦",
+        "lat": 16.2715,
+        "lon": -61.6333,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97115"
+      },
+      {
+        "id": "csc:154972",
+        "en": "Morne-à-l'Eau",
+        "zh": "莫尔纳洛",
+        "lat": 16.3316,
+        "lon": -61.4572,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97116"
+      },
+      {
+        "id": "csc:154973",
+        "en": "Le Moule",
+        "zh": "勒穆勒",
+        "lat": 16.3312,
+        "lon": -61.3437,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97117"
+      },
+      {
+        "id": "csc:154957",
+        "en": "Petit-Bourg",
+        "zh": "珀蒂堡",
+        "lat": 16.1915,
+        "lon": -61.5904,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97118"
+      },
+      {
+        "id": "csc:154974",
+        "en": "Petit-Canal",
+        "zh": "珀蒂卡纳勒",
+        "lat": 16.3788,
+        "lon": -61.4899,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97119"
+      },
+      {
+        "id": "csc:154975",
+        "en": "Pointe-à-Pitre",
+        "zh": "皮特尔角城",
+        "lat": 16.241,
+        "lon": -61.5336,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97120"
+      },
+      {
+        "id": "csc:154958",
+        "en": "Pointe-Noire",
+        "zh": "潘特努瓦尔",
+        "lat": 16.2326,
+        "lon": -61.7902,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97121"
+      },
+      {
+        "id": "csc:154976",
+        "en": "Port-Louis",
+        "zh": "路易港",
+        "lat": 16.4169,
+        "lon": -61.5325,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97122"
+      },
+      {
+        "id": "csc:154959",
+        "en": "Saint-Claude",
+        "zh": "圣克洛德",
+        "lat": 16.0281,
+        "lon": -61.6969,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97124"
+      },
+      {
+        "id": "csc:154977",
+        "en": "Saint-François",
+        "zh": "圣弗朗索瓦",
+        "lat": 16.2515,
+        "lon": -61.2742,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97125"
+      },
+      {
+        "id": "csc:154978",
+        "en": "Saint-Louis",
+        "zh": "圣路易",
+        "lat": 15.9539,
+        "lon": -61.319,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97126"
+      },
+      {
+        "id": "csc:154979",
+        "en": "Sainte-Anne",
+        "zh": "圣安娜",
+        "lat": 16.2255,
+        "lon": -61.386,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97128"
+      },
+      {
+        "id": "csc:154960",
+        "en": "Sainte-Rose",
+        "zh": "圣罗斯",
+        "lat": 16.3332,
+        "lon": -61.6984,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97129"
+      },
+      {
+        "id": "csc:154961",
+        "en": "Terre-de-Bas",
+        "zh": "特尔德巴",
+        "lat": 15.8496,
+        "lon": -61.6433,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97130"
+      },
+      {
+        "id": "csc:154962",
+        "en": "Terre-de-Haut",
+        "zh": "特尔德欧",
+        "lat": 15.8667,
+        "lon": -61.5824,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97131"
+      },
+      {
+        "id": "csc:154963",
+        "en": "Trois-Rivières",
+        "zh": "三河镇",
+        "lat": 15.9765,
+        "lon": -61.6446,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97132"
+      },
+      {
+        "id": "csc:154964",
+        "en": "Vieux-Fort",
+        "zh": "维约堡",
+        "lat": 15.9485,
+        "lon": -61.6977,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97133"
+      },
+      {
+        "id": "csc:154965",
+        "en": "Vieux-Habitants",
+        "zh": "维约萨比唐",
+        "lat": 16.06,
+        "lon": -61.7645,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97134"
+      }
+    ],
+    "retired": []
+  },
+  "KW": {
+    "cities": [
+      {
+        "id": "overture:85b2dbc5-0ffe-434e-8313-ef8c0d6212f5",
+        "en": "Ahmadi",
+        "zh": "艾哈迈迪",
+        "lat": 29.08907,
+        "lon": 48.06102,
+        "region": "csc:r:977",
+        "kind": "locality",
+        "aliases": [
+          "الأحمدي",
+          "Al Ahmadi"
+        ]
+      },
+      {
+        "id": "overture:a29c3749-4829-414d-96bf-c6bc8c71e848",
+        "en": "Al Jahra",
+        "zh": "杰赫拉",
+        "lat": 29.34746,
+        "lon": 47.6722,
+        "region": "csc:r:972",
+        "kind": "locality",
+        "aliases": [
+          "الجهراء",
+          "傑赫拉",
+          "阿尔贾赫拉"
+        ]
+      },
+      {
+        "id": "overture:83ac7638-a19b-4e4e-bd52-078e3648c821",
+        "en": "Sabah Al-Ahmad",
+        "zh": null,
+        "lat": 28.78236,
+        "lon": 48.06365,
+        "region": "csc:r:977",
+        "kind": "locality",
+        "aliases": [
+          "صباح الأحمد",
+          "Sabah Al Ahmad",
+          "Sabah Al-Ahmed City"
+        ]
+      }
+    ],
+    "retired": []
+  },
+  "LU": {
+    "cities": [
+      {
+        "id": "csc:66757",
+        "region": "csc:r:1513",
+        "kind": "city",
+        "zh": "迪基希",
+        "en": "Diekirch",
+        "lat": 49.86778,
+        "lon": 6.15583
+      },
+      {
+        "id": "csc:66758",
+        "region": "csc:r:1517",
+        "kind": "city",
+        "zh": "迪弗当日",
+        "en": "Differdange",
+        "lat": 49.52417,
+        "lon": 5.89139
+      },
+      {
+        "id": "csc:66760",
+        "region": "csc:r:1517",
+        "kind": "city",
+        "zh": "迪德朗日",
+        "en": "Dudelange",
+        "lat": 49.48056,
+        "lon": 6.0875
+      },
+      {
+        "id": "csc:66761",
+        "region": "csc:r:1515",
+        "kind": "city",
+        "zh": "埃希特纳赫",
+        "en": "Echternach",
+        "lat": 49.81212,
+        "lon": 6.41846
+      },
+      {
+        "id": "csc:66765",
+        "en": "Esch-sur-Alzette",
+        "zh": "阿尔泽特河畔埃施",
+        "lat": 49.49583,
+        "lon": 5.98056,
+        "region": "csc:r:1517",
+        "kind": "city",
+        "aliases": [
+          "埃施",
+          "阿尔泽特河畔埃什"
+        ]
+      },
+      {
+        "id": "csc:66767",
+        "region": "csc:r:1513",
+        "kind": "city",
+        "zh": "埃特尔布吕克",
+        "en": "Ettelbruck",
+        "lat": 49.8475,
+        "lon": 6.10417
+      },
+      {
+        "id": "csc:66776",
+        "region": "csc:r:5836",
+        "kind": "city",
+        "zh": "格雷文马赫",
+        "en": "Grevenmacher",
+        "lat": 49.67751,
+        "lon": 6.44022
+      },
+      {
+        "id": "csc:66801",
+        "region": "csc:r:5835",
+        "kind": "capital",
+        "zh": "卢森堡市",
+        "en": "Luxembourg",
+        "lat": 49.61167,
+        "lon": 6.13,
+        "aliases": [
+          "Luxembourg City",
+          "卢森堡市"
+        ]
+      },
+      {
+        "id": "csc:66827",
+        "en": "Remich",
+        "zh": "雷米希",
+        "lat": 49.545,
+        "lon": 6.36694,
+        "region": "csc:r:1519",
+        "kind": "city",
+        "aliases": [
+          "雷米赫"
+        ]
+      },
+      {
+        "id": "csc:66832",
+        "region": "csc:r:1517",
+        "kind": "city",
+        "zh": "吕姆朗日",
+        "en": "Rumelange",
+        "lat": 49.45964,
+        "lon": 6.03089
+      },
+      {
+        "id": "csc:66853",
+        "en": "Vianden",
+        "zh": "维安登",
+        "lat": 49.935,
+        "lon": 6.20889,
+        "region": "csc:r:1523",
+        "kind": "city",
+        "aliases": [
+          "維安登"
+        ]
+      },
+      {
+        "id": "csc:66863",
+        "region": "csc:r:1526",
+        "kind": "city",
+        "zh": "威尔茨",
+        "en": "Wiltz",
+        "lat": 49.96547,
+        "lon": 5.9339
+      }
+    ],
+    "retired": []
+  },
+  "MF": {
+    "cities": [
+      {
+        "id": "overture:80ea4f40-5e19-4f09-a3dc-f66b623fe575",
+        "en": "Marigot",
+        "zh": "马里戈特",
+        "lat": 18.066854,
+        "lon": -63.084887,
+        "region": null,
+        "kind": "capital",
+        "aliases": [
+          "馬里戈特",
+          "马里戈"
+        ]
+      }
+    ],
+    "retired": []
+  },
+  "MP": {
+    "cities": [
+      {
+        "id": "us-census:69085",
+        "en": "Northern Islands",
+        "zh": "北部群岛",
+        "lat": 18.116365,
+        "lon": 145.766702,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "69085",
+        "aliases": [
+          "Northern Islands Municipality"
+        ]
+      },
+      {
+        "id": "us-census:69100",
+        "en": "Rota",
+        "zh": "罗塔",
+        "lat": 14.152493,
+        "lon": 145.212904,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "69100",
+        "aliases": [
+          "Rota Municipality",
+          "罗塔岛"
+        ]
+      },
+      {
+        "id": "us-census:69110",
+        "en": "Saipan",
+        "zh": "塞班",
+        "lat": 15.210661,
+        "lon": 145.752444,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "69110",
+        "aliases": [
+          "Saipan Municipality",
+          "Capitol Hill",
+          "卡皮托尔希尔",
+          "塞班岛"
+        ]
+      },
+      {
+        "id": "us-census:69120",
+        "en": "Tinian",
+        "zh": "天宁",
+        "lat": 14.997542,
+        "lon": 145.620806,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "69120",
+        "aliases": [
+          "Tinian and Aguiguan",
+          "Tinian Municipality",
+          "天宁岛"
+        ]
+      }
+    ],
+    "retired": []
+  },
+  "MQ": {
+    "cities": [
+      {
+        "id": "csc:154984",
+        "en": "L'Ajoupa-Bouillon",
+        "zh": "拉茹帕布永",
+        "lat": 14.8248,
+        "lon": -61.1145,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97201"
+      },
+      {
+        "id": "csc:154994",
+        "en": "Les Anses-d'Arlet",
+        "zh": "莱桑斯达莱",
+        "lat": 14.4911,
+        "lon": -61.0801,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97202"
+      },
+      {
+        "id": "csc:154985",
+        "en": "Basse-Pointe",
+        "zh": "巴斯潘特",
+        "lat": 14.8685,
+        "lon": -61.1201,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97203"
+      },
+      {
+        "id": "csc:155007",
+        "en": "Le Carbet",
+        "zh": "勒卡尔贝",
+        "lat": 14.7121,
+        "lon": -61.1832,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97204"
+      },
+      {
+        "id": "csc:155008",
+        "en": "Case-Pilote",
+        "zh": "卡斯皮洛特",
+        "lat": 14.6432,
+        "lon": -61.139,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97205"
+      },
+      {
+        "id": "csc:154995",
+        "en": "Le Diamant",
+        "zh": "勒迪亚芒",
+        "lat": 14.4801,
+        "lon": -61.0254,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97206"
+      },
+      {
+        "id": "csc:154996",
+        "en": "Ducos",
+        "zh": "迪科",
+        "lat": 14.5759,
+        "lon": -60.9758,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97207"
+      },
+      {
+        "id": "csc:155009",
+        "en": "Fonds-Saint-Denis",
+        "zh": "丰圣但尼",
+        "lat": 14.7389,
+        "lon": -61.1325,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97208"
+      },
+      {
+        "id": "csc:154980",
+        "en": "Fort-de-France",
+        "zh": "法兰西堡",
+        "lat": 14.6072,
+        "lon": -61.0695,
+        "region": null,
+        "kind": "capital",
+        "officialId": "97209"
+      },
+      {
+        "id": "csc:154997",
+        "en": "Le François",
+        "zh": "勒弗朗索瓦",
+        "lat": 14.6154,
+        "lon": -60.9028,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97210"
+      },
+      {
+        "id": "csc:154986",
+        "en": "Grand'Rivière",
+        "zh": "格朗里维耶尔",
+        "lat": 14.8735,
+        "lon": -61.1814,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97211"
+      },
+      {
+        "id": "csc:154987",
+        "en": "Gros-Morne",
+        "zh": "格罗莫讷",
+        "lat": 14.7103,
+        "lon": -61.0048,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97212"
+      },
+      {
+        "id": "csc:154981",
+        "en": "Le Lamentin",
+        "zh": "勒拉芒坦",
+        "lat": 14.6154,
+        "lon": -61.0035,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97213"
+      },
+      {
+        "id": "csc:154988",
+        "en": "Le Lorrain",
+        "zh": "勒洛兰",
+        "lat": 14.8327,
+        "lon": -61.0556,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97214"
+      },
+      {
+        "id": "csc:154989",
+        "en": "Macouba",
+        "zh": "马库巴",
+        "lat": 14.8762,
+        "lon": -61.145,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97215"
+      },
+      {
+        "id": "csc:154990",
+        "en": "Le Marigot",
+        "zh": "莱马里戈",
+        "lat": 14.8215,
+        "lon": -61.0282,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97216"
+      },
+      {
+        "id": "csc:154998",
+        "en": "Le Marin",
+        "zh": "勒马兰",
+        "lat": 14.4714,
+        "lon": -60.8707,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97217"
+      },
+      {
+        "id": "csc:155010",
+        "en": "Le Morne-Rouge",
+        "zh": "勒莫讷鲁日",
+        "lat": 14.7728,
+        "lon": -61.1348,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97218"
+      },
+      {
+        "id": "csc:155012",
+        "en": "Le Prêcheur",
+        "zh": "勒普雷舍",
+        "lat": 14.8012,
+        "lon": -61.2246,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97219"
+      },
+      {
+        "id": "csc:154999",
+        "en": "Rivière-Pilote",
+        "zh": "里维耶尔皮洛特",
+        "lat": 14.4867,
+        "lon": -60.9033,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97220"
+      },
+      {
+        "id": "csc:155000",
+        "en": "Rivière-Salée",
+        "zh": "里维耶尔萨莱",
+        "lat": 14.5241,
+        "lon": -60.9749,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97221"
+      },
+      {
+        "id": "csc:154991",
+        "en": "Le Robert",
+        "zh": "勒罗贝尔",
+        "lat": 14.6776,
+        "lon": -60.9392,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97222"
+      },
+      {
+        "id": "csc:155001",
+        "en": "Saint-Esprit",
+        "zh": "圣埃斯普里",
+        "lat": 14.5606,
+        "lon": -60.9372,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97223"
+      },
+      {
+        "id": "csc:154982",
+        "en": "Saint-Joseph",
+        "zh": "圣约瑟夫",
+        "lat": 14.6702,
+        "lon": -61.0395,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97224"
+      },
+      {
+        "id": "csc:155013",
+        "en": "Saint-Pierre",
+        "zh": "圣皮埃尔",
+        "lat": 14.7431,
+        "lon": -61.1751,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97225"
+      },
+      {
+        "id": "csc:155002",
+        "en": "Sainte-Anne",
+        "zh": "圣安娜",
+        "lat": 14.435,
+        "lon": -60.8812,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97226"
+      },
+      {
+        "id": "csc:155003",
+        "en": "Sainte-Luce",
+        "zh": "圣吕斯",
+        "lat": 14.4683,
+        "lon": -60.9216,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97227"
+      },
+      {
+        "id": "csc:154992",
+        "en": "Sainte-Marie",
+        "zh": "圣玛丽",
+        "lat": 14.7814,
+        "lon": -60.9935,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97228"
+      },
+      {
+        "id": "csc:154983",
+        "en": "Schœlcher",
+        "zh": "舍尔谢",
+        "lat": 14.616,
+        "lon": -61.1013,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97229"
+      },
+      {
+        "id": "csc:154993",
+        "en": "La Trinité",
+        "zh": "拉特里尼泰",
+        "lat": 14.7386,
+        "lon": -60.9632,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97230"
+      },
+      {
+        "id": "csc:155004",
+        "en": "Les Trois-Îlets",
+        "zh": "莱特鲁瓦西莱",
+        "lat": 14.5393,
+        "lon": -61.0337,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97231",
+        "aliases": [
+          "萊特魯瓦西萊"
+        ]
+      },
+      {
+        "id": "csc:155005",
+        "en": "Le Vauclin",
+        "zh": "勒沃克兰",
+        "lat": 14.5451,
+        "lon": -60.84,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97232"
+      },
+      {
+        "id": "csc:155011",
+        "en": "Le Morne-Vert",
+        "zh": "勒莫讷韦尔",
+        "lat": 14.7075,
+        "lon": -61.1443,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97233"
+      },
+      {
+        "id": "csc:155006",
+        "en": "Bellefontaine",
+        "zh": "贝尔方丹",
+        "lat": 14.6737,
+        "lon": -61.1644,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97234"
+      }
+    ],
+    "retired": []
+  },
+  "MS": {
+    "cities": [
+      {
+        "id": "overture:495de63c-b07c-4561-abca-83f829bfed62",
+        "en": "Brades",
+        "zh": "布莱兹",
+        "lat": 16.789875,
+        "lon": -62.209943,
+        "region": "ms:r:saint-peter",
+        "kind": "capital"
+      }
+    ],
+    "retired": []
+  },
+  "NF": {
+    "cities": [
+      {
+        "id": "overture:f063a844-dac7-42cc-8b52-ab20f10623c1",
+        "en": "Kingston",
+        "zh": "金斯敦",
+        "lat": -29.056356,
+        "lon": 167.959573,
+        "region": null,
+        "kind": "locality",
+        "aliases": [
+          "金斯顿"
+        ]
+      }
+    ],
+    "retired": []
+  },
+  "NU": {
+    "cities": [
+      {
+        "id": "overture:c91c8f54-0d12-4f2a-aefb-db8c75404015",
+        "en": "Alofi",
+        "zh": "阿洛菲",
+        "lat": -19.053416,
+        "lon": -169.919199,
+        "region": null,
+        "kind": "capital"
+      },
+      {
+        "id": "nu:local:alofinorth",
+        "en": "Alofi North",
+        "zh": "阿洛菲北",
+        "lat": -19.048876,
+        "lon": -169.885375,
+        "region": null,
+        "kind": "municipality"
+      },
+      {
+        "id": "nu:local:alofisouth",
+        "en": "Alofi South",
+        "zh": "阿洛菲南",
+        "lat": -19.073809,
+        "lon": -169.907007,
+        "region": null,
+        "kind": "municipality"
+      },
+      {
+        "id": "nu:local:avatele",
+        "en": "Avatele",
+        "zh": "阿瓦泰勒",
+        "lat": -19.126668,
+        "lon": -169.911657,
+        "region": null,
+        "kind": "municipality"
+      },
+      {
+        "id": "nu:local:hakupu",
+        "en": "Hakupu",
+        "zh": "哈库普",
+        "lat": -19.128422,
+        "lon": -169.843129,
+        "region": null,
+        "kind": "municipality"
+      },
+      {
+        "id": "nu:local:hikutavake",
+        "en": "Hikutavake",
+        "zh": "希库塔瓦克",
+        "lat": -18.965633,
+        "lon": -169.880636,
+        "region": null,
+        "kind": "municipality"
+      },
+      {
+        "id": "nu:local:lakepa",
+        "en": "Lakepa",
+        "zh": "拉凯帕",
+        "lat": -19.009143,
+        "lon": -169.806106,
+        "region": null,
+        "kind": "municipality"
+      },
+      {
+        "id": "nu:local:liku",
+        "en": "Liku",
+        "zh": "利库",
+        "lat": -19.053395,
+        "lon": -169.788614,
+        "region": null,
+        "kind": "municipality"
+      },
+      {
+        "id": "nu:local:makefu",
+        "en": "Makefu",
+        "zh": "马凯富",
+        "lat": -19.00245,
+        "lon": -169.914426,
+        "region": null,
+        "kind": "municipality"
+      },
+      {
+        "id": "nu:local:mutalau",
+        "en": "Mutalau",
+        "zh": "穆塔劳",
+        "lat": -18.961735,
+        "lon": -169.828275,
+        "region": null,
+        "kind": "municipality"
+      },
+      {
+        "id": "nu:local:namukulu",
+        "en": "Namukulu",
+        "zh": "纳穆库卢",
+        "lat": -18.977559,
+        "lon": -169.896175,
+        "region": null,
+        "kind": "municipality",
+        "aliases": [
+          "大村"
+        ]
+      },
+      {
+        "id": "nu:local:tamakautoga",
+        "en": "Tamakautoga",
+        "zh": "塔马考通加",
+        "lat": -19.104524,
+        "lon": -169.917382,
+        "region": null,
+        "kind": "municipality"
+      },
+      {
+        "id": "nu:local:toi",
+        "en": "Toi",
+        "zh": "托伊",
+        "lat": -18.974405,
+        "lon": -169.8581,
+        "region": null,
+        "kind": "municipality"
+      },
+      {
+        "id": "nu:local:tuapa",
+        "en": "Tuapa",
+        "zh": "图阿帕",
+        "lat": -18.989318,
+        "lon": -169.902951,
+        "region": null,
+        "kind": "municipality"
+      },
+      {
+        "id": "nu:local:vaiea",
+        "en": "Vaiea",
+        "zh": "瓦伊埃阿",
+        "lat": -19.131941,
+        "lon": -169.887528,
+        "region": null,
+        "kind": "municipality"
+      }
+    ],
+    "retired": []
+  },
+  "PF": {
+    "cities": [
+      {
+        "id": "csc:154885",
+        "en": "Anaa",
+        "zh": "阿纳",
+        "lat": -17.34551,
+        "lon": -145.51734,
+        "region": "pf:r:tuamotu-gambier",
+        "kind": "municipality",
+        "aliases": [
+          "Tukuhora"
+        ],
+        "officialId": "98711"
+      },
+      {
+        "id": "csc:154902",
+        "en": "Arue",
+        "zh": "阿鲁埃",
+        "lat": -17.523938,
+        "lon": -149.516713,
+        "region": "pf:r:windward",
+        "kind": "municipality",
+        "officialId": "98712"
+      },
+      {
+        "id": "csc:154886",
+        "en": "Arutua",
+        "zh": "阿鲁图阿",
+        "lat": -15.361512,
+        "lon": -146.621151,
+        "region": "pf:r:tuamotu-gambier",
+        "kind": "municipality",
+        "aliases": [
+          "Rautini"
+        ],
+        "officialId": "98713"
+      },
+      {
+        "id": "csc:154872",
+        "en": "Bora-Bora",
+        "zh": "博拉博拉",
+        "lat": -16.503491,
+        "lon": -151.747848,
+        "region": "pf:r:leeward",
+        "kind": "municipality",
+        "aliases": [
+          "Vaitape"
+        ],
+        "officialId": "98714"
+      },
+      {
+        "id": "csc:154903",
+        "en": "Faaa",
+        "zh": "法阿",
+        "lat": -17.55902,
+        "lon": -149.602258,
+        "region": "pf:r:windward",
+        "kind": "municipality",
+        "officialId": "98715"
+      },
+      {
+        "id": "csc:154887",
+        "en": "Fakarava",
+        "zh": "法卡拉瓦",
+        "lat": -16.063029,
+        "lon": -145.615709,
+        "region": "pf:r:tuamotu-gambier",
+        "kind": "municipality",
+        "aliases": [
+          "Rotoava"
+        ],
+        "officialId": "98716"
+      },
+      {
+        "id": "csc:154888",
+        "en": "Fangatau",
+        "zh": "方阿陶",
+        "lat": -15.828678,
+        "lon": -140.891116,
+        "region": "pf:r:tuamotu-gambier",
+        "kind": "municipality",
+        "aliases": [
+          "Teana"
+        ],
+        "officialId": "98717"
+      },
+      {
+        "id": "csc:154879",
+        "en": "Fatu-Hiva",
+        "zh": "法图伊瓦",
+        "lat": -10.51069,
+        "lon": -138.678806,
+        "region": "pf:r:marquesas",
+        "kind": "municipality",
+        "aliases": [
+          "Omoa",
+          "法图希瓦",
+          "法圖伊瓦"
+        ],
+        "officialId": "98718"
+      },
+      {
+        "id": "csc:154889",
+        "en": "Gambier",
+        "zh": "甘比尔",
+        "lat": -23.120265,
+        "lon": -134.969826,
+        "region": "pf:r:tuamotu-gambier",
+        "kind": "municipality",
+        "aliases": [
+          "Rikitea"
+        ],
+        "officialId": "98719"
+      },
+      {
+        "id": "csc:154890",
+        "en": "Hao",
+        "zh": "豪镇",
+        "lat": -18.106728,
+        "lon": -140.905389,
+        "region": "pf:r:tuamotu-gambier",
+        "kind": "municipality",
+        "aliases": [
+          "Otepa"
+        ],
+        "officialId": "98720"
+      },
+      {
+        "id": "csc:154891",
+        "en": "Hikueru",
+        "zh": "希库埃鲁",
+        "lat": -17.546847,
+        "lon": -142.668584,
+        "region": "pf:r:tuamotu-gambier",
+        "kind": "municipality",
+        "aliases": [
+          "Tupapati"
+        ],
+        "officialId": "98721"
+      },
+      {
+        "id": "csc:154904",
+        "en": "Hitiaa O Te Ra",
+        "zh": "希蒂阿奥泰拉",
+        "lat": -17.544106,
+        "lon": -149.343566,
+        "region": "pf:r:windward",
+        "kind": "municipality",
+        "aliases": [
+          "Tiarei"
+        ],
+        "officialId": "98722"
+      },
+      {
+        "id": "csc:154880",
+        "en": "Hiva-Oa",
+        "zh": "希瓦瓦",
+        "lat": -9.800459,
+        "lon": -139.034488,
+        "region": "pf:r:marquesas",
+        "kind": "municipality",
+        "aliases": [
+          "Atuona"
+        ],
+        "officialId": "98723"
+      },
+      {
+        "id": "csc:154873",
+        "en": "Huahine",
+        "zh": "胡阿希内",
+        "lat": -16.711046,
+        "lon": -151.031761,
+        "region": "pf:r:leeward",
+        "kind": "municipality",
+        "aliases": [
+          "Fare"
+        ],
+        "officialId": "98724"
+      },
+      {
+        "id": "csc:154905",
+        "en": "Mahina",
+        "zh": "马希纳",
+        "lat": -17.502388,
+        "lon": -149.489791,
+        "region": "pf:r:windward",
+        "kind": "municipality",
+        "officialId": "98725"
+      },
+      {
+        "id": "csc:154892",
+        "en": "Makemo",
+        "zh": "马凯莫",
+        "lat": -16.624127,
+        "lon": -143.571821,
+        "region": "pf:r:tuamotu-gambier",
+        "kind": "municipality",
+        "aliases": [
+          "Pouheva"
+        ],
+        "officialId": "98726"
+      },
+      {
+        "id": "csc:154893",
+        "en": "Manihi",
+        "zh": "马尼希",
+        "lat": -14.461912,
+        "lon": -146.057919,
+        "region": "pf:r:tuamotu-gambier",
+        "kind": "municipality",
+        "aliases": [
+          "Paeua"
+        ],
+        "officialId": "98727"
+      },
+      {
+        "id": "csc:154874",
+        "en": "Maupiti",
+        "zh": "莫皮蒂",
+        "lat": -16.452245,
+        "lon": -152.251107,
+        "region": "pf:r:leeward",
+        "kind": "municipality",
+        "aliases": [
+          "Vaiea"
+        ],
+        "officialId": "98728"
+      },
+      {
+        "id": "csc:154906",
+        "en": "Moorea-Maiao",
+        "zh": "莫雷阿-马伊奥",
+        "lat": -17.55131,
+        "lon": -149.794956,
+        "region": "pf:r:windward",
+        "kind": "municipality",
+        "aliases": [
+          "Afareaitu"
+        ],
+        "officialId": "98729"
+      },
+      {
+        "id": "csc:154894",
+        "en": "Napuka",
+        "zh": "纳普卡",
+        "lat": -14.165815,
+        "lon": -141.270415,
+        "region": "pf:r:tuamotu-gambier",
+        "kind": "municipality",
+        "aliases": [
+          "Tepukamaruia"
+        ],
+        "officialId": "98730"
+      },
+      {
+        "id": "csc:154881",
+        "en": "Nuku-Hiva",
+        "zh": "努库希瓦",
+        "lat": -8.905051,
+        "lon": -140.102198,
+        "region": "pf:r:marquesas",
+        "kind": "municipality",
+        "aliases": [
+          "Taiohae"
+        ],
+        "officialId": "98731"
+      },
+      {
+        "id": "csc:154895",
+        "en": "Nukutavake",
+        "zh": "努库塔瓦克",
+        "lat": -19.276843,
+        "lon": -138.773184,
+        "region": "pf:r:tuamotu-gambier",
+        "kind": "municipality",
+        "aliases": [
+          "Tavava"
+        ],
+        "officialId": "98732"
+      },
+      {
+        "id": "csc:154907",
+        "en": "Paea",
+        "zh": "帕埃亚",
+        "lat": -17.687292,
+        "lon": -149.58416,
+        "region": "pf:r:windward",
+        "kind": "municipality",
+        "officialId": "98733",
+        "aliases": [
+          "帕埃亞"
+        ]
+      },
+      {
+        "id": "csc:154908",
+        "en": "Papara",
+        "zh": "帕帕拉",
+        "lat": -17.759631,
+        "lon": -149.503085,
+        "region": "pf:r:windward",
+        "kind": "municipality",
+        "officialId": "98734"
+      },
+      {
+        "id": "csc:154909",
+        "en": "Papeete",
+        "zh": "帕皮提",
+        "lat": -17.538563,
+        "lon": -149.567262,
+        "region": "pf:r:windward",
+        "kind": "capital",
+        "officialId": "98735"
+      },
+      {
+        "id": "csc:154910",
+        "en": "Pirae",
+        "zh": "皮雷",
+        "lat": -17.531173,
+        "lon": -149.547176,
+        "region": "pf:r:windward",
+        "kind": "municipality",
+        "officialId": "98736"
+      },
+      {
+        "id": "csc:154896",
+        "en": "Pukapuka",
+        "zh": "普卡普卡",
+        "lat": -14.810695,
+        "lon": -138.841613,
+        "region": "pf:r:tuamotu-gambier",
+        "kind": "municipality",
+        "aliases": [
+          "Teonemahina"
+        ],
+        "officialId": "98737"
+      },
+      {
+        "id": "csc:154911",
+        "en": "Punaauia",
+        "zh": "普纳奥亚",
+        "lat": -17.612799,
+        "lon": -149.612678,
+        "region": "pf:r:windward",
+        "kind": "municipality",
+        "officialId": "98738"
+      },
+      {
+        "id": "csc:154867",
+        "en": "Raivavae",
+        "zh": "赖瓦瓦埃",
+        "lat": -23.870379,
+        "lon": -147.687144,
+        "region": "pf:r:austral",
+        "kind": "municipality",
+        "aliases": [
+          "Rairua-Mahanatoa"
+        ],
+        "officialId": "98739"
+      },
+      {
+        "id": "csc:154897",
+        "en": "Rangiroa",
+        "zh": "朗伊罗阿",
+        "lat": -14.942213,
+        "lon": -147.703899,
+        "region": "pf:r:tuamotu-gambier",
+        "kind": "municipality",
+        "aliases": [
+          "Avatoru"
+        ],
+        "officialId": "98740"
+      },
+      {
+        "id": "csc:154868",
+        "en": "Rapa",
+        "zh": "拉帕",
+        "lat": -27.61962,
+        "lon": -144.33626,
+        "region": "pf:r:austral",
+        "kind": "municipality",
+        "aliases": [
+          "Aurei"
+        ],
+        "officialId": "98741"
+      },
+      {
+        "id": "csc:154898",
+        "en": "Reao",
+        "zh": "雷奥",
+        "lat": -18.466661,
+        "lon": -136.463821,
+        "region": "pf:r:tuamotu-gambier",
+        "kind": "municipality",
+        "aliases": [
+          "Tapuarava"
+        ],
+        "officialId": "98742"
+      },
+      {
+        "id": "csc:154869",
+        "en": "Rimatara",
+        "zh": "里马塔拉",
+        "lat": -22.646694,
+        "lon": -152.793694,
+        "region": "pf:r:austral",
+        "kind": "municipality",
+        "aliases": [
+          "Amaru"
+        ],
+        "officialId": "98743"
+      },
+      {
+        "id": "csc:154870",
+        "en": "Rurutu",
+        "zh": "鲁鲁土",
+        "lat": -22.453048,
+        "lon": -151.344439,
+        "region": "pf:r:austral",
+        "kind": "municipality",
+        "aliases": [
+          "Moerai"
+        ],
+        "officialId": "98744"
+      },
+      {
+        "id": "csc:154875",
+        "en": "Tahaa",
+        "zh": "塔哈",
+        "lat": -16.584418,
+        "lon": -151.495746,
+        "region": "pf:r:leeward",
+        "kind": "municipality",
+        "aliases": [
+          "Patio"
+        ],
+        "officialId": "98745"
+      },
+      {
+        "id": "csc:154882",
+        "en": "Tahuata",
+        "zh": "塔瓦塔",
+        "lat": -9.936334,
+        "lon": -139.106299,
+        "region": "pf:r:marquesas",
+        "kind": "municipality",
+        "aliases": [
+          "Vaitahu"
+        ],
+        "officialId": "98746"
+      },
+      {
+        "id": "csc:154912",
+        "en": "Taiarapu-Est",
+        "zh": "东塔亚拉普",
+        "lat": -17.735344,
+        "lon": -149.303334,
+        "region": "pf:r:windward",
+        "kind": "municipality",
+        "aliases": [
+          "Afaahiti"
+        ],
+        "officialId": "98747"
+      },
+      {
+        "id": "csc:154913",
+        "en": "Taiarapu-Ouest",
+        "zh": "西塔亚拉普",
+        "lat": -17.817221,
+        "lon": -149.291555,
+        "region": "pf:r:windward",
+        "kind": "municipality",
+        "aliases": [
+          "Vairao"
+        ],
+        "officialId": "98748"
+      },
+      {
+        "id": "csc:154899",
+        "en": "Takaroa",
+        "zh": "塔卡罗阿",
+        "lat": -14.471962,
+        "lon": -145.038865,
+        "region": "pf:r:tuamotu-gambier",
+        "kind": "municipality",
+        "aliases": [
+          "Teavaroa"
+        ],
+        "officialId": "98749"
+      },
+      {
+        "id": "csc:154876",
+        "en": "Taputapuatea",
+        "zh": "塔普塔普阿泰",
+        "lat": -16.785375,
+        "lon": -151.415457,
+        "region": "pf:r:leeward",
+        "kind": "municipality",
+        "aliases": [
+          "Avera (Taputapuatea)"
+        ],
+        "officialId": "98750"
+      },
+      {
+        "id": "csc:154900",
+        "en": "Tatakoto",
+        "zh": "塔塔科托",
+        "lat": -17.344471,
+        "lon": -138.448394,
+        "region": "pf:r:tuamotu-gambier",
+        "kind": "municipality",
+        "aliases": [
+          "Tumukuru"
+        ],
+        "officialId": "98751"
+      },
+      {
+        "id": "csc:154914",
+        "en": "Teva I Uta",
+        "zh": "泰瓦伊乌塔",
+        "lat": -17.768043,
+        "lon": -149.410891,
+        "region": "pf:r:windward",
+        "kind": "municipality",
+        "aliases": [
+          "Mataiea"
+        ],
+        "officialId": "98752"
+      },
+      {
+        "id": "csc:154871",
+        "en": "Tubuai",
+        "zh": "土布艾",
+        "lat": -23.349123,
+        "lon": -149.485875,
+        "region": "pf:r:austral",
+        "kind": "municipality",
+        "aliases": [
+          "Mataura"
+        ],
+        "officialId": "98753"
+      },
+      {
+        "id": "csc:154877",
+        "en": "Tumaraa",
+        "zh": "图马拉",
+        "lat": -16.790713,
+        "lon": -151.487759,
+        "region": "pf:r:leeward",
+        "kind": "municipality",
+        "aliases": [
+          "Tevaitoa"
+        ],
+        "officialId": "98754"
+      },
+      {
+        "id": "csc:154901",
+        "en": "Tureia",
+        "zh": "图雷亚",
+        "lat": -20.770477,
+        "lon": -138.563892,
+        "region": "pf:r:tuamotu-gambier",
+        "kind": "municipality",
+        "aliases": [
+          "Fakamaru"
+        ],
+        "officialId": "98755"
+      },
+      {
+        "id": "csc:154883",
+        "en": "Ua-Huka",
+        "zh": "瓦胡卡",
+        "lat": -8.927979,
+        "lon": -139.575206,
+        "region": "pf:r:marquesas",
+        "kind": "municipality",
+        "aliases": [
+          "Vaipaee"
+        ],
+        "officialId": "98756"
+      },
+      {
+        "id": "csc:154884",
+        "en": "Ua-Pou",
+        "zh": "瓦普",
+        "lat": -9.36533,
+        "lon": -140.051158,
+        "region": "pf:r:marquesas",
+        "kind": "municipality",
+        "aliases": [
+          "Hakahau"
+        ],
+        "officialId": "98757"
+      },
+      {
+        "id": "csc:154878",
+        "en": "Uturoa",
+        "zh": "乌图罗阿",
+        "lat": -16.729285,
+        "lon": -151.45018,
+        "region": "pf:r:leeward",
+        "kind": "municipality",
+        "officialId": "98758",
+        "aliases": [
+          "烏圖羅阿"
+        ]
+      }
+    ],
+    "retired": []
+  },
+  "PN": {
+    "cities": [
+      {
+        "id": "overture:f8ea4133-f2cf-460c-802c-42ad310e829d",
+        "en": "Adamstown",
+        "zh": "亚当斯敦",
+        "lat": -25.066667,
+        "lon": -130.100205,
+        "region": null,
+        "kind": "capital",
+        "aliases": [
+          "亞當斯敦"
+        ]
+      }
+    ],
+    "retired": []
+  },
+  "RE": {
+    "cities": [
+      {
+        "id": "csc:155028",
+        "en": "Les Avirons",
+        "zh": "莱萨维龙",
+        "lat": -21.2419,
+        "lon": 55.3334,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97401"
+      },
+      {
+        "id": "csc:155014",
+        "en": "Bras-Panon",
+        "zh": "布拉帕农",
+        "lat": -20.9952,
+        "lon": 55.6762,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97402",
+        "aliases": [
+          "布拉斯-帕农"
+        ]
+      },
+      {
+        "id": "csc:155030",
+        "en": "Entre-Deux",
+        "zh": "昂特尔德",
+        "lat": -21.2488,
+        "lon": 55.4703,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97403"
+      },
+      {
+        "id": "csc:155031",
+        "en": "L'Étang-Salé",
+        "zh": "莱唐萨莱",
+        "lat": -21.266,
+        "lon": 55.3669,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97404"
+      },
+      {
+        "id": "csc:155032",
+        "en": "Petite-Île",
+        "zh": "珀蒂特伊勒",
+        "lat": -21.3558,
+        "lon": 55.566,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97405"
+      },
+      {
+        "id": "csc:155015",
+        "en": "La Plaine-des-Palmistes",
+        "zh": "拉普兰-德帕尔米斯特",
+        "lat": -21.135,
+        "lon": 55.6258,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97406"
+      },
+      {
+        "id": "csc:155023",
+        "en": "Le Port",
+        "zh": "勒波尔",
+        "lat": -20.9353,
+        "lon": 55.2903,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97407"
+      },
+      {
+        "id": "csc:155024",
+        "en": "La Possession",
+        "zh": "拉波塞雄",
+        "lat": -20.9265,
+        "lon": 55.3359,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97408"
+      },
+      {
+        "id": "csc:155016",
+        "en": "Saint-André",
+        "zh": "圣安德烈",
+        "lat": -20.9604,
+        "lon": 55.6505,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97409"
+      },
+      {
+        "id": "csc:155017",
+        "en": "Saint-Benoît",
+        "zh": "圣伯努瓦",
+        "lat": -21.034,
+        "lon": 55.7126,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97410"
+      },
+      {
+        "id": "csc:155020",
+        "en": "Saint-Denis",
+        "zh": "圣丹尼斯",
+        "lat": -20.8794,
+        "lon": 55.4478,
+        "region": null,
+        "kind": "capital",
+        "officialId": "97411"
+      },
+      {
+        "id": "csc:155033",
+        "en": "Saint-Joseph",
+        "zh": "圣约瑟夫",
+        "lat": -21.3786,
+        "lon": 55.6193,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97412"
+      },
+      {
+        "id": "csc:155025",
+        "en": "Saint-Leu",
+        "zh": "圣勒",
+        "lat": -21.1662,
+        "lon": 55.2869,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97413"
+      },
+      {
+        "id": "csc:155034",
+        "en": "Saint-Louis",
+        "zh": "圣路易",
+        "lat": -21.2866,
+        "lon": 55.4092,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97414"
+      },
+      {
+        "id": "csc:155026",
+        "en": "Saint-Paul",
+        "zh": "圣保罗",
+        "lat": -21.0097,
+        "lon": 55.2696,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97415"
+      },
+      {
+        "id": "csc:155036",
+        "en": "Saint-Pierre",
+        "zh": "圣皮埃尔",
+        "lat": -21.3418,
+        "lon": 55.4778,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97416"
+      },
+      {
+        "id": "csc:155035",
+        "en": "Saint-Philippe",
+        "zh": "圣菲利普",
+        "lat": -21.3594,
+        "lon": 55.7677,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97417"
+      },
+      {
+        "id": "csc:155021",
+        "en": "Sainte-Marie",
+        "zh": "圣玛丽",
+        "lat": -20.8969,
+        "lon": 55.5493,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97418"
+      },
+      {
+        "id": "csc:155018",
+        "en": "Sainte-Rose",
+        "zh": "圣罗斯",
+        "lat": -21.1276,
+        "lon": 55.7933,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97419"
+      },
+      {
+        "id": "csc:155022",
+        "en": "Sainte-Suzanne",
+        "zh": "圣苏珊",
+        "lat": -20.9056,
+        "lon": 55.6075,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97420"
+      },
+      {
+        "id": "csc:155019",
+        "en": "Salazie",
+        "zh": "萨拉济",
+        "lat": -21.0276,
+        "lon": 55.5391,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97421"
+      },
+      {
+        "id": "csc:155037",
+        "en": "Le Tampon",
+        "zh": "勒唐蓬",
+        "lat": -21.2782,
+        "lon": 55.5153,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97422"
+      },
+      {
+        "id": "csc:155027",
+        "en": "Les Trois-Bassins",
+        "zh": "莱特鲁瓦巴桑",
+        "lat": -21.1058,
+        "lon": 55.2949,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97423"
+      },
+      {
+        "id": "csc:155029",
+        "en": "Cilaos",
+        "zh": "锡拉奥斯",
+        "lat": -21.1366,
+        "lon": 55.4699,
+        "region": null,
+        "kind": "municipality",
+        "officialId": "97424"
+      }
+    ],
+    "retired": []
+  },
+  "SJ": {
+    "cities": [
+      {
+        "id": "overture:69ddc39b-0cda-49e4-8f69-59824efdf840",
+        "en": "Longyearbyen",
+        "zh": "朗伊尔城",
+        "lat": 78.223156,
+        "lon": 15.646366,
+        "region": null,
+        "kind": "municipality",
+        "aliases": [
+          "朗伊爾城",
+          "隆雅市"
+        ]
+      }
+    ],
+    "retired": []
+  },
+  "SX": {
+    "cities": [
+      {
+        "id": "overture:27225ef5-7e4b-4291-8e3a-50d30108d998",
+        "en": "Philipsburg",
+        "zh": "菲利普斯堡",
+        "lat": 18.025071,
+        "lon": -63.048307,
+        "region": null,
+        "kind": "capital"
+      }
+    ],
+    "retired": []
+  },
+  "TC": {
+    "cities": [
+      {
+        "id": "overture:0b06fcab-0671-424b-a5e5-215950d5b2e0",
+        "en": "Cockburn Town",
+        "zh": "科伯恩城",
+        "lat": 21.460772,
+        "lon": -71.139996,
+        "region": null,
+        "kind": "capital"
+      }
+    ],
+    "retired": []
+  },
+  "TK": {
+    "cities": [
+      {
+        "id": "overture:3c52a4e8-a483-4eb7-a687-5c4de9da85d2",
+        "en": "Atafu",
+        "zh": "阿塔富",
+        "lat": -8.538773,
+        "lon": -172.517815,
+        "region": null,
+        "kind": "municipality",
+        "aliases": [
+          "阿塔富环礁",
+          "阿塔富環礁"
+        ]
+      },
+      {
+        "id": "overture:529d62e4-af98-4cc1-bac1-b70ec8f8d166",
+        "en": "Fakaofo",
+        "zh": "法考福",
+        "lat": -9.374305,
+        "lon": -171.264536,
+        "region": null,
+        "kind": "municipality",
+        "aliases": [
+          "法考福环礁",
+          "法考福環礁"
+        ]
+      },
+      {
+        "id": "overture:4b56babe-cc25-45aa-a496-c75c037b9447",
+        "en": "Nukunonu",
+        "zh": "努库诺努",
+        "lat": -9.200472,
+        "lon": -171.847945,
+        "region": null,
+        "kind": "municipality",
+        "aliases": [
+          "努库诺努环礁",
+          "努庫諾努環礁"
+        ]
+      }
+    ],
+    "retired": []
+  },
+  "VG": {
+    "cities": [
+      {
+        "id": "overture:b7f22385-02a3-426e-8c38-466faab1884e",
+        "en": "Road Town",
+        "zh": "罗德城",
+        "lat": 18.425766,
+        "lon": -64.623091,
+        "region": null,
+        "kind": "capital",
+        "aliases": [
+          "羅德城"
+        ]
+      }
+    ],
+    "retired": []
+  }
+}
