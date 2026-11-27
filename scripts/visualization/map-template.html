@@ -242,7 +242,7 @@ byId('fit').onclick=()=>{hideTooltip();fitView()}
 function update(reset=true) {
   if(reset){clearLocation();matching=filter();rebuildGrid();fitView()}
   const ref=selected?.stats.cityReference
-  byId('reference').textContent=[matching.length.toLocaleString('en-US')+' 个匹配地点',ref&&states[ref.status],ref?.scope].filter(Boolean).join(' · ')
+  byId('reference').textContent=[matching.length.toLocaleString('en-US')+' 个匹配地点',ref&&states[ref.status]].filter(Boolean).join(' · ')
   if(ref?.source) {const a=element('a',' 来源');a.href=ref.source; a.target='_blank';a.rel='noreferrer';byId('reference').append(' · ',a)}
   body.replaceChildren(...matching.slice(0,cap).map(r=>{
     const tr=element('tr',''), where=lookup.get(r.country)

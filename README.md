@@ -15,7 +15,7 @@ The administrative rosters are based almost entirely on official national source
 | Cities, city-level equivalents and representative places | 122,061 |
 | City records with English, Chinese and pinyin names | 100% |
 
-Of the 247 countries and territories, 229 have been checked against their statutory reference rosters, 5 prioritize major cities, and 13 have no applicable city-level administrative structure. Administrative definitions differ by country; the total is not a count of legally designated cities alone. See [coverage details](COVERAGE.md). Places without established Chinese translations use project-supplied transliterations or translations.
+Coverage: 229 reference-checked, 5 major-city selections, 13 not applicable. See [coverage details](COVERAGE.md). Chinese names without established translations are translated or transliterated.
 
 ## Installation
 
@@ -49,7 +49,7 @@ const results = cityList.filter(city =>
 Load JSON directly without installing the package. Pin a version to keep the data consistent:
 
 ```js
-const base = 'https://cdn.jsdelivr.net/npm/@winrisef/world-cities@0.1.135/data'
+const base = 'https://cdn.jsdelivr.net/npm/@winrisef/world-cities@0.1.136/data'
 const countries = await fetch(`${base}/countries.json`).then(r => r.json())
 const cities = await fetch(`${base}/cities/CN.json`).then(r => r.json())
 ```
@@ -81,7 +81,7 @@ npm run pack:local
 
 ## License and attribution
 
-The database is licensed under [ODbL 1.0](LICENSE), subject to the source-specific reuse conditions documented in [`licenses/`](licenses/). Retain the license and [data attribution](NOTICE.md) when using or redistributing the data. The administrative rosters are based predominantly on official sources.
+The database is licensed under [ODbL 1.0](LICENSE), subject to the source-specific reuse conditions documented in [`licenses/`](licenses/). Retain the license and [data attribution](NOTICE.md) when using or redistributing the data.
 
 ---
 
@@ -100,7 +100,7 @@ The database is licensed under [ODbL 1.0](LICENSE), subject to the source-specif
 | 城市及同级单位、代表地点 | 122,061 |
 | 城市中英文及拼音覆盖率 | 100% |
 
-229 个国家和地区按法定名录核验，5 个按主要城市优先收录，13 个不适用市级建制口径。各国行政建制不同，总量并非仅指法定城市数量。具体范围见 [数据覆盖](COVERAGE.md)。无通行中文译名的地点采用项目音译或意译。
+覆盖状态：229 个名录已核验，5 个仅收录主要城市，13 个不适用市级建制。详见 [数据覆盖](COVERAGE.md)。无通行中文译名的地点采用音译或意译。
 
 ### 安装与使用
 

@@ -9,4 +9,4 @@
 
 - 0.1.39 按越南现行区划移出已撤销的富寿市社。富寿仍作为省名可检索，省政府驻地采用越池。 [越南现行区划名录](https://danhmuchanhchinh.nso.gov.vn/Lich_Su_Moi.aspx)
 
-- **0.1.134**：补齐 678 条城市记录（美国 408、尼泊尔 254、西撒哈拉 16）的中文名及拼音，以及 92 条行政区/下属行政区记录的中文名或拼音。优先沿用数据库中已有的同名译法（不是相同实体官方译名的声明），缺少现成译法采用项目人工音译或意译；拼音由 `pinyin-pro` 在构建时生成。行政身份、ID、英文名及城市坐标不变。逐条方法见项目的 [城市补齐记录](https://github.com/WinriseF/world-cities/blob/9ee4670ec4ae32016611c0283efc6033fe15522c/audit/2026-11-27/complete-city-labels-0.1.134.csv) 与 [行政区补齐记录](https://github.com/WinriseF/world-cities/blob/9ee4670ec4ae32016611c0283efc6033fe15522c/audit/2026-11-27/complete-region-labels-0.1.134.csv)。
+- 中文名称优先采用已有译名，无通行译名时使用人工音译或意译。拼音由 `pinyin-pro` 生成。来源及方法：[城市补齐记录](https://github.com/WinriseF/world-cities/blob/9ee4670ec4ae32016611c0283efc6033fe15522c/audit/2026-11-27/complete-city-labels-0.1.134.csv) 与 [行政区补齐记录](https://github.com/WinriseF/world-cities/blob/9ee4670ec4ae32016611c0283efc6033fe15522c/audit/2026-11-27/complete-region-labels-0.1.134.csv)。
