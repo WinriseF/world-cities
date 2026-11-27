@@ -1,6 +1,0 @@
-region,en,zh,id,legal_status_source,latitude,longitude,point_source
-KE-17,Kisumu,基苏木,csc:64811,https://housingandurban.go.ke/wp-content/uploads/2022/07/Draft-RIS-on-UACA-Regulations-2022-July-15.pdf Sec. 4.2,-0.10221,34.76171,Existing CSC WGS84; checked against county boundary
-KE-28,Mombasa,蒙巴萨,csc:64838,https://housingandurban.go.ke/wp-content/uploads/2022/07/Draft-RIS-on-UACA-Regulations-2022-July-15.pdf Sec. 4.2,-4.05466,39.66359,Existing CSC WGS84; checked against county boundary
-KE-30,Nairobi,内罗毕,csc:64845,https://new.kenyalaw.org/akn/ke/act/2011/13 Sec. 6,-1.28333,36.81667,Existing CSC WGS84; checked against county boundary
-KE-31,Nakuru,纳库鲁,csc:64847,https://lands.go.ke/wp-content/uploads/2025/02/NAKURU-CITY-FINAL-copy-2.pdf,-0.30719,36.07225,Existing CSC WGS84; checked against county boundary
-KE-44,Eldoret,埃尔多雷特,csc:64782,https://new.kenyalaw.org/akn/ke/act/ln/2025/112/eng%402025-06-18/publication,0.52036,35.26993,Existing CSC WGS84; checked against county boundary

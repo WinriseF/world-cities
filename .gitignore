@@ -4,3 +4,4 @@ data/
 artifacts/
 *.tgz
 .DS_Store
+/audit/
