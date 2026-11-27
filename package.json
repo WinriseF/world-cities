@@ -1,6 +1,6 @@
 {
   "name": "@winrisef/world-cities",
-  "version": "0.1.134",
+  "version": "0.1.135",
   "description": "World cities and regions with Chinese names, English names, pinyin and WGS84 coordinates.",
   "type": "module",
   "license": "ODbL-1.0",

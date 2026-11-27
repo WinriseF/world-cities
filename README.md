@@ -49,7 +49,7 @@ const results = cityList.filter(city =>
 Load JSON directly without installing the package. Pin a version to keep the data consistent:
 
 ```js
-const base = 'https://cdn.jsdelivr.net/npm/@winrisef/world-cities@0.1.134/data'
+const base = 'https://cdn.jsdelivr.net/npm/@winrisef/world-cities@0.1.135/data'
 const countries = await fetch(`${base}/countries.json`).then(r => r.json())
 const cities = await fetch(`${base}/cities/CN.json`).then(r => r.json())
 ```
@@ -69,7 +69,6 @@ You can also serve the packaged `data/` directory yourself and change `base` acc
 - `subregion` may refer to an entry in `children`, or contain a lower-level name or code from the source roster. Treat `id` values as opaque strings.
 - `kind` distinguishes `city`, `capital`, `municipality`, `prefecture` and `locality` records.
 - `lat` and `lon` are representative WGS84 coordinates. Time zones can be resolved separately from coordinates.
-- Mainland China, Taiwan, Hong Kong and Macao are grouped under `CN`; `TW`, `HK` and `MO` are corresponding regional subsets. Use `countries.json` for global totals. Mainland China includes prefecture-level cities, centrally administered municipalities and equivalent autonomous prefectures, prefectures and leagues, excluding county-level or lower divisions.
 
 ## Development
 
@@ -127,7 +126,6 @@ npm install @winrisef/world-cities
 - `subregion` 可以是所属 `children` 记录的 ID，也可能是来源名录中的下级行政区名称或代码。`id` 应视为不透明字符串。
 - `kind` 区分城市、首都、同级自治单位、同级地区以及供检索的代表地点。
 - `lat`、`lon` 为地点代表坐标（WGS84）；时区由调用方按经纬度映射。
-- 中国大陆、台湾、香港和澳门统一归入 `CN`；`TW`、`HK`、`MO` 提供相应区域筛选入口，全球汇总以 `countries.json` 为准。中国大陆收录地级市、直辖市及同级自治州、地区、盟，不扩展到县级及以下。
 
 ### 维护
 
