@@ -2,7 +2,7 @@
 
 A worldwide geographic database of countries, administrative regions, cities and city-level equivalents, with Chinese and English names, Mandarin pinyin, and WGS84 coordinates. Country-specific JSON files can be loaded on demand, with zero runtime dependencies.
 
-[简体中文](#简体中文) · [Coverage](COVERAGE.md) · [Data attribution](NOTICE.md)
+[Live demo / 在线展示](https://winrisef.github.io/world-cities/) · [简体中文](#简体中文) · [Coverage](COVERAGE.md) · [Data attribution](NOTICE.md)
 
 The administrative rosters are based almost entirely on official national sources, supplemented by other public geographic references for cross-checking and filling gaps. Names, data formats and representative coordinates are normalized across countries.
 
