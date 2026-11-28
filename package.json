@@ -1,7 +1,7 @@
 {
   "name": "@winrisef/world-cities",
-  "version": "0.1.137",
-  "description": "World cities and regions with Chinese names, English names, pinyin and WGS84 coordinates.",
+  "version": "0.1.138",
+  "description": "World cities and regions with Chinese names, English names, pinyin, WGS84 coordinates and IANA time zones.",
   "type": "module",
   "license": "ODbL-1.0",
   "main": "./index.js",
@@ -33,6 +33,7 @@
     "prepack:local": "node --input-type=module -e \"import { mkdirSync } from 'node:fs'; mkdirSync('artifacts', { recursive: true })\""
   },
   "devDependencies": {
+    "geo-tz": "8.1.11",
     "pinyin-pro": "3.29.5"
   },
   "repository": {

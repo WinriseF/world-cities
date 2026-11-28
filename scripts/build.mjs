@@ -11,6 +11,7 @@ import cityBenchmarks from '../sources/city-benchmarks.json' with { type: 'json'
 import { applyOfficialData, mergeReviewedCities } from './official/apply.mjs'
 import { coverageMarkdown } from './coverage.mjs'
 import { createSearchIndex } from './search-index.mjs'
+import { assignTimeZones } from './time-zones.mjs'
 import { isRegion, selectCities } from './city-scope.mjs'
 import { coordinate, placeNames } from './transform.mjs'
 
@@ -129,6 +130,10 @@ for (const [code, name] of chinaAreaNames) {
   regionViews.set(code, { regions: [province], cities })
   groups.delete(code)
 }
+
+const zoneTab = await readFile(path.join(root, lock.timeZones.file))
+assert.equal(createHash('sha256').update(zoneTab).digest('hex'), lock.timeZones.sha256)
+assignTimeZones(groups, zoneTab.toString('utf8'))
 
 const finalIds = new Set()
 let regionCount = 0

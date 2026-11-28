@@ -6,6 +6,8 @@ Source attribution: includes data derived from [Countries States Cities Database
 
 Data snapshots and SHA-256 digests: `sources.lock.json`. Pinyin: `pinyin-pro`.
 
+Time zones: [geo-tz](https://github.com/evansiroky/node-geo-tz) 8.1.11 using [timezone-boundary-builder](https://github.com/evansiroky/timezone-boundary-builder) (ODbL, © OpenStreetMap contributors), and the [IANA Time Zone Database](https://www.iana.org/time-zones) 2026f country-zone table (public domain).
+
 Mainland China administrative codes and official names are selected from [mumuy/data_location](https://github.com/mumuy/data_location), used under MIT (see licenses/data_location-MIT.txt).
 
 The China Institute of Toponymy supplied Xiamen's city point to the [UN Group of Experts on Geographical Names](https://ungegn.un.org/dashboard/cities/details?id=2441). Mainland city points are checked against the [Tianditu city boundary layer](https://cloudcenter.tianditu.gov.cn/administrativeDivision).

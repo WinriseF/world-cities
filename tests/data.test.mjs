@@ -8,6 +8,7 @@ const load = async url => JSON.parse(await readFile(url, 'utf8'))
 
 test('every exported city and region is counted and linked in its own country', async () => {
   const ids = new Set()
+  const timeZones = new Set()
   let totalCities = 0, totalRegions = 0, translated = 0, romanized = 0, unassigned = 0
   for (const { id } of countries) {
     const files = countryFiles(id)
@@ -32,7 +33,8 @@ test('every exported city and region is counted and linked in its own country', 
       assert.ok(Number.isFinite(city.lon) && Math.abs(city.lon) <= 180)
       assert.ok(city.en.trim().length)
       assert.ok(['capital', 'city', 'municipality', 'prefecture', 'locality'].includes(city.kind))
-      assert.ok(!Object.hasOwn(city, 'timezone'))
+      assert.ok(typeof city.timeZone === 'string' && city.timeZone, city.id)
+      timeZones.add(city.timeZone)
       if (city.zh) translated++
       if (city.pinyin) {
         assert.ok(city.zh)
@@ -44,6 +46,7 @@ test('every exported city and region is counted and linked in its own country', 
     totalRegions += regions.length
     totalCities += cities.length
   }
+  for (const timeZone of timeZones) assert.doesNotThrow(() => new Intl.DateTimeFormat('en-US', { timeZone }), timeZone)
   assert.equal(totalCities, coverage.totals.cities)
   assert.equal(totalRegions, coverage.totals.regions)
   assert.equal(translated, coverage.totals.withChinese)
@@ -166,4 +169,18 @@ test('every country, region, subregion and city has English, Chinese and pinyin 
   }
   assert.equal(coverage.totals.withChinese, coverage.totals.cities)
   assert.equal(coverage.totals.withPinyin, coverage.totals.cities)
+})
+
+
+test('city time zones follow administrative context and precise boundaries', async () => {
+  const us = await load(countryFiles('US').cities)
+  for (const [name, expected] of [['Diomede', 'America/Nome'], ['Kupreanof', 'America/Sitka'], ['Calais', 'America/New_York']]) {
+    assert.equal(us.find(city => city.en === name)?.timeZone, expected)
+  }
+  const cn = await load(countryFiles('CN').cities)
+  for (const [name, expected] of [['林芝', 'Asia/Shanghai'], ['乌鲁木齐', 'Asia/Shanghai'], ['台北', 'Asia/Taipei'], ['香港', 'Asia/Hong_Kong'], ['澳门', 'Asia/Macau']]) {
+    assert.equal(cn.find(city => city.zh === name)?.timeZone, expected)
+  }
+  const ps = await load(countryFiles('PS').cities)
+  assert.equal(ps.find(city => city.id === 'ps:CEC-003')?.timeZone, 'Asia/Hebron')
 })

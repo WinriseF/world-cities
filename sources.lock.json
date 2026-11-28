@@ -63,5 +63,11 @@
     "file": "sources/chinese-place-names-2026.json.gz",
     "sha256": "dc82a2637ae2f9735699c99b8cfdece94475bbd7e268b9955e09270a7fbb4821",
     "provenance": "licenses/chinese-place-names.md"
+  },
+  "timeZones": {
+    "file": "sources/zone.tab",
+    "sha256": "e2e8e31c4e10f44576c79345e76060591dbb3eef6ce14e006afc8a373caa9593",
+    "url": "https://data.iana.org/time-zones/releases/tzdata2026f.tar.gz",
+    "boundaryLibrary": "geo-tz@8.1.11"
   }
 }

@@ -26,6 +26,7 @@ export interface City extends PlaceNames {
   kind: 'city' | 'capital' | 'municipality' | 'prefecture' | 'locality'
   lat: number
   lon: number
+  timeZone: string
 }
 
 export const countries: readonly Country[]
