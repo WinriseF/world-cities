@@ -10,6 +10,7 @@ import majorCitySupplement from '../sources/major-city-supplement-2026.json' wit
 import cityBenchmarks from '../sources/city-benchmarks.json' with { type: 'json' }
 import { applyOfficialData, mergeReviewedCities } from './official/apply.mjs'
 import { coverageMarkdown } from './coverage.mjs'
+import { createSearchIndex } from './search-index.mjs'
 import { isRegion, selectCities } from './city-scope.mjs'
 import { coordinate, placeNames } from './transform.mjs'
 
@@ -184,6 +185,8 @@ try {
   }
   const coverage = { sourceVersion: lock.version, totals, kinds, byCountry }
   await writeJSON('coverage.json', coverage)
+  await mkdir(path.join(stage, 'search'))
+  for (const [bucket, entries] of createSearchIndex(countries, groups)) await writeJSON('search/' + bucket + '.json', entries)
   // Only switch to the replacement once every country and reference has been checked.
   const output = path.join(root, 'data')
   const previous = stage + '-previous'

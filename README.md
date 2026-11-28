@@ -49,12 +49,27 @@ const results = cityList.filter(city =>
 Load JSON directly without installing the package. Pin a version to keep the data consistent:
 
 ```js
-const base = 'https://cdn.jsdelivr.net/npm/@winrisef/world-cities@0.1.136/data'
+const base = 'https://cdn.jsdelivr.net/npm/@winrisef/world-cities@0.1.137/data'
 const countries = await fetch(`${base}/countries.json`).then(r => r.json())
 const cities = await fetch(`${base}/cities/CN.json`).then(r => r.json())
 ```
 
 You can also serve the packaged `data/` directory yourself and change `base` accordingly.
+
+### Global search routing
+
+Search a name before downloading country files. The 128 `data/search/` shards map normalized name prefixes to country codes; fetch only the matching countries' city and region files.
+
+```js
+const term = 'Lhasa'.normalize('NFKD').replace(/\p{M}/gu, '').toLowerCase().replace(/[^\p{L}\p{N}]/gu, '')
+const chars = [...term]
+const prefix = chars.slice(0, /\p{Script=Han}/u.test(chars[0]) ? 1 : 2)
+const shard = (prefix.reduce((n, c) => n * 31 + c.codePointAt(0), 0) % 128).toString(16).padStart(2, '0')
+const entries = await fetch(`${base}/search/${shard}.json`).then(r => r.json())
+const codes = new Set(entries.filter(([name]) => name.startsWith(term)).flatMap(([, ids]) => ids.match(/../g)))
+```
+
+Use at least two non-Han characters, or one Chinese character. Each row is `[normalizedName, concatenatedCountryCodes]`; the actual place records remain in the country files.
 
 ## Data structure
 
@@ -64,6 +79,7 @@ You can also serve the packaged `data/` directory yourself and change `base` acc
 | `data/regions/{ISO2}.json` | `id`, `country`, `code`, `zh`, `en`, `pinyin`; optional `aliases`, `children` |
 | `data/cities/{ISO2}.json` | `id`, `country`, `region`, `kind`, `zh`, `en`, `pinyin`, `lat`, `lon`; optional `subregion`, `officialId`, `aliases` |
 | `data/coverage.json` | Record totals, name coverage and per-country verification status |
+| `data/search/{00..7f}.json` | Normalized names and country-code routing index |
 
 - `region` refers to a first-level administrative region ID, or is `null` when no applicable region exists or one cannot be reliably determined.
 - `subregion` may refer to an entry in `children`, or contain a lower-level name or code from the source roster. Treat `id` values as opaque strings.
@@ -111,7 +127,7 @@ npm install @winrisef/world-cities
 - Node.js：通过 `countryFiles('CN')` 获取省级行政区和城市 JSON 的 URL，再读取数据，按 `zh`、`en`、`pinyin` 和 `aliases` 字段搜索。
 - 浏览器：直接请求固定版本的 CDN JSON，或自行部署 `data/`，无需引入库。
 
-完整代码示例见上方 [Usage](#usage)。
+完整代码示例见上方 [Usage](#usage)。全球地名检索可先调用[搜索索引](#global-search-routing)，再按需加载国家数据。
 
 ### 数据结构
 
@@ -121,6 +137,7 @@ npm install @winrisef/world-cities
 | `data/regions/{ISO2}.json` | `id`, `country`, `code`, `zh`, `en`, `pinyin`，可选 `aliases`, `children` |
 | `data/cities/{ISO2}.json` | `id`, `country`, `region`, `kind`, `zh`, `en`, `pinyin`, `lat`, `lon`，可选 `subregion`, `officialId`, `aliases` |
 | `data/coverage.json` | 数据总量、名称覆盖率、逐国核验状态 |
+| `data/search/{00..7f}.json` | 地名搜索索引，仅返回匹配的国家代码 |
 
 - `region` 指向一级行政区 ID；不适用或无法可靠确定一级行政区时为 `null`。
 - `subregion` 可以是所属 `children` 记录的 ID，也可能是来源名录中的下级行政区名称或代码。`id` 应视为不透明字符串。
